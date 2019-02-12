@@ -12056,4 +12056,4 @@ La construction européenne vue par les Français | [JSON](datasets/json/S1243_1
 | Small punch tensile/fracture test data for P91 material at 650 °C and a displacement rate of .005 mm/s | [JSON](datasets/json/jrc-odin-1920033.json) |
 | Medical technology | [JSON](datasets/json/GlVMAmXPIekzwTNu8NALA.json) |
 
-This file was automatically generated using [pipelines/update-readme-index.yaml](pipelines/update-readme-index) .
+This file was automatically generated using [pipelines/update-readme-index.yaml](pipelines/update-readme-index.yaml) .
