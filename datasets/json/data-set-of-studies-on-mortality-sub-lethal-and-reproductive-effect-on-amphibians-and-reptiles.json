@@ -1,0 +1,107 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "risk-assessment",
+            "name": "risk-assessment"
+        },
+        {
+            "display_name": "toxicity",
+            "name": "toxicity"
+        },
+        {
+            "display_name": "risk-coverage",
+            "name": "risk-coverage"
+        },
+        {
+            "display_name": "amphibians",
+            "name": "amphibians"
+        },
+        {
+            "display_name": "surrogates",
+            "name": "surrogates"
+        }
+    ],
+    "metadata_modified": "2017-07-19 14:48:24.801799",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/5857",
+        "http://eurovoc.europa.eu/2357"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Database",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "https://data.europa.eu/euodp/data/storage/f/2017-07-19T143740/database%20files.zip",
+            "created": "2017-07-19 16:37:49.177259",
+            "tracking_summary": null,
+            "name": "Data-set of studies on mortality, sub-lethal and reproductive effect on amphibians and reptiles",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "71",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/9ef8c38c-0bca-49de-ac7f-1ff61336edd4",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "data-set-of-studies-on-mortality-sub-lethal-and-reproductive-effect-on-amphibians-and-reptiles",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "c097b708-c0d6-4064-a99b-3cd55ad7b8b8",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "203",
+    "id": "data-set-of-studies-on-mortality-sub-lethal-and-reproductive-effect-on-amphibians-and-reptiles",
+    "metadata_created": "2017-07-19 14:37:48.987971",
+    "modified_date": "2017-07-19 14:48:24.801799",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "Amphibians and reptiles have not been considered in environmental risk assessments of chemicals, which has generated some debate about whether risk posed by some pollutants like pesticides on these animals are covered by surrogates in the groups of fish, mammals and birds. In order to develop a scientifically sound and robust risk assessment scheme it is necessary to have enough information available on the biological relevance of effects observed in laboratory studies in view of population level effects, to identify sensitive life stages and to compare sensitivity of our target study groups with that of their surrogates.\r\n\r\nWith these objectives, a systematic review of toxicological literature on amphibians and reptiles a comprehensive search of relevant literature on toxicity data related to amphibians and reptiles was conducted, using the appropriate search strings and combinations, in six different source types: multidisciplinary databases of scientific literature (i.e. Web of Science and Scopus), literature included in general amphibian and reptile ecotoxicology compilations, literature compiled in technical reports previously prepared for EFSA, literature sources used for creating amphibian or reptile records in the ecotoxicological database created by De Zwart (see references for details), literature sources used for creating amphibian or reptile records in toxicological online databases (United States Environmental Protection Agency\u2019s Ecotoxicology Knowledgebase\u2013ECOTOX, and National Library of Medicine\u2019s Hazardous Substances Data Bank\u2013HSDB), and indexes of herpetological scientific journals of local scope not included in Web of Science or Scopus.\r\n\r\nData extraction consisted of the retrieval of relevant information, including among other fields: species, age, sex, chemical substance, exposure route and duration, type of recorded endpoint, type of response, exposure concentration, mean effect value of the control and exposed groups and the reported variability measures of these mean effects, and statistical significance of the comparison.\r\n\r\nData category 1: Reporting endpoints. Endpoints are defined here as benchmark values obtained from the integration of responses measured at different concentrations (e.g. LC50, EC50, NOEC, for which calculation it is necessary to make a regression with the percentage of effect at different exposure concentrations).\r\nData category 2: Reporting responses for each tested level. These are studies in which different replicates of experimental units are exposed to different levels (doses, concentrations), including a control treatment, and a magnitude of effect is recorded at each level. For some of these studies it was possible to calculate an endpoint (e.g. LC50, EC50, NOEC) and for others it was not (e.g. if only one concentration was tested or if a statistically significant adjustment between exposure level and effect cannot be achieved).\r\n \r\n\r\nThree objectives corresponding to the review of the effects of chemicals on amphibians and reptiles, the main results of the study were:\r\n\r\nIdentification of the most sensitive life stage.\r\nExtrapolation from laboratory data to mesocosm and field situations\r\nComparison with surrogate taxa\r\nThe review was conducted on 3642 full-text records for chemical exposure effects and 556 for life history traits, out of which 1332 and 204, respectively, were finally used for data extraction. The datasets comprised 23152 values corresponding to effects of chemicals and 1854 values corresponding to life history traits.",
+    "title": "Data-set of studies on mortality, sub-lethal and reproductive effect on amphibians and reptiles",
+    "temporal_coverage_from": "",
+    "tracking_summary": "203",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "https://zenodo.org/record/803899#.WW9r1VV95ph",
+    "release_date": "2017-07-19 14:37:48.987971",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "efsa",
+        "title": "European Food Safety Authority"
+    }
+}

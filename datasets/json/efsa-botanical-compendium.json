@@ -1,0 +1,220 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "substances",
+            "name": "substances"
+        },
+        {
+            "display_name": "plants",
+            "name": "plants"
+        },
+        {
+            "display_name": "botanicals",
+            "name": "botanicals"
+        },
+        {
+            "display_name": "botanical preparations",
+            "name": "botanical preparations"
+        },
+        {
+            "display_name": "hazard",
+            "name": "hazard"
+        },
+        {
+            "display_name": "concerns",
+            "name": "concerns"
+        }
+    ],
+    "metadata_modified": "2018-12-14 09:30:28.591365",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/4075",
+        "http://eurovoc.europa.eu/3730",
+        "http://eurovoc.europa.eu/5028",
+        "http://eurovoc.europa.eu/442791",
+        "http://eurovoc.europa.eu/6569",
+        "http://eurovoc.europa.eu/5791",
+        "http://eurovoc.europa.eu/6789"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The Compendium is a database of botanicals that are reported to contain naturally-occurring substances of possible concern for human health when present in food. It is intended to help with the safety assessment of botanicals and botanical preparations that may be used in food, including supplements, by facilitating hazard identification.\r\n\r\nThe searchable database, which is still under development, will be expanded to include non-European botanical species. The complete version of the Compendium will be released end of 2019.\r\n\r\nThe Compendium of Botanicals is an aggregated dataset using  Microstrategy Visual Analytics.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/MDB",
+            "url": "https://dwh.efsa.europa.eu/bi/asp/Main.aspx?rwtrep=301",
+            "created": "2016-07-18 16:02:50.221621",
+            "tracking_summary": null,
+            "name": "Compendium on Botanicals",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/DEVELOP",
+            "last_modified": "",
+            "download_total_resource": "432",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/78dc82e8-b2cc-4f2e-a214-43b614a8a971",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Further description of the information provided by the Compendium.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://www.efsa.europa.eu/en/compendium-botanicals/reports",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Reports on Compedium on Botanicals",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/349b60e3-9b0a-4432-837f-cfd7c3989426",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "In order to disseminate the Compendium of Botanicals to a wider community, three sets of data can be downloaded: \r\n\r\na. the list of plant species, b. the composition data for the plant part of interest, c. the toxicity data/reported adverse effects.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://doi.org/10.5281/zenodo.1212387",
+            "created": null,
+            "tracking_summary": null,
+            "name": "EFSA's compendium of botanicals [Data set]",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/33fbbd41-4081-4c5a-b5e3-38a67dffbab3",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Background information on the purpose of the compendium and legal disclaimer.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://www.efsa.europa.eu/en/data/compendium-botanicals",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Additional information on Compendium of Botanicals",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/5c604c38-ba06-4bd7-b572-bade41f788ef",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "efsa-botanical-compendium",
+    "isopen": true,
+    "accrual_periodicity": "Every+2+years",
+    "owner_org": "c097b708-c0d6-4064-a99b-3cd55ad7b8b8",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/LUX",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/MEX",
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/ARG",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/CHN",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IND",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/SVN"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "The published version refers to a \"work in progress\" version ",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "814",
+    "id": "efsa-botanical-compendium",
+    "metadata_created": "2016-07-18 14:01:09.356803",
+    "modified_date": "2018-12-14 09:30:28.591365",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "0.3",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "The Compendium is a database of botanicals that are reported to contain naturally-occurring substances of possible concern for human health when present in food. It is intended to help with the safety assessment of botanicals and botanical preparations that may be used in food, including supplements, by facilitating hazard identification.\r\n\r\nThe searchable database, which is still under development, will be expanded to include non-European botanical species. The complete version of the Compendium will be released end of 2019.\r\n\r\nIn order to disseminate the Compendium of Botanicals to a wider community, three sets of data can be downloaded: \r\n\r\na. the list of plant species, b. the composition data for the plant part of interest, c. the toxicity data/reported adverse effects.",
+    "title": "The EFSA Compendium of Botanicals",
+    "temporal_coverage_from": "",
+    "tracking_summary": "814",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "EFSA Compendium of botanicals reported to contain naturally-occurring substances of possible concern for human health",
+    "url": "http://www.efsa.europa.eu/en/data/compendium-botanicals",
+    "release_date": "2016-07-18 14:01:09.356803",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "efsa",
+        "title": "European Food Safety Authority"
+    }
+}

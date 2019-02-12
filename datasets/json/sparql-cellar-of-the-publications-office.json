@@ -1,0 +1,309 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "programming",
+            "name": "programming"
+        },
+        {
+            "display_name": "interface Cellar",
+            "name": "interface Cellar"
+        },
+        {
+            "display_name": "semantic",
+            "name": "semantic"
+        },
+        {
+            "display_name": "reuse",
+            "name": "reuse"
+        },
+        {
+            "display_name": "technologies Sparql",
+            "name": "technologies Sparql"
+        },
+        {
+            "display_name": "semantic web technologies",
+            "name": "semantic web technologies"
+        },
+        {
+            "display_name": "software",
+            "name": "software"
+        },
+        {
+            "display_name": "web",
+            "name": "web"
+        },
+        {
+            "display_name": "SPARQL endpoint",
+            "name": "SPARQL endpoint"
+        },
+        {
+            "display_name": "metadata",
+            "name": "metadata"
+        },
+        {
+            "display_name": "endpoints",
+            "name": "endpoints"
+        },
+        {
+            "display_name": "API",
+            "name": "API"
+        },
+        {
+            "display_name": "Cellar",
+            "name": "Cellar"
+        },
+        {
+            "display_name": "application programming interface",
+            "name": "application programming interface"
+        },
+        {
+            "display_name": "URI",
+            "name": "URI"
+        },
+        {
+            "display_name": "HTTP",
+            "name": "HTTP"
+        }
+    ],
+    "metadata_modified": "2018-08-17 09:54:17.072920",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/6772",
+        "http://eurovoc.europa.eu/5441",
+        "http://eurovoc.europa.eu/6884",
+        "http://eurovoc.europa.eu/2153",
+        "http://eurovoc.europa.eu/1589",
+        "http://eurovoc.europa.eu/2861",
+        "http://eurovoc.europa.eu/2860",
+        "http://eurovoc.europa.eu/4366",
+        "http://eurovoc.europa.eu/3026",
+        "http://eurovoc.europa.eu/5197",
+        "http://eurovoc.europa.eu/5188",
+        "http://eurovoc.europa.eu/5358",
+        "http://eurovoc.europa.eu/5199"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "1. Sparql Endpoint access",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://publications.europa.eu/webapi/rdf/sparql",
+            "created": "2017-04-06 14:15:12.547585",
+            "tracking_summary": null,
+            "name": "1. Sparql Endpoint access",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "229",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/49b2c7de-a85a-47cb-8b82-fb564a66d425",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Wizard how to create a linked data query. \r\n- Select metadata;\r\n- Define conditions;\r\n- Customize results;\r\n- Execute query.\r\n\r\n For the execution of Linked Data queries, it is necessary to retrieve data by looking up URIs. ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://publications.europa.eu/en/linked-data",
+            "created": "2016-12-14 16:52:52.863949",
+            "tracking_summary": null,
+            "name": "2. Linked data query wizard",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "144",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/22428a2a-e230-47f3-829e-1fc57532a2b7",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The EU Law and Publications portal (http://publications.europa.eu) allows end users to access these collections through the  the Flint SPARQL editor.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://publications.europa.eu/en/advanced-sparql-query-editor",
+            "created": "2017-04-06 14:15:12.547636",
+            "tracking_summary": null,
+            "name": "3. Flint SPARQL editor ",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "66",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/8889de5e-a52f-4577-9ab9-ba0c5bfe2430",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The CELLAR provides also an RSS feed in order to allow reusers to receive information about new documents that have been loaded into the repository or updates of existing data.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://publications.europa.eu/en/my-rss-feeds",
+            "created": "2017-04-06 14:15:12.547670",
+            "tracking_summary": null,
+            "name": "4. RSS service",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "64",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/572aaa6e-e2c4-44bf-b64b-9f572758b23e",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Cellar provides a read-only API interface compliant with REST, that is, Representation State Transfer. Basically, it is a subset of the WWW based on HTTP which allows retrieval of data. Its documentation can be found in the URL below.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "https://publications.europa.eu/documents/10530/676542/ao10463_annex_17_cellar_dissemination_interface_en.pdf",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Cellar user manual - technical documentation",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/2895b9e9-4470-4eb9-a5fd-d46403216786",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Common description for all SPARQL endpoints. Information about the specific ones. Links for documentation and information about what is SPARQL\r\n\r\n",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://publications.europa.eu/webapi/rdf/sparql?help=intro",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Description of the Virtuoso SPARQL Query Editor",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/0559221e-02a5-4a52-98d6-0db6c59b6b51",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "sparql-cellar-of-the-publications-office",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "1244",
+    "id": "sparql-cellar-of-the-publications-office",
+    "metadata_created": "2016-11-21 16:36:51.186060",
+    "modified_date": "2018-08-17 09:54:17.072920",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [
+        "http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV"
+    ],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 4,
+    "description": "Key collections of EU information \u2013 legal content and general publications \u2013 can be fetched directly from the Publications Office\u2019s  common repository of metadata and content, the CELLAR, using the machine-readable SPARQL endpoint facility or the HTTP RESTful web services. CELLAR is powered by semantic technology and enables direct access to information stored as Linked Data. \r\n\r\nThe CELLAR provides also an RSS feed in order to allow reusers to receive information about new documents that have been loaded into the repository or updates of existing data. \r\n\r\nThe EU Law and Publications portal (https://publications.europa.eu) allows end users to access these collections either through the easy to use Linked Data wizard or via the Flint SPARQL editor (https://publications.europa.eu/en/advanced-sparql-query-editor).\r\n",
+    "title": "Sparql and RESTful API access to European Union law and publications (CELLAR)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "1244",
+    "groups": [
+        {
+            "name": "sparql-endpoints"
+        },
+        {
+            "name": "api"
+        },
+        {
+            "name": "web-services"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "CELLAR",
+    "url": "http://data.europa.eu/euodp/data/dataset/sparql-cellar-of-the-publications-office",
+    "release_date": "2016-11-21 16:36:51.186060",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "publ",
+        "title": "Publications Office"
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        },
+        {
+            "display_name": "Regions and cities",
+            "name": "Regions and cities"
+        }
+    ],
+    "metadata_modified": "2018-12-21 11:03:28.494564",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Multi-temporal Landsat imagery collections, with foootprints and metadata of the scenses, for epoch 1975, 1990, 2000 and 2014. Data organisation: SHP fileproduct. Projection: World Geodetic System 1984 (WGS 84) (EPSG:4326).",
+            "format": "application/x-shapefile",
+            "url": "http://cidportal.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_BUILT_LDSMTIDC_GLOBE_R2018A/",
+            "created": "2018-12-21 12:03:28.524526",
+            "tracking_summary": null,
+            "name": "GHS_BUILT_LDSMTIDC_GLOBE_R2018A",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "23",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/06f249be-7970-4cb7-9cdd-bd87bb424f66",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Pesaresi M, Ehrlich D, Ferri S, Florczyk A, Carneiro Freire S, Halkia S, Julea A, Kemper T, Soille P, Syrris V. Operating procedure for the production of the Global Human Settlement Layer from Landsat data of the epochs 1975, 1990, 2000, and 2014. EUR 27741. Luxembourg (Luxembourg): Publications Office of the European Union; 2016. JRC97705",
+            "format": "",
+            "url": "https://doi.org/10.2788/253582",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Operating procedure for the production of the Global Human Settlement Layer from Landsat data of the epochs 1975, 1990, 2000, and 2014",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/889a97cf-f1e7-4d43-8cdf-9d2cc07ae618",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://ghsl.jrc.ec.europa.eu/",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/41523cb2-d4a3-437c-82c7-626cbab04812",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "jrc-ghsl-10009",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "jrc-ghsl-10009",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "4",
+    "id": "jrc-ghsl-10009",
+    "metadata_created": "2018-11-05 18:59:08.067328",
+    "modified_date": "2018-12-21 11:03:28.494564",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "Multi-temporal information layers on footprint and metadata of Landsat scenes used in the production of GHS BUILT grid R2018A. The scenes are organised in imge data collections, and  were prepared by the Global Land Survey (GLS1975, GLS1990, GLS2000) and by the JRC (Landsat 8 collection for 2014).",
+    "title": "GHS built-up grid input data, Landsat multitemporal collections (1975-1990-2000-2014), R2018A",
+    "temporal_coverage_from": "",
+    "tracking_summary": "4",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/jrc-ghsl-10009",
+    "release_date": "2018-11-05 18:59:08.067328",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

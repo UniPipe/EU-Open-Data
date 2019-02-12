@@ -1,0 +1,156 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "translation",
+            "name": "translation"
+        },
+        {
+            "display_name": "linguistics",
+            "name": "linguistics"
+        },
+        {
+            "display_name": "language-technology",
+            "name": "language-technology"
+        },
+        {
+            "display_name": "language-application",
+            "name": "language-application"
+        },
+        {
+            "display_name": "corpus",
+            "name": "corpus"
+        },
+        {
+            "display_name": "air and space transport",
+            "name": "air and space transport"
+        }
+    ],
+    "metadata_modified": "2018-02-14 10:17:06.650881",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Data archive containing files in the following formats: application/xml",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "https://elrc-share.eu/repository/browse/civil-aviation-regulations/fd40e0d40e3d11e7bfe700155d020502c8d47f8d42f9402886d5a01176f77ecc/",
+            "created": "2017-12-18 16:40:27.772469",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "5",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/cc1e9b6c-a860-4b79-b769-1ec0febe0f74",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Metadata description",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "http://data.europa.eu/data/euodp/dataset/1b468e09-2ecc-435c-9361-ad9258aa8793/resource/b33c7e0d-6fae-473f-84b4-dc3f28498d91/download/elrc320civilaviationregulationsmd.xml",
+            "created": null,
+            "tracking_summary": null,
+            "name": "",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/b33c7e0d-6fae-473f-84b4-dc3f28498d91",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Validation report",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "http://data.europa.eu/data/euodp/dataset/1b468e09-2ecc-435c-9361-ad9258aa8793/resource/9dc197e4-87fe-4085-9c5a-878c2fb19030/download/elrc320civilaviationregulationsvalrep.pdf",
+            "created": null,
+            "tracking_summary": null,
+            "name": "",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/9dc197e4-87fe-4085-9c5a-878c2fb19030",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "elrc_320",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "d7c6596e-9b6e-4461-a6b8-3cfeba1da887",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "ELRC_320",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "55",
+    "id": "elrc_320",
+    "metadata_created": "2017-12-14 17:02:01.466966",
+    "modified_date": "2018-02-14 10:17:06.650881",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "A collection of parallel Polish-English texts published by the Polish Civil Aviation Office and complemented by two acts of Civil Aviation Legislation. Sentence-level alignment of translation segments  was carried out manually and encoded in the XLiFF format. There are five publications in the collection  a) National Quality Control Programme on aviation security regulation (ochrona_lotnictwa_cywilnego.xlf, 328 segments 11351 words),  b) Ordinance on the National Civil Aviation Security Programme (rozporzadzenie_ochrona_lotnictwa_cywilnego.xlf, 683 segments, 21385 words),  c) The State Safety Program (kraj_prog_bezp_ulc.xlf, 545 segments, 25387 words).  d) Annex 17 to the Convention on International Civil Aviation (ulc_annex_17.xlf, 312 segments, 13397 words) and e) Safety Management Manual (podr_zarz_bezp_ulc.xlf, 1106 segments, 39184 words). The total size of the collection is 110 704 words in 2646 parallel segments.",
+    "title": "Civil Aviation Regulations",
+    "temporal_coverage_from": "",
+    "tracking_summary": "55",
+    "groups": [
+        {
+            "name": "resources-for-language-technologies"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/POL",
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/euodp/en/data/dataset/elrc_320",
+    "release_date": "2017-12-14 17:02:01.466966",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "cnect",
+        "title": "Directorate-General for Communications Networks, Content and Technology"
+    }
+}

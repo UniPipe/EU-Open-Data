@@ -1,0 +1,147 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "European Raiway Agency",
+            "name": "European Raiway Agency"
+        },
+        {
+            "display_name": "ERA",
+            "name": "ERA"
+        },
+        {
+            "display_name": "markings register",
+            "name": "markings register"
+        },
+        {
+            "display_name": "list of vehicle keeper markings",
+            "name": "list of vehicle keeper markings"
+        },
+        {
+            "display_name": "vehicle keeper markings",
+            "name": "vehicle keeper markings"
+        },
+        {
+            "display_name": "register",
+            "name": "register"
+        },
+        {
+            "display_name": "vehicle register",
+            "name": "vehicle register"
+        }
+    ],
+    "metadata_modified": "2019-01-04 09:43:04.906453",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/4514",
+        "http://eurovoc.europa.eu/2233",
+        "http://eurovoc.europa.eu/7985",
+        "http://eurovoc.europa.eu/4657"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The VKM register is updated on a monthly basis.  Since 2014, a joint OTIF/EU VKM Register is hosted by ERA and provides the VKM details in four languages (English, French, German, Russian).    \r\n\r\nThe VKM register is available either in PDF or in Excel format. In case there are differences between both files, the PDF format prevails over the other format.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://www.era.europa.eu/registers/vkm_en#relatedDocuments",
+            "created": "2014-04-09 13:53:14.706973",
+            "tracking_summary": null,
+            "name": "Download the list of VKM",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "10",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/0381374b-da25-493f-a315-6b0ae90c985c",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Vehicle keeper marking register",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XLS",
+            "url": "http://www.era.europa.eu/Document-Register/Documents/IU-VKM-publiclist.xls",
+            "created": null,
+            "tracking_summary": null,
+            "name": "List of VKMs",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/601a0deb-4f53-40c7-a73d-0f3c8512e79d",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "list-of-vehicle-keeper-markings-vkms",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
+    "owner_org": "43f78bc3-adbc-486c-a184-ddc19aabb10b",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/CHE",
+        "http://publications.europa.eu/resource/authority/country/EU28",
+        "http://publications.europa.eu/resource/authority/country/TUR"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "monthly update",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "30",
+    "id": "list-of-vehicle-keeper-markings-vkms",
+    "metadata_created": "2015-07-27 15:38:31.303836",
+    "modified_date": "2019-01-04 09:43:04.906453",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "The Vehicle Keeper Marking Register (VKM Register) provides the unique VKM and name of all keepers (EU/OTIF). It is defined in Appendix 6 part 1 of [Decision 2007/756/EC] (https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02007D0756-20140101).  \r\n\r\nThe VKM register is updated on a monthly basis.  \r\n\r\nSince 2014, a joint OTIF/EU VKM Register is hosted by ERA and provides the VKM details in four languages (English, French, German, Russian).",
+    "title": "List of vehicle keeper markings (VKMs)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "30",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG",
+        "http://publications.europa.eu/resource/authority/language/DEU",
+        "http://publications.europa.eu/resource/authority/language/RUS",
+        "http://publications.europa.eu/resource/authority/language/FRA"
+    ],
+    "alternative_title": "Vehicle keeper marking register",
+    "url": "https://www.era.europa.eu/registers/vkm_en",
+    "release_date": "2015-07-27 15:38:31.303836",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "era",
+        "title": "European Railway Agency"
+    }
+}

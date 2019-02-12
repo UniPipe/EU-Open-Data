@@ -1,0 +1,168 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "manufacturer",
+            "name": "manufacturer"
+        },
+        {
+            "display_name": "distributor",
+            "name": "distributor"
+        },
+        {
+            "display_name": "authorisation",
+            "name": "authorisation"
+        },
+        {
+            "display_name": "medical products",
+            "name": "medical products"
+        },
+        {
+            "display_name": "importer",
+            "name": "importer"
+        },
+        {
+            "display_name": "Good Manufacturing Practice",
+            "name": "Good Manufacturing Practice"
+        },
+        {
+            "display_name": "substance",
+            "name": "substance"
+        }
+    ],
+    "metadata_modified": "2019-01-09 15:17:34.709382",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2765",
+        "http://eurovoc.europa.eu/1852",
+        "http://eurovoc.europa.eu/5594"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "  Welcome to EudraGMDP  \r\n\r\n\r\nEudraGMDP is the name for the Union database referred to in article 111(6) of Directive 2001/83/EC and article 80(6) of Directive 2001/82/EC. It contains the following information:\r\n\u2022Manufacturing and import authorisations\r\n\u2022Good Manufacturing Practice (GMP) certificates.\r\n\u2022Statements of non-compliance with GMP\r\n\u2022GMP inspection planning in third countries\r\n\r\n\r\nIn addition the following new information is required in the database for the first time in 2013. As data transfer from national systems can be complex, it will take several months for all the National Competent Authorities to complete the uploading of this data.\r\n\u2022\tWholesale Distribution Authorisations\r\n\u2022Good Distribution Certificates (GDP)\r\n\u2022Statements of non-compliance with GDP\r\n\u2022Registration of manufacturers, importers and distributors of active substances for human use located in the EEA\r\n ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://eudragmdp.ema.europa.eu/inspections/displayWelcome.do;jsessionid=WMMzLKFtfKsX0oJWwOx87IGcKMPCa8rzgHVM_I05DrCgoUxN1lfY!1116248847",
+            "created": "2016-11-16 13:30:45.877040",
+            "tracking_summary": null,
+            "name": "Access the EudraGMDP database",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "138",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/a7ec6119-0fd9-4ad1-b33f-f3524b79ed10",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "The EudraGMDP database is the Community database on manufacturing, import and wholesale-distribution authorisations, and good manufacturing-practice (GMP) and good-distribution-practice (GDP) certificates. A public version of the database has been available since 2011, which allows public access to the information in the database that is not of a commercially or personally confidential nature.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://www.ema.europa.eu/en/human-regulatory/research-development/compliance/good-manufacturing-practice/eudragmdp-database",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Information about EudraGMDP",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/19b576fb-6b4d-4c01-a589-6a92903043c2",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "eudragmdp",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "cc9851fa-c87a-4be0-ada7-573e1a6aad2e",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "655",
+    "id": "eudragmdp",
+    "metadata_created": "2016-11-16 12:27:38.942508",
+    "modified_date": "2019-01-09 15:17:34.709382",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "EudraGMDP is the name for the Union database referred to in article 111(6) of Directive 2001/83/EC and article 80(6) of Directive 2001/82/EC. \r\n\r\nIt contains the following information:\r\n\r\n- Manufacturing and import authorisations\r\n- Good Manufacturing Practice (GMP) certificates.\r\n- Statements of non-compliance with GMP\r\n- GMP inspection planning in third countries\r\n- Wholesale Distribution Authorisations\r\n- Good Distribution Certificates (GDP)\r\n- Statements of non-compliance with GDP\r\n- Registration of manufacturers, importers and distributors of active substances for human use located in the EEA\r\n\r\n",
+    "title": "EudraGMDP database",
+    "temporal_coverage_from": "",
+    "tracking_summary": "655",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://eudragmdp.eudra.org/inspections/displayWelcome.do",
+    "release_date": "2016-11-16 12:27:38.942508",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "emea",
+        "title": "European Medicines Agency"
+    }
+}

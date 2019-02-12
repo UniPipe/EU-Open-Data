@@ -1,0 +1,335 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Norvegian Sea",
+            "name": "Norvegian Sea"
+        },
+        {
+            "display_name": "Reference numbers",
+            "name": "Reference numbers"
+        },
+        {
+            "display_name": "Seabed",
+            "name": "Seabed"
+        },
+        {
+            "display_name": "Terrestrial",
+            "name": "Terrestrial"
+        },
+        {
+            "display_name": "Gravity",
+            "name": "Gravity"
+        },
+        {
+            "display_name": "Iceland Sea",
+            "name": "Iceland Sea"
+        },
+        {
+            "display_name": "Metadata parameters",
+            "name": "Metadata parameters"
+        },
+        {
+            "display_name": "North-East Atlantic",
+            "name": "North-East Atlantic"
+        },
+        {
+            "display_name": "bathymetric data",
+            "name": "bathymetric data"
+        },
+        {
+            "display_name": "grid",
+            "name": "grid"
+        },
+        {
+            "display_name": "Adriatic Sea",
+            "name": "Adriatic Sea"
+        },
+        {
+            "display_name": "Mediterranean Sea",
+            "name": "Mediterranean Sea"
+        },
+        {
+            "display_name": "Baltic Sea",
+            "name": "Baltic Sea"
+        },
+        {
+            "display_name": "Aegean Sea",
+            "name": "Aegean Sea"
+        },
+        {
+            "display_name": "English Channel",
+            "name": "English Channel"
+        },
+        {
+            "display_name": "Black Sea",
+            "name": "Black Sea"
+        },
+        {
+            "display_name": "Azores",
+            "name": "Azores"
+        },
+        {
+            "display_name": "North Sea",
+            "name": "North Sea"
+        },
+        {
+            "display_name": "Madeira",
+            "name": "Madeira"
+        },
+        {
+            "display_name": "Canary Islands",
+            "name": "Canary Islands"
+        },
+        {
+            "display_name": "Administration and dimensions",
+            "name": "Administration and dimensions"
+        },
+        {
+            "display_name": "EMODnet",
+            "name": "EMODnet"
+        },
+        {
+            "display_name": "Bathymetry and Elevation",
+            "name": "Bathymetry and Elevation"
+        },
+        {
+            "display_name": "Bathymetry",
+            "name": "Bathymetry"
+        },
+        {
+            "display_name": "Celtic Seas",
+            "name": "Celtic Seas"
+        },
+        {
+            "display_name": "Bay of Biscay",
+            "name": "Bay of Biscay"
+        },
+        {
+            "display_name": "Digital Terrain Model",
+            "name": "Digital Terrain Model"
+        },
+        {
+            "display_name": "DTM",
+            "name": "DTM"
+        },
+        {
+            "display_name": "European seas",
+            "name": "European seas"
+        },
+        {
+            "display_name": "seafloor depth",
+            "name": "seafloor depth"
+        },
+        {
+            "display_name": "ocean depth",
+            "name": "ocean depth"
+        },
+        {
+            "display_name": "magnetics and bathymetry",
+            "name": "magnetics and bathymetry"
+        },
+        {
+            "display_name": "Elevation",
+            "name": "Elevation"
+        }
+    ],
+    "metadata_modified": "2018-08-28 08:18:31.776703",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/1877",
+        "http://eurovoc.europa.eu/1871",
+        "http://eurovoc.europa.eu/2110",
+        "http://eurovoc.europa.eu/2107",
+        "http://eurovoc.europa.eu/4172",
+        "http://eurovoc.europa.eu/2114",
+        "http://eurovoc.europa.eu/5736",
+        "http://eurovoc.europa.eu/5221",
+        "http://eurovoc.europa.eu/940"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Bathymetry viewing and download service",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://portal.emodnet-bathymetry.eu/",
+            "created": "2018-08-13 08:27:22.250370",
+            "tracking_summary": null,
+            "name": "Download (NetCDF, RGB GeoTiff, ESRI ASCII, ...)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "43",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/a1a06301-e702-4d24-96f9-428d62a779b1",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The GIS layers in the Bathymetry Viewing and Download service can be shared as OGC WMS and WCS services with other EMODnet portals and beyond. Also WMS layers from other EMODnet portals and external services can be added to the Bathymetry Viewer and Download service.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PNG",
+            "url": "http://ows.emodnet-bathymetry.eu/wms?service=WMS&request=GetMap&version=1.1.1&layers=emodnet%3Amean_atlas_land&format=image%2Fpng&transparent=true&info_format=text%2Fhtml&tiled=false&width=900&height=600&srs=EPSG%3A4326&bbox=-36.0%2C25.000003840000034%2C42.999994943999965%2C85.0",
+            "created": "2018-08-13 10:56:09.999871",
+            "tracking_summary": null,
+            "name": "Web Map Service (WMS)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "11",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/1f47ed06-f8c3-42f8-8f56-54fbcd6b315e",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The DTM is a grid of 1/8 * 1/8 arc minute of longitude and latitude (ca 230 * 230 meters). Each grid cell has the following information: - x,y coordinates - minimum waterdepth in meters to LAT - average waterdepth in meters to LAT - maximum waterdepth in meters to LAT - standard deviation of waterdepth in meters - number of values used for interpolation over the grid cell - interpolation flag : 1 when extrapolated from the neighbouring cells - average waterdepth smoothed by means of a spline function in meters to LAT - an indicator of the offsets between the average and smoothed waterdepth as a % of the waterdepth - reference to the prevailing source of data with metadata. Source data : The DTM values have been determined from 3 possible sources of data: - Bathymetric surveys : More than 14000 high resolution data sets from single and multibeam surveys, managed by 27 data centres from 18 countries and originated from 169 institutes, as referenced via the CDI Data Discovery and Access service. - Digital Terrain Model data : 78 composite data sets produced and delivered by a number of external data providers such as Hydrographic Offices derived from their internal bathymetric database and based upon historic surveys. These are referenced via the Sextant Catalogue service - GEBCO 2014 30\u201d gridded data, used to complete area coverage in case there are no survey data or composite data sets available to the partners. From these a subset has been used as input for analysing and generating the EMODnet digital terrain model (DTM). No new data has or will be collected specifically for this project. GEBCO (General Bathymetric Chart of the Oceans) is partner in the project and not only provides the latest GEBCO releases for filling gaps but also uses the EMODnet DTM for upgrading the GEBCO DTM for the Baltic Sea synergy takes place with the Baltic Sea Bathymetry Database project of the Baltic Sea Hydrographic Commission. Additionnal QA/QC and DTM production details are available on the EMODnet Bathymetry portal.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://portal.emodnet-bathymetry.eu/",
+            "created": "2018-08-13 11:21:11.494318",
+            "tracking_summary": null,
+            "name": "Web map viewer",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "3",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ddb227d8-6e53-4c64-bce6-3503e5da1708",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "A WCS provides access to coverage data in forms that are useful for client-side rendering, as input into scientific models, and for other clients. The WCS may be compared to the OGC Web Feature Service (WFS) and the Web Map Service (WMS). As with WMS and WFS service instances, a WCS allows clients to choose portions of a server's information holdings based on spatial constraints and other query criteria. ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TIFF",
+            "url": "http://ows.emodnet-bathymetry.eu/wcs?service=wcs&version=1.0.0&request=getcoverage&coverage=emodnet:mean&crs=EPSG:4326&BBOX=15,20.5,30,32.5&format=image/tiff&interpolation=nearest&resx=0.00208333&resy=0.00208333",
+            "created": "2018-08-13 10:49:57.077372",
+            "tracking_summary": null,
+            "name": "Web coverage service (OGC WCS)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "50",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/d70dae3b-ad7b-4db0-9400-83db9bc49de2",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "DOI of the dataset: http://doi.org/10.12770/c7b53704-999d-4721-b1a3-04ec60c87238",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://sextant.ifremer.fr/record/c7b53704-999d-4721-b1a3-04ec60c87238/",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Metadata Record",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/d2388b17-3017-48ad-86b4-4cc0090b4bcb",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "The EMODnet-Bathymetry portal is being developed in the framework of the European Marine Observation and Data Network (EMODnet) as initiated by the European Commission.\r\nIt provides a service for viewing and downloading a harmonised Digital Terrain Model (DTM) for the European sea regions that is generated by the EMODnet Bathymetry partnership on the basis of an increasing number of bathymetric data sets. These are managed as survey data sets and composite DTMs by data providers from government and research. Services for discovery and requesting access to these data sets are provided as well.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://www.emodnet-bathymetry.eu/home",
+            "created": null,
+            "tracking_summary": null,
+            "name": "EMODnet bathymetry Web portal",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/1d73723f-9612-4f0d-87b6-6eead5f2ce28",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "EMODnet_bathymetry",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "344ce8ed-98f3-4c74-aaa8-d2ccf3239841",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "c7b53704-999d-4721-b1a3-04ec60c87238",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "2016-08-31T00:00:00",
+    "num_tags": null,
+    "views_total": "81",
+    "id": "EMODnet_bathymetry",
+    "metadata_created": "2018-08-10 15:54:32.890623",
+    "modified_date": "2018-08-28 08:18:31.776703",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [
+        "http://publications.europa.eu/resource/authority/dataset-type/MAPPING"
+    ],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 4,
+    "description": "The \"EMODnet Digital Bathymetry (DTM)\" is a multilayer bathymetric product for Europe\u2019s sea basins covering::\r\n\u2022 the Greater North Sea, including the Kattegat and stretches of water such as Fair Isle, Cromarty, Forth, Forties, Dover, Wight, and Portland\r\n\u2022 the English Channel and Celtic Seas\r\n\u2022 Western and Central Mediterranean Sea and Ionian Sea\r\n\u2022 Bay of Biscay, Iberian coast and North-East Atlantic\r\n\u2022 Adriatic Sea\r\n\u2022 Aegean - Levantine Sea (Eastern Mediterranean)\r\n\u2022 Azores - Madeira EEZ\r\n\u2022 Canary Islands\r\n\u2022 Baltic Sea\r\n\u2022 Black Sea\r\n\u2022 Norwegian \u2013 Icelandic seas\r\n\r\nThe DTM is based upon more than 7700 bathymetric survey data sets and Composite DTMs that have been gathered from 27 data providers from 18 European countries and involving 169 data originators. The gathered survey data sets can be discovered and requested for access through the Common Data Index (CDI) data discovery and access service that also contains additional European survey data sets for global waters. The Composite DTMs can be discovered through the Sextant Catalogue service. Both discovery services make use of SeaDataNet standards and services and have been integrated in the EMODnet Bathymetry web portal (http://www.emodnet-bathymetry.eu). In addition, the Bathymetry Viewing and Download service of the EMODnet bathymetry portal gives users wide functionality for viewing and downloading the EMODnet digital bathymetry such as:\r\n\u2022 water depth (refering to the Lowest Astronomical Tide Datum - LAT) in gridded form \r\non a DTM grid of 1/8 * 1/8 arc minute of longitude and latitude (ca 230 * 230 meters)\r\n\u2022 option to view depth parameters of individual DTM cells and references to source data\r\n\u2022 option to download DTM in 16 tiles in different formats: ESRI ASCII, XYZ, EMODnet CSV, NetCDF (CF), GeoTiff and SD\r\n\u2022 layer with a number of high resolution DTMs for coastal regions\r\n\u2022 layer with wrecks from the UKHO Wrecks database.\r\nThe NetCDF (CF) DTM files are fit for use in a special 3D Viewer software package which is based on the existing open source NASA World Wind JSK application. It has been developed in the frame of the EU FP7 Geo-Seas project (another sibling of SeaDataNet for marine geological and geophysical data) and is freely available. The 3D viewer also supports the ingestion of WMS overlay maps. The SD files can also be used for 3D viewing by means of the freely available iView4De(Fledermaus) software.\r\n\r\nThe original datasets themselves are not distributed but described in the metadata services, giving clear information about the background survey data used for the DTM, their access restrictions, originators and distributors and facilitating requests by users to originator.",
+    "title": "EMODnet Digital Bathymetry (DTM)",
+    "temporal_coverage_from": "1830-01-01T00:00:00",
+    "tracking_summary": "81",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "Mean depth full coverage with land coverage",
+    "url": "https://sextant.ifremer.fr/geonetwork/srv/eng/xml.metadata.get?uuid=c7b53704-999d-4721-b1a3-04ec60c87238",
+    "release_date": "2018-08-10 15:54:32.890623",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "mare",
+        "title": "Directorate-General for Maritime Affairs and Fisheries"
+    }
+}

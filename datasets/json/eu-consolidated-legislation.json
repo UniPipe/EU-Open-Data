@@ -1,0 +1,223 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "decision",
+            "name": "decision"
+        },
+        {
+            "display_name": "directive",
+            "name": "directive"
+        },
+        {
+            "display_name": "legislation",
+            "name": "legislation"
+        },
+        {
+            "display_name": "regulation",
+            "name": "regulation"
+        },
+        {
+            "display_name": "Consolidated legislation",
+            "name": "Consolidated legislation"
+        },
+        {
+            "display_name": "European Commission",
+            "name": "European Commission"
+        },
+        {
+            "display_name": "European Parliament",
+            "name": "European Parliament"
+        },
+        {
+            "display_name": "EUR-Lex",
+            "name": "EUR-Lex"
+        },
+        {
+            "display_name": "EU law",
+            "name": "EU law"
+        },
+        {
+            "display_name": "Council of the European Union",
+            "name": "Council of the European Union"
+        }
+    ],
+    "metadata_modified": "2015-07-27 14:44:52.333207",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/1589"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "List of all consolidated acts",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://eur-lex.europa.eu/search.html?instInvStatus=ALL&qid=1404831758594&DTS_DOM=EU_LAW&type=advanced&lang=en&SUBDOM_INIT=CONSLEG&DTS_SUBDOM=CONSLEG",
+            "created": "2015-01-30 16:14:40.999017",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "60",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/9c19dd6a-61c7-4b08-abc5-dec9dda58ced",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Directory of European Union consolidated acts",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://eur-lex.europa.eu/browse/directories/consleg.html?locale=en",
+            "created": "2015-01-30 16:14:40.999058",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "19",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/8600a849-8009-4eb4-8d55-a3050dc58b15",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "About consolidation",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://eur-lex.europa.eu/content/legis/avis_consolidation.html",
+            "created": "2015-01-30 16:14:40.999065",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "6",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/b86b0eac-9fa6-43da-89c0-7963b0a2ce9c",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Advanced search",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://eur-lex.europa.eu/advanced-search-form.html",
+            "created": "2015-01-30 16:14:40.999049",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "9",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/a40ae60b-cf3a-440f-9c45-a957c728fe35",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "eu-consolidated-legislation",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "1136",
+    "id": "eu-consolidated-legislation",
+    "metadata_created": "2014-10-29 07:41:31.891397",
+    "modified_date": "2015-07-27 14:44:52.333207",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 4,
+    "description": "Consolidation consists of the integration in a legal act of its successive amendments and corrigenda. It provides more transparency and easier access to EU law. Several legal texts published in different issues of the Official Journal of the European Union (OJ) are combined as a 'consolidated family' in one document.\n\nEach consolidated text contains a list of all legal documents taken into account for its construction. Each part of the text is enriched with data concerning its origin (basic act, amending act or corrigendum). \n\nConsolidated texts are intended for use as documentation tools and the institutions do not assume any liability for their content. Please note that these texts have no legal value.",
+    "title": "EU consolidated legislation",
+    "temporal_coverage_from": "",
+    "tracking_summary": "1136",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/JUST"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://eur-lex.europa.eu/collection/eu-law/consleg.html",
+    "release_date": "2014-10-29 07:41:31.891397",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "publ",
+        "title": "Publications Office"
+    }
+}

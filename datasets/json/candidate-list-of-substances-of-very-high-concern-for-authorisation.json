@@ -1,0 +1,141 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "REACH",
+            "name": "REACH"
+        },
+        {
+            "display_name": "SVHC",
+            "name": "SVHC"
+        },
+        {
+            "display_name": "authorisation",
+            "name": "authorisation"
+        },
+        {
+            "display_name": "candidate list",
+            "name": "candidate list"
+        },
+        {
+            "display_name": "chemicals",
+            "name": "chemicals"
+        },
+        {
+            "display_name": "ECHA",
+            "name": "ECHA"
+        },
+        {
+            "display_name": "European Chemicals Agency",
+            "name": "European Chemicals Agency"
+        },
+        {
+            "display_name": "substances of very high concern",
+            "name": "substances of very high concern"
+        }
+    ],
+    "metadata_modified": "2018-06-26 14:22:46.455775",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2739",
+        "http://eurovoc.europa.eu/1362",
+        "http://eurovoc.europa.eu/7984"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "<p>Candidate List of Substances of Very High Concern for Authorisation published in accordance with Article 59(10) of the REACH Regulation.</p>\r\n<p><b>Number of substances on the Candidate List: 155 (last updated: 16 June 2014) </b></p>\r\n<p>Notes:</p>\r\n<p><b>- Authentic version:</b> Only the Candidate List published on this website is deemed authentic. Companies may have immediate legal obligations following the inclusion of a substance in the Candidate List on this website.</p>\r\n<p><b>- EC number, CAS number:</b> The EC number includes both anhydrous and hydrated forms of a substance and consequently the entries cover both these forms. The CAS number included may be for the anhydrous form only, and therefore the CAS number shown does not always describe the entry accurately.</p>\r\n<p><b>- IUCLID 5 Substance Datasets:</b> These are partly pre-filled substance data sets in IUCLID 5 format. They are provided as a support for importers or producers of articles preparing notifications for substances in articles. The notifying company remains, however, solely responsible for the appropriateness and correctness of the information submitted in the notification.</p>\r\n<p><b>- Reason for Inclusion: </b>Superscript figures denote information on conditions applicable to the classification of the substance. This information can be accessed through the \"Details\" button and is available in the sub-menu \"Substance Details\" in field \"Other remarks\".</p>",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "http://opsrv529/en/data/storage/f/2014-12-18T071458/candidate-list_20141218.xml",
+            "created": "2014-12-18 08:15:26.062083",
+            "tracking_summary": null,
+            "name": "Candidate List of Substances of Very High Concern for Authorisation (xml)",
+            "state": "",
+            "last_modified": "2014-12-18 08:15:00",
+            "download_total_resource": "29",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/d751da57-f8ac-4c0d-9a7d-e1a7ca4fb791",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "<p>Candidate List of Substances of Very High Concern for Authorisation published in accordance with Article 59(10) of the REACH Regulation.</p>\r\n<p><b>Number of substances on the Candidate List: 155 (last updated: 16 June 2014) </b></p>\r\n<p>Notes:</p>\r\n<p><b>- Authentic version:</b> Only the Candidate List published on this website is deemed authentic. Companies may have immediate legal obligations following the inclusion of a substance in the Candidate List on this website.</p>\r\n<p><b>- EC number, CAS number:</b> The EC number includes both anhydrous and hydrated forms of a substance and consequently the entries cover both these forms. The CAS number included may be for the anhydrous form only, and therefore the CAS number shown does not always describe the entry accurately.</p>\r\n<p><b>- IUCLID 5 Substance Datasets:</b> These are partly pre-filled substance data sets in IUCLID 5 format. They are provided as a support for importers or producers of articles preparing notifications for substances in articles. The notifying company remains, however, solely responsible for the appropriateness and correctness of the information submitted in the notification.</p>\r\n<p><b>- Reason for Inclusion: </b>Superscript figures denote information on conditions applicable to the classification of the substance. This information can be accessed through the \"Details\" button and is available in the sub-menu \"Substance Details\" in field \"Other remarks\".</p>",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "http://opsrv529/en/data/storage/f/2014-12-18T071410/candidate-list_20141218.csv",
+            "created": "2014-12-18 08:14:39.342666",
+            "tracking_summary": null,
+            "name": "Candidate List of Substances of Very High Concern for Authorisation (csv)",
+            "state": "",
+            "last_modified": "2014-12-18 08:14:12",
+            "download_total_resource": "35",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/aac6dd65-e788-43c9-8341-1fd9f00bd125",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "candidate-list-of-substances-of-very-high-concern-for-authorisation",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "7d5ae560-43f5-4e39-a017-112eb1bca132",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "275",
+    "id": "candidate-list-of-substances-of-very-high-concern-for-authorisation",
+    "metadata_created": "2015-07-27 14:25:42.167885",
+    "modified_date": "2018-06-26 14:22:46.455775",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "<p>Candidate List of Substances of Very High Concern for Authorisation published in accordance with Article 59(10) of the REACH Regulation.</p>\r\n<p>Notes:</p>\r\n<p><b>- Authentic version:</b> Only the Candidate List published on this website is deemed authentic. Companies may have immediate legal obligations following the inclusion of a substance in the Candidate List on this website.</p>\r\n<p><b>- EC number, CAS number:</b> The EC number includes both anhydrous and hydrated forms of a substance and consequently the entries cover both these forms. The CAS number included may be for the anhydrous form only, and therefore the CAS number shown does not always describe the entry accurately.</p>\r\n<p><b>- IUCLID 5 Substance Datasets:</b> These are partly pre-filled substance data sets in IUCLID 5 format. They are provided as a support for importers or producers of articles preparing notifications for substances in articles. The notifying company remains, however, solely responsible for the appropriateness and correctness of the information submitted in the notification.</p>\r\n<p><b>- Reason for Inclusion: </b>Superscript figures denote information on conditions applicable to the classification of the substance. This information can be accessed through the \"Details\" button and is available in the sub-menu \"Substance Details\" in field \"Other remarks\".</p>",
+    "title": "Candidate List of Substances of Very High Concern for Authorisation",
+    "temporal_coverage_from": "",
+    "tracking_summary": "275",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "candidate list",
+    "url": "http://www.echa.europa.eu/web/guest/candidate-list-table",
+    "release_date": "2015-07-27 14:25:42.167885",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "echa",
+        "title": "European Chemicals Agency"
+    }
+}

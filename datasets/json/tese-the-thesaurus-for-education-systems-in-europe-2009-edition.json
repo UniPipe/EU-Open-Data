@@ -1,0 +1,199 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "EACEA",
+            "name": "EACEA"
+        },
+        {
+            "display_name": "Eurydice",
+            "name": "Eurydice"
+        },
+        {
+            "display_name": "controlled vocabulary",
+            "name": "controlled vocabulary"
+        },
+        {
+            "display_name": "multilingual thesaurus",
+            "name": "multilingual thesaurus"
+        },
+        {
+            "display_name": "education information",
+            "name": "education information"
+        },
+        {
+            "display_name": "Education Audiovisual and Culture Executive Agency",
+            "name": "Education Audiovisual and Culture Executive Agency"
+        },
+        {
+            "display_name": "education system",
+            "name": "education system"
+        }
+    ],
+    "metadata_modified": "2018-05-23 14:24:33.429865",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/4138",
+        "http://eurovoc.europa.eu/2467",
+        "http://eurovoc.europa.eu/5177",
+        "http://eurovoc.europa.eu/441001",
+        "http://eurovoc.europa.eu/668"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "TESE download in ttl format. This file is mantained by the Publications Office of the European Union.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE",
+            "url": "http://publications.europa.eu/mdr/resource/thesaurus/tese/TESE-rich.ttl",
+            "created": "2016-06-01 11:01:45.245757",
+            "tracking_summary": null,
+            "name": "TESE (TTL format)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "130",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/27559a3a-66d5-4eb7-8e67-40074fb1460d",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "TESE download in rdf format. This file is mantained by the Publications Office of the European Union.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/RDF_XML",
+            "url": "http://publications.europa.eu/mdr/resource/thesaurus/tese/TESE-rich.rdf",
+            "created": "2016-06-01 11:01:45.245717",
+            "tracking_summary": null,
+            "name": "TESE",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "141",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/10434e15-827b-42ff-afa5-ee3f7a24ab35",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "TESE download in csv format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "http://eacea.ec.europa.eu/education/eurydice/documents/tese/csv/tese_multi.csv",
+            "created": "2014-05-07 12:16:55.543551",
+            "tracking_summary": null,
+            "name": "TESE",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "202",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/e33e422d-42ff-4b64-8840-afe796250a9a",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "TESE download in xml format.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "http://eacea.ec.europa.eu/education/eurydice/documents/tese/xml/tese.xml",
+            "created": "2014-05-07 12:15:23.480929",
+            "tracking_summary": null,
+            "name": "TESE",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "156",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/33b17b69-7b88-4476-ba54-c15b16dd671c",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "tese-the-thesaurus-for-education-systems-in-europe-2009-edition",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/OTHER",
+    "owner_org": "409cd500-5f62-46dd-bd85-f35479923eb9",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "972",
+    "id": "tese-the-thesaurus-for-education-systems-in-europe-2009-edition",
+    "metadata_created": "2015-07-27 16:04:38.903029",
+    "modified_date": "2018-05-23 14:24:33.429865",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [
+        "http://publications.europa.eu/resource/authority/dataset-type/THESAURUS"
+    ],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 4,
+    "description": "The thesaurus for education systems in Europe (TESE \u2013 2009 edition) is a multilingual  controlled vocabulary \u2013 a carefully selected list of words called descriptors \u2013 on education systems in Europe. It is designed by the Eurydice network as an indexing tool for all European providers of education information. This second edition of the TESE is the result of the cooperation between education and information specialists and takes the latest developments on education systems and policies into account.\r\n\r\nThe 2009 edition of TESE is available in 15 language versions: Czech, Dutch, English, Estonian, Finnish, French, German, Greek, Italian, Lithuanian, Polish, Portuguese, Romanian, Spanish and Turkish. ",
+    "title": "TESE - The thesaurus for education systems in Europe - 2009 edition",
+    "temporal_coverage_from": "",
+    "tracking_summary": "972",
+    "groups": [
+        {
+            "name": "multilingual-assets"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/TUR",
+        "http://publications.europa.eu/resource/authority/language/SQI",
+        "http://publications.europa.eu/resource/authority/language/ELL",
+        "http://publications.europa.eu/resource/authority/language/CES",
+        "http://publications.europa.eu/resource/authority/language/FIN",
+        "http://publications.europa.eu/resource/authority/language/ENG",
+        "http://publications.europa.eu/resource/authority/language/ITA",
+        "http://publications.europa.eu/resource/authority/language/FRA",
+        "http://publications.europa.eu/resource/authority/language/POL",
+        "http://publications.europa.eu/resource/authority/language/NLD",
+        "http://publications.europa.eu/resource/authority/language/SPA",
+        "http://publications.europa.eu/resource/authority/language/RON"
+    ],
+    "alternative_title": "Eurydice - TESE - The thesaurus for education systems in Europe - 2009 edition",
+    "url": "http://eacea.ec.europa.eu/education/eurydice/tese_en.php",
+    "release_date": "2015-07-27 16:04:38.903029",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "eacea",
+        "title": "Education, Audiovisual and Culture Executive Agency"
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "experts",
+            "name": "experts"
+        },
+        {
+            "display_name": "legislation",
+            "name": "legislation"
+        },
+        {
+            "display_name": "consultative-entities",
+            "name": "consultative-entities"
+        },
+        {
+            "display_name": "policy",
+            "name": "policy"
+        },
+        {
+            "display_name": "expert-groups",
+            "name": "expert-groups"
+        }
+    ],
+    "metadata_modified": "2015-07-27 15:28:32.968095",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2451",
+        "http://eurovoc.europa.eu/1589",
+        "http://eurovoc.europa.eu/4038"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "List of Expert Groups and Other Similar Entities.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "http://ec.europa.eu/transparency/regexpert/openXMLDirect.cfm",
+            "created": "2013-10-16 16:24:56.188718",
+            "tracking_summary": null,
+            "name": "List of Expert Groups and Other Similar Entities",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "119",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/d78e1664-7ffd-443a-877e-449280a785b4",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "sg-regexp",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+    "owner_org": "e3814f3c-1ebf-4bd3-a74a-9dd94bfc9133",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "1351",
+    "id": "sg-regexp",
+    "metadata_created": "2015-07-27 15:28:32.966802",
+    "modified_date": "2015-07-27 15:28:32.968095",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "The Register of Commission expert groups and other similar entities stores the information concerning the consultative entities which provide the Commission and its services with advice and expertise in relation to: \r\n\r\n- the preparation of legislative proposals and policy initiatives (Commission's right of initiative);\r\n- the preparation of delegated acts;\r\n- the implementation of existing EU legislation, programmes and policies, including coordination and cooperation with Member States and stakeholders in that regard.\r\n\r\nFor each entity, the Register provides for a great amount of information, including the Commission department responsible, as well as the group's mission, tasks and membership.",
+    "title": "Register of Commission Expert Groups and other similar entities",
+    "temporal_coverage_from": "",
+    "tracking_summary": "1351",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "http://ec.europa.eu/transparency/regexpert/index.cfm?do=transparency.showList",
+    "release_date": "2015-07-27 15:28:32.966802",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "sg",
+        "title": "Secretariat-General"
+    }
+}

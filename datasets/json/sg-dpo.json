@@ -1,0 +1,171 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "DPO",
+            "name": "DPO"
+        },
+        {
+            "display_name": "Data Protection",
+            "name": "Data Protection"
+        },
+        {
+            "display_name": "Personal Data",
+            "name": "Personal Data"
+        },
+        {
+            "display_name": "Secretariat General",
+            "name": "Secretariat General"
+        },
+        {
+            "display_name": "European Commission",
+            "name": "European Commission"
+        }
+    ],
+    "metadata_modified": "2017-07-13 12:53:34.690275",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/5595",
+        "http://eurovoc.europa.eu/2828",
+        "http://eurovoc.europa.eu/7927"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "A zip file with all RSS. RSS are grouped by language. Small groups can be joined and big broups can be splited.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-dpo/SG-DPO-rss.zip",
+            "created": "2017-07-13 00:00:00",
+            "tracking_summary": null,
+            "name": "All RSS zipped",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2017-07-13 00:00:00",
+            "download_total_resource": "63",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/a576e391-2292-4fd4-8509-b5781a5dc78d",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "A zip file with all CSV. One CSV per language. It can be opended with Excel easily.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-dpo/SG-DPO-csv.zip",
+            "created": "2017-07-13 00:00:00",
+            "tracking_summary": null,
+            "name": "All CSV zipped",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2017-07-13 00:00:00",
+            "download_total_resource": "116",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/0fb595e0-ed75-4379-a6de-fc12c2806688",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "1 RSS files and 1 CSV files",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-dpo",
+            "created": "2017-07-13 00:00:00",
+            "tracking_summary": null,
+            "name": "RSS feed",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2017-07-13 00:00:00",
+            "download_total_resource": "82",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/c7beba3c-63d1-4bf8-a939-168d936caff5",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "RDF with all links to RSS and CSV of DPO",
+            "format": "http://publications.europa.eu/resource/authority/file-type/RDF",
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-dpo/SG-DPO.rdf",
+            "created": "2017-07-13 00:00:00",
+            "tracking_summary": null,
+            "name": "RDF distribution",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2017-07-13 00:00:00",
+            "download_total_resource": "76",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/b2b717ba-0a7f-45ad-85bc-5a5c0f750f37",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "sg-dpo",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+    "owner_org": "e3814f3c-1ebf-4bd3-a74a-9dd94bfc9133",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "DPO",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "2014-07-29T00:00:00",
+    "num_tags": null,
+    "views_total": "1719",
+    "id": "sg-dpo",
+    "metadata_created": "2014-06-16 08:09:30.613827",
+    "modified_date": "2017-07-13 12:53:34.690275",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 4,
+    "description": "The Data Protection Officer is required to keep a register of all the processing operations on personal data carried out by the Institution which has appointed him/her.The Register, which must contain information explaining the purpose and conditions of all processing operations, is accessible to any interested person.In a spirit of transparency, the Commission has therefore decided to put its Register on-line, while making it clear that any person who doesn't have access to the Internet can inspect the register in the Commission's premises,  upon request to the Data Protection Officer of the Commission.",
+    "title": "Register of the Data Protection Officer",
+    "temporal_coverage_from": "2006-04-13T00:00:00",
+    "tracking_summary": "1719",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "http://ec.europa.eu/dpo-register",
+    "release_date": "2014-06-16 08:09:30.613827",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "sg",
+        "title": "Secretariat-General"
+    }
+}

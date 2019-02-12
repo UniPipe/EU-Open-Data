@@ -1,0 +1,235 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "rain water",
+            "name": "rain water"
+        },
+        {
+            "display_name": "Atmospheric Conditions",
+            "name": "Atmospheric Conditions"
+        },
+        {
+            "display_name": "water for agricultural use",
+            "name": "water for agricultural use"
+        },
+        {
+            "display_name": "Meteorological geographical features",
+            "name": "Meteorological geographical features"
+        },
+        {
+            "display_name": "weather modification",
+            "name": "weather modification"
+        },
+        {
+            "display_name": "atmospheric conditions",
+            "name": "atmospheric conditions"
+        },
+        {
+            "display_name": "climatic change",
+            "name": "climatic change"
+        },
+        {
+            "display_name": "climate change",
+            "name": "climate change"
+        },
+        {
+            "display_name": "bad weather",
+            "name": "bad weather"
+        },
+        {
+            "display_name": "meteorology",
+            "name": "meteorology"
+        },
+        {
+            "display_name": "means of agricultural production",
+            "name": "means of agricultural production"
+        },
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        },
+        {
+            "display_name": "Environment",
+            "name": "Environment"
+        },
+        {
+            "display_name": "Agricultural and Aquaculture Facilities",
+            "name": "Agricultural and Aquaculture Facilities"
+        },
+        {
+            "display_name": "Agriculture fisheries forestry and food",
+            "name": "Agriculture fisheries forestry and food"
+        }
+    ],
+    "metadata_modified": "2018-12-21 11:12:37.625751",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2014",
+        "http://eurovoc.europa.eu/1892",
+        "http://eurovoc.europa.eu/5683",
+        "http://eurovoc.europa.eu/5482",
+        "http://eurovoc.europa.eu/89"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Web Map Service (WMS) - GetMap",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://139.191.1.75:8080/geoserver/EEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=EEA:cwb&styles=&bbox=2375000.0,966700.0000000015,7573539.7979944395,5415000.000000002&width=512&height=438&srs=EPSG:3035&format=application/openlayers",
+            "created": "2018-12-21 12:12:37.843703",
+            "tracking_summary": null,
+            "name": "Map preview (HTML)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/dcaa16fb-c49e-4ee2-9c48-34ffe4a927c3",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Web Map Service (WMS) - GetCapabilities",
+            "format": "",
+            "url": "http://139.191.1.75:8080/geoserver/ows?service=wms&version=1.3.0&request=GetCapabilities",
+            "created": "2018-12-21 12:12:37.843715",
+            "tracking_summary": null,
+            "name": "WMS endpoint - NB: A GIS client is required to access and use this distribution.",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "1",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/2e4ceed4-41e9-4386-a046-6c231621c58c",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "9d80fffe-cb87-47ba-978c-df52b6ac69be",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/LIE",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/JEY",
+        "http://publications.europa.eu/resource/authority/country/MCO",
+        "http://publications.europa.eu/resource/authority/country/MAR",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/IMN",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/GGY",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SMR",
+        "http://publications.europa.eu/resource/authority/country/SRB",
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/RUS",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/NOR",
+        "http://publications.europa.eu/resource/authority/country/ALA",
+        "http://publications.europa.eu/resource/authority/country/1A0",
+        "http://publications.europa.eu/resource/authority/country/AND",
+        "http://publications.europa.eu/resource/authority/country/ALB",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/BIH",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/CHE",
+        "http://publications.europa.eu/resource/authority/country/BLR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/MNE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/DZA",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/GIB",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/FRO",
+        "http://publications.europa.eu/resource/authority/country/VAT",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/TUN",
+        "http://publications.europa.eu/resource/authority/country/MDA",
+        "http://publications.europa.eu/resource/authority/country/UKR",
+        "http://publications.europa.eu/resource/authority/country/TUR",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/MKD",
+        "http://publications.europa.eu/resource/authority/country/LUX",
+        "http://publications.europa.eu/resource/authority/country/SWE"
+    ],
+    "revision_id": null,
+    "identifier": "9d80fffe-cb87-47ba-978c-df52b6ac69be",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "2010-09-30T00:00:00",
+    "num_tags": null,
+    "views_total": "393",
+    "id": "9d80fffe-cb87-47ba-978c-df52b6ac69be",
+    "metadata_created": "2016-03-31 09:03:23.944073",
+    "modified_date": "2018-12-21 11:12:37.625751",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "Map of Europe showing the rate of change of the metereological water balance. The water balance is defined as the difference between rainfall and reference evapo-transpiration in millimeters. The map shows the yearly change rate in water balance calculated for the period April 1975 - September 2010. The column named __VALUES__ contains the data.",
+    "title": "Rate of change of meteorological water balance map for Europe 1975-2010",
+    "temporal_coverage_from": "1975-04-01T00:00:00",
+    "tracking_summary": "393",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/9d80fffe-cb87-47ba-978c-df52b6ac69be",
+    "release_date": "2016-03-31 09:03:23.944073",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

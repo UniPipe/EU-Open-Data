@@ -1,0 +1,118 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "customs",
+            "name": "customs"
+        },
+        {
+            "display_name": "tariff",
+            "name": "tariff"
+        },
+        {
+            "display_name": "integrated tariff",
+            "name": "integrated tariff"
+        },
+        {
+            "display_name": "database",
+            "name": "database"
+        },
+        {
+            "display_name": "taric",
+            "name": "taric"
+        }
+    ],
+    "metadata_modified": "2015-07-27 15:17:58.465643",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2520",
+        "http://eurovoc.europa.eu/2069",
+        "http://eurovoc.europa.eu/4381",
+        "http://eurovoc.europa.eu/4380",
+        "http://eurovoc.europa.eu/579",
+        "http://eurovoc.europa.eu/524",
+        "http://eurovoc.europa.eu/6155"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "A multilingual database covering all measures relating to tariff, commercial and agricultural legislation. It gives economic operators a clear view of what they need to do when importing or exporting goods. It helps answer questions such as \u201cWhere do I classify my goods?\u201d or \u201cWhat is the legislation applicable to import?\u201d See EBTI for binding tariff information.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?Lang=en",
+            "created": "2013-03-15 15:00:31.762608",
+            "tracking_summary": null,
+            "name": "TARIC Consultation",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2013-03-15 00:00:00",
+            "download_total_resource": "492",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/d06f495c-85ec-4857-8757-0f4c3dc5ccb3",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "taric-consultation",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "fac58fc0-6115-4080-965a-30565b6bb99f",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "2845",
+    "id": "taric-consultation",
+    "metadata_created": "2015-07-27 15:17:58.464309",
+    "modified_date": "2015-07-27 15:17:58.465643",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "1.5.0",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "A multilingual database covering all measures relating to tariff, commercial and agricultural legislation. It gives economic operators a clear view of what they need to do when importing or exporting goods. It helps answer questions such as \u201cWhere do I classify my goods?\u201d or \u201cWhat is the legislation applicable to import?\u201d See EBTI for binding tariff information. More information can be found <a href=\"http://ec.europa.eu/taxation_customs/customs/customs_duties/tariff_aspects/customs_tariff/index_en.htm\">here</a>",
+    "title": "TARIC Consultation",
+    "temporal_coverage_from": "",
+    "tracking_summary": "2845",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/JUST"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "TARIC",
+    "url": "http://ec.europa.eu/taxation_customs/customs/customs_duties/tariff_aspects/customs_tariff/index_en.htm",
+    "release_date": "2015-07-27 15:17:58.464309",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "taxud",
+        "title": "Directorate-General for Taxation and Customs Union"
+    }
+}

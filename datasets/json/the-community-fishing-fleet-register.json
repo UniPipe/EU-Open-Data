@@ -1,0 +1,160 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "fishery",
+            "name": "fishery"
+        },
+        {
+            "display_name": "maritime transport",
+            "name": "maritime transport"
+        },
+        {
+            "display_name": "DG MARE",
+            "name": "DG MARE"
+        },
+        {
+            "display_name": "register",
+            "name": "register"
+        },
+        {
+            "display_name": "ships",
+            "name": "ships"
+        },
+        {
+            "display_name": "fleet",
+            "name": "fleet"
+        }
+    ],
+    "metadata_modified": "2015-07-27 13:51:02.381566",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2476",
+        "http://eurovoc.europa.eu/1035",
+        "http://eurovoc.europa.eu/4827",
+        "http://eurovoc.europa.eu/3111",
+        "http://eurovoc.europa.eu/5229",
+        "http://eurovoc.europa.eu/4829",
+        "http://eurovoc.europa.eu/5913"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/fisheries/fleet/index.cfm?method=Download.menu",
+            "created": "2013-08-02 18:33:33.279361",
+            "tracking_summary": null,
+            "name": "Download - Search - Fleet Register",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "501",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/50c032cf-19c5-460b-bc8d-857f274b34c5",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "With the \"Simple Search\" menu, you can make requests about the Fleet Register, for each or all Member States.   You can both use dropdown-lists or type yourself the parameters. The Ports are available once selected the country. \r\n With the \"Advanced Search\" menu, you can use more parameters to precise your request about the Fleet Register, for each of all Member States.   You can both use dropdown-lists or type yourself the parameters. \r\nThe Ports, Segments and Nuts are available once selected the country. \r\nYou can save your personnal \"My Search\". \r\n \r\nWith the \"My Search\" menu, you can retrieve personal search previouly saved by you in the \"Advanced Search\" menu.  \r\n",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/fisheries/fleet/index.cfm?method=Search.menu",
+            "created": "2013-08-02 18:29:45.253141",
+            "tracking_summary": null,
+            "name": "Search Fleet Register Menu",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "229",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/17471b24-b048-4799-afc7-2675c515e6b0",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/fisheries/fleet/index.cfm?method=RES1.Stat",
+            "created": "2013-08-02 18:32:23.644997",
+            "tracking_summary": null,
+            "name": "Entry-Exit Regime - Fleet Management-Statistics",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "135",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/585486d9-df6d-4555-a623-84d1df7aaf94",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "the-community-fishing-fleet-register",
+    "isopen": true,
+    "accrual_periodicity": "Each+3+months",
+    "owner_org": "344ce8ed-98f3-4c74-aaa8-d2ccf3239841",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "4293",
+    "id": "the-community-fishing-fleet-register",
+    "metadata_created": "2014-01-14 09:51:14.977157",
+    "modified_date": "2015-07-27 13:51:02.381566",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 3,
+    "description": "The Fleet Register is a database where all the fishing vessels flying the flag of a Member State have to be registered in accordance with Community legislation.",
+    "title": "The Community Fishing Fleet Register",
+    "temporal_coverage_from": "",
+    "tracking_summary": "4293",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://ec.europa.eu/fisheries/fleet/index.cfm?method=AnIntroduction.menu",
+    "release_date": "2014-01-14 09:51:14.977157",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "mare",
+        "title": "Directorate-General for Maritime Affairs and Fisheries"
+    }
+}

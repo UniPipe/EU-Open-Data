@@ -1,0 +1,106 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "chemical substances",
+            "name": "chemical substances"
+        },
+        {
+            "display_name": "MCPD esters",
+            "name": "MCPD esters"
+        },
+        {
+            "display_name": "free MCPD",
+            "name": "free MCPD"
+        },
+        {
+            "display_name": "food matrix",
+            "name": "food matrix"
+        },
+        {
+            "display_name": "glycidyl esters",
+            "name": "glycidyl esters"
+        }
+    ],
+    "metadata_modified": "2017-05-30 11:34:45.521721",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/623"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Data on MCPD, free and ester form, and glycidyl esters",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XLS",
+            "url": "https://data.europa.eu/euodp/data/storage/f/2017-05-30T112821/MCPD%20and%20Glycidyl%20ester%20data%20and%20dictionary.xlsx",
+            "created": "2017-05-30 13:28:34.571454",
+            "tracking_summary": null,
+            "name": "Occurrence data on MCPD, free and ester form, and glycidyl esters in various food matrices",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "91",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/c90bf16b-a1c5-4965-a764-bd46312197fc",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "occurrence-data-on-mcpd-free-and-ester-form-and-glycidyl-esters-in-various-food-matrices",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "c097b708-c0d6-4064-a99b-3cd55ad7b8b8",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "247",
+    "id": "occurrence-data-on-mcpd-free-and-ester-form-and-glycidyl-esters-in-various-food-matrices",
+    "metadata_created": "2017-05-08 14:08:22.661909",
+    "modified_date": "2017-05-30 11:34:45.521721",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "This datasets provide data on 3-Monochloropropane-1,2-diol (3-MCPD), and 2-monochloropropane-1,3-diol (2-MCPD),\u00a0substances that might be generated in the processing of food. In order to provide reliable occurrence data on the levels of both bound and free forms of those substances, the European Food Safety Authority (EFSA) requested the Joint Research Centre (JRC) to develop suitable analysis methods and test the analysis methods on different kinds of food to prioritise future monitoring activities. The development and validation of analytical methods for the analysis of 3-MCPD (both in free and ester form) and glycidyl esters in various food matrices and performance of an ad-hoc survey on specific food groups\u00a0support the\u00a0scientific opinion on comprehensive risk assessment on the presence of 3-MCPD and glycidyl esters in food. EU legislation specifies maximum levels for 3-MCPD in hydrolysed vegetable proteins and soya sauce. However, besides the free forms of 2- and 3-MCPD high levels of esterified MCPD forms were found in fats and oils. Another group of substances was identified in fats and oils are glycidyl esters (GE).\r\n\r\nProvisions for methods of sampling and analysis for the official control of 3-MCPD are laid down in Commission Regulation (EC) No 836/20113. The sampling includes different products/brands in different countries and different shops. Both premium labels and private labels were considered in the sampling plan. The agreed number of samples was met or exceeded in all categories except barbecued marinated sausage, and smoked herring. Marinated sausages for barbecuing are in contrast to marinated meat commercially not available, whereas the offer of smoked herring is in most food stores poor. Smoked salmon, smoked mackerel, and smoked trout dominated the refrigerated display cases of the visited supermarkets, whereas herring was usually sold either raw or canned in oil. More than 600 food items were sampled in 17 EU Member States. About 95% of these samples were acquired in 10 countries, applying a convenience sampling regime. The samples were produced in 22 countries. The produced analysis results were reported to EFSA in Standard Sample Description (SSD) format, whereas the analysed food items were coded by FoodEx2 codes. The analytical method uses is GC-ITMS.\r\n\r\nThe data has been used for the preparation of the Scientific Opinion on the risks for human health related to the presence of 3- and 2-monochloropropanediol (MCPD), and their fatty acid esters, and glycidyl fatty acid esters in food adopted in 2016.",
+    "title": "Occurrence data on MCPD, free and ester form, and glycidyl esters in various food matrices",
+    "temporal_coverage_from": "",
+    "tracking_summary": "247",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "https://doi.org/10.5281/zenodo.345957",
+    "release_date": "2017-05-08 14:08:22.661909",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "efsa",
+        "title": "European Food Safety Authority"
+    }
+}

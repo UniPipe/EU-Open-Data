@@ -1,0 +1,210 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Product safety",
+            "name": "Product safety"
+        },
+        {
+            "display_name": "Market surveillance",
+            "name": "Market surveillance"
+        },
+        {
+            "display_name": "Rapid alert system",
+            "name": "Rapid alert system"
+        }
+    ],
+    "metadata_modified": "2018-12-14 09:32:15.109612",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2839",
+        "http://eurovoc.europa.eu/2836",
+        "http://eurovoc.europa.eu/5234",
+        "http://eurovoc.europa.eu/3730"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The publications presented are based on information retrieved from the Rapid alert system for dangerous non-food products (RAPEX) network system and give an overview of the statistics and trends",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://ec.europa.eu/consumers/consumers_safety/safety_products/rapex/alerts/repository/content/pages/rapex/reports/index_en.htm",
+            "created": "2016-02-01 14:49:28.393627",
+            "tracking_summary": null,
+            "name": "4. Statistics and reports",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "88",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/1044c5d7-4fda-4f00-88b1-19f6887e8f15",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "RAPEX alerts search page, with the option of downloading the search results in excel format (XLS) by clicking on \u201cExport to Excel\". ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://ec.europa.eu/consumers/consumers_safety/safety_products/rapex/alerts/?event=main.search",
+            "created": "2016-02-01 14:49:28.393564",
+            "tracking_summary": null,
+            "name": "1. Search all notifications - XLS export",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "145",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/0d0efe3e-2481-41b5-a363-70aa0c1b7af3",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The weekly overviews give information on the product, the identified risk and the measures that were taken in the notifying country. The Commission also publishes the list of other countries where the notified product was found on their market and measures were taken. Since 2013, the Commission also publishes notifications on products posing less than serious risk as well as notifications on professional products and on those posing a risk to other public interests protected via the relevant EU legislation (e.g. environment and security). Data can be downloaded in Excel and XML formats. ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://ec.europa.eu/consumers/consumers_safety/safety_products/rapex/alerts/",
+            "created": "2016-02-01 14:49:28.393593",
+            "tracking_summary": null,
+            "name": "2. Weekly notification reports - XLS, XML exports",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "97",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/54539b76-41c3-4efe-a687-57a45056afb9",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The publication presented is based on information retrieved from the Rapid alert system for dangerous non-food products (RAPEX) network system and give an overview of the statistics and trends. ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "https://ec.europa.eu/consumers/consumers_safety/safety_products/rapex/alerts/repository/content/pages/rapex/reports/docs/rapex_annual_report_2016_en.pdf",
+            "created": "2016-02-01 14:49:28.393614",
+            "tracking_summary": null,
+            "name": "3. 2016 complete statistics",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "75",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/1b9f6ec1-7c4f-4642-aa40-c9590786c4df",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "rapex-rapid-alert-system-non-food",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "owner_org": "46831c57-fe4c-4467-a0d8-87285c64f549",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/NOR",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/LUX",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/ISL",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/LIE",
+        "http://publications.europa.eu/resource/authority/country/SWE"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "Regular updates",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "1526",
+    "id": "rapex-rapid-alert-system-non-food",
+    "metadata_created": "2016-02-01 13:36:31.297906",
+    "modified_date": "2018-12-14 09:32:15.109612",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "v.0.1",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 4,
+    "description": "European legislation ensures a consistent, high level of protection for the health and safety of consumers. Products placed on the market in the internal market are subject to general safety requirements. The European Union (EU) has introduced a rapid alert system (RAPEX) for products which pose a serious risk to consumers. Data is rapidly exchanged and published on measures taken to prevent or restrict the marketing or use of non-food, non-pharmaceutical or non-medical products or devices, which pose a serious risk to different public interests. ",
+    "title": "Rapex (Rapid Alert System \u2013 Non-Food)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "1526",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "Rapex - Rapid Alert System for dangerous non-food products",
+    "url": "http://ec.europa.eu/consumers/consumers_safety/safety_products/rapex/index_en.htm",
+    "release_date": "2016-02-01 13:36:31.297906",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "just",
+        "title": "Directorate-General for Justice and Consumers"
+    }
+}

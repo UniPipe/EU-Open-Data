@@ -1,0 +1,111 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        }
+    ],
+    "metadata_modified": "2018-05-03 15:21:30.611392",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "",
+            "url": "http://esdac.jrc.ec.europa.eu/content/soil-ph-europe",
+            "created": "2018-05-03 17:21:30.649063",
+            "tracking_summary": null,
+            "name": "Soil pH in Europe",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "41",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/b9c1396f-f673-4ae9-8cd5-9410f923b3a9",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://esdac.jrc.ec.europa.eu/content/soil-ph-europe",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/d6b36673-cdce-4e2d-9560-291f6d182427",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "jrc-esdac-22",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "jrc-esdac-22",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "56",
+    "id": "jrc-esdac-22",
+    "metadata_created": "2017-02-13 13:46:51.004931",
+    "modified_date": "2018-05-03 15:21:30.611392",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "A quantitative map of estimated soil pH values across Europe from a compilation of 12,333 soil pH measurements from 11 different sources, and using a geo-statistical framework based on Regression-Kriging. Fifty-four (54) auxiliary variables in the form of raster maps at 5km resolution were used to explain the differences in the distribution of soil pH (CaCl2) and the kriged map of the residuals from the regression model was added.",
+    "title": "Soil pH in Europe",
+    "temporal_coverage_from": "",
+    "tracking_summary": "56",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/jrc-esdac-22",
+    "release_date": "2017-02-13 13:46:51.004931",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

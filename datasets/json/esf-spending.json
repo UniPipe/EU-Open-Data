@@ -1,0 +1,107 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "budget execution",
+            "name": "budget execution"
+        },
+        {
+            "display_name": "ESF projects",
+            "name": "ESF projects"
+        },
+        {
+            "display_name": "co-financed operations",
+            "name": "co-financed operations"
+        }
+    ],
+    "metadata_modified": "2018-02-22 16:50:38.781051",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2298",
+        "http://eurovoc.europa.eu/1005",
+        "http://eurovoc.europa.eu/5050",
+        "http://eurovoc.europa.eu/4056"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Graphs: ESF spending per country",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "http://ec.europa.eu/esf/BlobServlet?docId=249&langId=en",
+            "created": "2012-09-05 17:06:30.949944",
+            "tracking_summary": null,
+            "name": "Graphs: ESF spending per country",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2012-09-05 17:06:32.704106",
+            "download_total_resource": "127",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/05c15a9f-ef17-421a-9ecf-58080b53a939",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "esf-spending",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "df3ec348-3037-4535-9fb8-5d265ce53e6d",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "1240",
+    "id": "esf-spending",
+    "metadata_created": "2015-07-27 17:02:57.521888",
+    "modified_date": "2018-02-22 16:50:38.781051",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "European Social Fund - overview of budget execution by country. Spending for the current seven-year progarmming period, broken down into advances and interim payments.",
+    "title": "ESF spending by country",
+    "temporal_coverage_from": "",
+    "tracking_summary": "1240",
+    "groups": [
+        {
+            "name": "eu-budget-and-spending"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "http://ec.europa.eu/esf/main.jsp?catId=440&langId=en#opt3",
+    "release_date": "2015-07-27 17:02:57.521888",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "empl",
+        "title": "Directorate-General for Employment, Social Affairs and Inclusion"
+    }
+}

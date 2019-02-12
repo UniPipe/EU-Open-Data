@@ -1,0 +1,157 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Budget",
+            "name": "Budget"
+        },
+        {
+            "display_name": "EU-27",
+            "name": "EU-27"
+        },
+        {
+            "display_name": "European Commission",
+            "name": "European Commission"
+        }
+    ],
+    "metadata_modified": "2018-12-14 09:37:18.750494",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/438855",
+        "http://eurovoc.europa.eu/3253",
+        "http://eurovoc.europa.eu/5158"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SEC03.pdf",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "http://eur-lex.europa.eu/budget/data/General/2013/en/SEC03.pdf",
+            "created": "2013-11-28 11:43:55.972882",
+            "tracking_summary": null,
+            "name": "SEC3-Budget 2013",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "60",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/7cc7960a-6aff-47f4-8445-b57345a96d25",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "XML-files containing the expenditure for all institutions for 2013, 2012 and the outturn for 2011.\r\nThere is also a metadatfile where the political categories used in the budget can be found.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "http://eur-lex.europa.eu/budget/data/General/2013/en/Final-budget-2013-EN.zip",
+            "created": "2014-07-22 10:49:36.901676",
+            "tracking_summary": null,
+            "name": "Final Budget 2013 in xml",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "63",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/1a36e065-a856-4bdf-b20a-150af2ed441d",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "budget-of-the-european-union-2013",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/LUX",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/LVA"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "1103",
+    "id": "budget-of-the-european-union-2013",
+    "metadata_created": "2015-07-27 14:24:42.456252",
+    "modified_date": "2018-12-14 09:37:18.750494",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "The Budget of the European Union 2013 was adopted by the European Parliament on 12 December 2012 and published in the Official Journal of the European Union L 66, on 8 March 2013. The dataset presented here contains two elements: \r\n\r\n1.\tData in xml \u2013 expenditure for the 10 EU institutions covered by the budget \r\n\r\n2.\t Metadata in xml.\r\n\r\nThe data is organised by budget lines. The lines with figures contain information for: \r\n\r\n1.\tThe budget year, in this case 2013, \r\n\r\n2.\tThe year before, 2012, \r\n\r\n3.\tThe outturn for 2011. \r\n\r\nEach line with figures has a reference to the Multiannual Financial Framework (MFF)/ Political Category (CATPOL) (for example catpol=\"1.1.31\"). In the metadata file it is possible to find the systematic descriptions of the MFF/CATPOL headings.\r\nFollowing the URI below it is possible to find the Budget of the European Union in its different stages (Draft Budget, Line-by-line, final Budget, Draft Amending Budgets and Draft Amending letters).\r\n\r\n",
+    "title": "Budget of the European Union 2013",
+    "temporal_coverage_from": "",
+    "tracking_summary": "1103",
+    "groups": [
+        {
+            "name": "eu-budget-and-spending"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://eur-lex.europa.eu/budget/data/General/2013/en/Final-budget-2013-EN.zip",
+    "release_date": "2015-07-27 14:24:42.456252",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "publ",
+        "title": "Publications Office"
+    }
+}

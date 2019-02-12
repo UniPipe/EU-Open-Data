@@ -1,0 +1,139 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        },
+        {
+            "display_name": "Environment",
+            "name": "Environment"
+        }
+    ],
+    "metadata_modified": "2018-12-21 10:53:11.983948",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The global emissions in the EDGAR v4.2 are calculated for each compound on an annual basis for each sector using: the country-specific activity data (AD), the mix of technologies (TECH), the abatement percentage (EoP), and the country-specific emission factor (EF).\nThese parameters are included in the calculations based on evaluation of scientific literature, inventory guidance, inventory reports, industry reports, dataset documentation or when data was found not available or incomplete own parameter calculations have been made. Data sources (e.g.): 1. AD from IEA, USGS, FAO, GFED; 2. TECH and EoP from UCI Platts Power Plant DB, EURO class vehicles; 3. EFs from IPCC 2006 and 1996, EMEP/EEA 2009 guidebooks, scientific literature etc. Emissions by country are allocated on a spatial grid, using proxy data, to provide gridded emissions dataset for atmospheric modeling. Proxy data (e.g.): 1. For diffusive emission sources - urban and rural population, road network, animal density, land use, inland waterways, and aviation and international shipping trajectories; 2. For point sources - maps with individual plant and industrial activity locations, such as power plants, iron and steel plants, cement plants, but also location of coal mines and oil and gas production sites.Emissions are calculated for the following substances: 1.Direct greenhouse gases:Carbon Dioxide (CO2), Methane (CH4), Nitrous Oxide (N2O), Hydrofluorocarbons (HFC-23, 32, 125, 134a, 143a, 152a, 227ea, 236fa, 245fa, 365mfc, 43-10-mee), Perfluorocarbons (PFCs: CF4, C2F6, C3F8, c-C4F8, C4F10, C5F12, C6F14, C7F16), Sulfur Hexafluoride (SF6) and Nitrogen Trifluoride (NF3); 2.Ozone precursor gases: Carbon Monoxide (CO), Nitrogen Oxides (NOx), Non-Methane Volatile Organic Compounds (NMVOC) and Methane (CH4); 3.Acidifying gases: Ammonia (NH3), Nitrogen oxides (NOx) and Sulfur Dioxide (SO2).; 4.Stratospheric Ozone Depleting Substances: Hydrochlorofluorocarbons (HCFC-141b, 142b). These emissions are presented as emissions on the grid using Geographical Coordinate System (lon, lat) in the following formats: txt, netcdf for 0.1 degree, netcdf for 0.5 degree and 1 degree global gridmaps.\nAnnual gridded emission by compound and selected sectors are available for download in 2 formats:\n\u2022 in ASCII format: in ton substance / (0.1 degree x 0.1 degree) /yr.\n\u2022 in netcdf format: in kg substance /m2 /s. \nThe 0.1degree x 0.1 degree grid cells are defined with the lower left corner.",
+            "format": "application/x-netcdf",
+            "url": "https://doi.org/DOI:10.2904/EDGARv4.2",
+            "created": "2018-12-21 11:53:12.330424",
+            "tracking_summary": null,
+            "name": "EDGARv4.2 Emission Maps",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "4",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/7e4a4772-1061-4f81-bba9-dc21b03ef3c6",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://edgar.jrc.ec.europa.eu/overview.php?v=42",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/770b7729-b8f5-4abf-bab9-34d7f27449b5",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://edgar.jrc.ec.europa.eu/",
+            "created": null,
+            "tracking_summary": null,
+            "name": "The EDGAR project homepage",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/496cf764-4b03-4ba8-b512-da330f658fb4",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "jrc-edgar-emissionmapsv42",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "jrc-edgar-emissionmapsv42",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "59",
+    "id": "jrc-edgar-emissionmapsv42",
+    "metadata_created": "2017-02-13 13:07:09.757429",
+    "modified_date": "2018-12-21 10:53:11.983948",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "The \u2018Emission Database for Global Atmospheric Research version 4.2\u2019, is a product of the Joint Research Centre and the PBL Netherlands Assessment Agency, referred to as EDGAR 4.2 and contains global emission inventories for greenhouse gases and air pollutants.\nThese emissions are calculated as total by country and sector for the 1970-2008 period, and distributed on the grid using proxy data. The global emissions for all countries are spatially allocated on 0.1x0.1, 0.5x0.5 and 1x1 degree resolution grids over the globe. The standard sources are defined using the IPCC source categories and codes developed by the IPCC National Greenhouse Gas Inventories Programme (Reporting guidelines in the revised 1996 IPCC guidelines). The first number identifies the main source sector: 1.Energy (including biofuel combustion and gas leakage, venting and flaring); 2.Industrial processes (nonfuel combustion sources, incl. F-gas use); 3.Solvents and other product use; 4.Agriculture (including savannah fires); 5.Land-Use Change and Forestry (including post-burn decay and drained peatlands); 6.Waste; 7.Other. The EDGAR v4.2 provides independent estimates of the global anthropogenic emissions and emission trends, based on publicly available statistics, for the use in atmospheric models and policy evaluation. This scientific independent emissions inventory is characterized by a coherent world historical trend.",
+    "title": "EDGARv4.2 Emission Maps",
+    "temporal_coverage_from": "",
+    "tracking_summary": "59",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/jrc-edgar-emissionmapsv42",
+    "release_date": "2017-02-13 13:07:09.757429",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

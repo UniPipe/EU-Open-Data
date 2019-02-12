@@ -1,0 +1,147 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "biological control",
+            "name": "biological control"
+        },
+        {
+            "display_name": "arthropods",
+            "name": "arthropods"
+        },
+        {
+            "display_name": "species selection",
+            "name": "species selection"
+        },
+        {
+            "display_name": "non-target organisms",
+            "name": "non-target organisms"
+        }
+    ],
+    "metadata_modified": "2017-03-03 14:50:08.744191",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/6296",
+        "http://eurovoc.europa.eu/5768"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Database of bio-ecological information on non-target arthropod species - species abundance",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "https://zenodo.org/record/285525/files/SpeciesAbundancePub2015.xml",
+            "created": "2017-03-03 00:00:00",
+            "tracking_summary": null,
+            "name": "Database of bio-ecological information on non-target arthropod species - species abundance",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "66",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/97dc79ff-1d04-4e71-8ffa-88a3f8796f67",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Database of bio-ecological information on non-target arthropod species - species info",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "https://zenodo.org/record/285525/files/SpeciesInfoPub2015.xml",
+            "created": "2017-03-03 00:00:00",
+            "tracking_summary": null,
+            "name": "Database of bio-ecological information on non-target arthropod species - species info",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "68",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/3f2e87d0-3068-419a-91a6-728271f22b58",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Database of bio-ecological information on non-target arthropod species - references",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "https://zenodo.org/record/285525/files/References2015.xml",
+            "created": "2017-03-03 00:00:00",
+            "tracking_summary": null,
+            "name": "Database of bio-ecological information on non-target arthropod species - references",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "68",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/e92b47e1-35e8-4cf3-a404-01c930679cc4",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "update-and-expansion-of-the-database-of-bio-ecological-information-on-non-target-arthropod-species",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "c097b708-c0d6-4064-a99b-3cd55ad7b8b8",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "10.5281/zenodo.285525",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "2014-01-01T00:00:00",
+    "num_tags": null,
+    "views_total": "384",
+    "id": "update-and-expansion-of-the-database-of-bio-ecological-information-on-non-target-arthropod-species",
+    "metadata_created": "2017-03-03 13:27:38.571757",
+    "modified_date": "2017-03-03 14:50:08.744191",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "None",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 3,
+    "description": "The current database updates and extends the database on arthropods inhabiting European arable crops established in 2012 (Meissle et al. 2012). The data was collected to support environmental risk assessment of genetically modified (GM) crops in the European Union and provides a detailed overview of the arthropod fauna in arable crops across Europe.The data was obtained from systematic literature searches conducted to identify publications on small grain cereals and to identify additional publications on the crops covered by the previous database (maize, beet, potato, oilseed rape, rice, cotton, soy). The final database contains information on more than 4000 arthropod species, > 27700 records, and > 2000 references.\r\n\r\nThe database consists of three tables containing information on species (taxonomy, ecological function, feeding guild, habitat), abundances (crop, collection method, location, sampling duration, collected species), and references (authors, year, title, source). Taxonomy was verified with European and global taxonomic catalogues and taxonomic experts. Ecological information, in particular feeding guilds of adults and juveniles, was double checked with appropriate literature, and provided in detail. References for taxonomic and ecological information were included for each species record\r\n\r\nFor maize, beet, potato, oilseed rape, rice, and soybean, 258 additional studies were found and entered into the database, resulting in 2774 additional records. For those crops, the updated database contains 16610 records of 3264 species. Most of the records are available for maize (6648), followed by beet, potato, and oilseed rape (ca. 3000 records each). Relatively few records are available for rice (601), soy (231), and cotton (184). Overall, small grain cereals in Europe were reported to harbour more than 2000 arthropod species. Most information is available for wheat (7626 records and 1664 species), followed by barley (2308 records and 893 species). Rye, oats, and triticale are represented by 453, 369, and 273 records and 269, 187, and 171 species, respectively. Only few records are available for buckwheat and sorghum, and no records for millet and canary seed. Overall, small grain cereals in Europe are reported to harbour more than 2000 arthropod species. For the other crops, the updated database contains more than 3200 species. Most of the species recorded in small grain cereals are predators (63% of the abundance records), followed by herbivores (21%), decomposers (8%), parasitoids (7%), and pollinators (1%).  \r\n\r\nThe database contains reports from 37 countries in Europe and was extracted from references with a publication date ranging from 1925-2014.\r\n",
+    "title": "Update and expansion of the database of bio-ecological information on non-target arthropod species",
+    "temporal_coverage_from": "1925-01-01T00:00:00",
+    "tracking_summary": "384",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "https://doi.org/10.5281/zenodo.285525",
+    "release_date": "2017-03-03 13:27:38.571757",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "efsa",
+        "title": "European Food Safety Authority"
+    }
+}

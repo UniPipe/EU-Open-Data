@@ -1,0 +1,181 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "protected area",
+            "name": "protected area"
+        },
+        {
+            "display_name": "environmental monitoring",
+            "name": "environmental monitoring"
+        },
+        {
+            "display_name": "oceanography",
+            "name": "oceanography"
+        },
+        {
+            "display_name": "ocean",
+            "name": "ocean"
+        },
+        {
+            "display_name": "Environmental Monitoring Facilities",
+            "name": "Environmental Monitoring Facilities"
+        },
+        {
+            "display_name": "Environment",
+            "name": "Environment"
+        },
+        {
+            "display_name": "Protected Sites",
+            "name": "Protected Sites"
+        },
+        {
+            "display_name": "Oceanographic Geographical Features",
+            "name": "Oceanographic Geographical Features"
+        },
+        {
+            "display_name": "environmental data",
+            "name": "environmental data"
+        }
+    ],
+    "metadata_modified": "2018-12-21 10:40:49.414446",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2114",
+        "http://eurovoc.europa.eu/2107",
+        "http://eurovoc.europa.eu/4801",
+        "http://eurovoc.europa.eu/3140"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "EMIS GIS viewer",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://emis.jrc.ec.europa.eu/gis_blacksea.php",
+            "created": "2018-12-21 11:40:49.547117",
+            "tracking_summary": null,
+            "name": "EMIS - GIS viewer (Black Sea)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/40a3082e-e3db-46e8-83ec-efc9ce3923a5",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Direct NetCDF download",
+            "format": "application/x-netcdf",
+            "url": "http://emis.jrc.ec.europa.eu/emis/satellite/2km/blacksea/monthly/",
+            "created": "2018-12-21 11:40:49.547123",
+            "tracking_summary": null,
+            "name": "EMIS - Download access (EMIS_BLCK_CHLA)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "1",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/12d63d79-c754-478d-8648-49e4e67ab361",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://emis.jrc.ec.europa.eu/",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/4d088ca7-a76e-4f1f-8245-917c6cf09d0a",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "e3823274-17f0-4f77-9f42-7a3cd84be6a7",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/GEO",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/MDA",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/RUS",
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/UKR",
+        "http://publications.europa.eu/resource/authority/country/TUR"
+    ],
+    "revision_id": null,
+    "identifier": "e3823274-17f0-4f77-9f42-7a3cd84be6a7",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "47",
+    "id": "e3823274-17f0-4f77-9f42-7a3cd84be6a7",
+    "metadata_created": "2017-02-14 14:07:43.001824",
+    "modified_date": "2018-12-21 10:40:49.414446",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "Monthly mean sea surface Chlorophyll-a concentration (in mg.m^-3 (log10)) for the Black sea derived from the MODIS-AQUA sensor (Satellite remote sensing Ocean color data): \n\t\t\t\tChlorophyll is a photosynthetic pigment commonly present in all phytoplankton species. It is used as a proxy for phytoplankton biomass. \n\t\t\t\tChlorophyll concentration is a standard product from satellite-based optical sensors, usually retrieved from empirical algorithms using reflectance ratios at two or more wavebands.",
+    "title": "EMIS - BLACK SEA Monthly mean sea surface Chlorophyll-a concentration in mg.m^-3",
+    "temporal_coverage_from": "",
+    "tracking_summary": "47",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/e3823274-17f0-4f77-9f42-7a3cd84be6a7",
+    "release_date": "2017-02-14 14:07:43.001824",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

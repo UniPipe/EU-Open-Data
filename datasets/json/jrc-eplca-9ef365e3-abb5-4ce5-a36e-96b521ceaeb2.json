@@ -1,0 +1,123 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        },
+        {
+            "display_name": "Environment",
+            "name": "Environment"
+        }
+    ],
+    "metadata_modified": "2018-12-21 11:08:56.005922",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Landing Page to download the full ELCD Database.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://eplca.jrc.ec.europa.eu/ELCD3/",
+            "created": "2018-12-21 12:08:56.064651",
+            "tracking_summary": null,
+            "name": "Full ELCD Database",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/3ea018f6-37b4-432b-ac1f-1c4dd1022511",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://eplca.jrc.ec.europa.eu/ELCD3/",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/b2aaeafb-0d2e-4363-89df-7c2625fa3fbb",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "jrc-eplca-9ef365e3-abb5-4ce5-a36e-96b521ceaeb2",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/POL"
+    ],
+    "revision_id": null,
+    "identifier": "jrc-eplca-9ef365e3-abb5-4ce5-a36e-96b521ceaeb2",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "0",
+    "id": "jrc-eplca-9ef365e3-abb5-4ce5-a36e-96b521ceaeb2",
+    "metadata_created": "2017-02-14 13:55:56.889078",
+    "modified_date": "2018-12-21 11:08:56.005922",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "Data sets represents the average country or region specific electricity supply for final consumers, including own consumption, net losses and imports from neighbouring countries. The national energy carrier mixes used for electricity production as well as data about effciencies, net losses and own consumption are taken from official statistics (mainly International Energy Agency) for the relevant reference year. Detailed power plant models were used, which combine measured emissions plus calculated values for not measured emissions of e.g. organics or heavy metals. Inventory is partly based on primary industry data, partly on secondary literature data.\n\nSynonyms: Power grid mix\n\nTechnical Purpose: Provision of medium voltage (1kV - 60kV) electricity for final consumers.\n\nGeographical Representation: DK",
+    "title": "Electricity grid mix 1kV-60kV; AC; consumption mix, at consumer; 1kV - 60kV (Location: DK)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "0",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/jrc-eplca-9ef365e3-abb5-4ce5-a36e-96b521ceaeb2",
+    "release_date": "2017-02-14 13:55:56.889078",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

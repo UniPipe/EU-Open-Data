@@ -1,0 +1,228 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "foodstuff",
+            "name": "foodstuff"
+        },
+        {
+            "display_name": "food safety",
+            "name": "food safety"
+        },
+        {
+            "display_name": "pesticide",
+            "name": "pesticide"
+        },
+        {
+            "display_name": "foodstuffs legislation",
+            "name": "foodstuffs legislation"
+        },
+        {
+            "display_name": "plant health legislation",
+            "name": "plant health legislation"
+        },
+        {
+            "display_name": "pesticide residue",
+            "name": "pesticide residue"
+        },
+        {
+            "display_name": "industrial policy",
+            "name": "industrial policy"
+        },
+        {
+            "display_name": "public health",
+            "name": "public health"
+        },
+        {
+            "display_name": "agriculture",
+            "name": "agriculture"
+        },
+        {
+            "display_name": "European standard",
+            "name": "European standard"
+        },
+        {
+            "display_name": "animal nutrition",
+            "name": "animal nutrition"
+        },
+        {
+            "display_name": "animal feedingstuffs",
+            "name": "animal feedingstuffs"
+        },
+        {
+            "display_name": "approximation of laws",
+            "name": "approximation of laws"
+        },
+        {
+            "display_name": "animal product",
+            "name": "animal product"
+        },
+        {
+            "display_name": "food inspection",
+            "name": "food inspection"
+        },
+        {
+            "display_name": "crop production",
+            "name": "crop production"
+        }
+    ],
+    "metadata_modified": "2018-08-09 10:49:32.699333",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/3617",
+        "http://eurovoc.europa.eu/3469",
+        "http://eurovoc.europa.eu/3885",
+        "http://eurovoc.europa.eu/3646",
+        "http://eurovoc.europa.eu/6569",
+        "http://eurovoc.europa.eu/1277",
+        "http://eurovoc.europa.eu/1224",
+        "http://eurovoc.europa.eu/1590",
+        "http://eurovoc.europa.eu/1442",
+        "http://eurovoc.europa.eu/2357",
+        "http://eurovoc.europa.eu/1595",
+        "http://eurovoc.europa.eu/2735",
+        "http://eurovoc.europa.eu/2723",
+        "http://eurovoc.europa.eu/2897",
+        "http://eurovoc.europa.eu/2737"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download open data",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "https://circabc.europa.eu/sd/a/55095a0d-5ab7-4190-9855-486629ec6a6f/pesticides_new.zip",
+            "created": "2018-02-13 12:38:27.416855",
+            "tracking_summary": null,
+            "name": "Download open data",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "117",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/2de23133-e405-4b88-8b9e-28d4e74fd1c0",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "index_en.htm",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/dgs/health_food-safety/index_en.htm",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Health and Food Safety Directorate-General",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/dffc8683-f9e9-46cc-9e76-100341a3a51c",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "index_en.htm",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/food/plant/pesticides/index_en.htm",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Pesticides",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/8e316e5f-5c39-40e1-a56e-85e53bc1680a",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "pesticides-new",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/OTHER",
+    "owner_org": "ec031a31-ef77-4e48-a2aa-f317bac1f353",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "planthealth-pesticides",
+    "version_description": "regular updates",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "50",
+    "id": "pesticides-new",
+    "metadata_created": "2018-02-13 11:38:26.318347",
+    "modified_date": "2018-08-09 10:49:32.699333",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [
+        "http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY",
+        "http://publications.europa.eu/resource/authority/dataset-type/IEPD"
+    ],
+    "state": null,
+    "version": "1.1",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "All foodstuffs intended for human or animal consumption in the European Union (EU) are subject to a maximum residue level (MRL) of pesticides in their composition in order to protect animal and human health. The Regulation brings together and harmonises in one text the limits that apply to different human or animal food products and, in addition, it establishes a maximum limit applicable by default.  Data is collated on the single active substances and the maximum residue levels (MRLs) combinations pesticide/commodities at EU level.",
+    "title": "Pesticides (NEW)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "50",
+    "groups": [],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/SPA",
+        "http://publications.europa.eu/resource/authority/language/SWE",
+        "http://publications.europa.eu/resource/authority/language/CES",
+        "http://publications.europa.eu/resource/authority/language/BUL",
+        "http://publications.europa.eu/resource/authority/language/DEU",
+        "http://publications.europa.eu/resource/authority/language/DAN",
+        "http://publications.europa.eu/resource/authority/language/ENG",
+        "http://publications.europa.eu/resource/authority/language/ELL",
+        "http://publications.europa.eu/resource/authority/language/FIN",
+        "http://publications.europa.eu/resource/authority/language/EST",
+        "http://publications.europa.eu/resource/authority/language/HUN",
+        "http://publications.europa.eu/resource/authority/language/FRA",
+        "http://publications.europa.eu/resource/authority/language/LAV",
+        "http://publications.europa.eu/resource/authority/language/ITA",
+        "http://publications.europa.eu/resource/authority/language/MLT",
+        "http://publications.europa.eu/resource/authority/language/LIT",
+        "http://publications.europa.eu/resource/authority/language/POL",
+        "http://publications.europa.eu/resource/authority/language/NLD",
+        "http://publications.europa.eu/resource/authority/language/RON",
+        "http://publications.europa.eu/resource/authority/language/POR",
+        "http://publications.europa.eu/resource/authority/language/SLV",
+        "http://publications.europa.eu/resource/authority/language/SLK"
+    ],
+    "alternative_title": "",
+    "url": "https://data.europa.eu/euodp/en/data/dataset/pesticides-new",
+    "release_date": "2018-02-13 11:38:26.318347",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "sante",
+        "title": "Directorate-General for Health and Food Safety"
+    }
+}

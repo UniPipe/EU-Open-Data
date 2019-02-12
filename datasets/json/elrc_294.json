@@ -1,0 +1,152 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "translation",
+            "name": "translation"
+        },
+        {
+            "display_name": "linguistics",
+            "name": "linguistics"
+        },
+        {
+            "display_name": "language-technology",
+            "name": "language-technology"
+        },
+        {
+            "display_name": "language-application",
+            "name": "language-application"
+        },
+        {
+            "display_name": "corpus",
+            "name": "corpus"
+        }
+    ],
+    "metadata_modified": "2018-02-14 10:48:12.013447",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Data archive containing files in the following formats: application/xml",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "https://elrc-share.eu/repository/browse/polish-food-4-food-policy-dataset/2c2b28c6fe6e11e6bfe700155d02050256943dc1d1d24d2fad197431101c6620/",
+            "created": "2017-12-18 16:45:45.046255",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "60",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/bc2d76de-19a1-4521-a561-c11ca5e85212",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Validation report",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "https://data.europa.eu/euodp/data/dataset/5936bf60-446b-4b1f-97de-8b85cd68dd39/resource/6f99705d-b283-4125-bf61-5c60b1e4723e/download/elrc294polishfood4foodpolicy...valrep.pdf",
+            "created": null,
+            "tracking_summary": null,
+            "name": "",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/6f99705d-b283-4125-bf61-5c60b1e4723e",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Metadata description",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "https://data.europa.eu/euodp/data/dataset/5936bf60-446b-4b1f-97de-8b85cd68dd39/resource/1ff732c7-2d16-4f52-ae10-8992e94aaf65/download/elrc294polishfood4foodpolicy...md.xml",
+            "created": null,
+            "tracking_summary": null,
+            "name": "",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/1ff732c7-2d16-4f52-ae10-8992e94aaf65",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "elrc_294",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "d7c6596e-9b6e-4461-a6b8-3cfeba1da887",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "ELRC_294",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "38",
+    "id": "elrc_294",
+    "metadata_created": "2017-12-15 17:41:05.090900",
+    "modified_date": "2018-02-14 10:48:12.013447",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "A collection of Polish-English translations of the Polish Food quarterly published by the Polish Ministry of Agriculture, comprising issues 65-68 (85K words in 2473 segments) and the 'Agriculture and Food Economy in Poland' report (84K words in 2142 segments). The translations were manually aligned at the sentence level and encoded in the XLiFF format.",
+    "title": "Polish Food 4 & Food Policy Dataset",
+    "temporal_coverage_from": "",
+    "tracking_summary": "38",
+    "groups": [
+        {
+            "name": "resources-for-language-technologies"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/POL",
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/euodp/en/data/dataset/elrc_294",
+    "release_date": "2017-12-15 17:41:05.090900",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "cnect",
+        "title": "Directorate-General for Communications Networks, Content and Technology"
+    }
+}

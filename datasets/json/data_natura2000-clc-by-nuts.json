@@ -1,0 +1,120 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "statistics",
+            "name": "statistics"
+        },
+        {
+            "display_name": "biodiversity",
+            "name": "biodiversity"
+        },
+        {
+            "display_name": "natura 2000",
+            "name": "natura 2000"
+        },
+        {
+            "display_name": "corine land cover",
+            "name": "corine land cover"
+        }
+    ],
+    "metadata_modified": "2019-01-13 00:10:34.519836",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/5463",
+        "http://eurovoc.europa.eu/4256"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Natura2000v15-CLCv16-NUTS3 area calculation methodology",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "http://www.eea.europa.eu/data-and-maps/data/natura2000-clc-by-nuts/raster-based-approach-methodology-document-1/natura2000v15-clcv16-nuts3-area-calculation-methodology/view",
+            "created": "2019-01-13 01:10:34.719297",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/b9e52d2e-4cda-48a7-a82c-3261d1c0a997",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "N2000v2015_CLCv16_NUTS_area.xlsx",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XLSX",
+            "url": "http://www.eea.europa.eu/data-and-maps/data/natura2000-clc-by-nuts/n2k_clc_nuts_area.xlsx/n2000v2015_clcv16_nuts_area.xlsx/view",
+            "created": "2019-01-13 01:10:34.719278",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/4b450322-26d7-4c04-acf1-c94c84129f21",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "data_natura2000-clc-by-nuts",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "a0f11636-49f9-46ec-9735-c78546d2e9f4",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "natura2000-clc-by-nuts",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "43",
+    "id": "data_natura2000-clc-by-nuts",
+    "metadata_created": "2017-12-08 14:26:05.787742",
+    "modified_date": "2019-01-13 00:10:34.519836",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "LATEST VERSION. Natura 2000 is the key instrument to protect biodiversity in the European Union. It is an ecological network of protected areas, set up to ensure the survival of Europe's most valuable species and habitats. This statistic provides information about the land cover inside Natura 2000 sites, version 2015. It is calculated using a raster approach. The coverage (km2) of Corine land cover (CLC) classes inside Natura 2000 sites aggregated by NUTS regions. The resulting statistic has three pivot tables, one for the CLC area in Natura 2000 sites designated under the Birds Directive (SPAs) only, one for the CLC area in Natura 2000 sites designated under the Habitats Directive (SCIs/SACs) only and one for the CLC area in the full Natura 2000 network, i.e. sites designated under both Directives.",
+    "title": "[LATEST VERSION] Coverage of Corine land cover classes inside Natura 2000 sites aggregated by NUTS regions",
+    "temporal_coverage_from": "",
+    "tracking_summary": "43",
+    "groups": [],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "http://www.eea.europa.eu/data-and-maps/data/natura2000-clc-by-nuts",
+    "release_date": "2017-12-08 14:26:05.787742",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "eea",
+        "title": "European Environment Agency"
+    }
+}

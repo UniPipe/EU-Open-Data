@@ -1,0 +1,236 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "query language",
+            "name": "query language"
+        },
+        {
+            "display_name": "datasets",
+            "name": "datasets"
+        },
+        {
+            "display_name": "semantic query language",
+            "name": "semantic query language"
+        },
+        {
+            "display_name": "resource description framework",
+            "name": "resource description framework"
+        },
+        {
+            "display_name": "vocabulary",
+            "name": "vocabulary"
+        },
+        {
+            "display_name": "sparql",
+            "name": "sparql"
+        },
+        {
+            "display_name": "EU",
+            "name": "EU"
+        },
+        {
+            "display_name": "catalogue",
+            "name": "catalogue"
+        },
+        {
+            "display_name": "RDF",
+            "name": "RDF"
+        },
+        {
+            "display_name": "metadata",
+            "name": "metadata"
+        },
+        {
+            "display_name": "data",
+            "name": "data"
+        },
+        {
+            "display_name": "SPARQL endpoint",
+            "name": "SPARQL endpoint"
+        },
+        {
+            "display_name": "Open Data Portal",
+            "name": "Open Data Portal"
+        },
+        {
+            "display_name": "endpoint",
+            "name": "endpoint"
+        },
+        {
+            "display_name": "databases",
+            "name": "databases"
+        },
+        {
+            "display_name": "RDF graph",
+            "name": "RDF graph"
+        }
+    ],
+    "metadata_modified": "2017-04-06 13:17:01.524317",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/4502",
+        "http://eurovoc.europa.eu/1580",
+        "http://eurovoc.europa.eu/5188",
+        "http://eurovoc.europa.eu/4821",
+        "http://eurovoc.europa.eu/6030",
+        "http://eurovoc.europa.eu/5920",
+        "http://eurovoc.europa.eu/6884",
+        "http://eurovoc.europa.eu/6088",
+        "http://eurovoc.europa.eu/7363"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Explanation of the SPARQL with related link to the suitable documentation. ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://semanticweb.org/wiki/SPARQL_endpoint.html",
+            "created": "2017-01-26 13:30:05.581744",
+            "tracking_summary": null,
+            "name": "SPARQL endpoint",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "113",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/a88d9702-9055-4416-8553-83eecee6059b",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The machine readable sparql end point of the European Union Open Data Portal. Data formats that may be readily parsed by computer programs without access to proprietary libraries. For example, CSV, TSV and RDF formats are machine readable, but PDF and Microsoft Excel are not. Creating and publishing data following Linked Data principles helps search engines and humans to find, access and re-use data. Once information is found, computer programs can re-use data without the need for custom scripts to manipulate the content.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/SPARQLQ",
+            "url": "http://data.europa.eu/euodp/sparqlep",
+            "created": "2016-10-27 13:51:04.882404",
+            "tracking_summary": null,
+            "name": "EU Open Data Portal SPARQL endpoint",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "154",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/991005aa-10e6-49c5-9349-32399f04f4e1",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "SPARQL Query Language for RDF. RDF is a directed, labeled graph data format for representing information in the Web. This specification defines the syntax and semantics of the SPARQL query language for RDF. SPARQL can be used to express queries across diverse data sources, whether the data is stored natively as RDF or viewed as RDF via middleware. SPARQL contains capabilities for querying required and optional graph patterns along with their conjunctions and disjunctions. SPARQL also supports extensible value testing and constraining queries by source RDF graph. The results of SPARQL queries can be results sets or RDF graphs. ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/E00",
+            "url": "http://www.w3.org/TR/rdf-sparql-query/",
+            "created": null,
+            "tracking_summary": null,
+            "name": " ARC/INFO interchange file format",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/f8e117e3-adfa-4b3e-8cef-71801445c4e6",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "eu-open-data-portal-sparql-endpoint",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "765",
+    "id": "eu-open-data-portal-sparql-endpoint",
+    "metadata_created": "2016-10-26 14:08:15.049075",
+    "modified_date": "2017-04-06 13:17:01.524317",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [
+        "http://publications.europa.eu/resource/authority/dataset-type/IEPD"
+    ],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "The EU Open Data Portal also can be accessed by the machine readable SPARQL endpoint. SPARQL is a  RDF query language, a semantic query language for databases. SPARQL endpoint is a conformant SPARQL protocol service. SPARQL endpoint enables users (human or other) to query a knowledge base via the SPARQL language. Results are typically returned in one or more machine-processable formats.\r\n\r\nIt is used for manipulation of data, which is able to be stored in Resource Description Framework (RDF) format. SPARQL queries RDF graphs. An RDF graph is a set of triples.  For example: \r\n\r\nYou can find specifications of SPARQL on the W3C web site: http://www.w3.org/TR/rdf-sparql-query/. The models used to describe datasets catalogued on the EU Open Data Portal are described on the \u2018Linked data\u2019 page under \u2018Metadata vocabulary\u2019.",
+    "title": "EU Open Data Portal SPARQL endpoint",
+    "temporal_coverage_from": "",
+    "tracking_summary": "765",
+    "groups": [
+        {
+            "name": "sparql-endpoints"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "Conformant SPARQL protocol service",
+    "url": "http://data.europa.eu/euodp/eu-open-data-portal-sparql-endpoint",
+    "release_date": "2016-10-26 14:08:15.049075",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "publ",
+        "title": "Publications Office"
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Secretariat General",
+            "name": "Secretariat General"
+        },
+        {
+            "display_name": "EIMS",
+            "name": "EIMS"
+        },
+        {
+            "display_name": "EIMS2",
+            "name": "EIMS2"
+        },
+        {
+            "display_name": "Evaluation",
+            "name": "Evaluation"
+        },
+        {
+            "display_name": "European Commission",
+            "name": "European Commission"
+        },
+        {
+            "display_name": "Smart-regulation",
+            "name": "Smart-regulation"
+        },
+        {
+            "display_name": "Regulatory Fitness and Performance",
+            "name": "Regulatory Fitness and Performance"
+        }
+    ],
+    "metadata_modified": "2017-07-13 12:53:31.279832",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2451"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "RDF with all links to RSS and CSV of EIMS",
+            "format": "http://publications.europa.eu/resource/authority/file-type/RDF",
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-eims/SG-EIMS.rdf",
+            "created": "2017-07-13 00:00:00",
+            "tracking_summary": null,
+            "name": "RDF distribution",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2017-07-13 00:00:00",
+            "download_total_resource": "62",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/1af1a987-32fc-48ec-a855-66f989d6ced4",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "A zip file with all CSV. One CSV per language. It can be opended with Excel easily.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-eims/SG-EIMS-csv.zip",
+            "created": "2017-07-13 00:00:00",
+            "tracking_summary": null,
+            "name": "All CSV zipped",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2017-07-13 00:00:00",
+            "download_total_resource": "68",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/0ac0b8a5-cab4-437c-8a6d-98dfdc6c596c",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "1 RSS files and 1 CSV files",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-eims",
+            "created": "2017-07-13 00:00:00",
+            "tracking_summary": null,
+            "name": "RSS feed",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2017-07-13 00:00:00",
+            "download_total_resource": "62",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/d2d10a02-ed5a-4593-bdc2-cb8b9aa9c174",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "A zip file with all RSS. RSS are grouped by language. Small groups can be joined and big broups can be splited.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-eims/SG-EIMS-rss.zip",
+            "created": "2017-07-13 00:00:00",
+            "tracking_summary": null,
+            "name": "All RSS zipped",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2017-07-13 00:00:00",
+            "download_total_resource": "56",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/9273bf73-c450-49ec-876e-915cf08bafdb",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "sg-eims",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+    "owner_org": "e3814f3c-1ebf-4bd3-a74a-9dd94bfc9133",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "EIMS",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "2014-04-15T00:00:00",
+    "num_tags": null,
+    "views_total": "1427",
+    "id": "sg-eims",
+    "metadata_created": "2014-06-16 08:09:34.150803",
+    "modified_date": "2017-07-13 12:53:31.279832",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 4,
+    "description": "The Commission regularly evaluates EU actions (policies, legislation, trade agreements and financial programmes).Evaluations are an essential part of the decision making process. They are required under the Financial Regulation and carried out according to evaluation standards.From the standards, the Commission derives guidelines for its staff to use during the evaluation process including guidance on fitness checks, which assess whether the regulatory framework for a policy sector is fit for purpose.Evaluation results are fed into the Commission Work Programme and disseminated to the European Parliament, the Council and spending administrative authorities. For legislation specifically, the Commission's REFIT regulatory fitness and performance programme identifies opportunities for simplifying existing legislation and reducing administrative burdens.",
+    "title": "Smart-regulation, Evaluation",
+    "temporal_coverage_from": "1999-12-31T00:00:00",
+    "tracking_summary": "1427",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "http://ec.europa.eu/smart-regulation/evaluation",
+    "release_date": "2014-06-16 08:09:34.150803",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "sg",
+        "title": "Secretariat-General"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        },
+        {
+            "display_name": "Environment",
+            "name": "Environment"
+        }
+    ],
+    "metadata_modified": "2018-12-21 11:04:23.426469",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Landing Page to download the full ELCD Database.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://eplca.jrc.ec.europa.eu/ELCD3/",
+            "created": "2018-12-21 12:04:23.498422",
+            "tracking_summary": null,
+            "name": "Full ELCD Database",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/e2b35cd8-4df0-4888-8980-f9fe6b43a572",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://eplca.jrc.ec.europa.eu/ELCD3/",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/e25f47eb-ba83-4e8a-8a3a-6d68c4e906cc",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "jrc-eplca-f70e4e1e-536f-497d-8a64-4528898da8bd",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DZA",
+        "http://publications.europa.eu/resource/authority/country/PRT"
+    ],
+    "revision_id": null,
+    "identifier": "jrc-eplca-f70e4e1e-536f-497d-8a64-4528898da8bd",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "13",
+    "id": "jrc-eplca-f70e4e1e-536f-497d-8a64-4528898da8bd",
+    "metadata_created": "2017-02-13 13:42:08.277268",
+    "modified_date": "2018-12-21 11:04:23.426469",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "Good overall data quality. Energy carrier mix information based on official statistical information including import / export. A detailed heat plant model was used, which combine measured emissions plus calculated values for not measured emissions of e.g. organics or heavy metals. Energy carrier extraction and processing data is of sufficient to good (e.g. refinery) data quality. Inventory is partly based on primary industry data, partly on secondary literature data.\n\nTechnical Purpose: Process steam (MJ) at heat plant for final consumers.\n\nGeographical Representation: PT",
+    "title": "Process steam from heavy fuel oil; heat plant; consumption mix, at plant; MJ (Location: PT)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "13",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/jrc-eplca-f70e4e1e-536f-497d-8a64-4528898da8bd",
+    "release_date": "2017-02-13 13:42:08.277268",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

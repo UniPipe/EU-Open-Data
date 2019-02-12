@@ -1,0 +1,139 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Agriculture fisheries forestry and food",
+            "name": "Agriculture fisheries forestry and food"
+        },
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        }
+    ],
+    "metadata_modified": "2018-12-21 11:06:17.396537",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The compressed zip file contains a csv with the historical time series of warnings at sub-national level",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "https://mars.jrc.ec.europa.eu/asap/files/warnings_ts.zip",
+            "created": "2018-12-21 12:06:17.919050",
+            "tracking_summary": null,
+            "name": "CSV File",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "5",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ff30c434-b381-41e6-a56c-87fa581d9106",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "",
+            "url": "https://doi.org/10.1016/j.agsy.2018.07.002",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ASAP: A new global early warning system to detect anomaly hot spots of agricultural production for food security analysis",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/5489fa62-214a-4f66-b944-cb49e6ff0735",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://mars.jrc.ec.europa.eu/asap/download.php",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/21b03b99-d2e8-413b-af6b-ba9b064431e7",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "jrc-10112-10001",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "jrc-10112-10001",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "17",
+    "id": "jrc-10112-10001",
+    "metadata_created": "2018-09-11 15:23:42.765514",
+    "modified_date": "2018-12-21 11:06:17.396537",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "The dataset contains warnings about low or delayed vegetation performance at sub-national level for crops and rangelands. The warning classification scheme is applied globally and is based on rainfall estimates (RFE) and NDVI anomalies. The results are a reliable warning of hydrological stress for agricultural production and the warning level ranges from 1 to 4.",
+    "title": "Ten-daily automatic warnings about agricultural vegetation anomalies",
+    "temporal_coverage_from": "",
+    "tracking_summary": "17",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/jrc-10112-10001",
+    "release_date": "2018-09-11 15:23:42.765514",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

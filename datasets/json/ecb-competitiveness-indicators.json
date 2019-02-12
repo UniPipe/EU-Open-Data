@@ -1,0 +1,247 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "economy",
+            "name": "economy"
+        },
+        {
+            "display_name": "GDP",
+            "name": "GDP"
+        },
+        {
+            "display_name": "ECB",
+            "name": "ECB"
+        },
+        {
+            "display_name": "labour",
+            "name": "labour"
+        },
+        {
+            "display_name": "European Central Bank",
+            "name": "European Central Bank"
+        },
+        {
+            "display_name": "competitiveness indicators",
+            "name": "competitiveness indicators"
+        },
+        {
+            "display_name": "households",
+            "name": "households"
+        },
+        {
+            "display_name": "Euro area statistics",
+            "name": "Euro area statistics"
+        },
+        {
+            "display_name": "exchange rates",
+            "name": "exchange rates"
+        }
+    ],
+    "metadata_modified": "2016-01-19 09:06:06.816388",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/408",
+        "http://eurovoc.europa.eu/1452",
+        "http://eurovoc.europa.eu/5455",
+        "http://eurovoc.europa.eu/4263",
+        "http://eurovoc.europa.eu/6151"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Competitiveness indicators - By price and cost",
+            "format": "",
+            "url": "https://www.euro-area-statistics.org/competitiveness-indicators?cr=eur&lg=en&page=0",
+            "created": "2016-01-19 10:06:07.153233",
+            "tracking_summary": null,
+            "name": "Competitiveness indicators - By price and cost",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "10",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/271b5c4b-0d72-4734-bbdc-566d361e7b95",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "GDP deflators",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "http://sdw.ecb.europa.eu/export.do?type=series&node=SEARCHRESULTS&q=EXR.Q.E1.EUR.ERD0.A,EXR.Q.H5.BEF.NRD0.A,EXR.Q.H5.DEM.NRD0.A,EXR.Q.H5.EEK.NRD0.A,EXR.Q.H5.IEP.NRD0.A,EXR.Q.H5.GRD.NRD0.A,EXR.Q.H5.ESP.NRD0.A,EXR.Q.H5.FRF.NRD0.A,EXR.Q.H5.ITL.NRD0.A,EXR.Q.H5.CYP.NRD0.A,EXR.Q.H5.LVL.NRD0.A,EXR.Q.H5.LUF.NRD0.A,EXR.Q.H5.MTL.NRD0.A,EXR.Q.H5.NLG.NRD0.A,EXR.Q.H5.ATS.NRD0.A,EXR.Q.H5.PTE.NRD0.A,EXR.Q.H5.SIT.NRD0.A,EXR.Q.H5.SKK.NRD0.A,EXR.Q.H5.FIM.NRD0.A&exportType=xls",
+            "created": "2016-01-19 10:06:07.153263",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "77",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/0f0bf3da-101a-45ab-a01e-97895520b84c",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Unit labour cost",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "http://sdw.ecb.europa.eu/export.do?type=series&node=SEARCHRESULTS&q=EXR.Q.E1.EUR.ERU1.A,EXR.Q.H5.BEF.NRU1.A,EXR.Q.H5.DEM.NRU1.A,EXR.Q.H5.EEK.NRU1.A,EXR.Q.H5.IEP.NRU1.A,EXR.Q.H5.GRD.NRU1.A,EXR.Q.H5.ESP.NRU1.A,EXR.Q.H5.FRF.NRU1.A,EXR.Q.H5.ITL.NRU1.A,EXR.Q.H5.CYP.NRU1.A,EXR.Q.H5.LVL.NRU1.A,EXR.Q.H5.LUF.NRU1.A,EXR.Q.H5.MTL.NRU1.A,EXR.Q.H5.NLG.NRU1.A,EXR.Q.H5.ATS.NRU1.A,EXR.Q.H5.PTE.NRU1.A,EXR.Q.H5.SIT.NRU1.A,EXR.Q.H5.SKK.NRU1.A,EXR.Q.H5.FIM.NRU1.A&exportType=xls",
+            "created": "2016-01-19 10:06:07.153270",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "113",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/efb033a8-6db5-4f6a-a0d7-a767f45a6332",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Consumer price indices",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "http://sdw.ecb.europa.eu/export.do?type=series&node=SEARCHRESULTS&q=EXR.M.E3.EUR.ERC0.A,EXR.M.H4.BEF.NRC0.A,EXR.M.H4.DEM.NRC0.A,EXR.M.H4.EEK.NRC0.A,EXR.M.H4.IEP.NRC0.A,EXR.M.H4.GRD.NRC0.A,EXR.M.H4.ESP.NRC0.A,EXR.M.H4.FRF.NRC0.A,EXR.M.H4.ITL.NRC0.A,EXR.M.H4.CYP.NRC0.A,EXR.M.H4.LVL.NRC0.A,EXR.M.H4.LUF.NRC0.A,EXR.M.H4.MTL.NRC0.A,EXR.M.H4.NLG.NRC0.A,EXR.M.H4.ATS.NRC0.A,EXR.M.H4.PTE.NRC0.A,EXR.M.H4.SIT.NRC0.A,EXR.M.H4.SKK.NRC0.A,EXR.M.H4.FIM.NRC0.A&exportType=xls",
+            "created": "2016-01-19 10:06:07.153254",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "114",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/7447f58b-7034-48ca-87d0-8445a70624b9",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "ecb-competitiveness-indicators",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
+    "owner_org": "9f2bb7ee-e68e-40af-a47c-09a7658c976a",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "967",
+    "id": "ecb-competitiveness-indicators",
+    "metadata_created": "2015-01-13 08:18:53.384860",
+    "modified_date": "2016-01-19 09:06:06.816388",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [
+        "http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"
+    ],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 4,
+    "description": "Harmonised competitiveness indicators (HCIs) are based on consumer price indices, on gross domestic product (GDP) deflators and on unit labour cost indices for the total economy (period averages; index: Q1 1999=100).  \n\nThe consumer price indices measure the average change over time in the prices paid by households for a specific basket of consumer goods and services. \n\nGDP is a measure of economic activity. It is the value of an economy's total output of goods and services,  plus net taxes on products and imports and minus intermediate consumption. The GDP deflators are derived from quarterly national accounts as published by Eurostat (period averages; index Q1 1999=100). \n\nUnit labour costs for the total economy are calculated as the ratio of compensation per employee to labour productivity. Labour productivity is measured as GDP at constant prices divided by the total number of persons employed using quarterly national accounts as published by Eurostat (period averages; index: Q1 1999=100).\n\nThe purpose of HCIs is to provide comparable measures of euro area countries' price and cost competitiveness that are also consistent with the real effective exchange rates (EERs) of the euro. The HCIs are constructed using the same methodology and data sources that are used for the euro EERs.",
+    "title": "Harmonised competitiveness indicators",
+    "temporal_coverage_from": "1996-01-01T00:00:00",
+    "tracking_summary": "967",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/SLV",
+        "http://publications.europa.eu/resource/authority/language/SPA",
+        "http://publications.europa.eu/resource/authority/language/SWE",
+        "http://publications.europa.eu/resource/authority/language/CES",
+        "http://publications.europa.eu/resource/authority/language/BUL",
+        "http://publications.europa.eu/resource/authority/language/DEU",
+        "http://publications.europa.eu/resource/authority/language/DAN",
+        "http://publications.europa.eu/resource/authority/language/ENG",
+        "http://publications.europa.eu/resource/authority/language/ELL",
+        "http://publications.europa.eu/resource/authority/language/FIN",
+        "http://publications.europa.eu/resource/authority/language/EST",
+        "http://publications.europa.eu/resource/authority/language/HRV",
+        "http://publications.europa.eu/resource/authority/language/FRA",
+        "http://publications.europa.eu/resource/authority/language/ITA",
+        "http://publications.europa.eu/resource/authority/language/HUN",
+        "http://publications.europa.eu/resource/authority/language/LIT",
+        "http://publications.europa.eu/resource/authority/language/LAV",
+        "http://publications.europa.eu/resource/authority/language/NLD",
+        "http://publications.europa.eu/resource/authority/language/MLT",
+        "http://publications.europa.eu/resource/authority/language/POR",
+        "http://publications.europa.eu/resource/authority/language/POL",
+        "http://publications.europa.eu/resource/authority/language/SLK",
+        "http://publications.europa.eu/resource/authority/language/RON"
+    ],
+    "alternative_title": "",
+    "url": "https://www.euro-area-statistics.org/competitiveness-indicators?cr=eur&lg=en#",
+    "release_date": "2015-01-13 08:18:53.384860",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "ecb",
+        "title": "European Central Bank"
+    }
+}

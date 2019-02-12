@@ -1,0 +1,276 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "loans",
+            "name": "loans"
+        },
+        {
+            "display_name": "Euro area statistics",
+            "name": "Euro area statistics"
+        },
+        {
+            "display_name": "ECB",
+            "name": "ECB"
+        },
+        {
+            "display_name": "European Central Bank",
+            "name": "European Central Bank"
+        },
+        {
+            "display_name": "flows",
+            "name": "flows"
+        },
+        {
+            "display_name": "deposits",
+            "name": "deposits"
+        },
+        {
+            "display_name": "corporates",
+            "name": "corporates"
+        },
+        {
+            "display_name": "liabilities",
+            "name": "liabilities"
+        },
+        {
+            "display_name": "investment funds",
+            "name": "investment funds"
+        },
+        {
+            "display_name": "households",
+            "name": "households"
+        },
+        {
+            "display_name": "economy",
+            "name": "economy"
+        }
+    ],
+    "metadata_modified": "2016-01-19 08:40:29.138965",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/408",
+        "http://eurovoc.europa.eu/1452",
+        "http://eurovoc.europa.eu/5455",
+        "http://eurovoc.europa.eu/4263",
+        "http://eurovoc.europa.eu/6151"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Total",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "http://sdw.ecb.europa.eu/export.do?type=series&node=SEARCHRESULTS&q=IVF.Q.%3F%3F.N.T0.T00.A.4.Z5.0000.Z01.E&exportType=xls",
+            "created": "2016-01-19 09:40:29.583938",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "5",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/0a43d323-bf2d-4847-8f65-be33ad966cb0",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Other liabilities",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "http://sdw.ecb.europa.eu/export.do?type=series&node=SEARCHRESULTS&q=IVF.Q.%3F%3F.N.T0.LT1.A.4.Z5.0000.Z01.E&exportType=xls",
+            "created": "2016-01-19 09:40:29.583931",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "4",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/065fe32b-a22f-4799-9360-b20432a14597",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Investment fund units",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "http://sdw.ecb.europa.eu/export.do?type=series&node=SEARCHRESULTS&q=IVF.Q.%3F%3F.N.T0.L30.A.4.Z5.0000.Z01.E&exportType=xls",
+            "created": "2016-01-19 09:40:29.583915",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "5",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/8b146662-d4f5-413c-88fe-462c41639e7b",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Loans and deposits received",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "http://sdw.ecb.europa.eu/export.do?type=series&node=SEARCHRESULTS&q=IVF.Q.%3F%3F.N.T0.L20.A.4.Z5.0000.Z01.E&exportType=xls",
+            "created": "2016-01-19 09:40:29.583923",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "5",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/3e6d0559-0f20-4882-b3ec-f3c05779d222",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Investment funds - Liabilities (Flows)",
+            "format": "",
+            "url": "https://www.euro-area-statistics.org/investment-funds-liabilities?cr=eur&cr1=eur&lg=en&page=1",
+            "created": "2016-01-19 09:40:29.583880",
+            "tracking_summary": null,
+            "name": "Investment funds - Liabilities (Flows)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/aee47cd5-4bd8-4fdf-aa53-66ebd77f572d",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "ecb-investment-funds-liabilities-flows",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/OTHER",
+    "owner_org": "9f2bb7ee-e68e-40af-a47c-09a7658c976a",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "422",
+    "id": "ecb-investment-funds-liabilities-flows",
+    "metadata_created": "2015-01-13 08:18:57.169103",
+    "modified_date": "2016-01-19 08:40:29.138965",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [
+        "http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"
+    ],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 5,
+    "description": "This dataset presents statistics on the liabilities of investment funds resident in the euro area. It covers financial transactions.",
+    "title": "Investment funds statistics on the liabilities - Flows",
+    "temporal_coverage_from": "2008-01-01T00:00:00",
+    "tracking_summary": "422",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/SLV",
+        "http://publications.europa.eu/resource/authority/language/SPA",
+        "http://publications.europa.eu/resource/authority/language/SWE",
+        "http://publications.europa.eu/resource/authority/language/CES",
+        "http://publications.europa.eu/resource/authority/language/BUL",
+        "http://publications.europa.eu/resource/authority/language/DEU",
+        "http://publications.europa.eu/resource/authority/language/DAN",
+        "http://publications.europa.eu/resource/authority/language/ENG",
+        "http://publications.europa.eu/resource/authority/language/ELL",
+        "http://publications.europa.eu/resource/authority/language/FIN",
+        "http://publications.europa.eu/resource/authority/language/EST",
+        "http://publications.europa.eu/resource/authority/language/HRV",
+        "http://publications.europa.eu/resource/authority/language/FRA",
+        "http://publications.europa.eu/resource/authority/language/ITA",
+        "http://publications.europa.eu/resource/authority/language/HUN",
+        "http://publications.europa.eu/resource/authority/language/LIT",
+        "http://publications.europa.eu/resource/authority/language/LAV",
+        "http://publications.europa.eu/resource/authority/language/NLD",
+        "http://publications.europa.eu/resource/authority/language/MLT",
+        "http://publications.europa.eu/resource/authority/language/POR",
+        "http://publications.europa.eu/resource/authority/language/POL",
+        "http://publications.europa.eu/resource/authority/language/SLK",
+        "http://publications.europa.eu/resource/authority/language/RON"
+    ],
+    "alternative_title": "",
+    "url": "https://www.euro-area-statistics.org/investment-funds-liabilities?cr=eur&cr1=eur&lg=en&page=1#",
+    "release_date": "2015-01-13 08:18:57.169103",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "ecb",
+        "title": "European Central Bank"
+    }
+}

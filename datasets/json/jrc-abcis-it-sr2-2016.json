@@ -1,0 +1,134 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        },
+        {
+            "display_name": "Environment",
+            "name": "Environment"
+        }
+    ],
+    "metadata_modified": "2018-12-21 11:11:40.872964",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Unvalidated, near real time, half-hour averages of GHG fluxes plus ancillary meteo data from ICOS ES station in San Rossore, Pisa, Italy. No QA/QC applied. Time is UTC and refers to end of averaging period",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "ftp://ftp-ccu.jrc.it/pub/ABCIS/Fluxes/Ver2016-01-01/Fluxes_2016.csv",
+            "created": "2018-12-21 12:11:40.962327",
+            "tracking_summary": null,
+            "name": "NRT data of GHG fluxes at IT-SR2",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/0cfe0e92-f10c-41b1-a41d-d8f7dc0439c8",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://abc-is.jrc.ec.europa.eu/",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/83e12c4a-2439-4d31-b288-ef3974b52ff4",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "jrc-abcis-it-sr2-2016",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/SMR",
+        "http://publications.europa.eu/resource/authority/country/MNE",
+        "http://publications.europa.eu/resource/authority/country/TUN",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/VAT",
+        "http://publications.europa.eu/resource/authority/country/BIH",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/DZA",
+        "http://publications.europa.eu/resource/authority/country/CHE",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/MCO",
+        "http://publications.europa.eu/resource/authority/country/LIE"
+    ],
+    "revision_id": null,
+    "identifier": "jrc-abcis-it-sr2-2016",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "45",
+    "id": "jrc-abcis-it-sr2-2016",
+    "metadata_created": "2017-02-13 12:50:50.319912",
+    "modified_date": "2018-12-21 11:11:40.872964",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "Measurements of fluxes of CO2, H2O, energy plus meteorological parameters of the atmosphere and the soil at the ICOS station IT-SR2 in San Rossore, Pisa, Italy, following the ICOS protocol",
+    "title": "Forest flux station - IT-SR2-2016",
+    "temporal_coverage_from": "",
+    "tracking_summary": "45",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/jrc-abcis-it-sr2-2016",
+    "release_date": "2017-02-13 12:50:50.319912",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

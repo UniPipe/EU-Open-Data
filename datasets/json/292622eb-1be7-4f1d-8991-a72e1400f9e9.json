@@ -1,0 +1,125 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Regions and cities",
+            "name": "Regions and cities"
+        },
+        {
+            "display_name": "72 GEOGRAPHY",
+            "name": "72 GEOGRAPHY"
+        },
+        {
+            "display_name": "Orthoimagery",
+            "name": "Orthoimagery"
+        },
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        }
+    ],
+    "metadata_modified": "2018-12-21 10:53:19.337287",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Maps produced in scope of this Copernicus EMS Risk and Recovery Mapping activation downloadable as georeferenced PDFs, TIFFs and JPEGs together with relevant geodatabase (GDB) and complete final report as well.",
+            "format": "application/x-filegdb",
+            "url": "http://emergency.copernicus.eu/EMSN029",
+            "created": "2018-12-21 11:53:19.374999",
+            "tracking_summary": null,
+            "name": "Copernicus EMS Risk and Recovery Mapping Activation [EMSN029]: Forest fire damage assessment - new risks and mitigation (2016-06-13)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/c881d839-4f97-4862-86bf-7b23f9428bae",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://emergency.copernicus.eu/EMSN029",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/c809b7b6-3448-42ff-8069-be504ddd5856",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "292622eb-1be7-4f1d-8991-a72e1400f9e9",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ESP"
+    ],
+    "revision_id": null,
+    "identifier": "292622eb-1be7-4f1d-8991-a72e1400f9e9",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "20",
+    "id": "292622eb-1be7-4f1d-8991-a72e1400f9e9",
+    "metadata_created": "2017-09-26 14:55:23.628122",
+    "modified_date": "2018-12-21 10:53:19.337287",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "<br/> \nActivation date: 2016-06-13 <br/> \nEvent type: Other <br/> \n <br/> \nActivation reason:  <br/> \nTwo areas of Special Areas of Conservation: Sierra de Espad&aacute;n and Curs Alt del riu Millars were hit by a forest fire in July 2015, in the Mont&aacute;n and Caudiel municipalities of the region of Valencia. The analysis of the damage degree and landslide and erosion risk is of key importance for the spatial and temporal planning of the post-event restoration work. The scope of the activation included:Delineation/gradingDelineation by a combination of semi-automatic thresholding of post event VHR optical satellite image data and visual interpretation of UAV images.A combination of vegetation index (NDVI and MSAVI) with burn index (BAI) and statistical measures to differentiate the damage severity.Loss assessmentThe loss of biodiversity is based on the environmental value of the area, estimated from biotic (flora and fauna) and abiotic (hydrology, slope, geology, shade, etc.) elements, which render an area more or less suitable for feeding, nesting, etc. For the habitats identification, the Spanish Inventory of Land Habitats (MAGRAMA, 1997) and the Spanish Natural and Semi-natural Habitats (MAGRAMA, 2005) were used. This was combined with the fire damage grade to assess and quantify biodiversity loss.The estimated total biomass prior to the fire was based on the structure and development of the forest stand, given by land use/cover data and the Spain Forest Map MAGRAMA, MFE50. For every type of predominant forest a combustion factor was assigned, taking into consideration the severity of the fire, thereby obtaining the total biomass after the fire.Landslide riskComputed using Spatial Multicriteria Evaluation technique (SMCE), based on the European Landslide Susceptibility Map (ELSUS1000) Version 1 methodology, a factor of slope gradient, land cover and lithology.Erosion riskEvaluated in terms of average of loss of soil based on Revised Universal Soil Loss Equation (RUSLE). This is a function of rainfall erosivity, soil erodibility, slope length and gradient, vegetation cover and anti-erosion measures.Mitigation measuresRemoval of burnt wood and soil protection with plant materialReforestation of burnt areasHydrotechnicsBank stabilizationDykes&nbsp; <br/> \n <br/>",
+    "title": "Forest fire damage assessment - new risks and mitigation (2016-06-13)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "20",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/292622eb-1be7-4f1d-8991-a72e1400f9e9",
+    "release_date": "2017-09-26 14:55:23.628122",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

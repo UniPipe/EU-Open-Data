@@ -1,0 +1,258 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "vote",
+            "name": "vote"
+        },
+        {
+            "display_name": "decision-making",
+            "name": "decision-making"
+        },
+        {
+            "display_name": "legislative process",
+            "name": "legislative process"
+        },
+        {
+            "display_name": "decision-making process",
+            "name": "decision-making process"
+        },
+        {
+            "display_name": "Council of the European Union",
+            "name": "Council of the European Union"
+        },
+        {
+            "display_name": "EU law",
+            "name": "EU law"
+        },
+        {
+            "display_name": "voting",
+            "name": "voting"
+        },
+        {
+            "display_name": "votes",
+            "name": "votes"
+        },
+        {
+            "display_name": "policy",
+            "name": "policy"
+        },
+        {
+            "display_name": "legislative",
+            "name": "legislative"
+        }
+    ],
+    "metadata_modified": "2019-01-03 09:59:01.731996",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/525",
+        "http://eurovoc.europa.eu/4750",
+        "http://eurovoc.europa.eu/5258",
+        "http://eurovoc.europa.eu/127",
+        "http://eurovoc.europa.eu/114",
+        "http://eurovoc.europa.eu/3102",
+        "http://eurovoc.europa.eu/1451",
+        "http://eurovoc.europa.eu/4017",
+        "http://eurovoc.europa.eu/349",
+        "http://eurovoc.europa.eu/440238",
+        "http://eurovoc.europa.eu/4321",
+        "http://eurovoc.europa.eu/440549",
+        "http://eurovoc.europa.eu/440265"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint for: Council votes on legislative acts",
+            "format": "http://publications.europa.eu/resource/authority/file-type/SPARQLQ",
+            "url": "http://data.consilium.europa.eu/sparql",
+            "created": "2015-02-17 11:59:03.583594",
+            "tracking_summary": null,
+            "name": "SPARQL endpoint",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "164",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/5f54f08e-678f-4c20-bdc2-8720ae00521e",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The full RDF dump of the dataset: Council votes on legislative acts in the form of a compressed .ZIP file.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://data.consilium.europa.eu/data/public-voting/council-votes-on-legislative-acts.zip",
+            "created": "2015-02-17 12:23:54.872249",
+            "tracking_summary": null,
+            "name": "Full Data: Council votes on legislative acts",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "301",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/47543fc1-d220-43bb-8700-4ae301c843fb",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "User's manual  for the Council's Open Datasets.\r\n",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "https://www.consilium.europa.eu/media/29365/users-manual.pdf",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Council's Open Datasets - User's manual ",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/0f2819c9-3f38-4791-b774-4ceaa037f0af",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Understanding the Council's open data datasets",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "https://www.consilium.europa.eu/media/29364/understanding-open-data-datasets.pdf",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Understanding the Council's open data datasets",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/0d5a6e13-63a9-4e0d-b7ad-99687a48cb1e",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Councilium's Open Data website.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://www.consilium.europa.eu/en/general-secretariat/corporate-policies/transparency/open-data/",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Open Data Documentation (website)",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/4561b343-3b5c-4441-8fa6-246c2ded03ee",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "council-votes-on-legislative-acts",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "2f76e90d-b475-415f-a675-02dfb82939af",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "1851",
+    "id": "council-votes-on-legislative-acts",
+    "metadata_created": "2015-07-27 13:26:31.767718",
+    "modified_date": "2019-01-03 09:59:01.731996",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [
+        "http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"
+    ],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "The Council's voting records are public whenever it adopts a legislative act under the ordinary or a special legislative procedure. On average, the Council adopts 120 legislative acts per year.\r\n\r\nThis database contains not only the votes of the Council when adopting a legislative act but also information related to that act, such as:\r\n\r\n* act type (regulation, directive, decision or position), \r\n* act number (as published in the EU's Official Journal), \r\n* document number (submitted to the Council for adoption), \r\n* interinstitutional number, \r\n* date of adoption, \r\n* action by the Council (according to the steps of the legislative procedure), \r\n* form of adoption (in a Council meeting or by written procedure), \r\n* Council configuration, \r\n* Council session, \r\n* policy area, \r\n* voting procedure (ordinary or special legislative procedure), \r\n* voting rule (qualified majority or unanimity).\r\n\r\nFor more information please visit: http://www.consilium.europa.eu/en/general-secretariat/corporate-policies/transparency/open-data/ ",
+    "title": "Council votes on legislative acts",
+    "temporal_coverage_from": "2009-12-01T00:00:00",
+    "tracking_summary": "1851",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/JUST"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.consilium.europa.eu/data/public-voting/",
+    "release_date": "2015-07-27 13:26:31.767718",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "consil",
+        "title": "Council of the European Union"
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "spray drift",
+            "name": "spray drift"
+        },
+        {
+            "display_name": "site",
+            "name": "site"
+        },
+        {
+            "display_name": "exposure",
+            "name": "exposure"
+        },
+        {
+            "display_name": "risk assessment",
+            "name": "risk assessment"
+        },
+        {
+            "display_name": "air concentration",
+            "name": "air concentration"
+        },
+        {
+            "display_name": "environment",
+            "name": "environment"
+        },
+        {
+            "display_name": "bystanders",
+            "name": "bystanders"
+        },
+        {
+            "display_name": "application",
+            "name": "application"
+        },
+        {
+            "display_name": "literature review",
+            "name": "literature review"
+        },
+        {
+            "display_name": "dislodgeable residues",
+            "name": "dislodgeable residues"
+        },
+        {
+            "display_name": "residents",
+            "name": "residents"
+        },
+        {
+            "display_name": "plant protection products",
+            "name": "plant protection products"
+        }
+    ],
+    "metadata_modified": "2017-05-30 11:41:08.053026",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/3469"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Dataset and data dictionary",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XLS",
+            "url": "https://data.europa.eu/euodp/data/storage/f/2017-05-30T101736/Pesticide%20usage%20datasets%20and%20data%20dictionary.xlsx",
+            "created": "2017-05-08 14:36:10.031445",
+            "tracking_summary": null,
+            "name": "Exposure to pesticides data for residents and bystanders, and for environmental risk assessment",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "86",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/e96fbffe-bbdc-4edf-af20-35505265970c",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "exposure-to-pesticides-data-for-residents-and-bystanders-and-for-environmental-risk-assessment",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "c097b708-c0d6-4064-a99b-3cd55ad7b8b8",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "230",
+    "id": "exposure-to-pesticides-data-for-residents-and-bystanders-and-for-environmental-risk-assessment",
+    "metadata_created": "2017-05-08 12:36:09.530430",
+    "modified_date": "2017-05-30 11:41:08.053026",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "In 2014, EFSA has commissioned a study to review and evaluate all published data related to the exposure to pesticides for residents and bystanders and for environmental risk assessment. The aim was to conduct a literature review and to produce a database containing all published data (predominately peer-reviewed publications supplemented by grey-literature) for the last 25-years, which will support the non-dietary exposure assessment to pesticides for bystanders and residents, as well as daily air concentration (vapours and aerosols) of pesticides, drift values from spray, seed and granular applications, and dislodgeable foliar residues.\r\n\r\nThe data has been collated via a systematic and extensive literature review defined and managed according to a pre-defined 'review protocol'. The data was also exported in a format that meets the requirements of the EFSA Data Collection Framework (DCF).\r\n\r\nBased on quality and relevance criteria, articles and related studies have been selected. For dislodgeable foliar residues the assessment includes 27 articles (containing 49 discrete studies); for air concentrations, 26 articles (containing 84 discrete studies); for resident and bystander exposure, 5 articles (containing 8 discrete studies); and for drift values 55 articles (containing 275 discrete studies).  \r\n\r\nFor dislodgeable foliar residues the data retained covered 17 crops (including grass, glasshouse crops, lucerne, and citrus) and 29 pesticides; for air concentrations the data retained covered 21 crops (including fruit, glasshouse crops, ornamentals, grass, vegetables and cereals) and 39 pesticides. For drift values, the data covers a range of crops and landscapes from cereals, grass and turf, orchards, vineyards and regenerated forestry. The vast majority of the data retrieved applies to field studies for liquid spray drift, measured either as ground deposits or collected at various heights and were conducted using fluorescent tracers rather than pesticides. No data was found for microbials (biopesticides). For resident and bystander exposure, many articles were rejected due to the applied inclusion/exclusion criteria.",
+    "title": "Exposure to pesticides data for residents and bystanders, and for environmental risk assessment",
+    "temporal_coverage_from": "",
+    "tracking_summary": "230",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "https://doi.org/10.5281/zenodo.344893",
+    "release_date": "2017-05-08 12:36:09.530430",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "efsa",
+        "title": "European Food Safety Authority"
+    }
+}

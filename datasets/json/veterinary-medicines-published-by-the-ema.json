@@ -1,0 +1,193 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "assessment reports",
+            "name": "assessment reports"
+        },
+        {
+            "display_name": "EPAR",
+            "name": "EPAR"
+        },
+        {
+            "display_name": "human medicines",
+            "name": "human medicines"
+        },
+        {
+            "display_name": "authorised medicine",
+            "name": "authorised medicine"
+        },
+        {
+            "display_name": "refused medicine",
+            "name": "refused medicine"
+        },
+        {
+            "display_name": "marketing authorisation",
+            "name": "marketing authorisation"
+        }
+    ],
+    "metadata_modified": "2019-01-09 16:14:59.015835",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/5734",
+        "http://eurovoc.europa.eu/5594"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Search for EPARs of veterinary medicines",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://www.ema.europa.eu/en/search/search/ema_group_types/ema_medicine/field_ema_web_categories%253Aname_field/Veterinary?",
+            "created": "2019-01-09 17:14:59.119337",
+            "tracking_summary": null,
+            "name": "Search for EPARs of veterinary medicines",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "3",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ebbf812f-27c3-4b3c-9ace-ee6e88bac178",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "You can download the European Medicines Agency's (EMA) medicine-related data published on this website in Excel table format from this page. EMA updates these medicine data tables once a day.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XLS",
+            "url": "https://www.ema.europa.eu/sites/default/files/Medicines_output_summaries_of_opinion.xlsx",
+            "created": "2019-01-09 17:14:59.119325",
+            "tracking_summary": null,
+            "name": "Download table of all EPARs for human and veterinary medicines",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "1",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/d47977ab-72cb-4640-98e3-ac1100da9be2",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Download medicine data: European public assessment reports (EPAR)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://www.ema.europa.eu/en/medicines/download-medicine-data#european-public-assessment-reports-(epar)-section",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Download medicine data: European public assessment reports (EPAR)",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/cacc055a-bfc0-43f1-8e6d-769dc90c1c5b",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "veterinary-medicines-published-by-the-ema",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "cc9851fa-c87a-4be0-ada7-573e1a6aad2e",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "323",
+    "id": "veterinary-medicines-published-by-the-ema",
+    "metadata_created": "2015-12-15 16:07:21.234276",
+    "modified_date": "2019-01-09 16:14:59.015835",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "The EMA publishes an EPAR for every medicine granted a central marketing authorisation by the European Commission following an assessment by the EMA's Committee for Medicinal Products for Veterinary Use (CVMP). EPARs are full scientific assessment reports of medicines authorised at a European Union level.\r\n\r\nUse this search to find key information on medicines authorised for veterinary use, including a public-friendly summary in question-and-answer format and the package leaflet. You can also find information on medicines that have been refused a marketing authorisation or that have been suspended or withdrawn after being approved.\r\n\r\nThe Agency does not evaluate all medicines currently in use in Europe. If you cannot find the medicine you need through this search, please visit the website of your national health authority. More information is also available on the central authorisation procedure and on European public assessment reports.\r\n\r\nSearch results can be exported in Excel format.",
+    "title": "Medicine data: European public assessment reports (EPAR) for veterinary medicines",
+    "temporal_coverage_from": "",
+    "tracking_summary": "323",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "https://data.europa.eu/euodp/en/data/dataset/veterinary-medicines-published-by-the-ema",
+    "release_date": "2015-12-15 16:07:21.234276",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "emea",
+        "title": "European Medicines Agency"
+    }
+}

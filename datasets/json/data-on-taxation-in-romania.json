@@ -1,0 +1,192 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "tax aggregates",
+            "name": "tax aggregates"
+        },
+        {
+            "display_name": "social contributions",
+            "name": "social contributions"
+        },
+        {
+            "display_name": "taxation",
+            "name": "taxation"
+        },
+        {
+            "display_name": "VAT",
+            "name": "VAT"
+        },
+        {
+            "display_name": "Romania",
+            "name": "Romania"
+        },
+        {
+            "display_name": "EU rules",
+            "name": "EU rules"
+        },
+        {
+            "display_name": "data",
+            "name": "data"
+        },
+        {
+            "display_name": "environmental taxes",
+            "name": "environmental taxes"
+        },
+        {
+            "display_name": "direct taxes",
+            "name": "direct taxes"
+        },
+        {
+            "display_name": "indirect taxes",
+            "name": "indirect taxes"
+        },
+        {
+            "display_name": "implicit tax rates",
+            "name": "implicit tax rates"
+        },
+        {
+            "display_name": "property taxes",
+            "name": "property taxes"
+        },
+        {
+            "display_name": "national tax authorities",
+            "name": "national tax authorities"
+        }
+    ],
+    "metadata_modified": "2019-01-04 09:26:41.867427",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/1310",
+        "http://eurovoc.europa.eu/1021",
+        "http://eurovoc.europa.eu/1314",
+        "http://eurovoc.europa.eu/1313",
+        "http://eurovoc.europa.eu/1319",
+        "http://eurovoc.europa.eu/1316",
+        "http://eurovoc.europa.eu/4266",
+        "http://eurovoc.europa.eu/250",
+        "http://eurovoc.europa.eu/5839"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Detailed list of taxes and social contributions according to national classification. Tax name according to national classification. Economic function. \r\nExplanatory notes about the sub-items according to national classification, for the codes used for economic functions and environmental taxes and the codes for specific entries.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XLS",
+            "url": "https://ec.europa.eu/taxation_customs/sites/taxation/files/resources/documents/taxation/gen_info/economic_analysis/data_on_taxation/ro-national-tax.xls",
+            "created": "2017-02-17 10:02:51.988089",
+            "tracking_summary": null,
+            "name": "2. National tax list for Romania",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "6",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/965be581-e1a9-42c4-801d-e130e41e5f57",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Structure by type of tax.\r\nStructure by level of government. \r\nStructure by economic function. \r\nDifferent types of taxes.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XLS",
+            "url": "https://ec.europa.eu/taxation_customs/sites/taxation/files/resources/documents/taxation/gen_info/economic_analysis/data_on_taxation/ro-summary-tables-country.xlsx",
+            "created": "2017-02-17 09:59:36.197979",
+            "tracking_summary": null,
+            "name": "1. Summary table for the tax revenue in Romania",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "4",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/0a4aec4b-2f9c-4284-ac71-11205a7d8f4a",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "This report contains a detailed statistical and economic analysis of the tax systems of the 28 Member States of the European Union, plus Iceland and Norway which are members of the European Economic Area.\r\n",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://ec.europa.eu/taxation_customs/business/economic-analysis-taxation/taxation-trends-eu-union_en",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Taxation trends in the European Union",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/03e77b04-f81e-4841-bca8-8ce160b96b67",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "data-on-taxation-in-romania",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "fac58fc0-6115-4080-965a-30565b6bb99f",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "2014-01-01T00:00:00",
+    "num_tags": null,
+    "views_total": "16",
+    "id": "data-on-taxation-in-romania",
+    "metadata_created": "2017-02-17 08:58:54.100170",
+    "modified_date": "2019-01-04 09:26:41.867427",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "Here you can find information about the taxation in Romania on the basis of information collected from national  databases and the relevant indicators. The data is available for the following types of taxes: \r\n\r\n- Indirect taxes;\r\n\r\n- Direct taxes;\r\n\r\n- Social contributions;\r\n\r\n- Property taxes;\r\n\r\n- Implicit tax rates;\r\n\r\n- Environmental taxes.\r\n\r\nThe application of VAT is decided by the national tax authorities. There are some standard EU rules that in general are applied. ",
+    "title": "Data on taxation in Romania",
+    "temporal_coverage_from": "2002-01-01T00:00:00",
+    "tracking_summary": "16",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/euodp/en/data/dataset/data-on-taxation-in-romania",
+    "release_date": "2017-02-17 08:58:54.100170",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "taxud",
+        "title": "Directorate-General for Taxation and Customs Union"
+    }
+}

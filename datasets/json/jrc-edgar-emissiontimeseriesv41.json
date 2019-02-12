@@ -1,0 +1,139 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        },
+        {
+            "display_name": "Environment",
+            "name": "Environment"
+        }
+    ],
+    "metadata_modified": "2018-12-21 11:17:13.447432",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Country emissions are available for download (.xls tables) in 2 different standard formats:\n- Total emissions per country for the period 1970-2005\n- Annual emissions by country and sector",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XLS",
+            "url": "http://edgar.jrc.ec.europa.eu/overview.php?v=41",
+            "created": "2018-12-21 12:17:13.724147",
+            "tracking_summary": null,
+            "name": "EDGAR V4.1 EmissionTime Series",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "7",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/884232a9-0da0-4aa4-967c-be1586d106ad",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://edgar.jrc.ec.europa.eu/overview.php?v=41",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/b4d0a52b-5117-4fcf-a3ef-f4dcb204b361",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://edgar.jrc.ec.europa.eu/",
+            "created": null,
+            "tracking_summary": null,
+            "name": "The EDGAR project homepage",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/4676ff00-ca8c-466d-8a85-0cee748d08d8",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "jrc-edgar-emissiontimeseriesv41",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "jrc-edgar-emissiontimeseriesv41",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "32",
+    "id": "jrc-edgar-emissiontimeseriesv41",
+    "metadata_created": "2017-02-14 14:04:01.246660",
+    "modified_date": "2018-12-21 11:17:13.447432",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "The Emissions Database for Global Atmospheric Research (EDGAR) provides global past and present day anthropogenic emissions of greenhouse gases and air pollutants by country and on spatial grid. The current development of EDGAR is a joint project of the European Commission JRC Joint Research Centre and the Netherlands Environmental Assessment Agency (PBL).",
+    "title": "EDGARv4.1 Emission Time Series",
+    "temporal_coverage_from": "",
+    "tracking_summary": "32",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/jrc-edgar-emissiontimeseriesv41",
+    "release_date": "2017-02-14 14:04:01.246660",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

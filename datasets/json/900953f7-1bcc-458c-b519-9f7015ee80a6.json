@@ -1,0 +1,127 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Regions and cities",
+            "name": "Regions and cities"
+        },
+        {
+            "display_name": "72 GEOGRAPHY",
+            "name": "72 GEOGRAPHY"
+        },
+        {
+            "display_name": "Orthoimagery",
+            "name": "Orthoimagery"
+        },
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        }
+    ],
+    "metadata_modified": "2018-12-21 10:51:46.884367",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Maps produced in scope of this Copernicus EMS Risk and Recovery Mapping activation downloadable as georeferenced PDFs, TIFFs and JPEGs together with relevant geodatabase (GDB) and complete final report as well.",
+            "format": "application/x-filegdb",
+            "url": "http://emergency.copernicus.eu/EMSN041",
+            "created": "2018-12-21 11:51:47.190759",
+            "tracking_summary": null,
+            "name": "Copernicus EMS Risk and Recovery Mapping Activation [EMSN041]: Forest fire risks assessment in Croatia (2017-10-30)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/3c3bd681-b08b-41c6-a420-138b80f8aeab",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://emergency.copernicus.eu/EMSN041",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/a50627a2-a0a5-4485-9e61-cc4abba4a24a",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "900953f7-1bcc-458c-b519-9f7015ee80a6",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/BIH",
+        "http://publications.europa.eu/resource/authority/country/ITA"
+    ],
+    "revision_id": null,
+    "identifier": "900953f7-1bcc-458c-b519-9f7015ee80a6",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "11",
+    "id": "900953f7-1bcc-458c-b519-9f7015ee80a6",
+    "metadata_created": "2017-09-26 14:57:39.095679",
+    "modified_date": "2018-12-21 10:51:46.884367",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "<br/> \nActivation date: 2017-10-30 <br/> \nEvent type: Forest fire, wild fire <br/> \n <br/> \nActivation reason:  <br/> \nThe scope of the service request was to generate Forest Fire Risk assessment analyses and mitigation products covering a set of 27 focus areas in Croatia. Apart from the General Reference context the following Risk and Recovery products were generated:Forest Fire exposure and risk, as well as vulnerability of people and assetsRisk - specific mitigation measures suggestionsCritical information for the development and management of first response infrastructures&nbsp; &nbsp;Assets &amp; Population Exposure &amp; Vulnerability&nbsp;The assessment of the forest fire hazard takes in to account both fire intensity and surface properties. The generation of a forest fire index layer was based on specific assumptions and takes in to account anaglyph, aspect &amp; height zones, vegetation cover, climatological conditions and historical forest fires records. Forest fire hazard maps show the hazard levels in forested and semi natural areas, as well as certain heterogeneous agricultural areas. Urban environment and arable land classes are excluded from the forest fire hazard assessment.The exposure layer was generated automatically, by overlaying the forest fire hazard layer, with detailed information on population density and assets: transportation network, POIs &amp; LULC.The vulnerability assessment of the exposed elements was calculated by considering specific criteria that characterize vulnerability to fires and distinguishes urban from non-urban areas.Statistical analysis was carried out, showing the potential severity of the impact on assets and population.&nbsp;&nbsp;&nbsp; &nbsp;Transportation Network Vulnerability to Disruption&nbsp;Vulnerability of disruption estimated through accounting for the following parameters:Road capacity inferred by the respective taxonomy (primary, secondary, etc.)Proximity to population placesPopulation (residents)An appropriate buffer, per road segment (of similar capacity), was used to estimate the nearby population density, that (potentially) generates the traffic load, to serve as input for alternative routing.&nbsp;&nbsp; &nbsp;Population, Assets &amp; Transportation Network at Risk&nbsp;Forest fires risk assessment was based on the combination of forest fire hazard and vulnerability of the exposed elements. Forest fire risk estimation depends on the type of biomass fuel and the proximity of population and assets to the most hazardous areas in terms of forest fire activity. Transport network risk is estimated as the combined effect of hazard and vulnerability to disruption.First Aid areas and the appropriate mitigation measures generated, using appropriate spatial analysis, aiming to provide elaborated suggestions for efficiently addressing civil protection and response efforts.&nbsp; <br/> \n <br/>",
+    "title": "Forest fire risks assessment in Croatia (2017-10-30)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "11",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/900953f7-1bcc-458c-b519-9f7015ee80a6",
+    "release_date": "2017-09-26 14:57:39.095679",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

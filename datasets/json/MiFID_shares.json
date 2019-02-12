@@ -1,0 +1,86 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "regulated markets",
+            "name": "regulated markets"
+        },
+        {
+            "display_name": "MiFID",
+            "name": "MiFID"
+        },
+        {
+            "display_name": "shares",
+            "name": "shares"
+        },
+        {
+            "display_name": "regulators",
+            "name": "regulators"
+        }
+    ],
+    "metadata_modified": "2017-06-28 15:11:13.538388",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/1804",
+        "http://eurovoc.europa.eu/1795",
+        "http://eurovoc.europa.eu/8469",
+        "http://eurovoc.europa.eu/5362"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [],
+    "interoperability_level": null,
+    "name": "MiFID_shares",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "1923",
+    "id": "MiFID_shares",
+    "metadata_created": "2015-07-27 14:06:13.153248",
+    "modified_date": "2017-06-28 15:11:13.538388",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 0,
+    "description": "The MiFID implementing Regulation (No 1287/2006, of 10 August 2006) requires the relevant competent authorities to calculate and publish a set of information regarding all shares which are admitted to trading on a regulated market. ESMA has collected this information, and publishes it in the form of a database.  The information included in this database allows market participants to recognise liquid shares (which trigger the obligations for systematic internalisers according to Article 27) and to determine the block sizes for waivers from pre-trade transparency requirements and delayed post-trade publication.\r\n\r\nNational competent authorities are responsible for the calculations and the content of this database. Any queries regarding the content should be addressed directly to the competent authority for that share.\r\n\r\nThe list will be updated regularly by the national competent authorities. The changes include new shares to be admitted to trading as well as de-listings. New admission will be included on the first day of trading at the latest. In addition, further changes may be made on an ongoing basis, if a national authority on the basis of Article 33 (5) of the Implementation Regulation identifies a change in the share or issuer which significantly affects the previous calculations. These ad-hoc updates will, however, take place only in exceptional cases. A regular review of the calculations will be done annually. New calculations will be published at the beginning of March every year and they will be valid from 1 April for the next 12 months.",
+    "title": "Shares admitted to trading on regulated markets",
+    "temporal_coverage_from": "",
+    "tracking_summary": "1923",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "https://registers.esma.europa.eu/publication/searchRegister?core=esma_registers_mifid_sha",
+    "release_date": "2015-07-27 14:06:13.153248",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "esma",
+        "title": "European Securities and Markets Authority"
+    }
+}

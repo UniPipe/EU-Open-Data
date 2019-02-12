@@ -1,0 +1,152 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "translation",
+            "name": "translation"
+        },
+        {
+            "display_name": "linguistics",
+            "name": "linguistics"
+        },
+        {
+            "display_name": "language-technology",
+            "name": "language-technology"
+        },
+        {
+            "display_name": "language-application",
+            "name": "language-application"
+        },
+        {
+            "display_name": "corpus",
+            "name": "corpus"
+        }
+    ],
+    "metadata_modified": "2018-02-14 10:44:30.801116",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Data archive containing files in the following formats: application/xml",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "https://elrc-share.eu/repository/browse/polish-food-dataset-2/2c2b28c7fe6e11e6bfe700155d020502b30425ea8b2645d9aaa44c0c368dfd88/",
+            "created": "2017-12-18 16:48:08.887420",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "31",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/a2e91dee-67a6-4986-99ed-b27acfc73e6c",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Metadata description",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "http://data.europa.eu/data/euodp/dataset/49ce4523-542f-4769-b2ed-d6e19e18bc1a/resource/7207fc7b-778c-41e6-8ed1-ece31023bae7/download/elrc295polishfooddataset2md.xml",
+            "created": null,
+            "tracking_summary": null,
+            "name": "",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/7207fc7b-778c-41e6-8ed1-ece31023bae7",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Validation report",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "http://data.europa.eu/data/euodp/dataset/49ce4523-542f-4769-b2ed-d6e19e18bc1a/resource/5abf25b7-c53c-4b73-b4b5-99a3c35caf99/download/elrc295polishfooddataset2valrep.pdf",
+            "created": null,
+            "tracking_summary": null,
+            "name": "",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/5abf25b7-c53c-4b73-b4b5-99a3c35caf99",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "elrc_295",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "d7c6596e-9b6e-4461-a6b8-3cfeba1da887",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "ELRC_295",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "45",
+    "id": "elrc_295",
+    "metadata_created": "2017-12-14 17:08:47.291805",
+    "modified_date": "2018-02-14 10:44:30.801116",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "A collection of Polish-English translations of the Polish Food quarterly published by the Polish Ministry of Agriculture, including issues 69-73 (103K words in 3025 segments). The translations were manually aligned at the sentence level and encoded in the XLiFF format.",
+    "title": "Polish Food Dataset 2",
+    "temporal_coverage_from": "",
+    "tracking_summary": "45",
+    "groups": [
+        {
+            "name": "resources-for-language-technologies"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/POL",
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/euodp/en/data/dataset/elrc_295",
+    "release_date": "2017-12-14 17:08:47.291805",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "cnect",
+        "title": "Directorate-General for Communications Networks, Content and Technology"
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "customs transit",
+            "name": "customs transit"
+        },
+        {
+            "display_name": "transit",
+            "name": "transit"
+        },
+        {
+            "display_name": "customs procedure",
+            "name": "customs procedure"
+        },
+        {
+            "display_name": "MRN",
+            "name": "MRN"
+        },
+        {
+            "display_name": "movement reference number",
+            "name": "movement reference number"
+        },
+        {
+            "display_name": "goods",
+            "name": "goods"
+        },
+        {
+            "display_name": "tracking",
+            "name": "tracking"
+        }
+    ],
+    "metadata_modified": "2018-12-14 09:33:28.166337",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/3614"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The EUROPA webserver provides the data as received from the different IT environments of the different countries. The data provided is for information only and is binding neither for the Commission nor for the National Administrations concerned. For specific enquiries and information regarding the contents, please contact the Customs Administration of the appropriate country. ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/taxation_customs/dds2/tra/transit_home.jsp?Lang=en",
+            "created": "2016-11-28 10:07:22.840531",
+            "tracking_summary": null,
+            "name": "Transit MRN Follow-up",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "53",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/dc39dd07-e9eb-44c4-aafa-7fab059e4828",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "transit-movement-reference-number",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "fac58fc0-6115-4080-965a-30565b6bb99f",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "436",
+    "id": "transit-movement-reference-number",
+    "metadata_created": "2016-11-28 09:05:10.179888",
+    "modified_date": "2018-12-14 09:33:28.166337",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "Application for tracking goods in transit. Tracking is done via the Movement Reference Number (MRN).\r\n\r\nCustoms transit is a customs procedure used to facilitate the movement of goods between two points of a customs territory, via another customs territory, or between two or more different customs territories. It allows for the temporary suspension of duties, taxes and commercial policy measures that are applicable at import, thereby allowing customs clearance formalities to take place at the destination rather than at the point of entry into the customs territory.\r\n\r\nCustoms transit is particularly relevant to the Union where a single customs territory is combined with a multiplicity of fiscal territories. it allows the movement of goods under transit from their point of entry into the Union to their point of clearance where both the customs and national fiscal obligations are taken care of.",
+    "title": "TRANSIT - Movement Reference Number",
+    "temporal_coverage_from": "",
+    "tracking_summary": "436",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "Transit systems within the European Union",
+    "url": "http://ec.europa.eu/taxation_customs/dds2/tra/transit_home.jsp?Lang=en",
+    "release_date": "2016-11-28 09:05:10.179888",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "taxud",
+        "title": "Directorate-General for Taxation and Customs Union"
+    }
+}

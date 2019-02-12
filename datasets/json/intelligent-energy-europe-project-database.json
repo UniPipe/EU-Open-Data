@@ -1,0 +1,224 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Benficiary",
+            "name": "Benficiary"
+        },
+        {
+            "display_name": "Energy",
+            "name": "Energy"
+        },
+        {
+            "display_name": "Programme",
+            "name": "Programme"
+        },
+        {
+            "display_name": "Intelligent Energy Europe",
+            "name": "Intelligent Energy Europe"
+        },
+        {
+            "display_name": "clean-vehicles",
+            "name": "clean-vehicles"
+        },
+        {
+            "display_name": "build-up",
+            "name": "build-up"
+        },
+        {
+            "display_name": "energy-in-transport",
+            "name": "energy-in-transport"
+        },
+        {
+            "display_name": "energy-efficiency",
+            "name": "energy-efficiency"
+        },
+        {
+            "display_name": "renewable",
+            "name": "renewable"
+        }
+    ],
+    "metadata_modified": "2018-12-14 09:29:56.595818",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/3538",
+        "http://eurovoc.europa.eu/2917",
+        "http://eurovoc.europa.eu/5824",
+        "http://eurovoc.europa.eu/4420",
+        "http://eurovoc.europa.eu/754",
+        "http://eurovoc.europa.eu/6700"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Projects funded by IEE programme (xml)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "http://ec.europa.eu/energy/intelligent/projects/en/projects-list-xml",
+            "created": "2014-09-17 17:10:48.654714",
+            "tracking_summary": null,
+            "name": "Projects funded by IEE programme (xml)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "157",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/767fa99f-db27-4341-8edb-d41cbfcc13e5",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The list of beneficiaries of the Intelligent Energy Europe programme",
+            "format": "http://publications.europa.eu/resource/authority/file-type/RSS",
+            "url": "http://ec.europa.eu/energy/intelligent/projects/en/beneficiaries-list.xml",
+            "created": "2014-09-17 16:44:22.578075",
+            "tracking_summary": null,
+            "name": "Beneficiaries of IEE Programme",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "131",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/627d2790-e7d9-46b9-9d5b-c415a49f717b",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Projects funded by IEE programme (rss)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/RSS",
+            "url": "http://ec.europa.eu/energy/intelligent/projects/en/projects-list.xml",
+            "created": "2014-09-17 17:05:54.181548",
+            "tracking_summary": null,
+            "name": "Projects funded by IEE programme (rss)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "108",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ac10a230-1336-4bf1-a237-389115d4c15a",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/energy/intelligent/projects",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Link to the IEE Project Database",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/b3a7100e-dbef-4e31-b929-e5c740ca9c50",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "intelligent-energy-europe-project-database",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "owner_org": "5da6c29f-545d-4914-ad1b-d98389da19f6",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "1761",
+    "id": "intelligent-energy-europe-project-database",
+    "metadata_created": "2015-07-27 14:49:56.278590",
+    "modified_date": "2018-12-14 09:29:56.595818",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 3,
+    "description": "Intelligent Energy \u2013 Europe (IEE) offers a helping hand to organisations willing to improve energy sustainability. Launched in 2003 by the European Commission, the programme is part of a broad push to create an energy-intelligent future for us all. It supports EU energy efficiency and renewable energy policies, with a view to reaching the EU 2020 targets (20% cut in greenhouse gas emissions, 20% improvement in energy efficiency and 20% of renewables in EU energy consumption).\r\n\r\nThe programme is a pillar of the EU's Competitiveness and Innovation Framework Programme (CIP).\r\n\r\nMore than 600 projects across Europe have been co-funded by programme since 2003. These projects cover fields as diverse as education and electrical appliances, yet all contribute to building a greener and more secure energy future for the EU. You can find the list of beneficiaries and projects funded by the programme.",
+    "title": "Intelligent Energy Europe Project Database",
+    "temporal_coverage_from": "",
+    "tracking_summary": "1761",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENER"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://ec.europa.eu/energy/intelligent/projects",
+    "release_date": "2015-07-27 14:49:56.278590",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "easme",
+        "title": "Executive Agency for Small and Medium-sized Enterprises"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "FIRDS",
+            "name": "FIRDS"
+        },
+        {
+            "display_name": "MiFID II",
+            "name": "MiFID II"
+        },
+        {
+            "display_name": "systematic internalisers",
+            "name": "systematic internalisers"
+        },
+        {
+            "display_name": "reference data",
+            "name": "reference data"
+        },
+        {
+            "display_name": "trading venues",
+            "name": "trading venues"
+        }
+    ],
+    "metadata_modified": "2017-12-21 13:58:39.308008",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/1795"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [],
+    "interoperability_level": null,
+    "name": "financial-instruments-reference-data-system",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "484",
+    "id": "financial-instruments-reference-data-system",
+    "metadata_created": "2017-12-14 14:46:49.026061",
+    "modified_date": "2017-12-21 13:58:39.308008",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 0,
+    "description": "This database contains the reference data that enables market participants to identify instruments subject to MAR and MiFID II/MiFIR reference data reporting requirements.\r\n\r\nIn accordance with Article 27 of Regulation (EU) No 600/2014 (MiFIR) [1] and Article 4 of Regulation (EU) No 596/2014 (MAR) [2], trading venues and systematic internalisers shall submit reference data for the relevant financial instruments to national competent authorities (NCAs) who will subsequently transmit it to ESMA for publication on its website.\r\n\r\nESMA has already collected data from some Trading Venues and NCAs and makes it available on its website (MiFIR Go-Live) ahead of 3 January 2018 for testing purposes only. The data collected by ESMA is at this stage incomplete.\r\n\r\nESMA publishes the information with utmost care and to the best of its ability. Given the scope and complexity of this project, including the various underlying data sources, changes may be received from reporting entities and subsequently published by the system on a daily basis. \r\n\r\nESMA will continue to monitor the quality of the information received before and after MiFIR Go-Live. However, ESMA is not able to provide any representation or warranty that the available content is complete, accurate or up to date.\r\n\r\n\r\n",
+    "title": "Financial Instruments Reference Data System",
+    "temporal_coverage_from": "",
+    "tracking_summary": "484",
+    "groups": [],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "https://registers.esma.europa.eu/publication/searchRegister?core=esma_registers_firds",
+    "release_date": "2017-12-14 14:46:49.026061",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "esma",
+        "title": "European Securities and Markets Authority"
+    }
+}

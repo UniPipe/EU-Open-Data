@@ -1,0 +1,139 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        },
+        {
+            "display_name": "Environment",
+            "name": "Environment"
+        }
+    ],
+    "metadata_modified": "2018-12-21 11:17:43.971464",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Timeseries in csv or excel format with sector- and country-specific emissions from 1970-2012",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "https://cidportal.jrc.ec.europa.eu/ftp/jrc-opendata/EDGAR/datasets/v42",
+            "created": "2018-12-21 12:17:44.249952",
+            "tracking_summary": null,
+            "name": "JRC-EDGARv4.2 emissions time-series",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/e58e8c93-5d37-404f-bc37-c9a2bc8853ad",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://edgar.jrc.ec.europa.eu/overview.php?v=42FT2012",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/7daf7bca-301f-4df0-980f-d0ce73af2d37",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "",
+            "url": "http://www.unep.org/emissionsgapreport2014/",
+            "created": null,
+            "tracking_summary": null,
+            "name": "The emission gap report 2014",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/13505448-cf84-43b8-b7fc-b1dc8ec275eb",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "jrc-edgar-jrc-edgar_v4-2_ft2010_timeseries",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "jrc-edgar-jrc-edgar_v4-2_ft2010_timeseries",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "25",
+    "id": "jrc-edgar-jrc-edgar_v4-2_ft2010_timeseries",
+    "metadata_created": "2017-09-26 14:43:20.000046",
+    "modified_date": "2018-12-21 11:17:43.971464",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "Timeseries of greenhouse gases (CO2, CH4, N2O, GHG)  from 1970 till 2012 for all world countries.",
+    "title": "Emissions Database for Global Atmospheric Research, version v4.2 FT2012 (time-series)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "25",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/jrc-edgar-jrc-edgar_v4-2_ft2010_timeseries",
+    "release_date": "2017-09-26 14:43:20.000046",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

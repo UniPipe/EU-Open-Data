@@ -1,0 +1,149 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "linguistics",
+            "name": "linguistics"
+        },
+        {
+            "display_name": "terminology",
+            "name": "terminology"
+        },
+        {
+            "display_name": "language-application",
+            "name": "language-application"
+        },
+        {
+            "display_name": "translation",
+            "name": "translation"
+        },
+        {
+            "display_name": "language-technology",
+            "name": "language-technology"
+        }
+    ],
+    "metadata_modified": "2018-02-14 10:43:24.590521",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Data archive containing files in the following formats: application/json",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "https://elrc-share.eu/repository/browse/gabra-lexicon/839ad25414c211e7bfe700155d02050277d776cfa1b34ef99ff0d0eaff298ef4/",
+            "created": "2017-12-18 16:47:35.814180",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "6",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/23bfed9c-e080-4605-9265-1a3bdcf2662e",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Metadata description",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "http://data.europa.eu/data/euodp/dataset/6dee65cf-e981-4492-a187-bb2bcc3b2420/resource/fdb60bd7-e510-417b-ad3b-1283e4ab3b79/download/elrc349gabralexiconmd.xml",
+            "created": null,
+            "tracking_summary": null,
+            "name": "",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/fdb60bd7-e510-417b-ad3b-1283e4ab3b79",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Validation report",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "http://data.europa.eu/data/euodp/dataset/6dee65cf-e981-4492-a187-bb2bcc3b2420/resource/5af81db0-1960-4662-8bd5-52bfa7cb0ad6/download/elrc349gabralexiconvalrep.pdf",
+            "created": null,
+            "tracking_summary": null,
+            "name": "",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/5af81db0-1960-4662-8bd5-52bfa7cb0ad6",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "elrc_349",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "d7c6596e-9b6e-4461-a6b8-3cfeba1da887",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "ELRC_349",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "19",
+    "id": "elrc_349",
+    "metadata_created": "2017-12-14 17:08:12.357674",
+    "modified_date": "2018-02-14 10:43:24.590521",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "\u0120abra is a free, open lexicon for Maltese, built by collecting various different lexical resources into one common database. While it is not yet a complete dictionary for Maltese, it already contains 16,590 entries and 4,514,441 inflectional word forms. Many of these are linked by root, include translations in English, and are marked for various morphological features.",
+    "title": "Gabra lexicon",
+    "temporal_coverage_from": "",
+    "tracking_summary": "19",
+    "groups": [
+        {
+            "name": "resources-for-language-technologies"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/MLT",
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/euodp/en/data/dataset/elrc_349",
+    "release_date": "2017-12-14 17:08:12.357674",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "cnect",
+        "title": "Directorate-General for Communications Networks, Content and Technology"
+    }
+}

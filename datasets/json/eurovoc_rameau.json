@@ -1,0 +1,179 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "linked data",
+            "name": "linked data"
+        },
+        {
+            "display_name": "controlled vocabulary",
+            "name": "controlled vocabulary"
+        },
+        {
+            "display_name": "thesaurus",
+            "name": "thesaurus"
+        },
+        {
+            "display_name": "Rameau",
+            "name": "Rameau"
+        },
+        {
+            "display_name": "semantic alignment",
+            "name": "semantic alignment"
+        },
+        {
+            "display_name": "EuroVoc",
+            "name": "EuroVoc"
+        }
+    ],
+    "metadata_modified": "2017-07-25 13:15:40.657068",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Distribution \u2013 Alignment \u2013 EuroVoc and Rameau",
+            "format": "http://publications.europa.eu/resource/authority/file-type/RDF_XML",
+            "url": "http://publications.europa.eu/mdr/resource/thesaurus/eurovoc-20160630-0/skos/align_EuroVoc_Rameau.rdf",
+            "created": "2016-06-30 00:00:00",
+            "tracking_summary": null,
+            "name": "Distribution \u2013 Alignment \u2013 EuroVoc and Rameau",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2016-06-30 00:00:00",
+            "download_total_resource": "29",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/bc30a08a-e5bf-4772-87ea-a15f395ea39b",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Description \u2013 Rameau Thesaurus for Rameau (R\u00e9pertoire d'autorit\u00e9-mati\u00e8re alphab\u00e9tique, encyclop\u00e9dique et unifi\u00e9)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://catalogue.bnf.fr",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Description \u2013 Rameau Thesaurus for Rameau (R\u00e9pertoire d'autorit\u00e9-mati\u00e8re alphab\u00e9tique, encyclop\u00e9dique et unifi\u00e9)",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/a98f5a79-f7a4-415b-b941-6f7388afcd73",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Description \u2013 EuroVoc",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://data.europa.eu/euodp/en/data/dataset/eurovoc",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Description \u2013 EuroVoc",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/638ca03d-d94b-44a8-92ca-90e413f3503a",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "eurovoc_rameau",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "419",
+    "id": "eurovoc_rameau",
+    "metadata_created": "2016-07-21 13:15:45.449269",
+    "modified_date": "2017-07-25 13:15:40.657068",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [
+        "http://publications.europa.eu/resource/authority/dataset-type/THESAURUS"
+    ],
+    "state": null,
+    "version": "None",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "This alignment contains semantic mappings between EuroVoc and Rameau (R\u00e9pertoire d'autorit\u00e9-mati\u00e8re alphab\u00e9tique, encyclop\u00e9dique et unifi\u00e9) published by the Biblioth\u00e8que nationale de France. The total number of mappings in the dataset amounts to 23 including 22 \"exactMatch\" and 1 \"closeMatch\".",
+    "title": "Semantic alignment - EuroVoc - Rameau",
+    "temporal_coverage_from": "",
+    "tracking_summary": "419",
+    "groups": [
+        {
+            "name": "multilingual-assets"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/SRP",
+        "http://publications.europa.eu/resource/authority/language/SWE",
+        "http://publications.europa.eu/resource/authority/language/SLK",
+        "http://publications.europa.eu/resource/authority/language/SLV",
+        "http://publications.europa.eu/resource/authority/language/SPA",
+        "http://publications.europa.eu/resource/authority/language/SQI",
+        "http://publications.europa.eu/resource/authority/language/CES",
+        "http://publications.europa.eu/resource/authority/language/BUL",
+        "http://publications.europa.eu/resource/authority/language/DEU",
+        "http://publications.europa.eu/resource/authority/language/DAN",
+        "http://publications.europa.eu/resource/authority/language/ENG",
+        "http://publications.europa.eu/resource/authority/language/ELL",
+        "http://publications.europa.eu/resource/authority/language/FIN",
+        "http://publications.europa.eu/resource/authority/language/EST",
+        "http://publications.europa.eu/resource/authority/language/HRV",
+        "http://publications.europa.eu/resource/authority/language/FRA",
+        "http://publications.europa.eu/resource/authority/language/ITA",
+        "http://publications.europa.eu/resource/authority/language/HUN",
+        "http://publications.europa.eu/resource/authority/language/LIT",
+        "http://publications.europa.eu/resource/authority/language/LAV",
+        "http://publications.europa.eu/resource/authority/language/MLT",
+        "http://publications.europa.eu/resource/authority/language/MKD",
+        "http://publications.europa.eu/resource/authority/language/POL",
+        "http://publications.europa.eu/resource/authority/language/NLD",
+        "http://publications.europa.eu/resource/authority/language/RON",
+        "http://publications.europa.eu/resource/authority/language/POR"
+    ],
+    "alternative_title": "Linked data - EuroVoc - Rameau",
+    "url": "http://publications.europa.eu/mdr/resource/thesaurus/eurovoc-20160630-0/skos/align_EuroVoc_Rameau.rdf",
+    "release_date": "2016-07-21 13:15:45.449269",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "publ",
+        "title": "Publications Office"
+    }
+}

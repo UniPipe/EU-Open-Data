@@ -1,0 +1,179 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "linked data",
+            "name": "linked data"
+        },
+        {
+            "display_name": "controlled vocabulary",
+            "name": "controlled vocabulary"
+        },
+        {
+            "display_name": "thesaurus",
+            "name": "thesaurus"
+        },
+        {
+            "display_name": "ZBW",
+            "name": "ZBW"
+        },
+        {
+            "display_name": "semantic alignment",
+            "name": "semantic alignment"
+        },
+        {
+            "display_name": "EuroVoc",
+            "name": "EuroVoc"
+        }
+    ],
+    "metadata_modified": "2017-07-25 13:11:38.826759",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Distribution \u2013 Alignment \u2013 EuroVoc and ZBW",
+            "format": "http://publications.europa.eu/resource/authority/file-type/RDF_XML",
+            "url": "http://publications.europa.eu/mdr/resource/thesaurus/eurovoc-20160630-0/skos/align_EuroVoc_ZBW.rdf",
+            "created": "2016-06-30 00:00:00",
+            "tracking_summary": null,
+            "name": "Distribution \u2013 Alignment \u2013 EuroVoc and ZBW",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2016-06-30 00:00:00",
+            "download_total_resource": "19",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/0e2706c0-872f-4959-967b-51529e738db2",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Description \u2013 EuroVoc",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://data.europa.eu/euodp/en/data/dataset/eurovoc",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Description \u2013 EuroVoc",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/47a9a4ae-3339-4673-a7da-8cb822166a5f",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Description \u2013 STW Thesaurus for Economics",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://zbw.eu/stw/versions/latest",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Description \u2013 STW Thesaurus for Economics",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/3586cbb0-9be9-48d2-908a-01b15c00f25a",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "eurovoc_zbw",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "386",
+    "id": "eurovoc_zbw",
+    "metadata_created": "2016-07-21 13:16:00.307686",
+    "modified_date": "2017-07-25 13:11:38.826759",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [
+        "http://publications.europa.eu/resource/authority/dataset-type/THESAURUS"
+    ],
+    "state": null,
+    "version": "None",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "This alignment contains semantic mappings between EuroVoc and the STW Thesaurus for Economics published by the Leibniz Information Centre for Economics.The total number of mappings in the dataset amounts to 46 including 38 \"exactMatch\", 3 \"relatedMatch and 5 \"closeMatch\".",
+    "title": "Semantic alignment - EuroVoc - ZBW",
+    "temporal_coverage_from": "",
+    "tracking_summary": "386",
+    "groups": [
+        {
+            "name": "multilingual-assets"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/SRP",
+        "http://publications.europa.eu/resource/authority/language/SWE",
+        "http://publications.europa.eu/resource/authority/language/SLK",
+        "http://publications.europa.eu/resource/authority/language/SLV",
+        "http://publications.europa.eu/resource/authority/language/SPA",
+        "http://publications.europa.eu/resource/authority/language/SQI",
+        "http://publications.europa.eu/resource/authority/language/CES",
+        "http://publications.europa.eu/resource/authority/language/BUL",
+        "http://publications.europa.eu/resource/authority/language/DEU",
+        "http://publications.europa.eu/resource/authority/language/DAN",
+        "http://publications.europa.eu/resource/authority/language/ENG",
+        "http://publications.europa.eu/resource/authority/language/ELL",
+        "http://publications.europa.eu/resource/authority/language/FIN",
+        "http://publications.europa.eu/resource/authority/language/EST",
+        "http://publications.europa.eu/resource/authority/language/HRV",
+        "http://publications.europa.eu/resource/authority/language/FRA",
+        "http://publications.europa.eu/resource/authority/language/ITA",
+        "http://publications.europa.eu/resource/authority/language/HUN",
+        "http://publications.europa.eu/resource/authority/language/LIT",
+        "http://publications.europa.eu/resource/authority/language/LAV",
+        "http://publications.europa.eu/resource/authority/language/MLT",
+        "http://publications.europa.eu/resource/authority/language/MKD",
+        "http://publications.europa.eu/resource/authority/language/POL",
+        "http://publications.europa.eu/resource/authority/language/NLD",
+        "http://publications.europa.eu/resource/authority/language/RON",
+        "http://publications.europa.eu/resource/authority/language/POR"
+    ],
+    "alternative_title": "Linked data - EuroVoc - ZBW",
+    "url": "http://publications.europa.eu/mdr/resource/thesaurus/eurovoc-20160630-0/skos/align_EuroVoc_ZBW.rdf",
+    "release_date": "2016-07-21 13:16:00.307686",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "publ",
+        "title": "Publications Office"
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Regions and cities",
+            "name": "Regions and cities"
+        },
+        {
+            "display_name": "72 GEOGRAPHY",
+            "name": "72 GEOGRAPHY"
+        },
+        {
+            "display_name": "Orthoimagery",
+            "name": "Orthoimagery"
+        },
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        }
+    ],
+    "metadata_modified": "2018-12-21 10:52:26.752429",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Maps produced in scope of this Copernicus EMS Risk and Recovery Mapping activation downloadable as georeferenced PDFs, TIFFs and JPEGs together with relevant geodatabase (GDB) and complete final report as well.",
+            "format": "application/x-filegdb",
+            "url": "http://emergency.copernicus.eu/EMSN030",
+            "created": "2018-12-21 11:52:26.788604",
+            "tracking_summary": null,
+            "name": "Copernicus EMS Risk and Recovery Mapping Activation [EMSN030]: Ground deformation mapping and monitoring by satellite based multi-temporal DInSAR technique (2016-10-17)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "2",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/c1807fcc-4ce1-4465-9b1f-781426133901",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://emergency.copernicus.eu/EMSN030",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/b79c79a5-f23f-433a-b894-b19e8848aa3b",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "f539651c-1c40-4362-8e9a-fe360923dbd3",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/RUS",
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/UKR"
+    ],
+    "revision_id": null,
+    "identifier": "f539651c-1c40-4362-8e9a-fe360923dbd3",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "46",
+    "id": "f539651c-1c40-4362-8e9a-fe360923dbd3",
+    "metadata_created": "2017-09-26 14:53:45.495219",
+    "modified_date": "2018-12-21 10:52:26.752429",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "<br/> \nActivation date: 2016-10-17 <br/> \nEvent type: Other <br/> \n <br/> \nActivation reason:  <br/> \nEMSN030 was activated by the National Directorate General for Disaster Management, Hungary, on behalf of the EUCPT (Scoping Mission in Solotvyno salt mine, Ukraine) on 12/7/2016. The crisis related to the structural deterioration of old salt mines due to flooding of mine shafts and subsequent contamination of the Tisza River. Underground cavities and sinkholes emerged, threatening the local population, as well as industrial buildings and engineering systems.In order to monitor the ground deformation dynamics of the area and map evolving risk of ground failures, measurements of the ground deformation rate over a long period are required. In order to do this, Differential Interferometric analysis (DInSAR) was carried out, based on a time-series analysis of synthetic aperture radar (SAR) images. The time series consisted of 20 metre resolution SAR data acquired over the period from 1997 to 2016. These were from ERS-1/2 (29 images from 1997 to 2001), Envisat ASAR (27 images from 2003 to 2010) and Sentinel-1 (47 images from 2014 to 2016).In addition to Reference and Land Use/Cover maps, the main products were:Ground Deformation DynamicsGround deformation velocities. Velocities were estimated for point and distributed targets, which present similar scattering behaviour over time.Multi-temporal surface displacement for horizontal profile data over selected sites.Sinkhole/Landslide RiskSubsidence and landslide risk zonesThe deformation history for selected scatterers is plotted, showing the temporal evolution of the subsidence and landslide risks.The risk zones are overlaid with assets.&nbsp;A similar exercise was carried out using 25 COSMO-SkyMed Spotlight images for the period of 29/10/16 to 26/02/17. This shorter period results in less decorrelation of the signal, providing new data around the sinkhole. The spatial resolution of 1m also results in a much higher measurement density.&nbsp;&nbsp;As part of a Copernicus EMS validation exercise, users from the EUCPT were interviewed. They found the ground deformation data produced by this activation very useful and observed that it could not have been created by any other means.&nbsp; <br/> \n <br/>",
+    "title": "Ground deformation mapping and monitoring by satellite based multi-temporal DInSAR technique (2016-10-17)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "46",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/f539651c-1c40-4362-8e9a-fe360923dbd3",
+    "release_date": "2017-09-26 14:53:45.495219",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

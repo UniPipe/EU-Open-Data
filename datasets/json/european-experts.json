@@ -1,0 +1,130 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "experts",
+            "name": "experts"
+        },
+        {
+            "display_name": "medicine",
+            "name": "medicine"
+        },
+        {
+            "display_name": "inspections",
+            "name": "inspections"
+        }
+    ],
+    "metadata_modified": "2018-12-14 09:31:29.263967",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/36",
+        "http://eurovoc.europa.eu/1852"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "These European experts serve as members of the Agency's scientific committees, working parties and other groups, provide scientific expertise to the Agency\u2019s activities or perform inspections on behalf to the Agency. They can be nominated by Member States or by the Agency itself and are made available by the national competent authorities of the European Economic Area, as part of working together in the European medicines regulatory network.\r\n\r\nThe Agency requires all experts to sign a declaration of interests (DoI) every year, to ensure that they do not have any financial or other interests in the pharmaceutical industry that could affect their impartiality. Experts can only be involved in EMA's activities once the Agency has assigned their DoIs an interest level on a scale of 1-3, depending on whether they have no (interest level 1), indirect (interest level 2) or direct (interest level 3) interests in the pharmaceutical industry and assessed the declared interests to determine their level of involvement. The Agency also requires all experts to submit an up-to-date curriculum vitae (CV) when signing the DoI. For more information see Handling of conflicts of interests.\r\n\r\nThe list contains each experts' annual DoI, with the assigned interest level, and CV. It only includes experts who have submitted an up-to-date password-protected electronically signed DoI.\r\n\r\nUsers can browse the list in two ways:\r\nBrowse A-Z: searches by the first letter of the expert's family name.\r\nBrowse by country: searches by the nominating authority in the Member States. Experts nominated by the Agency are listed under 'European Union'.\r\n",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://www.ema.europa.eu/ema/index.jsp?curl=pages/about_us/landing/experts.jsp&mid=WC0b01ac058043244a",
+            "created": "2016-11-09 13:19:36.333585",
+            "tracking_summary": null,
+            "name": "European experts",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "111",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/1e8b57a1-6cf6-47e9-a610-f36ffefe642f",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "european-experts",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "cc9851fa-c87a-4be0-ada7-573e1a6aad2e",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "435",
+    "id": "european-experts",
+    "metadata_created": "2016-11-09 12:14:12.413039",
+    "modified_date": "2018-12-14 09:31:29.263967",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "The European Medicines Agency (EMA) maintains a public list containing details on all European experts who can be involved in the Agency's work.\r\n\r\nThe search in the database allows the user to find a list of annual electronic declarations of interest (DoI) for external experts and their curriculum vitae (CV) working with EMA. It indicates the interest level assigned to each DoI by the EMA.\r\n",
+    "title": "European Medicines Agency's list of European experts",
+    "temporal_coverage_from": "",
+    "tracking_summary": "435",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://www.ema.europa.eu/ema/index.jsp?curl=pages/about_us/landing/experts.jsp&mid=WC0b01ac058043244a",
+    "release_date": "2016-11-09 12:14:12.413039",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "emea",
+        "title": "European Medicines Agency"
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "medicines",
+            "name": "medicines"
+        },
+        {
+            "display_name": "marketing authorisations",
+            "name": "marketing authorisations"
+        }
+    ],
+    "metadata_modified": "2018-12-14 09:30:48.360701",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/1852",
+        "http://eurovoc.europa.eu/13",
+        "http://eurovoc.europa.eu/5594"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/document_listing/document_listing_000349.jsp&mid=WC0b01ac05805083eb",
+            "created": "2016-06-22 10:57:22.028350",
+            "tracking_summary": null,
+            "name": "Medicines under evaluation",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "58",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/e9398728-9bfd-45b1-ab3c-f87c83eefecb",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "medicines-under-evaluation-human",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
+    "owner_org": "cc9851fa-c87a-4be0-ada7-573e1a6aad2e",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "413",
+    "id": "medicines-under-evaluation-human",
+    "metadata_created": "2016-06-22 08:52:14.703056",
+    "modified_date": "2018-12-14 09:30:48.360701",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "This search lists information on applications for centralised marketing authorisations for human medicines that are under evaluation by the European Medicines Agency's Committee for Medicinal Products for Human Use (CHMP).\r\n\r\nThe list of medicines under evaluation is updated each month.  It includes the international non-proprietary names (INN) and therapeutic areas for all new innovative medicines under evaluation by the CHMP. For generic and biosimilar medicines, it includes the INN (active moiety only, with no information on salt, ester or derivative) and therapeutic area.\r\n\r\nLsits of medicines under evaluation can be downloaded in PDF format.",
+    "title": "Medicines under evaluation (Human)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "413",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/document_listing/document_listing_000349.jsp&mid=WC0b01ac05805083eb",
+    "release_date": "2016-06-22 08:52:14.703056",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "emea",
+        "title": "European Medicines Agency"
+    }
+}

@@ -1,0 +1,257 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "disaster",
+            "name": "disaster"
+        },
+        {
+            "display_name": "Natural Risk Zones",
+            "name": "Natural Risk Zones"
+        },
+        {
+            "display_name": "natural hazard",
+            "name": "natural hazard"
+        },
+        {
+            "display_name": "Europe",
+            "name": "Europe"
+        },
+        {
+            "display_name": "fire",
+            "name": "fire"
+        },
+        {
+            "display_name": "scientific research",
+            "name": "scientific research"
+        },
+        {
+            "display_name": "vegetation",
+            "name": "vegetation"
+        },
+        {
+            "display_name": "Environment",
+            "name": "Environment"
+        },
+        {
+            "display_name": "forest resource",
+            "name": "forest resource"
+        },
+        {
+            "display_name": "environmental data",
+            "name": "environmental data"
+        },
+        {
+            "display_name": "spatial distribution",
+            "name": "spatial distribution"
+        },
+        {
+            "display_name": "modelling",
+            "name": "modelling"
+        }
+    ],
+    "metadata_modified": "2018-12-21 10:46:01.407169",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2924",
+        "http://eurovoc.europa.eu/1335",
+        "http://eurovoc.europa.eu/4075"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "EFFIS view service for thematic typologies of data related to wildfires in Europe (including fire events, burnt area and severity; fire danger; active fires).",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://effis.jrc.ec.europa.eu/static/effis_current_situation/public/",
+            "created": "2018-12-21 11:46:01.709804",
+            "tracking_summary": null,
+            "name": "[VIEW] [WMS] EFFIS View Service",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/85675653-3fb4-46eb-8306-8a26158f29b5",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Data download service for thematic typologies of data related to wildfires in Europe (including fire events, burnt area and severity; fire danger; active fires).",
+            "format": "image/tiff-fx",
+            "url": "http://effis.jrc.ec.europa.eu/applications/data-and-services/",
+            "created": "2018-12-21 11:46:01.709810",
+            "tracking_summary": null,
+            "name": "[Download] Data Download Service",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/175faddc-ecf7-45dd-a6a2-088b70566581",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://effis.jrc.ec.europa.eu/",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/cbea75c9-d1a2-45bc-897a-0917ee39d871",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "022cdeed-159f-407d-be18-0dface69ef92",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/GRL",
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/RUS",
+        "http://publications.europa.eu/resource/authority/country/SAU",
+        "http://publications.europa.eu/resource/authority/country/SMR",
+        "http://publications.europa.eu/resource/authority/country/SRB",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/SYR",
+        "http://publications.europa.eu/resource/authority/country/TUN",
+        "http://publications.europa.eu/resource/authority/country/IMN",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/GEO",
+        "http://publications.europa.eu/resource/authority/country/GGY",
+        "http://publications.europa.eu/resource/authority/country/GIB",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/MCO",
+        "http://publications.europa.eu/resource/authority/country/MDA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/FRO",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/LUX",
+        "http://publications.europa.eu/resource/authority/country/LBY",
+        "http://publications.europa.eu/resource/authority/country/LIE",
+        "http://publications.europa.eu/resource/authority/country/JOR",
+        "http://publications.europa.eu/resource/authority/country/LBN",
+        "http://publications.europa.eu/resource/authority/country/ALA",
+        "http://publications.europa.eu/resource/authority/country/1A0",
+        "http://publications.europa.eu/resource/authority/country/AND",
+        "http://publications.europa.eu/resource/authority/country/ALB",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/ARM",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AZE",
+        "http://publications.europa.eu/resource/authority/country/BIH",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/ESH",
+        "http://publications.europa.eu/resource/authority/country/IRQ",
+        "http://publications.europa.eu/resource/authority/country/JEY",
+        "http://publications.europa.eu/resource/authority/country/IRN",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/VAT",
+        "http://publications.europa.eu/resource/authority/country/UKR",
+        "http://publications.europa.eu/resource/authority/country/TUR",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/CHE",
+        "http://publications.europa.eu/resource/authority/country/BLR",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/PSE",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/DZA",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/MRT",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/NOR",
+        "http://publications.europa.eu/resource/authority/country/MLI",
+        "http://publications.europa.eu/resource/authority/country/ISL",
+        "http://publications.europa.eu/resource/authority/country/MNE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/ISR",
+        "http://publications.europa.eu/resource/authority/country/MAR",
+        "http://publications.europa.eu/resource/authority/country/EGY",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/MKD"
+    ],
+    "revision_id": null,
+    "identifier": "022cdeed-159f-407d-be18-0dface69ef92",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "17",
+    "id": "022cdeed-159f-407d-be18-0dface69ef92",
+    "metadata_created": "2018-07-30 05:24:29.302552",
+    "modified_date": "2018-12-21 10:46:01.407169",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "This dataset series refers to the information on burnt areas and fire severity provided by the European Forest Fire Information System (EFFIS). \u25b7_How to cite: see below_\u25c1\n\u00a0 \n\n1 - Burnt areas.\nThe burnt area mapping is a service implemented since 2000 that detects and analyzes the evolution of the fire events during the fire seasons and since 2007 during the whole year. A burnt area monitored in the EFFIS system is an area damaged by a wildfire event; in the system only areas that are about 30 hectares or larger are detected. Fires occurred only on agricultural areas are not mapped. A wildfire event can start either from an agricultural area or from a wildland area. Irrespective of the ignition point, to be considered in EFFIS a fire event must damage a wildland area. This means that the fire was either generated in the natural areas by spontaneous or anthropogenic sources, or sparked in agricultural fields and went out of control up to damage wildland. The mapping provided by EFFIS is on a day-by-day basis, and integrates multiple sources: the fire news, the MODIS and VIIRS satellite thermal anomalies, the near real-time (NRT) fire monitoring based on them, and the MODIS Terra and Aqua images. The NRT Fire Monitoring is useful to obtain an early approximation of the last state of large fires with a short time-lag. A subsequent integrated analysis generates consolidated best estimates of the burnt area. Each day, a semi-automatic procedure takes as input the satellite images and runs an automated classification. The burn scars automatically detected with the thermal anomalies, along with the fire news geolocations, serve as auxiliary data for the final visual check through a computer assisted photointerpretation by a GIS analysts / expert photointerpreter who verifies the reliability of the candidate areas. Once confirmed, the final polygons of the burnt area product contains multiple information fields: affected area in hectares; spatial location (country, province, and municipality); and temporal window (start and end dates of the fires, and date of the last update of the events).\n\n2 - Fire severity.\n\nFire severity is the degree to which a fire altered the burnt area. It is assessed by EFFIS using the Normalized Burn Ratio (NBR) index (also sensitive to chlorophyll, water content, vegetation, ash), computed for pre-fire and post-fire satellite images. The \u201cdifferenced NBR\u201d (dNBR) represents the difference between NBR values before and after the event. The estimated \u201cdifferenced NBR\u201d is remapped into five categories of severity (very low, low, moderate, high, and very high).\n\n\u00a0\n\u00a0\n\n\n__How to cite__ - When using these data, please cite the relevant data sources. A suggested citation is included in the following: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\n- San-Miguel-Ayanz, J., Houston Durrant, T., Boca, R., Libert\u00e0, G., Branco, A., de Rigo, D., Ferrari, D., Maianti, P., Art\u00e9s Vivancos, T., Schulte, E., Loffler, P., Benchikha, A., Abbas, M., Humer, F., Konstantinov, V., Pe\u0161ut, I., Petkovi\u010dek, S., Papageorgiou, K., Toumasis, I., K\u00fctt, V., K\u00f5iv, K., Ruuska, R., Anastasov, T., Timovska, M., Michaut, P., Joannelle, P., Lachmann, M., Pavlidou, K., Debreceni, P., Nagy, D., Nugent, C., Di Fonzo, M., Leisavnieks, E., Jaun\u0137i\u0137is, Z., Mitri, G., Rep\u0161ien\u0117, S., Assali, F., Mharzi Alaoui, H., Botnen, D., Piwnicki, J., Szczygie\u0142, R., Janeira, M., Borges, A., Sbirnea, R., Mara, S., Eritsov, A., Longauerov\u00e1, V., Jak\u0161a, J., Enriquez, E., Lopez, A., Sandahl, L., Reinhard, M., Conedera, M., Pezzatti, B., Dursun, K. T., Baltaci, U., Moffat, A., 2017. Forest fires in Europe, Middle East and North Africa 2016. Publications Office of the European Union, Luxembourg. ISBN:978-92-79-71292-0, https://doi.org/10.2760/17690 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\n- San-Miguel-Ayanz, J., Schulte, E., Schmuck, G., Camia, A., 2013. The European Forest Fire Information System in the context of environmental policies of the European Union. Forest Policy and Economics 29, 19-25. https://doi.org/10.1016/j.forpol.2011.08.012 \u00a0\u00a0\u00a0\u00a0\u00a0\n\n- San-Miguel-Ayanz, J., Schulte, E., Schmuck, G., Camia, A., Strobl, P., Libert\u00e0, G., Giovando, C., Boca, R., Sedano, F., Kempeneers, P., McInerney, D., Withmore, C., de Oliveira, S. S., Rodrigues, M., Houston Durrant, T., Corti, P., Oehler, F., Vilar, L., Amatulli, G., 2012. Comprehensive monitoring of wildfires in Europe: the European Forest Fire Information System (EFFIS). In: Tiefenbacher, J. (Ed.), Approaches to Managing Disaster - Assessing Hazards, Emergencies and Disaster Impacts. InTech, Ch. 5. http://doi.org/10.5772/28441 \u00a0\u00a0\u00a0\u00a0\u00a0\n\n\u00a0",
+    "title": "Fire events in the European Forest Fire Information System (version 2-3-1)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "17",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/022cdeed-159f-407d-be18-0dface69ef92",
+    "release_date": "2018-07-30 05:24:29.302552",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

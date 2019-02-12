@@ -1,0 +1,182 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "pharmaceutical company",
+            "name": "pharmaceutical company"
+        },
+        {
+            "display_name": "marketing authorisation",
+            "name": "marketing authorisation"
+        },
+        {
+            "display_name": "human medicine",
+            "name": "human medicine"
+        }
+    ],
+    "metadata_modified": "2019-01-09 14:16:12.084344",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/1594",
+        "http://eurovoc.europa.eu/1415",
+        "http://eurovoc.europa.eu/2773"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Search for withdrawn applications",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://www.ema.europa.eu/medicines/field_ema_web_categories%253Aname_field/Human/ema_group_types/ema_withdrawn_applications",
+            "created": "2019-01-09 15:16:12.241560",
+            "tracking_summary": null,
+            "name": "Search for withdrawn applications",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "1",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/b8d4fb73-bf18-4057-a49e-62e76f51654f",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "You can download the European Medicines Agency's (EMA) medicine-related data published on this website in Excel table format from this page. EMA updates these medicine data tables once a day.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XLS",
+            "url": "https://www.ema.europa.eu/sites/default/files/Medicines_output_withdrawn_applications.xlsx",
+            "created": "2016-06-22 09:34:28.089077",
+            "tracking_summary": null,
+            "name": "Download table of all withdrawn applications for human and veterinary medicines",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "18",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/384a1a29-9291-43be-8daa-c3a166457339",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Download medicine data: withdrawn applications",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://www.ema.europa.eu/en/medicines/download-medicine-data#withdrawn-applications-section",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Download medicine data: withdrawn applications",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/f2491751-d36d-4483-9cd5-c1f7a7e2b01f",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "withdrawn-applications-human-medicines",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "cc9851fa-c87a-4be0-ada7-573e1a6aad2e",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "315",
+    "id": "withdrawn-applications-human-medicines",
+    "metadata_created": "2016-02-29 13:24:50.158698",
+    "modified_date": "2019-01-09 14:16:12.084344",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "This dataset contains information on the decision by a pharmaceutical company to withdraw an application made to the European Medicines Agency for a human medicine.\r\n\r\nIt includes withdrawals of new marketing authorisation applications or for changes to existing marketing authorisations, which are evaluated by the Committee for Medicinal Products for Human Use (CHMP). \r\n\r\nWhen an application is withdrawn after the first stage of evaluation by the CHMP, a withdrawal assessment report is published.\r\n\r\nSearch results can be exported in Excel format.\r\n",
+    "title": "Medicine data: withdrawn applications (Human medicines)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "315",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/landing/wapp_search.jsp&mid=WC0b01ac058001d128",
+    "release_date": "2016-02-29 13:24:50.158698",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "emea",
+        "title": "European Medicines Agency"
+    }
+}

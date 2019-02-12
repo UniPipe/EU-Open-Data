@@ -1,0 +1,152 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "translation",
+            "name": "translation"
+        },
+        {
+            "display_name": "linguistics",
+            "name": "linguistics"
+        },
+        {
+            "display_name": "language-technology",
+            "name": "language-technology"
+        },
+        {
+            "display_name": "language-application",
+            "name": "language-application"
+        },
+        {
+            "display_name": "corpus",
+            "name": "corpus"
+        }
+    ],
+    "metadata_modified": "2018-02-14 10:48:06.663510",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Data archive containing files in the following formats: application/x-tmx+xml",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "https://elrc-share.eu/repository/browse/bmvi-website/0f226d88e15011e6bfe700155d02050228bd3fe2bb01443897364fe1ccc7a88e/",
+            "created": "2017-12-18 16:41:21.367652",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "56",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/fead9e6a-4734-472a-bfe0-150127d0e57e",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Metadata description",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "http://data.europa.eu/data/euodp/dataset/14725e44-63d5-4345-9dcf-e3cd213655c7/resource/fe23f7cb-070e-4591-90d4-40714e49118f/download/elrc255bmviwebsitemd.xml",
+            "created": null,
+            "tracking_summary": null,
+            "name": "",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/fe23f7cb-070e-4591-90d4-40714e49118f",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Validation report",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "http://data.europa.eu/data/euodp/dataset/14725e44-63d5-4345-9dcf-e3cd213655c7/resource/f80df7c4-82a4-474d-a775-ff958e541f22/download/elrc255bmviwebsitevalrep.pdf",
+            "created": null,
+            "tracking_summary": null,
+            "name": "",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/f80df7c4-82a4-474d-a775-ff958e541f22",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "elrc_255",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "d7c6596e-9b6e-4461-a6b8-3cfeba1da887",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "ELRC_255",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "59",
+    "id": "elrc_255",
+    "metadata_created": "2017-12-14 17:02:50.474459",
+    "modified_date": "2018-02-14 10:48:06.663510",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "tmx file, 2718 TUs, bilingual German/English, texts from the website of the Federal Ministry of Transport and Digital Infrastructure (BMVI) on transport issues",
+    "title": "BMVI Website",
+    "temporal_coverage_from": "",
+    "tracking_summary": "59",
+    "groups": [
+        {
+            "name": "resources-for-language-technologies"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG",
+        "http://publications.europa.eu/resource/authority/language/DEU"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/euodp/en/data/dataset/elrc_255",
+    "release_date": "2017-12-14 17:02:50.474459",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "cnect",
+        "title": "Directorate-General for Communications Networks, Content and Technology"
+    }
+}

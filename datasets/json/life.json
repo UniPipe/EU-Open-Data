@@ -1,0 +1,156 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "climate",
+            "name": "climate"
+        },
+        {
+            "display_name": "air quality",
+            "name": "air quality"
+        },
+        {
+            "display_name": "water",
+            "name": "water"
+        },
+        {
+            "display_name": "waste management",
+            "name": "waste management"
+        },
+        {
+            "display_name": "LIFE",
+            "name": "LIFE"
+        },
+        {
+            "display_name": "climate change",
+            "name": "climate change"
+        }
+    ],
+    "metadata_modified": "2018-04-19 13:11:01.454842",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/5482",
+        "http://eurovoc.europa.eu/1158",
+        "http://eurovoc.europa.eu/597",
+        "http://eurovoc.europa.eu/5794",
+        "http://eurovoc.europa.eu/6011"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Database of LIFE programme projects",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/environment/life/project/Projects/index.cfm",
+            "created": "2018-02-19 17:08:02.148106",
+            "tracking_summary": null,
+            "name": "LIFE project database",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "78",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/4a852369-907a-4fd3-af46-8173d1796cb1",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Map, statistics and description of LIFE programme companies and projects.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://life.easme-web.eu/",
+            "created": "2018-03-02 14:02:30.956093",
+            "tracking_summary": null,
+            "name": "Life datahub",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "4",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/3afda6d5-61b6-4d0c-beac-bac5fb42ad28",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "LIFE programme web ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/environment/life/about/",
+            "created": "2018-02-19 17:10:13.492362",
+            "tracking_summary": null,
+            "name": "LIFE programme web ",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "62",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/626522c3-01a7-41eb-9da0-46e2ad1ee122",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "life",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "5da6c29f-545d-4914-ad1b-d98389da19f6",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "49",
+    "id": "life",
+    "metadata_created": "2018-02-19 16:08:01.964641",
+    "modified_date": "2018-04-19 13:11:01.454842",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 3,
+    "description": "The LIFE programme is the EU's financial instrument for environment and climate action. Launched in 1992, it co-finances nature conservation, environmental technologies and climate change adaptation and mitigation projects across the European Union.",
+    "title": "LIFE",
+    "temporal_coverage_from": "",
+    "tracking_summary": "49",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "https://data.europa.eu/euodp/en/data/dataset/life",
+    "release_date": "2018-02-19 16:08:01.964641",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "easme",
+        "title": "Executive Agency for Small and Medium-sized Enterprises"
+    }
+}

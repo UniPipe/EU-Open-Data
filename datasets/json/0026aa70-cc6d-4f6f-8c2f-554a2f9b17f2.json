@@ -1,0 +1,250 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "environmental impact",
+            "name": "environmental impact"
+        },
+        {
+            "display_name": "environmental assessment",
+            "name": "environmental assessment"
+        },
+        {
+            "display_name": "ocean",
+            "name": "ocean"
+        },
+        {
+            "display_name": "sea",
+            "name": "sea"
+        },
+        {
+            "display_name": "maritime area",
+            "name": "maritime area"
+        },
+        {
+            "display_name": "oceanography",
+            "name": "oceanography"
+        },
+        {
+            "display_name": "Oceanographic Geographical Features",
+            "name": "Oceanographic Geographical Features"
+        },
+        {
+            "display_name": "Environment",
+            "name": "Environment"
+        },
+        {
+            "display_name": "Sea Regions",
+            "name": "Sea Regions"
+        },
+        {
+            "display_name": "environment",
+            "name": "environment"
+        }
+    ],
+    "metadata_modified": "2018-12-21 11:00:05.823266",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2107",
+        "http://eurovoc.europa.eu/1870",
+        "http://eurovoc.europa.eu/3139",
+        "http://eurovoc.europa.eu/2114",
+        "http://eurovoc.europa.eu/3992"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Ensemble NETCDF file, NETCDF Format.",
+            "format": "application/x-netcdf",
+            "url": "https://cidportal.jrc.ec.europa.eu/ftp/jrc-opendata/LISCOAST/RCP/LATEST/CoastAlRisk_Europe_EESSL_Historical.nc",
+            "created": "2018-12-21 12:00:06.127461",
+            "tracking_summary": null,
+            "name": "Historical NETCDF file",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/817891ba-6e28-4883-a97c-95dfa659efb5",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "This zip file contains the maps of the Historical EESSL for the 8 return periods in .png format, along with a MATLAB script to create them.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PNG",
+            "url": "https://cidportal.jrc.ec.europa.eu/ftp/jrc-opendata/LISCOAST/RCP/LATEST/png_files-CoastAlRisk_Europe_EESSL_Historical.zip",
+            "created": "2018-12-21 12:00:06.127467",
+            "tracking_summary": null,
+            "name": "Historical PNG files",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/4f6a2e49-bf5b-4a6b-9032-9fadc12f4bd7",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Vousdoukas M; Voukouvalas E; Annunziato A; Giardino A; Feyen L. Projections of extreme storm surge levels along Europe. CLIMATE DYNAMICS 47 (9); 2016. p. 3171\u20133190. JRC96886",
+            "format": "",
+            "url": "https://doi.org/10.1007/s00382-016-3019-5",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Projections of extreme storm surge levels along Europe",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/8ca3f56e-673c-46f3-95b5-9174e1928da5",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "0026aa70-cc6d-4f6f-8c2f-554a2f9b17f2",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/IMN",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/SRB",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/SYR",
+        "http://publications.europa.eu/resource/authority/country/TUN",
+        "http://publications.europa.eu/resource/authority/country/TUR",
+        "http://publications.europa.eu/resource/authority/country/UKR",
+        "http://publications.europa.eu/resource/authority/country/VAT",
+        "http://publications.europa.eu/resource/authority/country/IRQ",
+        "http://publications.europa.eu/resource/authority/country/GGY",
+        "http://publications.europa.eu/resource/authority/country/GIB",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/GRL",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/FRO",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/MNE",
+        "http://publications.europa.eu/resource/authority/country/MDA",
+        "http://publications.europa.eu/resource/authority/country/GEO",
+        "http://publications.europa.eu/resource/authority/country/MAR",
+        "http://publications.europa.eu/resource/authority/country/MCO",
+        "http://publications.europa.eu/resource/authority/country/LUX",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LIE",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ALA",
+        "http://publications.europa.eu/resource/authority/country/1A0",
+        "http://publications.europa.eu/resource/authority/country/AND",
+        "http://publications.europa.eu/resource/authority/country/ALB",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/BIH",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/CHE",
+        "http://publications.europa.eu/resource/authority/country/BLR",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LBY",
+        "http://publications.europa.eu/resource/authority/country/ISR",
+        "http://publications.europa.eu/resource/authority/country/LBN",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/EGY",
+        "http://publications.europa.eu/resource/authority/country/SAU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/SMR",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/DZA",
+        "http://publications.europa.eu/resource/authority/country/ESH",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/JEY",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/NOR",
+        "http://publications.europa.eu/resource/authority/country/ISL",
+        "http://publications.europa.eu/resource/authority/country/PSE",
+        "http://publications.europa.eu/resource/authority/country/JOR",
+        "http://publications.europa.eu/resource/authority/country/MKD",
+        "http://publications.europa.eu/resource/authority/country/RUS",
+        "http://publications.europa.eu/resource/authority/country/MRT"
+    ],
+    "revision_id": null,
+    "identifier": "0026aa70-cc6d-4f6f-8c2f-554a2f9b17f2",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "2004-11-30T00:00:00",
+    "num_tags": null,
+    "views_total": "424",
+    "id": "0026aa70-cc6d-4f6f-8c2f-554a2f9b17f2",
+    "metadata_created": "2016-03-31 08:50:24.028460",
+    "modified_date": "2018-12-21 11:00:05.823266",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "The dataset contains the extreme storm surge levels (ESSL) at a European scale. The ESSL are estimated from an ensemble of 8 climatic models for the period from 1/12/1969 to 30/11/2004 and for 8 return periods (5, 10, 20, 50, 100, 200, 500, 1000) according to the Peak Over Threshold approach.\n\nFor further information regarding this dataset, the users are referred to the following article\nVousdoukas, M.I., Voukouvalas, E., Annunziato, A., Giardino, A., Feyen, L., 2016. Projections of extreme storm surge levels along Europe. Clim. Dyn. in press. DOI: 10.1007/s00382-016-3019-5",
+    "title": "European Extreme Storm Surge level - Historical",
+    "temporal_coverage_from": "1969-12-01T00:00:00",
+    "tracking_summary": "424",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/JUST"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/0026aa70-cc6d-4f6f-8c2f-554a2f9b17f2",
+    "release_date": "2016-03-31 08:50:24.028460",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

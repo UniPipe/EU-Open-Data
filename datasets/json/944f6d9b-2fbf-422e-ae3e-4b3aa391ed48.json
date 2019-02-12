@@ -1,0 +1,147 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Sea Regions",
+            "name": "Sea Regions"
+        },
+        {
+            "display_name": "geology",
+            "name": "geology"
+        },
+        {
+            "display_name": "sea",
+            "name": "sea"
+        },
+        {
+            "display_name": "maritime area",
+            "name": "maritime area"
+        },
+        {
+            "display_name": "52 ENVIRONMENT",
+            "name": "52 ENVIRONMENT"
+        },
+        {
+            "display_name": "Regions and cities",
+            "name": "Regions and cities"
+        },
+        {
+            "display_name": "Environment",
+            "name": "Environment"
+        },
+        {
+            "display_name": "Land Cover",
+            "name": "Land Cover"
+        },
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        },
+        {
+            "display_name": "Geology",
+            "name": "Geology"
+        },
+        {
+            "display_name": "environment",
+            "name": "environment"
+        }
+    ],
+    "metadata_modified": "2018-12-21 10:48:56.779833",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/1870",
+        "http://eurovoc.europa.eu/1151",
+        "http://eurovoc.europa.eu/3992"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "NETCDF format.",
+            "format": "application/x-netcdf",
+            "url": "https://cidportal.jrc.ec.europa.eu/ftp/jrc-opendata/LISCOAST/globalShorelineChange/LATEST/globalCoastalMorphodynamicsDb.nc",
+            "created": "2018-12-21 11:48:56.993074",
+            "tracking_summary": null,
+            "name": "Global long-term shoreline evolution - NETCDF file",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "2",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/44432294-e61f-4090-97c7-a5a5ca739da2",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "944f6d9b-2fbf-422e-ae3e-4b3aa391ed48",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/FJI",
+        "http://publications.europa.eu/resource/authority/country/ATA",
+        "http://publications.europa.eu/resource/authority/country/NZL",
+        "http://publications.europa.eu/resource/authority/country/KIR",
+        "http://publications.europa.eu/resource/authority/country/UMI",
+        "http://publications.europa.eu/resource/authority/country/RUS"
+    ],
+    "revision_id": null,
+    "identifier": "944f6d9b-2fbf-422e-ae3e-4b3aa391ed48",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "16",
+    "id": "944f6d9b-2fbf-422e-ae3e-4b3aa391ed48",
+    "metadata_created": "2018-04-18 07:07:17.436969",
+    "modified_date": "2018-12-21 10:48:56.779833",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "In this study we present the evolution of the global shoreline from 1984 to 2015 based on satellite observations. During this period, the eroded surface is estimated up to 28,0000 km2 which is twice the amount of accreted land. This study highlights the impact of the anthropogenic activities at the coastal zone, the footprint of coastal natural disasters and the potential vulnerability of the coastal areas due to the effect of climate change.",
+    "title": "Global long-term shoreline evolution",
+    "temporal_coverage_from": "",
+    "tracking_summary": "16",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/JUST"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/944f6d9b-2fbf-422e-ae3e-4b3aa391ed48",
+    "release_date": "2018-04-18 07:07:17.436969",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

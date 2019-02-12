@@ -1,0 +1,165 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "REACH",
+            "name": "REACH"
+        },
+        {
+            "display_name": "registration statistics",
+            "name": "registration statistics"
+        },
+        {
+            "display_name": "chemicals",
+            "name": "chemicals"
+        },
+        {
+            "display_name": "ECHA",
+            "name": "ECHA"
+        },
+        {
+            "display_name": "European Chemicals Agency",
+            "name": "European Chemicals Agency"
+        }
+    ],
+    "metadata_modified": "2018-12-14 09:36:56.243467",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/7984",
+        "http://eurovoc.europa.eu/4256"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The interactive infographic shows statistical data about the registrations received from the 28 EU Member States and from the European Economic Area countries Norway, Iceland and Liechtenstein.\r\n\r\nYou can find:\r\n\r\n    the number of unique substances registered, their registration type (full or intermediate), the substance type (existing or new substance) and the approximate total tonnage on the EU/EEA market;\r\n    the number of registrations, their type (full or intermediate) and role of the company that submitted the registration (manufacturer, importer, etc.);\r\n    the most commonly registered chemicals;\r\n    all of the information mentioned above, filtered by individual EU/EEA country and by year, month or week;\r\n    the number of unique companies that have registered chemicals, their company size and role in the supply chain.\r\n\r\nThe data is presented through an interactive map. You can access the more detailed information by clicking on a country. There is also the possibility to display the data in graphs and tables, and to compare data between two EU/EEA countries.\r\n\r\nThese statistics will be updated regularly. ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://echa.europa.eu/registration-statistics-infograph",
+            "created": "2018-06-14 16:49:13.193332",
+            "tracking_summary": null,
+            "name": "REACH registration statistics - interactive infographic",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/7ec59d79-3ede-4404-b635-424d960240da",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "REACH registration statistics: this data shows the number of registrations received from the 28 EU Member States and from the European Economic Area countries Norway, Iceland and Liechtenstein.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://www.echa.europa.eu/regulations/reach/registration/registration-statistics",
+            "created": "2015-02-10 12:22:29.862370",
+            "tracking_summary": null,
+            "name": "REACH registration statistics",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "92",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/6008bac5-e9f6-41f6-a3f0-692bb615e55f",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "reach-registration-statistics",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "7d5ae560-43f5-4e39-a017-112eb1bca132",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/NOR",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/LUX",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/ISL",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/LIE",
+        "http://publications.europa.eu/resource/authority/country/SWE"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "934",
+    "id": "reach-registration-statistics",
+    "metadata_created": "2015-07-27 13:22:12.685538",
+    "modified_date": "2018-12-14 09:36:56.243467",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "This data shows the number of registrations received from the 28 EU Member States and from the European Economic Area countries Norway, Iceland and Liechtenstein.\r\n \r\nThese statistics will be updated regularly. To correct any errors or inaccuracies that may appear in the text and data, ECHA is entitled to modify or revise the document at any time.\r\nYou can also get the statistics as downloadable PDF versions on the ECHA's Web page",
+    "title": "REACH registration statistics",
+    "temporal_coverage_from": "",
+    "tracking_summary": "934",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "https://www.echa.europa.eu/regulations/reach/registration/registration-statistics",
+    "release_date": "2015-07-27 13:22:12.685538",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "echa",
+        "title": "European Chemicals Agency"
+    }
+}

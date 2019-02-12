@@ -1,0 +1,202 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "EUR-Lex",
+            "name": "EUR-Lex"
+        },
+        {
+            "display_name": "legislation",
+            "name": "legislation"
+        },
+        {
+            "display_name": "Directive",
+            "name": "Directive"
+        },
+        {
+            "display_name": "European Commission",
+            "name": "European Commission"
+        },
+        {
+            "display_name": "European Parliament",
+            "name": "European Parliament"
+        },
+        {
+            "display_name": "Regulation",
+            "name": "Regulation"
+        },
+        {
+            "display_name": "Decision",
+            "name": "Decision"
+        },
+        {
+            "display_name": "EU Official Journal",
+            "name": "EU Official Journal"
+        },
+        {
+            "display_name": "Council of the European Union",
+            "name": "Council of the European Union"
+        },
+        {
+            "display_name": "EU law",
+            "name": "EU law"
+        }
+    ],
+    "metadata_modified": "2015-07-27 15:28:38.996889",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/1589"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Advanced search",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://eur-lex.europa.eu/advanced-search-form.html",
+            "created": "2015-01-30 16:13:53.556695",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "12",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ff5a82e8-c66e-45cb-b792-203cc9e7d305",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Directory of European Union legislation",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://eur-lex.europa.eu/browse/directories/legislation.html",
+            "created": "2015-01-30 16:13:53.556703",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "12",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/a895c2bc-f6b3-4300-a435-b88de581d57c",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "List of legislation currently in force",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://eur-lex.europa.eu/search.html?instInvStatus=ALL&qid=1407836937694&VV=true&DTC=false&DTS_DOM=EU_LAW&type=advanced&lang=en&SUBDOM_INIT=LEGISLATION&DTS_SUBDOM=LEGISLATION",
+            "created": "2015-01-30 16:13:53.556675",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "65",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ff73abb4-716a-49c2-b335-83965f2fbc66",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "eu-legislation-in-force",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "769",
+    "id": "eu-legislation-in-force",
+    "metadata_created": "2014-10-29 07:41:53.750893",
+    "modified_date": "2015-07-27 15:28:38.996889",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 3,
+    "description": "A very relevant part of EU law is the EU legislation. The main document types of EU legislation are directives, regulations and decisions.\n\nThese acts entry into force and, at some point, they cease to be valid (due to repeal, expiry, etc.). Between their date of entry into force and their date of end of validity, they are acts of EU legislation in force.",
+    "title": "EU legislation currently in force",
+    "temporal_coverage_from": "",
+    "tracking_summary": "769",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/JUST"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://eur-lex.europa.eu/browse/directories/legislation.html",
+    "release_date": "2014-10-29 07:41:53.750893",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "publ",
+        "title": "Publications Office"
+    }
+}

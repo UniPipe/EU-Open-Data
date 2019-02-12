@@ -1,0 +1,217 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "sub-chronic toxicity",
+            "name": "sub-chronic toxicity"
+        },
+        {
+            "display_name": "substance characterization",
+            "name": "substance characterization"
+        },
+        {
+            "display_name": "data collection",
+            "name": "data collection"
+        },
+        {
+            "display_name": "animal health",
+            "name": "animal health"
+        },
+        {
+            "display_name": "risk assessment",
+            "name": "risk assessment"
+        },
+        {
+            "display_name": "toxicology",
+            "name": "toxicology"
+        },
+        {
+            "display_name": "chronic toxicity",
+            "name": "chronic toxicity"
+        },
+        {
+            "display_name": "acute toxicity",
+            "name": "acute toxicity"
+        },
+        {
+            "display_name": "data model",
+            "name": "data model"
+        },
+        {
+            "display_name": "contaminants",
+            "name": "contaminants"
+        },
+        {
+            "display_name": "food additives",
+            "name": "food additives"
+        },
+        {
+            "display_name": "feed additives",
+            "name": "feed additives"
+        },
+        {
+            "display_name": "genotoxicity",
+            "name": "genotoxicity"
+        },
+        {
+            "display_name": "food contact materials",
+            "name": "food contact materials"
+        },
+        {
+            "display_name": "human health",
+            "name": "human health"
+        },
+        {
+            "display_name": "hazard characterization",
+            "name": "hazard characterization"
+        },
+        {
+            "display_name": "pesticides",
+            "name": "pesticides"
+        },
+        {
+            "display_name": "nutrient sources",
+            "name": "nutrient sources"
+        },
+        {
+            "display_name": "reference point",
+            "name": "reference point"
+        },
+        {
+            "display_name": "processing aids",
+            "name": "processing aids"
+        },
+        {
+            "display_name": "regulated products",
+            "name": "regulated products"
+        },
+        {
+            "display_name": "reference value",
+            "name": "reference value"
+        }
+    ],
+    "metadata_modified": "2018-06-18 06:30:12.736913",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/656",
+        "http://eurovoc.europa.eu/4076"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download full database",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XLS",
+            "url": "http://data.europa.eu/euodp/repository/ec/efsa/OpenFoodTOxTX22051.xlsx",
+            "created": "2018-06-18 08:30:12.829870",
+            "tracking_summary": null,
+            "name": "Download full database",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "107",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/96e120be-0065-4cc3-ba74-7c4171f0011b",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Access to the database",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://dwh.efsa.europa.eu/bi/asp/Main.aspx",
+            "created": "2018-06-15 17:48:26.032133",
+            "tracking_summary": null,
+            "name": "Access to the database",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "72",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/8a66485a-ca26-43d6-afca-8899dd711ae0",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Information about the database",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Information about the database",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/5cce1f59-2373-4d5c-9b34-79a5b8e35364",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "openfoodtox-efsa-s-chemical-hazards-database",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "c097b708-c0d6-4064-a99b-3cd55ad7b8b8",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "349",
+    "id": "openfoodtox-efsa-s-chemical-hazards-database",
+    "metadata_created": "2017-09-27 08:40:36.319305",
+    "modified_date": "2018-06-18 06:30:12.736913",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "Version 1 10.5281/zenodo.344883",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "In food safety, hazard identification and hazard characterisation aim to determine safe levels of exposure for substances \u201creference values\u201d to protect human health, animal health or the environment. Such reference values are most often derived for the relevant species by applying an uncertainty factor on the \u201creference point determined from the pivotal toxicological study.\r\n\r\nSince its creation in 2002, EFSA scientific panels and staff have produced risk assessments for more than 4,400 substances in over 1,650 scientific opinions, statements and conclusions through the work of its scientists.\r\n\r\nOpenFoodTox is a structured database summarising the outcome of hazard characterisation for human health and \u2013 depending on the relevant legislation and intended uses \u2013 animal health and the environment.\r\n\r\nFor each individual substance, the data model of OpenFoodTox has been designed using OECD Harmonised Template as a basis to collect and structure the data in a harmonised manner. OpenFoodTox reports the substance characterisation, EFSA outputs, reference points, reference values and genotoxicity. OpenFoodTox and can be searched under the following link using a microstrategy tool: https://dwh.efsa.europa.eu/bi/asp/Main.aspx?rwtrep=400.\r\n\r\nIn order to disseminate OpenFoodTox to a wider community, two sets of data can be downloaded:\r\n\r\n1. Five individual spreadsheets extracted from the EFSA microstrategy tool providing for all compounds: a. substance characterisation, b.EFSA outputs, c.reference points, d.reference values and e.genotoxicity.\r\n\r\n2. The full database.\r\n\r\nOpenFoodTox contributes actively to EFSA\u2019s 2020 Science Strategy and to the aim of widening EFSA\u2019s evidence base and optimising access to its data as a valuable open source database that can be shared with all scientific advisory bodies and stakeholders with an interest in chemical risk assessment. In addition, OpenFoodTox has been submitted to the OECD\u2019s Global Portal to Information on Chemical Substances (eChemPortal) so that individual substances can be searched as part of the national and international databases. Further description and associated references are described in the EFSA journal editorial (Dorne et al., 2017).",
+    "title": "OpenFoodTox: EFSA's chemical hazards database",
+    "temporal_coverage_from": "",
+    "tracking_summary": "349",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "https://zenodo.org/record/344883#.WcthOdWCxhE",
+    "release_date": "2017-09-27 08:40:36.319305",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "efsa",
+        "title": "European Food Safety Authority"
+    }
+}

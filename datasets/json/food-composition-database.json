@@ -1,0 +1,182 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "vitamin B12",
+            "name": "vitamin B12"
+        },
+        {
+            "display_name": "vitamin B6",
+            "name": "vitamin B6"
+        },
+        {
+            "display_name": "vitamin E",
+            "name": "vitamin E"
+        },
+        {
+            "display_name": "vitamin K",
+            "name": "vitamin K"
+        },
+        {
+            "display_name": "calcium",
+            "name": "calcium"
+        },
+        {
+            "display_name": "selenium",
+            "name": "selenium"
+        },
+        {
+            "display_name": "food supplement",
+            "name": "food supplement"
+        },
+        {
+            "display_name": "copper",
+            "name": "copper"
+        },
+        {
+            "display_name": "magnesium",
+            "name": "magnesium"
+        },
+        {
+            "display_name": "iron",
+            "name": "iron"
+        },
+        {
+            "display_name": "potassium",
+            "name": "potassium"
+        },
+        {
+            "display_name": "phosphorus",
+            "name": "phosphorus"
+        },
+        {
+            "display_name": "EuroFIR",
+            "name": "EuroFIR"
+        },
+        {
+            "display_name": "zinc",
+            "name": "zinc"
+        },
+        {
+            "display_name": "FoodEx2",
+            "name": "FoodEx2"
+        },
+        {
+            "display_name": "FoodCASE",
+            "name": "FoodCASE"
+        },
+        {
+            "display_name": "dietary intake",
+            "name": "dietary intake"
+        },
+        {
+            "display_name": "alpha-tocopherol",
+            "name": "alpha-tocopherol"
+        },
+        {
+            "display_name": "niacin",
+            "name": "niacin"
+        },
+        {
+            "display_name": "food composition",
+            "name": "food composition"
+        },
+        {
+            "display_name": "riboflavin",
+            "name": "riboflavin"
+        },
+        {
+            "display_name": "nutrient intake assessment",
+            "name": "nutrient intake assessment"
+        },
+        {
+            "display_name": "tocopherol equivalents",
+            "name": "tocopherol equivalents"
+        },
+        {
+            "display_name": "thiamine",
+            "name": "thiamine"
+        }
+    ],
+    "metadata_modified": "2017-05-30 10:15:16.435968",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/1268"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Following a request from the European Commission for a review of European dietary reference values (DRVs), the EFSA\u2019s Panel on Dietetic Products, Nutrition and Allergies (NDA) has prepared a number of Scientific Opinions on DRVs for micronutrients. The DATA Unit supported this activity by estimating the nutrient intake of a number of micronutrients in nine selected European countries and different age groups. In addition, the DATA Unit also provided information on average content of food sources of the respective nutrients per country based on the composition database, as well as main food group contributors to nutrient intakes and assessed the comparability of the provided data with pertinent published intake data.\r\n\r\nIntake estimates have been assessed using food consumption data from the EFSA Comprehensive Food Consumption Database (EFSA, 2011a) and the EFSA Nutrient composition database. Food composition data used to populate the Nutrient composition database were provided to EFSA through the EFSA procurement project \u2018Updated food composition database for nutrient intake\u2019 (Roe at al., 2013). Data were provided following the EFSA specification for standard sample description for food and feed and were classified according to the FoodEx2 classification system of EFSA (EFSA, 2011b).\r\n\r\nThe food composition data used in these assessments and here published cover the following vitamins and minerals: calcium (Ca); copper (Cu); cobalamin (vitamin B12); magnesium (Mg); niacin; phosphorus (P); potassium (K); riboflavin; thiamin; iron (Fe); selenium (Se); vitamin B6; vitamin K, zinc (Zn), and vitamin E(1). The food composition dataset contains data from seven(2) countries: Finland, France, Germany, Italy, Netherlands, Sweden, and United Kingdom. This dataset version has been checked for outliers but is prior to data completion for missing foods and nutrient values.\r\n\r\n(1) Vitamin E is defined as alpha-tocopherol (AT) only, however as most food composition databases in the EU contain values as alpha-tocopherol equivalents (TE), data on TE are also provided\r\n\r\n(2) For the nutrient intake estimates of Ireland and Latvia present in the opinions of the EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA), food composition data from UK and Germany were respectively used",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XLS",
+            "url": "https://data.europa.eu/euodp/data/storage/f/2017-04-27T115845/Food_composition_dataset.xlsx",
+            "created": "2017-04-27 14:00:48.482298",
+            "tracking_summary": null,
+            "name": "Food composition database for nutrient intake: selected vitamins and minerals in selected European countries",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "633",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/8a18b2f8-043c-44c9-9543-9550e51d4114",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "food-composition-database",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "c097b708-c0d6-4064-a99b-3cd55ad7b8b8",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "811",
+    "id": "food-composition-database",
+    "metadata_created": "2017-04-27 12:00:47.615954",
+    "modified_date": "2017-05-30 10:15:16.435968",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "Following a request from the European Commission for a review of European dietary reference values (DRVs), the EFSA\u2019s Panel on Dietetic Products, Nutrition and Allergies (NDA) has prepared a number of Scientific Opinions on DRVs for micronutrients. The DATA Unit supported this activity by estimating the nutrient intake of a number of micronutrients in nine selected European countries and different age groups. In addition, the DATA Unit also provided information on average content of food sources of the respective nutrients per country based on the composition database, as well as main food group contributors to nutrient intakes and assessed the comparability of the provided data with pertinent published intake data.\r\n\r\nIntake estimates have been assessed using food consumption data from the EFSA Comprehensive Food Consumption Database (EFSA, 2011a) and the EFSA Nutrient composition database. Food composition data used to populate the Nutrient composition database were provided to EFSA through the EFSA procurement project \u2018Updated food composition database for nutrient intake\u2019 (Roe at al., 2013). Data were provided following the EFSA specification for standard sample description for food and feed and were classified according to the FoodEx2 classification system of EFSA (EFSA, 2011b).\r\n\r\nThe food composition data used in these assessments and here published cover the following vitamins and minerals: calcium (Ca); copper (Cu); cobalamin (vitamin B12); magnesium (Mg); niacin; phosphorus (P); potassium (K); riboflavin; thiamin; iron (Fe); selenium (Se); vitamin B6; vitamin K, zinc (Zn), and vitamin E(1). The food composition dataset contains data from seven(2) countries: Finland, France, Germany, Italy, Netherlands, Sweden, and United Kingdom. This dataset version has been checked for outliers but is prior to data completion for missing foods and nutrient values.\r\n\r\n(1) Vitamin E is defined as alpha-tocopherol (AT) only, however as most food composition databases in the EU contain values as alpha-tocopherol equivalents (TE), data on TE are also provided\r\n\r\n(2) For the nutrient intake estimates of Ireland and Latvia present in the opinions of the EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA), food composition data from UK and Germany were respectively used",
+    "title": "Food composition database for nutrient intake: selected vitamins and minerals in selected European countries",
+    "temporal_coverage_from": "",
+    "tracking_summary": "811",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "https://doi.org/10.5281/zenodo.438313",
+    "release_date": "2017-04-27 12:00:47.615954",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "efsa",
+        "title": "European Food Safety Authority"
+    }
+}

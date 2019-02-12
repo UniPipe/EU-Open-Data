@@ -1,0 +1,266 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "repository",
+            "name": "repository"
+        },
+        {
+            "display_name": "prefixs",
+            "name": "prefixs"
+        },
+        {
+            "display_name": "SPARQL endpoint",
+            "name": "SPARQL endpoint"
+        },
+        {
+            "display_name": "SPARQL",
+            "name": "SPARQL"
+        },
+        {
+            "display_name": "query",
+            "name": "query"
+        },
+        {
+            "display_name": "SPARQL language",
+            "name": "SPARQL language"
+        },
+        {
+            "display_name": "endpoint",
+            "name": "endpoint"
+        },
+        {
+            "display_name": "bookmarked queries",
+            "name": "bookmarked queries"
+        },
+        {
+            "display_name": "human-readable",
+            "name": "human-readable"
+        },
+        {
+            "display_name": "format",
+            "name": "format"
+        },
+        {
+            "display_name": "open data sets",
+            "name": "open data sets"
+        },
+        {
+            "display_name": "interface",
+            "name": "interface"
+        }
+    ],
+    "metadata_modified": "2017-04-06 13:21:14.508468",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "European Environment Agency full content catalogue for Linked Data spiders ( RDF).",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://www.eea.europa.eu/sitemap-all-content-rdf.xml",
+            "created": "2017-01-20 12:18:17.208603",
+            "tracking_summary": null,
+            "name": "Full content catalogue",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "32",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/5d19df7d-013f-45ed-a6b0-f386bb2f5ad5",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Data table via SPARQL. \r\nDownloadable dataset.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://www.eea.europa.eu/content-activity/indicators/published-daviz-connected-with-sparql/@@view",
+            "created": "2017-01-20 12:22:22.005805",
+            "tracking_summary": null,
+            "name": "Published Daviz connected with Sparql",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "1",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/22dd2e15-4a51-4a72-ae55-9a65ce6ce1e7",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL queries.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://semantic.eea.europa.eu/sparql",
+            "created": "2016-11-22 13:40:17.610485",
+            "tracking_summary": null,
+            "name": "SPARQL endpoint",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "44",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/f2b18b79-c035-4cf5-9298-263acd27f37d",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Semantic Data Service (sparql repository).\r\nLisf ot linked open data sets available via semantic.eea.europa.eu ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://www.eea.europa.eu/data-and-maps/daviz/sds",
+            "created": "2016-11-22 13:22:30.492884",
+            "tracking_summary": null,
+            "name": "SPARQL repository",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "32",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/77b02844-ca15-4735-bd67-9bddafb449e8",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Examples of SPARQL queries.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://semantic.eea.europa.eu/sharedSparqlBookmarks.action",
+            "created": "2017-01-17 16:30:12.986137",
+            "tracking_summary": null,
+            "name": "Shared bookmarked SPARQL queries",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "25",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/fb472a8d-10a9-40e9-bc2b-0e85f698f2b0",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Data table via SPARQL. \r\nDownloadable this datasets. ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://www.eea.europa.eu/data-and-maps/daviz/sds/eurostat-datasets-related-to-environment/@@view",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Eurostat datasets related to environment",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/256fccf3-550c-4be1-b010-2a22fdce8721",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "General principles.\r\nPost-harvest scripts.\r\nSPARQL Example 1 - joining two SDMX datasets.\r\nSPARQL Example 2 - sub-selects.\r\nSPARQL Functions Reference.\r\nSPARQL introduction.\r\nCommonly used vocabularies.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://semantic.eea.europa.eu/documentation",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Documentation",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/019fa1b8-84b8-434f-b5a2-97d4f0399e19",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "european-environment-agency-sparql-endpoint",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "a0f11636-49f9-46ec-9735-c78546d2e9f4",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "455",
+    "id": "european-environment-agency-sparql-endpoint",
+    "metadata_created": "2016-11-21 16:42:56.920665",
+    "modified_date": "2017-04-06 13:21:14.508468",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 5,
+    "description": "A SPARQL endpoint is a conformant SPARQL protocol service as defined in the SPROT specification. A SPARQL endpoint enables users (human or other) to query a knowledge base via the SPARQL language. Results are typically returned in one or more machine-processable formats. SPARQL endpoint is mostly conceived as a machine-friendly interface towards a knowledge base. Both the formulation of the queries and the human-readable presentation of the results should typically be implemented by the calling software, and not be done manually by human users.",
+    "title": "European Environment Agency SPARQL endpoint",
+    "temporal_coverage_from": "",
+    "tracking_summary": "455",
+    "groups": [
+        {
+            "name": "sparql-endpoints"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/euodp/data/dataset/european-environment-agency-sparql-endpoint",
+    "release_date": "2016-11-21 16:42:56.920665",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "eea",
+        "title": "European Environment Agency"
+    }
+}

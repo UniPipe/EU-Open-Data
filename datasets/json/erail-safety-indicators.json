@@ -1,0 +1,114 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": "",
+    "metadata_modified": "2019-01-04 09:47:22.580614",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/4514",
+        "http://eurovoc.europa.eu/4033"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Railway common safety indicators reported by the national safety authorities.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://erail.era.europa.eu/safety-indicators.aspx",
+            "created": "2016-04-25 12:16:02.492850",
+            "tracking_summary": null,
+            "name": "Railway common safety indicators - CSV export of database, Excel exports",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "6",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/745eba39-a0f1-40f6-94f0-69c1a16c9ff7",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "This report is the fourth biennial report on the development\r\nof railway safety performance prepared by the European\r\nRailway Agency. In accordance with EU legislation, it has been\r\nproduced every even year by the Agency since it became\r\noperational in 2006. It relies on data provided by the NIBs and\r\nNSAs of EU Member States and on additional information from\r\nthe European Commission and other official sources.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "https://erail.era.europa.eu/documents/SPR.pdf",
+            "created": "2016-04-25 12:16:59.722027",
+            "tracking_summary": null,
+            "name": "Safety Performance Report",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "6",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/37a1ba60-2df9-491f-a5c7-263fbbb32ff8",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "erail-safety-indicators",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "43f78bc3-adbc-486c-a184-ddc19aabb10b",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU28"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "2016-01-01T00:00:00",
+    "num_tags": null,
+    "views_total": "42",
+    "id": "erail-safety-indicators",
+    "metadata_created": "2016-04-25 10:06:05.626537",
+    "modified_date": "2019-01-04 09:47:22.580614",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "The Safety Directive 2004/49/EC introduced common safety indicators (CSIs), which are to be collected by the national safety authorities and delivered to the European Railway Agency (ERA). The CSIs data have been collected since 2006 and are available in this database.\r\n \r\nIn 2010 the Directive 2009/149/EC introduced an updated set of CSIs and made it mandatory for Member States to apply common definitions to safety indicators.\r\n\r\nThe ERAIL database shall ensure that the information relevant to the safety of the railways in the Member States is accessible and transparent to all interested parties and stakeholders in the railway.\r\n \r\nIn the Railway Safety Directive 2004/49/EC and the Agency Regulation 881/2004 /with later amendments/, the Agency has been given the task of collecting and proving public access to: The investigation reports sent to the Agency in accordance with Article 24 of the Railway Safety Directive A biennial report on safety performance, based on CSIs, national reports on safety and accidents and its own information.\r\n ",
+    "title": "Railway safety indicators",
+    "temporal_coverage_from": "2006-01-01T00:00:00",
+    "tracking_summary": "42",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "ERAIL - European Railway Accident Information Links",
+    "url": "https://erail.era.europa.eu/safety-indicators.aspx",
+    "release_date": "2016-04-25 10:06:05.626537",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "era",
+        "title": "European Railway Agency"
+    }
+}

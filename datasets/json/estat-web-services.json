@@ -1,0 +1,225 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "web service",
+            "name": "web service"
+        },
+        {
+            "display_name": "unicode api",
+            "name": "unicode api"
+        },
+        {
+            "display_name": "data retrieval",
+            "name": "data retrieval"
+        },
+        {
+            "display_name": "statistical data",
+            "name": "statistical data"
+        },
+        {
+            "display_name": "web services",
+            "name": "web services"
+        },
+        {
+            "display_name": "statistics",
+            "name": "statistics"
+        },
+        {
+            "display_name": "data access",
+            "name": "data access"
+        },
+        {
+            "display_name": "API",
+            "name": "API"
+        },
+        {
+            "display_name": "json and unicode web services",
+            "name": "json and unicode web services"
+        },
+        {
+            "display_name": "json",
+            "name": "json"
+        },
+        {
+            "display_name": "query builder",
+            "name": "query builder"
+        },
+        {
+            "display_name": "programming interface",
+            "name": "programming interface"
+        }
+    ],
+    "metadata_modified": "2017-04-06 12:49:53.648609",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/4502",
+        "http://eurovoc.europa.eu/3026",
+        "http://eurovoc.europa.eu/6030"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The Web Services provide access to datasets listed under database by themes, and\r\npredefined tables listed under tables by themes.\r\n",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/eurostat/web/json-and-unicode-web-services/data-scope-and-query-size",
+            "created": "2017-02-27 14:18:45.566354",
+            "tracking_summary": null,
+            "name": "4. JSON and UNICODE Web Services \u2013 data scope and query size ",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "36",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/34df3b46-5d1f-469e-970a-594dc123c78e",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "These SDMX Web Services are a programmatic access to Eurostat data, with the possibility to:\r\n\r\nget a complete list of publicly available datasets.\r\n \r\ndetail the complete structure definition of a given dataset.\r\n \r\ndownload a subset of a given dataset or a full dataset.\r\nThis operation allows customizing requests for data. You can choose which dimensions with which values you want to retrieve data for. Processing time and the resulting data depend on the query, where a small subset of a dataset could have size of a couple kilobytes and can be served in a couple of seconds whereas a full dataset could reach to a several megabytes and service time might take around several minutes.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/eurostat/web/sdmx-web-services/about-this-service",
+            "created": "2017-02-27 14:12:54.981758",
+            "tracking_summary": null,
+            "name": "1. SDMX Web Services",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "60",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/126fb881-b3dd-4c25-8011-bc1a16542f04",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The JSON & UNICODE Web Services are a programmatic access to Eurostat data, with the possibility to download a subset of a given dataset. This operation allows customizing requests for data. You can filter on dimensions to retrieve specific data subsets.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/eurostat/web/json-and-unicode-web-services/about-this-service",
+            "created": "2017-02-27 14:14:27.673819",
+            "tracking_summary": null,
+            "name": "3. Json and Unicode Web Services",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "60",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/57ca4159-73d5-4936-9f6c-004210a328bf",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Eurostat has created an easy to use tool which generates SDMX-compliant queries for a limited number of datasets. This is only an educational aid which can be used by software vendors to generate some example SDMX queries. These queries can then be exploited to learn how to obtain statistical data from the SDMX Web Service hosted at Eurostat. Next chapters of this guideline are describing in details steps required to construct SDMX queries from scratch.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/eurostat/web/sdmx-web-services/query-builder",
+            "created": "2017-02-27 14:17:20.695577",
+            "tracking_summary": null,
+            "name": "2. SDMX Web Services \u2013 query builder ",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "37",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/5587900b-0f4b-4a36-ba84-d1e21aea4b45",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Query builder.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.europa.eu/eurostat/web/json-and-unicode-web-services/getting-started/query-builder",
+            "created": "2017-02-27 14:15:49.794747",
+            "tracking_summary": null,
+            "name": "5. JSON and UNICODE Web Services \u2013 query builder ",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "40",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/7ada69b2-d166-444d-9bcf-5f3360af7e1d",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "estat-web-services",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "691",
+    "id": "estat-web-services",
+    "metadata_created": "2017-02-27 13:10:16.593945",
+    "modified_date": "2017-04-06 12:49:53.648609",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 5,
+    "description": "Eurostat data contains many indicators (short-term, structural, theme-specific and others) on the EU-28 and the Eurozone, the Member States and their partners.\r\nThe database of Eurostat contains always the latest version of the datasets meaning that there is no versioning on the data.\r\nDatasets are updated twice a day, at 11:00 and at 23:00, in case new data is available or because of structural change.\r\n\r\nIt is possible to access the datasets through SDMX Web Services, as well as through Json and Unicode Web Services.\r\n\r\nSDMX Web Services are a programmatic access to Eurostat data, with the possibility to:\r\n\r\n- get a complete list of publicly available datasets;\r\n- detail the complete structure definition of a given dataset;\r\n- download a subset of a given dataset or a full dataset.\r\n\r\nSDMX Web Services:\r\n\r\n- provide access to datasets listed under database by themes, and predefined tables listed under tables by themes;\r\n- provide data in SDMX 2.0 and 2.1 formats;\r\n- support both Representation State Transfer (REST) and Simple Object Access Protocol (SOAP) protocols;\r\n- return responses in English language only;\r\n- are free of charge.\r\n\r\nThe JSON & UNICODE Web Services are a programmatic access to Eurostat data, with the possibility to download a subset of a given dataset. This operation allows customizing requests for data. You can filter on dimensions to retrieve specific data subsets.\r\n\r\nThe JSON & UNICODE Web Services: \r\n\r\n- provide data in JSON-stat and UNICODE formats;\r\n- support only Representation State Transfer (REST) protocol;\r\n- deliver responses in English, French and German language;\r\n- are free of charge.\r\n",
+    "title": "Eurostat web services and dissemination APIs",
+    "temporal_coverage_from": "",
+    "tracking_summary": "691",
+    "groups": [
+        {
+            "name": "web-services"
+        },
+        {
+            "name": "api"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "Application programming interface",
+    "url": "http://ec.europa.eu/eurostat/data/web-services",
+    "release_date": "2017-02-27 13:10:16.593945",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "estat",
+        "title": "Eurostat"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "notifications",
+            "name": "notifications"
+        },
+        {
+            "display_name": "EEA",
+            "name": "EEA"
+        },
+        {
+            "display_name": "sanctions",
+            "name": "sanctions"
+        }
+    ],
+    "metadata_modified": "2015-07-27 15:04:27.401569",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/3870",
+        "http://eurovoc.europa.eu/1804",
+        "http://eurovoc.europa.eu/5618"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "ESMA has compiled the information on published sanctions on the basis of notifications made to it by the national competent authorities of the Member States [of the European Economic Area (EEA)]. Export possible.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://registers.esma.europa.eu/publication/searchSanction;jsessionid=ADB60482F86DB6CFE1719FBB866AD022",
+            "created": "2015-02-24 15:40:46.723716",
+            "tracking_summary": null,
+            "name": "Sanctions",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "148",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/2ecc1a49-0414-4dd8-bf5d-f60a0e95dfb8",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "sanctions",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "1335",
+    "id": "sanctions",
+    "metadata_created": "2015-07-27 15:04:27.400474",
+    "modified_date": "2015-07-27 15:04:27.401569",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "ESMA has compiled the information on published sanctions on the basis of notifications made to it by the national competent authorities of the Member States [of the European Economic Area (EEA)]. This compilation has been carried out with utmost   care   and to the best of its ability and ESMA  endeavours to continuously update the information provided.\r\n\r\nFor further information please refer to the website of the competent national supervisory authorities.\r\n\r\nIn addition to the above provisions, attention is also drawn to the Legal Notice of the ESMA website.",
+    "title": "Sanctions",
+    "temporal_coverage_from": "",
+    "tracking_summary": "1335",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "http://registers.esma.europa.eu/publication/searchSanction;jsessionid=ADB60482F86DB6CFE1719FBB866AD022",
+    "release_date": "2015-07-27 15:04:27.400474",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "esma",
+        "title": "European Securities and Markets Authority"
+    }
+}

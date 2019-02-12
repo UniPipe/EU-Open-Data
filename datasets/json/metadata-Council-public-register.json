@@ -1,0 +1,236 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "document",
+            "name": "document"
+        },
+        {
+            "display_name": "decision-making",
+            "name": "decision-making"
+        },
+        {
+            "display_name": "EU",
+            "name": "EU"
+        },
+        {
+            "display_name": "Council",
+            "name": "Council"
+        },
+        {
+            "display_name": "access",
+            "name": "access"
+        },
+        {
+            "display_name": "transparency",
+            "name": "transparency"
+        },
+        {
+            "display_name": "European-Council",
+            "name": "European-Council"
+        },
+        {
+            "display_name": "documents",
+            "name": "documents"
+        },
+        {
+            "display_name": "openness",
+            "name": "openness"
+        },
+        {
+            "display_name": "PEC",
+            "name": "PEC"
+        }
+    ],
+    "metadata_modified": "2019-01-03 10:00:19.274277",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/486",
+        "http://eurovoc.europa.eu/1079",
+        "http://eurovoc.europa.eu/5936"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Metadata of the Council's public register - SPARQL ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/SPARQLQ",
+            "url": "http://data.consilium.europa.eu/sparql",
+            "created": "2016-04-25 11:47:41.404852",
+            "tracking_summary": null,
+            "name": "Metadata of the Council's public register - SPARQL ",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "88",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/66dd94e1-b3c1-4a04-afe3-e59dc44126fb",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "PublicRegister.zip",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://data.consilium.europa.eu/dump/PublicRegister.zip",
+            "created": "2016-04-25 11:48:46.327256",
+            "tracking_summary": null,
+            "name": "Complete data set of metadata of the Council's public register",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "113",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/597efe9c-9693-4178-ac3e-2c4a50c30068",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The CODI ontology covers the document requests and the public register.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/RDF_XML",
+            "url": "http://data.consilium.europa.eu/dump/codi.ttl",
+            "created": "2019-01-03 11:00:19.351973",
+            "tracking_summary": null,
+            "name": "Download ontology",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "10",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/c529d38a-23f4-4804-893c-c5d9d562f4e0",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "User Manual  for the Council's Open Data Datasets.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "https://www.consilium.europa.eu/media/29365/users-manual.pdf",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Council's Open Data Datasets - User Manual ",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/358678f9-04d8-4efa-9083-253b3aa921bc",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Open Data Documentation (website)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://www.consilium.europa.eu/en/general-secretariat/corporate-policies/transparency/open-data/",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Open Data Documentation (website)",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/2bb829cc-268d-4a7b-be79-d08e2398c331",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Understanding the Council's open data datasets",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "http://www.consilium.europa.eu/en/general-secretariat/corporate-policies/transparency/Understanding-Open-Data-Datasets_pdf/",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Understanding the Council's open data datasets",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/cfc475fd-feae-4e40-8034-d54f49ca8449",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "metadata-Council-public-register",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "2f76e90d-b475-415f-a675-02dfb82939af",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "737",
+    "id": "metadata-Council-public-register",
+    "metadata_created": "2016-04-25 09:46:45.208706",
+    "modified_date": "2019-01-03 10:00:19.274277",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 3,
+    "description": "The Council's public register of documents was set up in 1999. The register contains references to documents issued by the Council since that date (exceptions apply regarding classified documents). Public documents are also available for downloading through the register.\r\n\r\nOn average, around 25 000 documents are added to the register each year (original language). The information related to Council documents is public even if the contents of a document are not available to the public.\r\n\r\nThis dataset contains metadata on Council documents from the Council Public Register.",
+    "title": "Metadata of the Council's public register",
+    "temporal_coverage_from": "",
+    "tracking_summary": "737",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/INTR"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "http://data.consilium.europa.eu/def/codi",
+    "release_date": "2016-04-25 09:46:45.208706",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "consil",
+        "title": "Council of the European Union"
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "granted projects",
+            "name": "granted projects"
+        },
+        {
+            "display_name": "funded projects",
+            "name": "funded projects"
+        }
+    ],
+    "metadata_modified": "2019-01-09 07:44:26.896050",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2914",
+        "http://eurovoc.europa.eu/2801",
+        "http://eurovoc.europa.eu/4256",
+        "http://eurovoc.europa.eu/3656",
+        "http://eurovoc.europa.eu/918"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Basic statistics for ERC funding activities include data on granted projects and evaluated projects, which can be filtered by funding scheme, call year, domain. Results can be exported in Excel format.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://erc.europa.eu/projects-and-results/statistics",
+            "created": "2016-12-01 16:01:55.500674",
+            "tracking_summary": null,
+            "name": "Statistics for ERC funding activities",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "17",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/8af504fd-214a-4da5-b9d6-256384ccf513",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "statistics-for-european-research-council-funding-activities",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "4b949bc5-9b49-46bc-b7f0-50ae7f1eb00c",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU28"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "2019-01-01T00:00:00",
+    "num_tags": null,
+    "views_total": "37",
+    "id": "statistics-for-european-research-council-funding-activities",
+    "metadata_created": "2016-12-01 14:55:28.748005",
+    "modified_date": "2019-01-09 07:44:26.896050",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [
+        "http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"
+    ],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "Basic statistics for ERC funding activities include data on granted projects and evaluated projects, which can be filtered by funding scheme, call year, domain. \r\n\r\nData can be exported in CSV or PDF formats.  It reflects the current status of granting process.",
+    "title": "Statistics for European Research Council funding activities",
+    "temporal_coverage_from": "2007-01-01T00:00:00",
+    "tracking_summary": "37",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "https://erc.europa.eu/projects-and-results/statistics",
+    "release_date": "2016-12-01 14:55:28.748005",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "erc",
+        "title": "European Research Council Executive Agency"
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "value-added-tax",
+            "name": "value-added-tax"
+        },
+        {
+            "display_name": "VAT",
+            "name": "VAT"
+        },
+        {
+            "display_name": "rates",
+            "name": "rates"
+        },
+        {
+            "display_name": "CIT",
+            "name": "CIT"
+        },
+        {
+            "display_name": "tax",
+            "name": "tax"
+        },
+        {
+            "display_name": "corporate-income-tax",
+            "name": "corporate-income-tax"
+        },
+        {
+            "display_name": "PIT",
+            "name": "PIT"
+        },
+        {
+            "display_name": "personal-income-tax",
+            "name": "personal-income-tax"
+        },
+        {
+            "display_name": "excise-duties-tax",
+            "name": "excise-duties-tax"
+        },
+        {
+            "display_name": "social-security-contributions",
+            "name": "social-security-contributions"
+        },
+        {
+            "display_name": "reduced",
+            "name": "reduced"
+        }
+    ],
+    "metadata_modified": "2018-12-14 09:33:07.233022",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [],
+    "interoperability_level": null,
+    "name": "taxes-in-europe-database",
+    "isopen": true,
+    "accrual_periodicity": "Yearly",
+    "owner_org": "fac58fc0-6115-4080-965a-30565b6bb99f",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "2015-01-01T00:00:00",
+    "num_tags": null,
+    "views_total": "1137",
+    "id": "taxes-in-europe-database",
+    "metadata_created": "2015-07-27 16:40:27.460715",
+    "modified_date": "2018-12-14 09:33:07.233022",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [
+        "http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"
+    ],
+    "state": null,
+    "version": "2.6.0",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 0,
+    "description": "The \"Taxes in Europe\" database (TEDB) is the European Commission's on-line information tool covering the main taxes in force in the EU Member States. The system contains information on around 600 taxes, as provided to the European Commission by the national authorities. TEDB contains, for each individual tax, information on its legal basis, assessment base, main exemptions, applicable rate(s), economic and statistical classification, as well as the revenue generated by it.",
+    "title": "Taxes in Europe database",
+    "temporal_coverage_from": "2007-01-01T00:00:00",
+    "tracking_summary": "1137",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "TEDB",
+    "url": "http://ec.europa.eu/taxation_customs/tedb/taxSearch.html",
+    "release_date": "2015-07-27 16:40:27.460715",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "taxud",
+        "title": "Directorate-General for Taxation and Customs Union"
+    }
+}

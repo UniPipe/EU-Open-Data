@@ -1,0 +1,147 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "passenger",
+            "name": "passenger"
+        },
+        {
+            "display_name": "ERA",
+            "name": "ERA"
+        },
+        {
+            "display_name": "incident investigation",
+            "name": "incident investigation"
+        },
+        {
+            "display_name": "cause of accident",
+            "name": "cause of accident"
+        },
+        {
+            "display_name": "railway accident",
+            "name": "railway accident"
+        },
+        {
+            "display_name": "injuries",
+            "name": "injuries"
+        },
+        {
+            "display_name": "railway system",
+            "name": "railway system"
+        }
+    ],
+    "metadata_modified": "2019-01-04 10:36:59.232385",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/4514",
+        "http://eurovoc.europa.eu/4511",
+        "http://eurovoc.europa.eu/730"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": " The dataset provides safety recommendations issued by the National Investigation Bodies. \r\n \r\nHere you can export to Excel the query results previously retrieved. Use the left box to select the columns to export. To select more values from the options, keep CTRL pressed when clicking on each item.\r\n\r\nPlease allow a few seconds depending on the amount of data to download.\r\n\r\nFull export will contain following items:\r\nThe dataset provides safety recommendations issued by the National Investigation Bodies. \r\n-  Recommendation ID   \r\n-  Recommendation title  \t\r\n- Issue date  \r\n- Recommendations text\t\r\n- Language\t\r\n- Occurrence (hyperlink to the incident)  \r\n- Title\t \r\n- Reporting Body ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://erail.era.europa.eu/recommendations.aspx",
+            "created": "2019-01-04 11:33:56.019412",
+            "tracking_summary": null,
+            "name": "Railway accident and incident recommendations - Excel export",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "5",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/583ed11e-897d-46f8-b301-a1f5ccca6c04",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "This report is the fourth biennial report on the development of railway safety performance prepared by the European Railway Agency.   \r\nIn accordance with EU legislation, it has been produced every even year by the Agency since it became operational in 2006. It relies on data provided by the NIBs and NSAs of EU Member States and on additional information from the European Commission and other official sources.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "https://erail.era.europa.eu/documents/SPR.pdf",
+            "created": "2019-01-04 11:33:56.019424",
+            "tracking_summary": null,
+            "name": "Safety Performance Report",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "8",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/42609300-cfe4-4a00-b808-c4aa544a873a",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "erail-accident-recommendations",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "43f78bc3-adbc-486c-a184-ddc19aabb10b",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/CHE",
+        "http://publications.europa.eu/resource/authority/country/EU28",
+        "http://publications.europa.eu/resource/authority/country/TUR",
+        "http://publications.europa.eu/resource/authority/country/MKD"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "42",
+    "id": "erail-accident-recommendations",
+    "metadata_created": "2019-01-04 10:33:55.808095",
+    "modified_date": "2019-01-04 10:36:59.232385",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "The ERAIL database shall ensure that the information relevant to the safety of the railways in the Member States is accessible and transparent to all interested parties and stakeholders in the railway.\r\n \r\nIn the Railway Safety Directive 2004/49/EC and the Agency Regulation 881/2004 /with later amendments/, the Agency has been given the task of collecting and proving public access to:\r\nThe investigation reports sent to the Agency in accordance with Article 24 of the Railway Safety Directive. A biennial report on safety performance, based on CSIs, national reports on safety and accidents and its own information.\r\n\r\nThis dataset contains railway accident recommendations issued by the National Investigation Bodies. \r\n",
+    "title": "Railway accident and incident recommendations",
+    "temporal_coverage_from": "2000-01-01T00:00:00",
+    "tracking_summary": "42",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "ERAIL - European Railway Accident Information Links",
+    "url": "http://data.europa.eu/euodp/en/data/dataset/erail-accident-recommendations",
+    "release_date": "2019-01-04 10:33:55.808095",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "era",
+        "title": "European Railway Agency"
+    }
+}

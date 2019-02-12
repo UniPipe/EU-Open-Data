@@ -1,0 +1,214 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "marketing authorisation",
+            "name": "marketing authorisation"
+        },
+        {
+            "display_name": "pharmaceutical company",
+            "name": "pharmaceutical company"
+        },
+        {
+            "display_name": "medicines",
+            "name": "medicines"
+        },
+        {
+            "display_name": "scientific opinion",
+            "name": "scientific opinion"
+        },
+        {
+            "display_name": "European Commission",
+            "name": "European Commission"
+        },
+        {
+            "display_name": "Medicinal Products",
+            "name": "Medicinal Products"
+        }
+    ],
+    "metadata_modified": "2019-01-09 14:17:21.572256",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2773",
+        "http://eurovoc.europa.eu/1852"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "You can download the European Medicines Agency's (EMA) medicine-related data published on this website in Excel table format from this page. EMA updates these medicine data tables once a day.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XLS",
+            "url": "https://www.ema.europa.eu/sites/default/files/Medicines_output_summaries_of_opinion.xlsx",
+            "created": "2019-01-09 14:10:58.538047",
+            "tracking_summary": null,
+            "name": "Download table of all summaries of opinions for human and veterinary medicines",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "6",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ee6179cc-b9d0-4a3b-8fb2-bdd06a282dca",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Search for Human medicines: summaries of opinion",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://www.ema.europa.eu/medicines/field_ema_web_categories%253Aname_field/Human/ema_group_types/ema_smops",
+            "created": "2016-06-22 09:27:17.955970",
+            "tracking_summary": null,
+            "name": "Search for Human medicines: summaries of opinion",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "28",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/627ba3a9-1979-41b3-b75a-79886dc99d7d",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "All medicines must be authorised before they can be marketed and made available to patients. In the European Union (EU), there are two main routes for authorising medicines: a centralised route and a national route. ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://www.ema.europa.eu/ema/index.jsp?curl=pages/about_us/general/general_content_000109.jsp&mid=WC0b01ac0580028a47",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Authorisation of medicines",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/dad289f7-2cae-4187-8c1f-fe4ba11195bc",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Pending EC decisions: summaries of opinion",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://www.ema.europa.eu/en/medicines/download-medicine-data#pending-ec-decisions:-summaries-of-opinion-section",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Pending EC decisions: summaries of opinion",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/bb48932b-c767-4d9a-8ebe-4bda6a4ace77",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "pending-ec-decisions-human-medicines",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "cc9851fa-c87a-4be0-ada7-573e1a6aad2e",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "336",
+    "id": "pending-ec-decisions-human-medicines",
+    "metadata_created": "2016-02-29 13:12:20.089148",
+    "modified_date": "2019-01-09 14:17:21.572256",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "In this dataset you can find medicines that have been evaluated by the European Medicines Agency's (EMA) Committee for Medicinal Products for Human Use (CHMP) and are currently pending a decision by the European Commission. \r\n\r\nWhen a pharmaceutical company applies for marketing authorisation through the Centralised authorisation procedure, the CHMP gives a positive or negative recommendation, in the form of a scientific opinion, on whether a medicine should be authorised. Immediately after the opinion is adopted, the EMA publishes a 'summary of opinion'. \r\n\r\nThis summary is replaced by a full European Public Assessment Report (EPAR) once the European Commission has decided - taking the EMA opinion into consideration - whether to grant the marketing authorisation. \r\n\r\nSummaries of opinion are also published when the CHMP adopts scientific opinions on important changes to an existing marketing authorisation applied for by the pharmaceutical company.\r\n\r\nSearch results can be exported in Excel format.",
+    "title": "Medicine data: pending EC decisions (Human medicines)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "336",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "https://data.europa.eu/euodp/en/data/dataset/pending-ec-decisions-human-medicines",
+    "release_date": "2016-02-29 13:12:20.089148",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "emea",
+        "title": "European Medicines Agency"
+    }
+}

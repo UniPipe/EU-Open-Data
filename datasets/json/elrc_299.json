@@ -1,0 +1,156 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "linguistics",
+            "name": "linguistics"
+        },
+        {
+            "display_name": "international balance",
+            "name": "international balance"
+        },
+        {
+            "display_name": "language-application",
+            "name": "language-application"
+        },
+        {
+            "display_name": "translation",
+            "name": "translation"
+        },
+        {
+            "display_name": "corpus",
+            "name": "corpus"
+        },
+        {
+            "display_name": "language-technology",
+            "name": "language-technology"
+        }
+    ],
+    "metadata_modified": "2018-02-14 10:47:30.361787",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Data archive containing files in the following formats: application/xml",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "https://elrc-share.eu/repository/browse/polish-ministry-of-foreign-affairs-regional-dataset/b9a2f7adfe7211e6bfe700155d0205026246629796064b4ab151e2d691c15824/",
+            "created": "2017-12-18 16:45:07.796836",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "4",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ed2f44bf-b73c-4e1b-994b-09ec60d20ebe",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Validation report",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "http://data.europa.eu/data/euodp/dataset/80dac892-e93f-4488-8fa8-1a6ab0a9661f/resource/bfd30b42-8aab-418b-8175-f5c369baff17/download/elrc299polishministryofforeignaffairsregional...valrep.pdf",
+            "created": null,
+            "tracking_summary": null,
+            "name": "",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/bfd30b42-8aab-418b-8175-f5c369baff17",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Metadata description",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "http://data.europa.eu/data/euodp/dataset/80dac892-e93f-4488-8fa8-1a6ab0a9661f/resource/365d41e6-bf61-4aaf-abbd-714171224873/download/elrc299polishministryofforeignaffairsregional...md.xml",
+            "created": null,
+            "tracking_summary": null,
+            "name": "",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/365d41e6-bf61-4aaf-abbd-714171224873",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "elrc_299",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "d7c6596e-9b6e-4461-a6b8-3cfeba1da887",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "ELRC_299",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "31",
+    "id": "elrc_299",
+    "metadata_created": "2017-12-14 17:06:29.516782",
+    "modified_date": "2018-02-14 10:47:30.361787",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "A collection of Polish-English whitepapers published by the Polish Ministry of Foreign Affairs, including 'Eastern Partnership' (10K words in 492 segments) and 'Poland's 10 years in the EU' (129K words in 3146 segments). The translations were manually aligned at the sentence level and encoded in the XLiFF format.",
+    "title": "Polish Ministry of Foreign Affairs Regional Dataset",
+    "temporal_coverage_from": "",
+    "tracking_summary": "31",
+    "groups": [
+        {
+            "name": "resources-for-language-technologies"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/INTR"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/POL",
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/euodp/en/data/dataset/elrc_299",
+    "release_date": "2017-12-14 17:06:29.516782",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "cnect",
+        "title": "Directorate-General for Communications Networks, Content and Technology"
+    }
+}

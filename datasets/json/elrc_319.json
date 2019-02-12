@@ -1,0 +1,156 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "translation",
+            "name": "translation"
+        },
+        {
+            "display_name": "linguistics",
+            "name": "linguistics"
+        },
+        {
+            "display_name": "language-application",
+            "name": "language-application"
+        },
+        {
+            "display_name": "trade policy",
+            "name": "trade policy"
+        },
+        {
+            "display_name": "corpus",
+            "name": "corpus"
+        },
+        {
+            "display_name": "language-technology",
+            "name": "language-technology"
+        }
+    ],
+    "metadata_modified": "2018-02-14 10:47:27.971316",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Data archive containing files in the following formats: application/xml",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "https://elrc-share.eu/repository/browse/public-procurement-dataset-2/fbb7b3970e3d11e7bfe700155d020502f5f50c1632f1411185729441ce76f169/",
+            "created": "2017-12-18 16:44:57.192972",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "5",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/6add038a-9511-4454-b6dc-f29b2e4cfe11",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Validation report",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PDF",
+            "url": "http://data.europa.eu/data/euodp/dataset/f505ad32-760a-4d47-bd0c-5c5d22e02239/resource/5987df79-599a-46fb-b924-9b7ff7d8856b/download/elrc319publicprocurementdataset2valrep.pdf",
+            "created": null,
+            "tracking_summary": null,
+            "name": "",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/5987df79-599a-46fb-b924-9b7ff7d8856b",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Metadata description",
+            "format": "http://publications.europa.eu/resource/authority/file-type/XML",
+            "url": "http://data.europa.eu/data/euodp/dataset/f505ad32-760a-4d47-bd0c-5c5d22e02239/resource/1a950adf-d0a6-4989-a582-280a6e6edd42/download/elrc319publicprocurementdataset2md.xml",
+            "created": null,
+            "tracking_summary": null,
+            "name": "",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/1a950adf-d0a6-4989-a582-280a6e6edd42",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "elrc_319",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "d7c6596e-9b6e-4461-a6b8-3cfeba1da887",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "ELRC_319",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "18",
+    "id": "elrc_319",
+    "metadata_created": "2017-12-14 17:06:18.837379",
+    "modified_date": "2018-02-14 10:47:27.971316",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "A collection of parallel Polish-English texts published by the Polish Public Procurement Office. Sentence-level alignment of translation segments  was carried out manually and encoded in the XLiFF format.  There are two publications in the collection: a) Report on functioning of public procurement system in 2006  (raport_uzp_2006.xlf, 705 segments 31141 words) and b) Report on functioning of public procurement system in 2011 (raport_uzp_2010.xlf, 1434 segments,73456 words).  The total size of the collection is 104597 words in 2139 parallel segments.",
+    "title": "Public Procurement Dataset 2",
+    "temporal_coverage_from": "",
+    "tracking_summary": "18",
+    "groups": [
+        {
+            "name": "resources-for-language-technologies"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/POL",
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/euodp/en/data/dataset/elrc_319",
+    "release_date": "2017-12-14 17:06:18.837379",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "cnect",
+        "title": "Directorate-General for Communications Networks, Content and Technology"
+    }
+}

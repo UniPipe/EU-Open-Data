@@ -1,0 +1,272 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "economy",
+            "name": "economy"
+        },
+        {
+            "display_name": "GDP",
+            "name": "GDP"
+        },
+        {
+            "display_name": "ECB",
+            "name": "ECB"
+        },
+        {
+            "display_name": "European Central Bank",
+            "name": "European Central Bank"
+        },
+        {
+            "display_name": "debt",
+            "name": "debt"
+        },
+        {
+            "display_name": "corporates",
+            "name": "corporates"
+        },
+        {
+            "display_name": "Euro area statistics",
+            "name": "Euro area statistics"
+        },
+        {
+            "display_name": "deficit",
+            "name": "deficit"
+        },
+        {
+            "display_name": "macro-economic indicators",
+            "name": "macro-economic indicators"
+        },
+        {
+            "display_name": "households",
+            "name": "households"
+        }
+    ],
+    "metadata_modified": "2016-01-19 08:42:13.352417",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/408",
+        "http://eurovoc.europa.eu/1452",
+        "http://eurovoc.europa.eu/5455",
+        "http://eurovoc.europa.eu/4263",
+        "http://eurovoc.europa.eu/6151"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Government deficit ratio",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "http://sdw.ecb.europa.eu/export.do?type=series&node=SEARCHRESULTS&q=AME.A.%3F%3F.1.0.319.0.UBLGE&exportType=xls",
+            "created": "2016-01-19 09:42:13.659687",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "31",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/6e4b182f-6267-4b92-858c-3075428071e4",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Corporates' debt ratio",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "http://sdw.ecb.europa.eu/export.do?type=series&node=SEARCHRESULTS&q=IEAQ.Q.%3F%3F.N.V.LE.RFPA.S11.A1.S.2.N.F.Z&exportType=xls",
+            "created": "2016-01-19 09:42:13.659701",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "20",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/3cd15a6f-1576-4a55-8456-bb5c810feb04",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Macroeconomic indicators",
+            "format": "",
+            "url": "https://www.euro-area-statistics.org/macro-economic-indicators?cr=eur&lg=en",
+            "created": "2016-01-19 09:42:13.659631",
+            "tracking_summary": null,
+            "name": "Macroeconomic indicators",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "7",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/cf4103f2-bbed-415b-8964-17f15ecc1cbe",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Households' debt ratio",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "http://sdw.ecb.europa.eu/export.do?type=series&node=SEARCHRESULTS&q=IEAQ.A.%3F%3F.N.V.LE.RF4D.S1M.A1.S.2.N.F.Z&exportType=xls",
+            "created": "2016-01-19 09:42:13.659694",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "55",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/8b827931-5fac-4122-b248-f8575442746b",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Government debt ratio",
+            "format": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "url": "http://sdw.ecb.europa.eu/export.do?type=series&node=SEARCHRESULTS&q=AME.A.%3F%3F.1.0.319.0.UDGGL&exportType=xls",
+            "created": "2016-01-19 09:42:13.659678",
+            "tracking_summary": null,
+            "name": "",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "97",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/d27b7eeb-e6ea-4657-a36d-097b021bbb84",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "ecb-macro-economic-indicators-indebtedness",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/OTHER",
+    "owner_org": "9f2bb7ee-e68e-40af-a47c-09a7658c976a",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "1246",
+    "id": "ecb-macro-economic-indicators-indebtedness",
+    "metadata_created": "2015-01-13 08:19:51.599016",
+    "modified_date": "2016-01-19 08:42:13.352417",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [
+        "http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"
+    ],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 5,
+    "description": "Indebtedness refers to government debt-to-GDP ratio, government deficit-to-GDP ratio, households' debt-to-gross disposable income ratio and non-financial corporations' debt-to-gross domestic product ratio.\n\nGovernment debt-to-GDP ratio refers to the Maastricht criteria. The government debt statistics used are those used in the context of the excessive deficit procedure. (Financial stocks at nominal value, percentage points, not seasonally or working day adjusted). The last two years presented in the graphs are based on European Commission forecasts (Directorate-General for Economic and Financial Affairs). The reference value set by the Maastricht criteria is 60%. \n\nGovernment deficit-to-GDP ratio refers to the Maastricht criteria. The government deficit statistics include settlements under swaps (non-financial flows, current prices, percentage points, not seasonally or working day adjusted). The last two years presented in the graphs are based on European Commission forecasts (Directorate-General for Economic and Financial Affairs). The reference value for the budget deficit under the Stability and Growth Pact is 3%. \n\n\nHouseholds' debt-to-gross disposable income ratio. Gross disposable income is adjusted for the change in net equity of households in pension fund reserves (non-consolidated, current prices, percentage points, not seasonally or working day adjusted).\n\nNon-financial corporations' debt-to-gross domestic product ratio. The statistics are taken from the national accounts statistics. Debt includes pension reserve liabilities and excludes financial derivatives owing to a lack of comparability across countries (non-consolidated, market prices, percentage points, not seasonally or working day adjusted).",
+    "title": "Macro-economic indicators - Indebtedness",
+    "temporal_coverage_from": "1999-01-01T00:00:00",
+    "tracking_summary": "1246",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/SLV",
+        "http://publications.europa.eu/resource/authority/language/SPA",
+        "http://publications.europa.eu/resource/authority/language/SWE",
+        "http://publications.europa.eu/resource/authority/language/CES",
+        "http://publications.europa.eu/resource/authority/language/BUL",
+        "http://publications.europa.eu/resource/authority/language/DEU",
+        "http://publications.europa.eu/resource/authority/language/DAN",
+        "http://publications.europa.eu/resource/authority/language/ENG",
+        "http://publications.europa.eu/resource/authority/language/ELL",
+        "http://publications.europa.eu/resource/authority/language/FIN",
+        "http://publications.europa.eu/resource/authority/language/EST",
+        "http://publications.europa.eu/resource/authority/language/HRV",
+        "http://publications.europa.eu/resource/authority/language/FRA",
+        "http://publications.europa.eu/resource/authority/language/ITA",
+        "http://publications.europa.eu/resource/authority/language/HUN",
+        "http://publications.europa.eu/resource/authority/language/LIT",
+        "http://publications.europa.eu/resource/authority/language/LAV",
+        "http://publications.europa.eu/resource/authority/language/NLD",
+        "http://publications.europa.eu/resource/authority/language/MLT",
+        "http://publications.europa.eu/resource/authority/language/POR",
+        "http://publications.europa.eu/resource/authority/language/POL",
+        "http://publications.europa.eu/resource/authority/language/SLK",
+        "http://publications.europa.eu/resource/authority/language/RON"
+    ],
+    "alternative_title": "",
+    "url": "https://www.euro-area-statistics.org/macro-economic-indicators?cr=eur&lg=en#",
+    "release_date": "2015-01-13 08:19:51.599016",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "ecb",
+        "title": "European Central Bank"
+    }
+}

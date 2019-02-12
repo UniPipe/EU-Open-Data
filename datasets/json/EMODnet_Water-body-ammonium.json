@@ -1,0 +1,348 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Norvegian Sea",
+            "name": "Norvegian Sea"
+        },
+        {
+            "display_name": "Reference numbers",
+            "name": "Reference numbers"
+        },
+        {
+            "display_name": "Seabed",
+            "name": "Seabed"
+        },
+        {
+            "display_name": "Terrestrial",
+            "name": "Terrestrial"
+        },
+        {
+            "display_name": "Gravity",
+            "name": "Gravity"
+        },
+        {
+            "display_name": "Iceland Sea",
+            "name": "Iceland Sea"
+        },
+        {
+            "display_name": "Metadata parameters",
+            "name": "Metadata parameters"
+        },
+        {
+            "display_name": "North-East Atlantic",
+            "name": "North-East Atlantic"
+        },
+        {
+            "display_name": "bathymetric data",
+            "name": "bathymetric data"
+        },
+        {
+            "display_name": "grid",
+            "name": "grid"
+        },
+        {
+            "display_name": "Adriatic Sea",
+            "name": "Adriatic Sea"
+        },
+        {
+            "display_name": "Mediterranean Sea",
+            "name": "Mediterranean Sea"
+        },
+        {
+            "display_name": "Baltic Sea",
+            "name": "Baltic Sea"
+        },
+        {
+            "display_name": "Aegean Sea",
+            "name": "Aegean Sea"
+        },
+        {
+            "display_name": "English Channel",
+            "name": "English Channel"
+        },
+        {
+            "display_name": "Black Sea",
+            "name": "Black Sea"
+        },
+        {
+            "display_name": "Azores",
+            "name": "Azores"
+        },
+        {
+            "display_name": "North Sea",
+            "name": "North Sea"
+        },
+        {
+            "display_name": "Madeira",
+            "name": "Madeira"
+        },
+        {
+            "display_name": "Canary Islands",
+            "name": "Canary Islands"
+        },
+        {
+            "display_name": "Administration and dimensions",
+            "name": "Administration and dimensions"
+        },
+        {
+            "display_name": "EMODnet",
+            "name": "EMODnet"
+        },
+        {
+            "display_name": "Bathymetry and Elevation",
+            "name": "Bathymetry and Elevation"
+        },
+        {
+            "display_name": "Bathymetry",
+            "name": "Bathymetry"
+        },
+        {
+            "display_name": "Celtic Seas",
+            "name": "Celtic Seas"
+        },
+        {
+            "display_name": "Bay of Biscay",
+            "name": "Bay of Biscay"
+        },
+        {
+            "display_name": "Digital Terrain Model",
+            "name": "Digital Terrain Model"
+        },
+        {
+            "display_name": "DTM",
+            "name": "DTM"
+        },
+        {
+            "display_name": "European seas",
+            "name": "European seas"
+        },
+        {
+            "display_name": "seafloor depth",
+            "name": "seafloor depth"
+        },
+        {
+            "display_name": "ocean depth",
+            "name": "ocean depth"
+        },
+        {
+            "display_name": "magnetics and bathymetry",
+            "name": "magnetics and bathymetry"
+        },
+        {
+            "display_name": "Elevation",
+            "name": "Elevation"
+        }
+    ],
+    "metadata_modified": "2018-08-28 08:24:17.428847",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Time and elevation parameters have to be provided.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/PNG",
+            "url": "http://ec.oceanbrowser.net/emodnet-combined/Python/web/wms?&colorscalerange=200,400&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&FORMAT=image%2Fpng&TRANSPARENT=true&LAYERS=Water_body_dissolved_oxygen_concentration.combined.nc*Water_body_dissolved_oxygen_concentration_L2&TIME=winter%202000&SRS=EPSG%3A4326&STYLES=&WIDTH=3238&HEIGHT=677&BBOX=-90.62792968750001%2C33.016004538620706%2C76.6279296875%2C67.986154273",
+            "created": "2018-08-23 08:42:34.150197",
+            "tracking_summary": null,
+            "name": "Web Map Service (WMS)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "5",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/8c7d6166-5d1c-46f5-bf3f-b704e2518250",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The Products Viewer and Access service allows users to browse, interact and visualize both the harmonized, aggregated and validated data collections and the spatially interpolated basin maps, available for nutrients (ammonium, nitrate plus nitrite, phosphate, silicate), dissolved oxygen, chlorophyll-a and additional parameters depending on spatial data resolution. The distribution of sampling stations gives access to time series or vertical profiles by clicking on the dots representing the sampling stations.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.oceanbrowser.net/emodnet/",
+            "created": "2018-08-23 08:42:34.150206",
+            "tracking_summary": null,
+            "name": "Web map viewer",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "2",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/13d46227-6670-4434-893e-45c86ca55c72",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download of the underlying 4-dimensional netCDF file, either as a whole from the interface or only as a subset using the linked OPeNDAP server.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.oceanbrowser.net:8081/data/emodnet-combined/Water_body_ammonium.combined.nc.html",
+            "created": "2018-08-23 08:42:34.150202",
+            "tracking_summary": null,
+            "name": "OPeNDAP service",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "33",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/f43176e6-8113-4918-807b-686667498a70",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Direct download",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://ec.oceanbrowser.net/emodnet/",
+            "created": "2018-08-23 09:03:19.699124",
+            "tracking_summary": null,
+            "name": "Download (NetCDF, PNG, ...)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "33",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/c146709a-2a36-4073-9888-44862e92d9c8",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Metadata record of the dataset",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://sextant.ifremer.fr/record/e61d12cd-837f-49ff-a0e1-3a694ab84bc5/",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Metadata Record",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/f0ce7c24-5d36-417a-b164-227f55ba02cd",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "The EMODnet Chemistry portal is built on a network of 45 marine research and monitoring institutes and oceanographic data management experts from 27 countries. Many of these National Oceanographic Data Centres (NODC) are actively involved in managing, indexing and providing access to ocean and marine data sets, acquired from research cruises and monitoring activities in European marine waters and global oceans.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://www.emodnet-chemistry.eu",
+            "created": null,
+            "tracking_summary": null,
+            "name": "EMODnet chemistry Web portal",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/77d18bb8-fad7-4660-9edc-2226143b1001",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "EMODnet_Water-body-ammonium",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "344ce8ed-98f3-4c74-aaa8-d2ccf3239841",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ],
+    "revision_id": null,
+    "identifier": "e61d12cd-837f-49ff-a0e1-3a694ab84bc5",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "26",
+    "id": "EMODnet_Water-body-ammonium",
+    "metadata_created": "2018-08-23 06:42:33.270561",
+    "modified_date": "2018-08-28 08:24:17.428847",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [
+        "http://publications.europa.eu/resource/authority/dataset-type/MAPPING"
+    ],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 4,
+    "description": "Combined product of Water body ammonium based on DIVA 4D 10-year analysis on five regions : Atlantic Sea, North Sea, Baltic Sea, Black Sea, Mediterranean Sea. The boundaries and overlapping zones between these five regions were filtered to avoid any unrealistic spatial discontinuities. This combined Water body ammonium product is masked using the relative error threshold 0.5.\r\nUnits: umol/l.",
+    "title": "EMODnet Water body ammonium (DIVA 4D 10-year analysis)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "26",
+    "groups": [],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "Combined product of Water body ammonium based on DIVA 4D 10-year analysis",
+    "url": "https://sextant.ifremer.fr/geonetwork/srv/eng/xml.metadata.get?uuid=e61d12cd-837f-49ff-a0e1-3a694ab84bc5",
+    "release_date": "2018-08-23 06:42:33.270561",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "mare",
+        "title": "Directorate-General for Maritime Affairs and Fisheries"
+    }
+}

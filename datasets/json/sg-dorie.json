@@ -1,0 +1,181 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "documentation",
+            "name": "documentation"
+        },
+        {
+            "display_name": "decision-making process",
+            "name": "decision-making process"
+        },
+        {
+            "display_name": "European institutions",
+            "name": "European institutions"
+        },
+        {
+            "display_name": "documents",
+            "name": "documents"
+        },
+        {
+            "display_name": "european treaties",
+            "name": "european treaties"
+        },
+        {
+            "display_name": "european constitution",
+            "name": "european constitution"
+        },
+        {
+            "display_name": "intergovernmental conference",
+            "name": "intergovernmental conference"
+        },
+        {
+            "display_name": "institutional matters",
+            "name": "institutional matters"
+        }
+    ],
+    "metadata_modified": "2017-07-13 12:53:27.192903",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/4060"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "A zip file with all RSS. RSS are grouped by language. Small groups can be joined and big broups can be splited.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-dorie/SG-DORIE-rss.zip",
+            "created": "2017-07-13 00:00:00",
+            "tracking_summary": null,
+            "name": "All RSS zipped",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2017-07-13 00:00:00",
+            "download_total_resource": "2877",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/3ded93e4-1881-4492-8355-bd0982336709",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "66 RSS files and 26 CSV files",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-dorie",
+            "created": "2017-07-13 00:00:00",
+            "tracking_summary": null,
+            "name": "RSS feed",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2017-07-13 00:00:00",
+            "download_total_resource": "2881",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/2fe917c0-9113-4f69-a386-532496e23f15",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "A zip file with all CSV. One CSV per language. It can be opended with Excel easily.",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-dorie/SG-DORIE-csv.zip",
+            "created": "2017-07-13 00:00:00",
+            "tracking_summary": null,
+            "name": "All CSV zipped",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2017-07-13 00:00:00",
+            "download_total_resource": "2931",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ef0bd7a3-c87a-4cbc-8fe1-af384d376d77",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "RDF with all links to RSS and CSV of DORIE",
+            "format": "http://publications.europa.eu/resource/authority/file-type/RDF",
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-dorie/SG-DORIE.rdf",
+            "created": "2017-07-13 00:00:00",
+            "tracking_summary": null,
+            "name": "RDF distribution",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "2017-07-13 00:00:00",
+            "download_total_resource": "2886",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/4db28bf5-6e45-4b12-81a5-a96a27ae2f94",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "sg-dorie",
+    "isopen": true,
+    "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+    "owner_org": "e3814f3c-1ebf-4bd3-a74a-9dd94bfc9133",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "DORIE",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "2014-07-02T00:00:00",
+    "num_tags": null,
+    "views_total": "6063",
+    "id": "sg-dorie",
+    "metadata_created": "2014-06-16 08:09:37.113048",
+    "modified_date": "2017-07-13 12:53:27.192903",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 4,
+    "description": "Dorie is intended for a specialised audience interested in European institutional matters. It is a collection of documents put together over the years by the European Commission for its own purposes. The documents concern EU institutions and decision-making processes, and various intergovernmental conferences (including the 2002-03 constitutional convention) that have made changes to the founding treaties.",
+    "title": "DORIE - European institutional matters - documentation and search",
+    "temporal_coverage_from": "2006-07-07T00:00:00",
+    "tracking_summary": "6063",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "http://ec.europa.eu/dorie",
+    "release_date": "2014-06-16 08:09:37.113048",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "sg",
+        "title": "Secretariat-General"
+    }
+}

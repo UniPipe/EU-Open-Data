@@ -1,0 +1,99 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "management companies",
+            "name": "management companies"
+        },
+        {
+            "display_name": "UCITS",
+            "name": "UCITS"
+        }
+    ],
+    "metadata_modified": "2015-07-27 17:18:48.893176",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/1804",
+        "http://eurovoc.europa.eu/1164",
+        "http://eurovoc.europa.eu/5618"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "The list of management companies authorised by the national competent authorities of the Member States   ",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://registers.esma.europa.eu/publication/searchUcits;jsessionid=41D459549B17A3D7C0BD84947A3433F7",
+            "created": "2015-02-25 08:31:33.319783",
+            "tracking_summary": null,
+            "name": "UCITS management companies",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "20",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/3da0ccb7-93ee-4cc3-a4ef-3dbc9109acc8",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+            "size": ""
+        }
+    ],
+    "interoperability_level": null,
+    "name": "ucits-management-companies",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972",
+    "geographical_coverage": [],
+    "revision_id": null,
+    "identifier": "",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "715",
+    "id": "ucits-management-companies",
+    "metadata_created": "2015-07-27 17:18:48.891758",
+    "modified_date": "2015-07-27 17:18:48.893176",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "ESMA has compiled the list of management companies authorised by the national competent authorities of the Member States   on the basis of notifications made to it by the latter authorities.\r\n\r\nFor further information please refer to the website of the competent national supervisory authorities.\r\n\r\nIn addition to the above provisions, attention is also drawn to the Legal Notice of the ESMA website.\r\n\r\nThis compilation has been carried out with utmost care and to the best of its ability,and ESMA endeavours to continuously supplement and update the information provided. Nevertheless, ESMA is not able to provide any representation or warranty that the available content is complete, accurate or up to date.",
+    "title": "UCITS management companies",
+    "temporal_coverage_from": "",
+    "tracking_summary": "715",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [],
+    "alternative_title": "",
+    "url": "http://registers.esma.europa.eu/publication/searchUcits;jsessionid=41D459549B17A3D7C0BD84947A3433F7",
+    "release_date": "2015-07-27 17:18:48.891758",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "esma",
+        "title": "European Securities and Markets Authority"
+    }
+}

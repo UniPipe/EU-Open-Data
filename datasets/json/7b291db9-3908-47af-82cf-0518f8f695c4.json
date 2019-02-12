@@ -1,0 +1,126 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Regions and cities",
+            "name": "Regions and cities"
+        },
+        {
+            "display_name": "72 GEOGRAPHY",
+            "name": "72 GEOGRAPHY"
+        },
+        {
+            "display_name": "Orthoimagery",
+            "name": "Orthoimagery"
+        },
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        }
+    ],
+    "metadata_modified": "2018-12-21 11:12:17.830984",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Maps produced in scope of this Copernicus EMS Risk and Recovery Mapping activation downloadable as georeferenced PDFs, TIFFs and JPEGs together with relevant geodatabase (GDB) and complete final report as well.",
+            "format": "application/x-filegdb",
+            "url": "http://emergency.copernicus.eu/EMSN032",
+            "created": "2018-12-21 12:12:17.888762",
+            "tracking_summary": null,
+            "name": "Copernicus EMS Risk and Recovery Mapping Activation [EMSN032]: Forest fire damage assessment, Portugal (2016-10-17)",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "1",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/d26fa50f-43e3-4f8b-8a8b-d9d4e78de211",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://emergency.copernicus.eu/EMSN032",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/2a1c3f5a-18cd-453d-8026-ad1fafd68004",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "7b291db9-3908-47af-82cf-0518f8f695c4",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/ESP"
+    ],
+    "revision_id": null,
+    "identifier": "7b291db9-3908-47af-82cf-0518f8f695c4",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "12",
+    "id": "7b291db9-3908-47af-82cf-0518f8f695c4",
+    "metadata_created": "2017-09-26 15:04:10.024339",
+    "modified_date": "2018-12-21 11:12:17.830984",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 1,
+    "description": "<br/> \nActivation date: 2016-10-17 <br/> \nEvent type: Other <br/> \n <br/> \nActivation reason:  <br/> \nThe scope of the service request EMSN032 is to generate damage delineation and grading maps of 41 different forest fires in mainland Portugal that occurred in July and August 2016. The affected area had an overall extent of 887 km&sup2;.The service consists of detailed reference maps and damage delineation and grading. Additionally, assessment of post-event slope stability, erosion and accessibility to the affected areas were requested. All layers were produced at the cartographic scale of 1:25,000.The core users are the Autoridade Nacional Prote&ccedil;&atilde;o Civil (ANPC) and the Institute of Nature Conservation and Forests (ICNF) of Portugal.The damage grading is based on classification of a Sentinel-2 image, acquired after the event, taking advantage of both the NIR and SWIR bands. The NBR (Normalized Burn Ratio) was used for damage grading into 3 classes: Heavily burnt (red), partially burnt (yellow) and not burnt (green). Results were overlaid with land use/cover classes. The maps are accompanied by consequence tables showing the area of each land cover class per burnt category in square kilometres.Erosion Risk was evaluated in terms of soil loss, based on the Revised Universal Soil Loss Equation (RUSLE), a function of rainfall erosivity, soil erodibility, slope length and gradient, the protective influence of vegetation and anti-erosion measures.&nbsp; <br/> \n <br/>",
+    "title": "Forest fire damage assessment, Portugal (2016-10-17)",
+    "temporal_coverage_from": "",
+    "tracking_summary": "12",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/7b291db9-3908-47af-82cf-0518f8f695c4",
+    "release_date": "2017-09-26 15:04:10.024339",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}
