@@ -24,8 +24,8 @@ start:
     - delete: $ len(_) == 0$    # Skip empty datasets
     - parse text json:
     - transform using jinja:
-        template: README.md.jinja
+        template: index.md.jinja
         single_item: False
     - print:
     - export to file:
-        path: README.md
+        path: index.md
