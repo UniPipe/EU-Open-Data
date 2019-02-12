@@ -41,7 +41,7 @@ start:
         ignore_not_found: True
     - update:
         set:
-          id: $id.split('/')[-1]$
+            id: $id.split('/')[-1]$
     - delete:
         $'[DISCONTINUED]' in title$
     - print: "Tile: $title$"

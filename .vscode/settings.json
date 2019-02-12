@@ -1,5 +1,12 @@
 {
     "files.exclude": {
         "**/datasets/json": true
+    },
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "[yaml]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+        "editor.detectIndentation": false,
     }
 }
