@@ -18,14 +18,14 @@ libraries:
     - https://github.com/openpipe-plugins/jinja
 
 start:
-    - collect from glob: datasets/json/*.json
+    - collect from glob: docs/datasets/json/*.json
     - insert: $_$   # Expand list items
     - collect from file:
     - delete: $ len(_) == 0$    # Skip empty datasets
     - parse text json:
     - transform using jinja:
-        template: index.md.jinja
+        template: templates/index.md.jinja
         single_item: False
     - print:
     - export to file:
-        path: index.md
+        path: docs/index.md

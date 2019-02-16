@@ -1,0 +1,230 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "forest",
+            "name": "forest"
+        },
+        {
+            "display_name": "Europe",
+            "name": "Europe"
+        },
+        {
+            "display_name": "scientific research",
+            "name": "scientific research"
+        },
+        {
+            "display_name": "natural forest",
+            "name": "natural forest"
+        },
+        {
+            "display_name": "Environment",
+            "name": "Environment"
+        },
+        {
+            "display_name": "52 ENVIRONMENT",
+            "name": "52 ENVIRONMENT"
+        },
+        {
+            "display_name": "coniferous forest",
+            "name": "coniferous forest"
+        },
+        {
+            "display_name": "Land Cover",
+            "name": "Land Cover"
+        },
+        {
+            "display_name": "forest resource",
+            "name": "forest resource"
+        }
+    ],
+    "metadata_modified": "2018-12-21 11:01:14.717093",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/1067",
+        "http://eurovoc.europa.eu/1063",
+        "http://eurovoc.europa.eu/2924"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "WMS view service for the Forest Type Map 2006",
+            "format": "image/tiff-fx",
+            "url": "http://forest.jrc.ec.europa.eu/download/data/forest-data-download/",
+            "created": "2018-12-21 12:01:14.960694",
+            "tracking_summary": null,
+            "name": "Download",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "1",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ba443752-6e2f-4182-b6f5-e0db402e4772",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Facility to download Forest Type Map 2006 tiles directly http://forest.jrc.ec.europa.eu/forestmap-download",
+            "format": "image/tiff-fx",
+            "url": "http://forest.jrc.ec.europa.eu/forestmap-download",
+            "created": "2018-12-21 12:01:14.960700",
+            "tracking_summary": null,
+            "name": "Forest Map 2006 download",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "2",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/9276b0da-a4b7-46db-82e5-a600f6625a53",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://forest.jrc.ec.europa.eu/activities/forest-mapping",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/225dab8c-d553-4874-ad4f-3890f0ee17ac",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "62ec23aa-2d47-4d85-bc81-138175cdf123",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/LIE",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/JEY",
+        "http://publications.europa.eu/resource/authority/country/MCO",
+        "http://publications.europa.eu/resource/authority/country/MAR",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/IMN",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/GGY",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SMR",
+        "http://publications.europa.eu/resource/authority/country/SRB",
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/RUS",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/NOR",
+        "http://publications.europa.eu/resource/authority/country/ALA",
+        "http://publications.europa.eu/resource/authority/country/1A0",
+        "http://publications.europa.eu/resource/authority/country/AND",
+        "http://publications.europa.eu/resource/authority/country/ALB",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/BIH",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/CHE",
+        "http://publications.europa.eu/resource/authority/country/BLR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/MNE",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/DZA",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/GIB",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/FRO",
+        "http://publications.europa.eu/resource/authority/country/VAT",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/TUN",
+        "http://publications.europa.eu/resource/authority/country/MDA",
+        "http://publications.europa.eu/resource/authority/country/UKR",
+        "http://publications.europa.eu/resource/authority/country/TUR",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/MKD",
+        "http://publications.europa.eu/resource/authority/country/LUX",
+        "http://publications.europa.eu/resource/authority/country/SWE"
+    ],
+    "revision_id": null,
+    "identifier": "62ec23aa-2d47-4d85-bc81-138175cdf123",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "2006-12-31T00:00:00",
+    "num_tags": null,
+    "views_total": "314",
+    "id": "62ec23aa-2d47-4d85-bc81-138175cdf123",
+    "metadata_created": "2016-03-31 08:42:04.752170",
+    "modified_date": "2018-12-21 11:01:14.717093",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "Pan-European Forest Type Map with target year 2006, Data Source: Landsat ETM+ and Corine Land Cover 2006 and MODIS composites. Classes: broadleaf, coniferous and mixed class,  clouds/snow, no data; Method: automatic classification performed with an in-house algorithm; spatial resolution: 250m.",
+    "title": "Forest Type Map 2006",
+    "temporal_coverage_from": "2006-01-01T00:00:00",
+    "tracking_summary": "314",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/62ec23aa-2d47-4d85-bc81-138175cdf123",
+    "release_date": "2016-03-31 08:42:04.752170",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

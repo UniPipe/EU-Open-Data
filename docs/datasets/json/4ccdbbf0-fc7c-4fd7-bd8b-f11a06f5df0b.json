@@ -1,0 +1,313 @@
+{
+    "maintainer": null,
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": null,
+    "keywords": [
+        {
+            "display_name": "Hydrography",
+            "name": "Hydrography"
+        },
+        {
+            "display_name": "Habitats and Biotopes",
+            "name": "Habitats and Biotopes"
+        },
+        {
+            "display_name": "Bio-geographical Regions",
+            "name": "Bio-geographical Regions"
+        },
+        {
+            "display_name": "Land Cover",
+            "name": "Land Cover"
+        },
+        {
+            "display_name": "Land Use",
+            "name": "Land Use"
+        },
+        {
+            "display_name": "Elevation",
+            "name": "Elevation"
+        },
+        {
+            "display_name": "Soil",
+            "name": "Soil"
+        },
+        {
+            "display_name": "biotope",
+            "name": "biotope"
+        },
+        {
+            "display_name": "land use",
+            "name": "land use"
+        },
+        {
+            "display_name": "soil resources",
+            "name": "soil resources"
+        },
+        {
+            "display_name": "hydrology",
+            "name": "hydrology"
+        },
+        {
+            "display_name": "72 GEOGRAPHY",
+            "name": "72 GEOGRAPHY"
+        },
+        {
+            "display_name": "52 ENVIRONMENT",
+            "name": "52 ENVIRONMENT"
+        },
+        {
+            "display_name": "Environment",
+            "name": "Environment"
+        },
+        {
+            "display_name": "Economy and finance",
+            "name": "Economy and finance"
+        },
+        {
+            "display_name": "Science and technology",
+            "name": "Science and technology"
+        },
+        {
+            "display_name": "Regions and cities",
+            "name": "Regions and cities"
+        }
+    ],
+    "metadata_modified": "2018-12-21 11:00:40.499852",
+    "temporal_granularity": "",
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/3536",
+        "http://eurovoc.europa.eu/1278",
+        "http://eurovoc.europa.eu/5464",
+        "http://eurovoc.europa.eu/4630"
+    ],
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "This compressed zipfile ASE.zip contains data at 100 m resolution assessed for the year 2010. ASE or avoided soil erosion is expressed in tonne soil retained per year.",
+            "format": "image/tiff-fx",
+            "url": "http://cidportal.jrc.ec.europa.eu/ftp/jrc-opendata/MAES/baseline2010/raster/SoilRetention/ASE.zip",
+            "created": "2018-12-21 12:00:40.700864",
+            "tracking_summary": null,
+            "name": "Download baseline 2010",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "5",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/f6514f2b-5d30-45c4-925d-1ce0a5b2ffdd",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "This compressed zipfile SEC.zip contains data at 100 m resolution assessed for the year 2010. SEC, or the capacity to avoid soil erosion is a dimensionless value between 0 and 10.",
+            "format": "image/tiff-fx",
+            "url": "http://cidportal.jrc.ec.europa.eu/ftp/jrc-opendata/MAES/baseline2010/raster/SoilRetention/SEC.zip",
+            "created": "2018-12-21 12:00:40.700869",
+            "tracking_summary": null,
+            "name": "Download baseline 2010",
+            "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+            "last_modified": "",
+            "download_total_resource": "",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/bdebf060-fffe-46c5-b73f-ae816d56680a",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Maes J, Fabrega Domenech N, Zulian G, Lopes Barbosa A, Vizcaino Martinez M, Ivits E, Polce C, Vandecasteele I, Mari Rivero I, Bastos De Morais Guerra C, Perpi\u00f1a Castillo C, Vallecillo Rodriguez S, Baranzelli C, Ribeiro Barranco R, Batista E Silva F, Jacobs C, Trombetti M, Lavalle C. Mapping and Assessment of Ecosystems and their Services: Trends in ecosystems and ecosystem services in the European Union between 2000 and 2010. EUR 27143. Luxembourg (Luxembourg): Publications Office of the European Union; 2015. JRC94889",
+            "format": "",
+            "url": "https://doi.org/10.2788/817609",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Mapping and Assessment of Ecosystems and their Services: Trends in ecosystems and ecosystem services in the European Union between 2000 and 2010",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/88155aef-3d9c-4fe7-b35b-4547c5173777",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/HTML",
+            "url": "http://biodiversity.europa.eu/maes",
+            "created": null,
+            "tracking_summary": null,
+            "name": "Landing page",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/1b76389c-857d-41e4-b48b-f56965fa7e89",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Bastos De Morais Guerra C, Maes J, Geijzendorffer I, Metzger M. An assessment of soil erosion prevention by vegetation in Mediterranean Europe: current trends of ecosystem service provision. ECOLOGICAL INDICATORS 60; 2016. p. 213-222. JRC92664",
+            "format": "",
+            "url": "https://doi.org/10.1016/j.ecolind.2015.06.043",
+            "created": null,
+            "tracking_summary": null,
+            "name": "An assessment of soil erosion prevention by vegetation in Mediterranean Europe: current trends of ecosystem service provision",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/8fa44cbe-b814-4ba6-a32b-535f9d294d42",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+            "size": null
+        }
+    ],
+    "interoperability_level": null,
+    "name": "4ccdbbf0-fc7c-4fd7-bd8b-f11a06f5df0b",
+    "isopen": true,
+    "accrual_periodicity": "",
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5",
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/IRQ",
+        "http://publications.europa.eu/resource/authority/country/IMN",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/LUX",
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/GIB",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/GRL",
+        "http://publications.europa.eu/resource/authority/country/HRV",
+        "http://publications.europa.eu/resource/authority/country/HUN",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/GEO",
+        "http://publications.europa.eu/resource/authority/country/RUS",
+        "http://publications.europa.eu/resource/authority/country/SJM",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/ROU",
+        "http://publications.europa.eu/resource/authority/country/NOR",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/MNE",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/MKD",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/ALA",
+        "http://publications.europa.eu/resource/authority/country/1A0",
+        "http://publications.europa.eu/resource/authority/country/AND",
+        "http://publications.europa.eu/resource/authority/country/ALB",
+        "http://publications.europa.eu/resource/authority/country/BEL",
+        "http://publications.europa.eu/resource/authority/country/AUT",
+        "http://publications.europa.eu/resource/authority/country/BIH",
+        "http://publications.europa.eu/resource/authority/country/BGR",
+        "http://publications.europa.eu/resource/authority/country/CHE",
+        "http://publications.europa.eu/resource/authority/country/BLR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/MDA",
+        "http://publications.europa.eu/resource/authority/country/MCO",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/UKR",
+        "http://publications.europa.eu/resource/authority/country/CZE",
+        "http://publications.europa.eu/resource/authority/country/CYP",
+        "http://publications.europa.eu/resource/authority/country/DNK",
+        "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/VAT",
+        "http://publications.europa.eu/resource/authority/country/GGY",
+        "http://publications.europa.eu/resource/authority/country/DZA",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/FRO",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/TUN",
+        "http://publications.europa.eu/resource/authority/country/SRB",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/LIE",
+        "http://publications.europa.eu/resource/authority/country/SYR",
+        "http://publications.europa.eu/resource/authority/country/MAR",
+        "http://publications.europa.eu/resource/authority/country/JEY",
+        "http://publications.europa.eu/resource/authority/country/TUR",
+        "http://publications.europa.eu/resource/authority/country/SMR"
+    ],
+    "revision_id": null,
+    "identifier": "4ccdbbf0-fc7c-4fd7-bd8b-f11a06f5df0b",
+    "version_description": "",
+    "extras": [],
+    "relationships_as_object": [],
+    "tag_string": null,
+    "temporal_coverage_to": "",
+    "num_tags": null,
+    "views_total": "86",
+    "id": "4ccdbbf0-fc7c-4fd7-bd8b-f11a06f5df0b",
+    "metadata_created": "2017-02-14 14:03:09.090568",
+    "modified_date": "2018-12-21 11:00:40.499852",
+    "capacity": "public",
+    "author": null,
+    "author_email": null,
+    "type_of_dataset": [],
+    "state": null,
+    "version": "",
+    "creator_user_id": null,
+    "status": "http://data.europa.eu/euodp/kos/dataset-status/Completed",
+    "num_resources": 2,
+    "description": "Soil erosion control is a key ecosystem service delivered by terrestrial ecosystems, mainly through vegetation cover. Two indicators are used to quantify capacity and use of the service. A first dimensionless indicator measures the capacity of ecosystems to avoid soil erosion by assigning values ranging from 0 to 1 at pixel level, covering the EU-28 territory for the year  2010. A second indicator measures how much soil is retained by vegetation based on the difference between soil erosion in presence of vegetation and soil erosion in absence of vegetation. The quantification is based on an application of the RUSLE model.",
+    "title": "Soil erosion control",
+    "temporal_coverage_from": "",
+    "tracking_summary": "86",
+    "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+        }
+    ],
+    "relationships_as_subject": [],
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ],
+    "alternative_title": "",
+    "url": "http://data.europa.eu/89h/4ccdbbf0-fc7c-4fd7-bd8b-f11a06f5df0b",
+    "release_date": "2017-02-14 14:03:09.090568",
+    "license_title": null,
+    "rdf": null,
+    "license_url": "http://data.europa.eu/euodp/kos/licence/EuropeanCommission",
+    "organization": {
+        "name": "jrc",
+        "title": "Joint Research Centre"
+    }
+}

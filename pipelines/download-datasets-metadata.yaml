@@ -29,9 +29,9 @@ start:
         name: $_$
 
     # Only check packagte data if no local file is found
-    - check file existence:
-        path: json/$name$.json
-        output_if: False
+    #- check file existence:
+    #    path: docs/json/$name$.json
+    #       output_if: False
 
     - collect from ckan:
         <<: *ckan_config_data
@@ -46,6 +46,6 @@ start:
         $'[DISCONTINUED]' in title$
     - print: "Tile: $title$"
     - export to file:
-        path: json/$id$.json
+        path: docs/datasets/json/$id$.json
         content: $_$
 
