@@ -14,18 +14,30 @@
 #
 libraries:
 
-    - ~/Projects/openpipe-plugins/jinja
     - https://github.com/openpipe-plugins/jinja
 
 start:
     - collect from glob: docs/datasets/json/*.json
-    - insert: $_$   # Expand list items
+    - insert: $_$       # Expand list items
     - collect from file:
-    - delete: $ len(_) == 0$    # Skip empty datasets
+    - delete: $ len(_) == 0 $    # Skip empty datasets
     - parse text json:
+    - update:
+        set:
+            accrual_periodicity: $accrual_periodicity.split('/')[-1].upper()$
+    - case:
+        handle_periodic: $
+    #- sort:
+    #    key: $modified_date$
+    #- select: $'DAILY' in accrual_periodicity$
+    #- print: $modified_date$ $accrual_periodicity$ $accrual_periodicity$ $title$
+handle_periodic:
+    - select: $accrual_periodicity not in ['', 'OTHER', 'NEVER'] and '+' not in accrual_periodicity$
+    - print: $accrual_periodicity$ $title$
+demo:
     - transform using jinja:
         template: templates/index.md.jinja
         single_item: False
-    - print:
+
     - export to file:
         path: docs/index.md
