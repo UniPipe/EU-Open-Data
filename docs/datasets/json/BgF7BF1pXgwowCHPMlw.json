@@ -4,17 +4,38 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:10:37",
+    "metadata_modified": "2019-02-15T07:55:03",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4260",
-        "http://eurovoc.europa.eu/4257",
         "http://eurovoc.europa.eu/6402",
+        "http://eurovoc.europa.eu/4257",
         "http://eurovoc.europa.eu/6331"
     ],
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/aei_fm_manfert.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/a5f1ffd1-f1a0-4d4c-8b85-58d602f99afb",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -32,7 +53,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/9b55eac0-1b34-41d2-a1d0-f5bf73eb349f",
+            "id": "http://data.europa.eu/88u/distribution/1fcfce33-4f85-485c-a3c0-b9a124937607",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -53,28 +74,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4437b5e9-3417-44be-a913-b5a06d0a90c3",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/aei_fm_manfert.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "1",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ec431384-df02-47cc-a329-4fe2b9ec050a",
+            "id": "http://data.europa.eu/88u/distribution/bb78201a-387f-4ca7-9f5d-a3c621231e05",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -95,7 +95,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/22061202-a37b-4ddd-82d6-bfce46f4d936",
+            "id": "http://data.europa.eu/88u/document/9ddb1376-f5fd-4fad-b418-1a5a584d44e3",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -116,7 +116,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/3befd187-763b-47e8-9fc5-91f2188f9678",
+            "id": "http://data.europa.eu/88u/document/1302c1ee-5b1e-4a76-b251-bc60278496b5",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -137,7 +137,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f022729a-0ae6-477d-a200-8845d32906fb",
+            "id": "http://data.europa.eu/88u/document/ed4d0090-4ac3-4d68-9802-cf4f9ac8c728",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -154,9 +154,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2016-01-01",
+    "temporal_coverage_to": "2016",
     "num_tags": null,
-    "views_total": "250",
     "id": "BgF7BF1pXgwowCHPMlw",
     "metadata_created": "2015-10-16 10:17:32.421295",
     "modified_date": "2019-01-18",
@@ -173,8 +172,7 @@
     "num_resources": 3,
     "description": "Sales of manufactured fertilizers (source: Fertilizers Europe)",
     "title": "Sales of manufactured fertilizers (source: Fertilizers Europe)",
-    "temporal_coverage_from": "1985-01-01",
-    "tracking_summary": "250",
+    "temporal_coverage_from": "1985",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"

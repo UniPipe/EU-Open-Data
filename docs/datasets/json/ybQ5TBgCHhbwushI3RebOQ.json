@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:29:27",
+    "metadata_modified": "2019-02-15T08:22:11",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4671"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/443b3822-4030-48fe-ae7b-45b62539f164",
+            "id": "http://data.europa.eu/88u/distribution/2aed036b-e5bf-4804-abc7-3ba10cee5345",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/823350d5-d69f-46ee-a317-321fb0a42eba",
+            "id": "http://data.europa.eu/88u/distribution/a11a70cd-2981-4871-a5b0-06e683467af9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,30 +71,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0c197fca-a35f-46b9-8b75-ce322c285b3a",
+            "id": "http://data.europa.eu/88u/distribution/7bc9f6de-b6c2-4299-ba1a-2fa35504456e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/bop_its6_esms.htm",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8e64849e-d8e0-4eee-8b17-3885a05106f5",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
         },
         {
             "mimetype": null,
@@ -113,8 +92,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/3b099699-b0fa-4d97-bc3c-fa9ae107dc6f",
+            "id": "http://data.europa.eu/88u/document/7ca97d45-2d50-4515-ae25-c668317154a9",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/bop_its6_esms.htm",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/81db8f1d-0302-47ea-8661-9225881909af",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
         {
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/98743a70-ef08-4fde-8da1-79e814b89f49",
+            "id": "http://data.europa.eu/88u/document/9af3a422-2dd8-4f45-bb40-9bbccb35add6",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "480",
     "id": "ybQ5TBgCHhbwushI3RebOQ",
     "metadata_created": "2015-10-16 13:23:05.583465",
     "modified_date": "2019-01-12",
@@ -170,14 +169,13 @@
     "num_resources": 3,
     "description": "International trade in services (since 2010) (BPM6)",
     "title": "International trade in services (since 2010) (BPM6)",
-    "temporal_coverage_from": "2010-01-01",
-    "tracking_summary": "480",
+    "temporal_coverage_from": "2010",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
         }
     ],
     "relationships_as_subject": [],

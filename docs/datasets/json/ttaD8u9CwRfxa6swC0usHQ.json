@@ -5,6 +5,10 @@
     "revision_timestamp": null,
     "keywords": [
         {
+            "display_name": "water",
+            "name": "water"
+        },
+        {
             "display_name": "environmental statistics",
             "name": "environmental statistics"
         },
@@ -13,15 +17,11 @@
             "name": "ground water"
         },
         {
-            "display_name": "water",
-            "name": "water"
-        },
-        {
             "display_name": "surface water",
             "name": "surface water"
         }
     ],
-    "metadata_modified": "2019-02-08T09:03:20",
+    "metadata_modified": "2019-02-15T07:51:28",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/6402"
@@ -35,10 +35,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=ten00003",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=ten00003",
             "created": "",
             "tracking_summary": null,
-            "name": "Graph",
+            "name": "Table",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -46,7 +46,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/545f4394-cc64-49b4-8d7a-b4bf1bfef6b3",
+            "id": "http://data.europa.eu/88u/distribution/1e5a2f71-fae2-4780-b69f-d3a855ab8cde",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=ten00003",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Map",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/51bd61f4-e685-4e2e-aca8-81d1ab3e7c1a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -67,7 +88,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/75221f9d-9059-4741-aec3-55fcaee4085f",
+            "id": "http://data.europa.eu/88u/distribution/3f06fdfb-c7b8-4e89-b5c4-79094ca138fe",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -77,10 +98,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=ten00003",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=ten00003",
             "created": "",
             "tracking_summary": null,
-            "name": "Table",
+            "name": "Graph",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -88,49 +109,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0f709ce0-86bf-4160-9fab-b50ce5622764",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00003.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fcd71711-3de6-4f57-8992-971e99b08b4d",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=ten00003",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Map",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/70113316-9924-45b3-a47d-365bdfe211a3",
+            "id": "http://data.europa.eu/88u/distribution/17d1e514-e1c4-4bcf-a5b2-e9dfebcf6cc2",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -151,7 +130,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a87a842e-0e4d-4d64-b777-04e7b999ca9a",
+            "id": "http://data.europa.eu/88u/distribution/68f89e22-1abd-48de-ac6a-9bd4d9404327",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00003.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/6ef7b78b-78df-4f0c-b85c-65288931a402",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -172,7 +172,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6f0fa060-1b54-474b-a5f7-405f80ccea98",
+            "id": "http://data.europa.eu/88u/document/33001d29-f0c9-4062-8d15-7d7769b6e171",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -189,9 +189,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2015-01-01",
+    "temporal_coverage_to": "2015",
     "num_tags": null,
-    "views_total": "357",
     "id": "ttaD8u9CwRfxa6swC0usHQ",
     "metadata_created": "2015-10-16 13:08:19.419291",
     "modified_date": "2018-11-19",
@@ -208,8 +207,7 @@
     "num_resources": 6,
     "description": "Total groundwater and surface water abstraction per capita.",
     "title": "Fresh water abstraction by source per capita - m\u00b3 per capita",
-    "temporal_coverage_from": "2004-01-01",
-    "tracking_summary": "357",
+    "temporal_coverage_from": "2004",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"

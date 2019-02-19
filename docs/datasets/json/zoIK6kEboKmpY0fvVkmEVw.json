@@ -4,38 +4,17 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:38:36",
+    "metadata_modified": "2019-02-15T07:36:48",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/3659",
+        "http://eurovoc.europa.eu/4050",
         "http://eurovoc.europa.eu/1469",
         "http://eurovoc.europa.eu/83",
-        "http://eurovoc.europa.eu/4050"
+        "http://eurovoc.europa.eu/3659"
     ],
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tus_00selfstat.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d9a716ab-5112-4f21-b21b-97c1a5ba5af5",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -53,7 +32,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/11e8f44c-40be-4695-a400-dcc0b2317e40",
+            "id": "http://data.europa.eu/88u/distribution/607c17bb-56c7-49e1-8873-44228f6a4f25",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tus_00selfstat.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/e4cf228b-9c4e-4cc1-a540-749a6ca5625f",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -74,30 +74,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5d7b2b77-6550-45f7-8844-7c27cae8ae90",
+            "id": "http://data.europa.eu/88u/distribution/afbdad1c-c78a-4837-9ebc-f58464c51cb2",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/tus_esms.htm",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/73062868-38f5-406e-8484-ad4f74a406a9",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
         },
         {
             "mimetype": null,
@@ -116,8 +95,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b00a74c2-b665-48b4-9db4-7b80757aff67",
+            "id": "http://data.europa.eu/88u/document/d8bacc90-6a7c-4684-82f6-03620a9e41a5",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/tus_esms.htm",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/c91fc6f3-16bb-4e04-9d03-80197fcdadd5",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
         {
@@ -137,7 +137,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/3a5bc04d-b967-4aa8-a6ed-5b73e01e362e",
+            "id": "http://data.europa.eu/88u/document/7a40a1f8-db2d-4d7c-8439-65dbc5644629",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -154,9 +154,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2010-01-01",
+    "temporal_coverage_to": "2010",
     "num_tags": null,
-    "views_total": "223",
     "id": "zoIK6kEboKmpY0fvVkmEVw",
     "metadata_created": "2015-10-16 13:33:36.761780",
     "modified_date": "2018-03-20",
@@ -173,17 +172,16 @@
     "num_resources": 3,
     "description": "Time spent, participation time and participation rate in the main activity by sex and self-declared labour status",
     "title": "Time spent, participation time and participation rate in the main activity by sex and self-declared labour status",
-    "temporal_coverage_from": "2000-01-01",
-    "tracking_summary": "223",
+    "temporal_coverage_from": "2000",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

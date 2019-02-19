@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:42:51",
+    "metadata_modified": "2019-02-15T08:33:02",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/76e4cdf3-34b6-4db0-975e-31bc5403935d",
+            "id": "http://data.europa.eu/88u/distribution/dfeb0f87-a5c0-4faf-9c24-593948262584",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/be5aed05-c890-4c1b-9590-1162089da5dc",
+            "id": "http://data.europa.eu/88u/distribution/47d400ff-756d-4f68-85a6-957eb88e706b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,30 +69,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a7e62b65-5b10-43dd-a6f5-9504ba8ede10",
+            "id": "http://data.europa.eu/88u/distribution/79531be7-8b3b-46a3-a953-bae462091983",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/trng_cvt_esms.htm",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b86a2dd4-3353-46bb-b688-f7c97eb299ca",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
         },
         {
             "mimetype": null,
@@ -111,8 +90,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b1537f25-096d-402a-9cf3-3dcceb028548",
+            "id": "http://data.europa.eu/88u/document/136b64b0-0afa-4bc1-8b89-227c38b01bac",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/trng_cvt_esms.htm",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/962850de-7d2e-4d2c-8340-74fd8a506f96",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
         {
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f188b493-e7e0-4eb9-b4fa-d091246f3acc",
+            "id": "http://data.europa.eu/88u/document/cb27452a-a537-4252-8c7b-bcf67f8fad19",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -149,9 +149,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2005-01-01",
+    "temporal_coverage_to": "2005",
     "num_tags": null,
-    "views_total": "3",
     "id": "RIfHbOmfN48R6wLhiFRJ8g",
     "metadata_created": "2018-01-31 07:11:47.151597",
     "modified_date": "2018-01-19",
@@ -168,17 +167,16 @@
     "num_resources": 3,
     "description": "Hours spent in CVT courses by type of CVT planning and NACE Rev. 1.1 activity - hours per person employed in all enterprises",
     "title": "Hours spent in CVT courses by type of CVT planning and NACE Rev. 1.1 activity - hours per person employed in all enterprises",
-    "temporal_coverage_from": "2005-01-01",
-    "tracking_summary": "3",
+    "temporal_coverage_from": "2005",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

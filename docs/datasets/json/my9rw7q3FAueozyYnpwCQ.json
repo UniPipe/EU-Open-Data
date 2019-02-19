@@ -4,12 +4,33 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:40:33",
+    "metadata_modified": "2019-02-15T07:44:37",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/trng_cost03s.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/78bf3123-6650-4598-ac80-e2ce4404dffc",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -27,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8b2f8bcf-392d-4ca5-8f16-ffccb2332d9a",
+            "id": "http://data.europa.eu/88u/distribution/509967cc-535a-4f2e-8f0b-1d6dfcd1ce8a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,28 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/82510fd1-0dcd-4464-b739-f37c295b1ee8",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/trng_cost03s.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8190e718-bf10-401d-871c-4706f049d631",
+            "id": "http://data.europa.eu/88u/distribution/12e74e8d-0add-4cbb-8b3a-400230235052",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/28596568-e2bb-478a-9eed-9869ba3c622d",
+            "id": "http://data.europa.eu/88u/document/bde5246d-932c-43ea-b032-7da26df2a13e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/7c7ff21c-7f33-44da-b607-568ac093703d",
+            "id": "http://data.europa.eu/88u/document/72e4df51-8da6-4f42-9bf1-bcbcaa9cda33",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f88aea7c-c81a-4d18-9cec-5839c73138da",
+            "id": "http://data.europa.eu/88u/document/45fcb24c-9f03-4162-a3a2-3157d7eb3d23",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -149,9 +149,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "1999",
+    "temporal_coverage_to": "1999-01-01",
     "num_tags": null,
-    "views_total": "0",
     "id": "my9rw7q3FAueozyYnpwCQ",
     "metadata_created": "2015-10-16 12:48:53.450579",
     "modified_date": "2009-04-21",
@@ -168,17 +167,16 @@
     "num_resources": 3,
     "description": "Cost of CVT courses per employee (only enterprises with CVT courses), by type of cost and size class",
     "title": "Cost of CVT courses per employee (only enterprises with CVT courses), by type of cost and size class",
-    "temporal_coverage_from": "1999",
-    "tracking_summary": "0",
+    "temporal_coverage_from": "1999-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         }
     ],
     "relationships_as_subject": [],

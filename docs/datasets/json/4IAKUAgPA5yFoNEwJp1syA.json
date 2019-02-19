@@ -17,27 +17,6 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/crim_just_job.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/122e694b-d0a8-44af-b95a-56210a0276cd",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
             "description": "Download dataset in TSV format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
             "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/crim_just_job.tsv.gz",
@@ -52,6 +31,27 @@
             "iframe_code": "",
             "datastore_active": false,
             "id": "http://data.europa.eu/88u/distribution/39500274-0b26-4ccd-9363-54adaf359cb2",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/crim_just_job.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "1",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/122e694b-d0a8-44af-b95a-56210a0276cd",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -82,10 +82,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/crim_just_esms.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/crim_just_job",
             "created": null,
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "name": "More information on Eurostat Website",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -93,7 +93,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/29c7c1d9-70ca-4503-9928-231d2cb753ec",
+            "id": "http://data.europa.eu/88u/document/096280d1-b2f9-4dde-9adc-b871a2f1aeb9",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -124,10 +124,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/crim_just_job",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/crim_just_esms.sdmx.zip",
             "created": null,
             "tracking_summary": null,
-            "name": "More information on Eurostat Website",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -135,7 +135,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/096280d1-b2f9-4dde-9adc-b871a2f1aeb9",
+            "id": "http://data.europa.eu/88u/document/29c7c1d9-70ca-4503-9928-231d2cb753ec",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -152,9 +152,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2016",
+    "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "1263",
     "id": "4IAKUAgPA5yFoNEwJp1syA",
     "metadata_created": "2015-10-16 11:16:56.046926",
     "modified_date": "2019-02-06",
@@ -171,20 +170,19 @@
     "num_resources": 3,
     "description": "Personnel in the criminal justice system by sex - number and rate for the relevant sex group",
     "title": "Personnel in the criminal justice system by sex - number and rate for the relevant sex group",
-    "temporal_coverage_from": "2008",
-    "tracking_summary": "1263",
+    "temporal_coverage_from": "2008-01-01",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/JUST"
-        },
-        {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/JUST"
         }
     ],
     "relationships_as_subject": [],

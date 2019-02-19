@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:34:25",
+    "metadata_modified": "2019-02-15T07:44:12",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4260"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c499ad61-7c48-4215-aeec-1300c36d5f66",
+            "id": "http://data.europa.eu/88u/distribution/30f9f1dd-1123-4d9b-aef8-553497e747bb",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7470bfd2-7540-4b7c-8bcb-e0f116254a28",
+            "id": "http://data.europa.eu/88u/distribution/9585e7af-9bde-4f35-bc01-c43d1ec106bb",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/419e48af-1d5e-4c94-a4ac-0228399bc810",
+            "id": "http://data.europa.eu/88u/distribution/df443750-a00f-4bc0-81d9-e1f9da218b3a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,28 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/e633ce55-38e8-4e54-872b-26e139230ebe",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/fish_aq2a",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8db0fd4a-b4b5-4365-b752-2d7eb6f11e6c",
+            "id": "http://data.europa.eu/88u/document/3edfe2a7-96be-44b9-b8a0-3b28e3de76cf",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,8 +113,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c8888e56-2ecf-4fb2-ab2a-d4e16c72b0ae",
+            "id": "http://data.europa.eu/88u/document/cc0cc140-24c8-4df7-83fc-050222490481",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/fish_aq2a",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/56f3f438-ed40-4281-acf4-a21eea885c4e",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "365",
     "id": "TsqAeg6axriV0dUZQ2bmeA",
     "metadata_created": "2015-10-16 13:34:18.893529",
     "modified_date": "2019-02-05",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Production from aquaculture excluding hatcheries and nurseries (from 2008 onwards)",
     "title": "Production from aquaculture excluding hatcheries and nurseries (from 2008 onwards)",
-    "temporal_coverage_from": "2008-01-01",
-    "tracking_summary": "365",
+    "temporal_coverage_from": "2008",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"

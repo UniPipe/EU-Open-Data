@@ -4,33 +4,12 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:36:08",
+    "metadata_modified": "2019-02-15T07:58:29",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/yth_empl_160.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/63a7996d-a1f4-480e-9314-d52a1e150239",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -48,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/91465e60-637a-4351-b394-86ddc82e34ed",
+            "id": "http://data.europa.eu/88u/distribution/45ec6d81-3104-4f7e-a078-271ccb2a1519",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,9 +48,51 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fef0c64e-4172-40e4-b590-62f958dc5dc5",
+            "id": "http://data.europa.eu/88u/distribution/59288926-3155-4bea-a4fc-b19b117636b4",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/yth_empl_160.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/4746cb75-1319-423b-af72-36187d9e6872",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/yth_empl_160",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/e333ba2e-c766-45a0-b654-9f5552c9bb7c",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
         },
         {
             "mimetype": null,
@@ -90,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/cd3c74aa-186b-43e9-9bdf-e2e55a9dcb6d",
+            "id": "http://data.europa.eu/88u/document/70bb22f7-b46b-4829-934c-66bc3ec7b06e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,29 +132,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/e2de464c-2024-4c5b-a278-c5b946ccd931",
+            "id": "http://data.europa.eu/88u/document/a4e043a0-8a05-4173-b1f4-4c3c1baba1d7",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/yth_empl_160",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ad4bd2ad-63be-44e0-ad0c-9bdb1a40f2d1",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -149,9 +149,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017",
+    "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "272",
     "id": "rhd3GgDfRHUR8x4DF21MQ",
     "metadata_created": "2015-10-16 13:10:20.613094",
     "modified_date": "2019-01-15",
@@ -168,17 +167,16 @@
     "num_resources": 3,
     "description": "Young people neither in employment nor in education and training by sex, age and educational attainment level (NEET rates)",
     "title": "Young people neither in employment nor in education and training by sex, age and educational attainment level (NEET rates)",
-    "temporal_coverage_from": "2004",
-    "tracking_summary": "272",
+    "temporal_coverage_from": "2004-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         }
     ],
     "relationships_as_subject": [],

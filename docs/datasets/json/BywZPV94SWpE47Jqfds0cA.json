@@ -4,33 +4,12 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:13:47",
+    "metadata_modified": "2019-02-15T08:51:49",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_figdp.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0da6dc9a-1eee-445e-83b5-04afcc8d943e",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -48,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ab855bcb-113b-4cf6-85a8-807f3645b2e6",
+            "id": "http://data.europa.eu/88u/distribution/341fc931-7ae5-43ba-bbc5-29e53b5fd5cb",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,7 +48,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/bf354dd7-50a3-4cb0-9209-083ee0b1848b",
+            "id": "http://data.europa.eu/88u/distribution/d026f665-7dae-4f7a-8220-b527fbad0526",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_figdp.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/0f383e65-eed0-4b78-befd-82b2a23ad3bc",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/beb6afed-40dd-49f3-acd4-95e39186d7a3",
+            "id": "http://data.europa.eu/88u/document/8341506c-fade-41a6-9d23-aec31a41bfae",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/e35079e5-f9a3-4435-8595-3c444813dcbb",
+            "id": "http://data.europa.eu/88u/document/2055b237-8f18-4178-98ed-99b812b64fde",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/1b9a5ebc-3e93-4150-937a-3e74d35822a8",
+            "id": "http://data.europa.eu/88u/document/d04a352c-7e6c-444d-a807-07d9b24ffceb",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -149,9 +149,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2011",
+    "temporal_coverage_to": "2011-01-01",
     "num_tags": null,
-    "views_total": "260",
     "id": "BywZPV94SWpE47Jqfds0cA",
     "metadata_created": "2015-10-16 10:18:01.159604",
     "modified_date": "2014-07-24",
@@ -168,17 +167,16 @@
     "num_resources": 3,
     "description": "Expenditure on education as % of GDP or public expenditure",
     "title": "Expenditure on education as % of GDP or public expenditure",
-    "temporal_coverage_from": "1991",
-    "tracking_summary": "260",
+    "temporal_coverage_from": "1991-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         }
     ],
     "relationships_as_subject": [],

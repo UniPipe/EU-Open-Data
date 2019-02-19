@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:33:54",
+    "metadata_modified": "2019-02-15T08:00:04",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1280"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_ehis_sk1i.tsv.gz",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_ehis_sk1i.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a07bc5fd-04d1-4a2a-b38f-3b5f9909b612",
+            "id": "http://data.europa.eu/88u/distribution/4265b6e7-9bef-4d58-a048-46a87e8e7aec",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/400adb5d-79aa-412e-a37b-4658ea11aba0",
+            "id": "http://data.europa.eu/88u/distribution/e9c37b7a-9154-4749-a7fe-f763543e5316",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_ehis_sk1i.tsv.gz&unzip=true",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_ehis_sk1i.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5ecaa57e-cf36-41fc-903a-52bd0ac41e02",
+            "id": "http://data.europa.eu/88u/distribution/eeb19852-1a05-4b75-9516-f86c15c12b18",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/fb101c6a-73b9-47a1-b60a-4df49c58dccc",
+            "id": "http://data.europa.eu/88u/document/c38a11d0-ddeb-485d-b3e6-d873312151fb",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6119f448-5681-459d-aa97-a13ed04cd8e0",
+            "id": "http://data.europa.eu/88u/document/02764613-af6b-4403-9e68-0ee226076086",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b75a99e0-5917-44a1-8de7-71990186faad",
+            "id": "http://data.europa.eu/88u/document/e82c06b2-c913-4a5f-bd87-17cc1a88b7ea",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2014-01-01",
     "num_tags": null,
-    "views_total": "110",
     "id": "cMjq2m9LfXjsHTCCFjgY2A",
     "metadata_created": "2016-11-29 12:57:21.198239",
     "modified_date": "2017-03-20",
@@ -171,7 +170,6 @@
     "description": "Smoking of tobacco products by sex, age and income quintile",
     "title": "Smoking of tobacco products by sex, age and income quintile",
     "temporal_coverage_from": "2014-01-01",
-    "tracking_summary": "110",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

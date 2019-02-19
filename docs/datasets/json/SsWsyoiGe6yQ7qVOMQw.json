@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:47:11",
+    "metadata_modified": "2019-02-15T08:06:05",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4630"
@@ -12,6 +12,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/t2020_rd110.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/00d4ea5d-cbdc-4e1d-a8bf-b18e05e9f488",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -29,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/27daf597-2476-4a53-b9a5-54859f9db262",
+            "id": "http://data.europa.eu/88u/distribution/ebd165a4-2694-464f-85f0-92c7395440bf",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8a843ac7-d40b-42a3-9d32-4020d8092ddd",
+            "id": "http://data.europa.eu/88u/distribution/fa2bfe7a-5b9b-4b2d-94da-6881aa65d2a7",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -58,12 +79,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/t2020_rd110.tsv.gz&unzip=true",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=t2020_rd110",
             "created": "",
             "tracking_summary": null,
-            "name": "Default_Title",
+            "name": "Table",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -71,8 +92,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5bc549cc-04ba-4ff2-afeb-b08c3ffb0e7b",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "id": "http://data.europa.eu/88u/distribution/9b4393d3-90f8-4250-a660-fb742ce7cb4c",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -92,7 +113,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/deead03b-39d9-4e39-af29-bfe3cbab6555",
+            "id": "http://data.europa.eu/88u/distribution/f1b03421-25e6-480d-83c0-36d52073d80d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -113,29 +134,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/dfb4bcc9-eacd-4860-824b-4050d9281dd6",
+            "id": "http://data.europa.eu/88u/distribution/4b0809dd-7b13-47cc-975b-945523ea8f2b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=t2020_rd110",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Table",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/81407cf7-52aa-466e-aa0b-e6ab048469bf",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -155,7 +155,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/346ad419-ed54-4f10-ba27-23941c39399c",
+            "id": "http://data.europa.eu/88u/document/f3aaad8e-7aa0-4c0e-8371-7f13df20de99",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -176,7 +176,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/1c8622e1-803b-4476-b68c-40cca893159d",
+            "id": "http://data.europa.eu/88u/document/fc160245-777e-41b9-971a-81cb09d1947d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -197,7 +197,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b34ba621-ef7b-48ed-a4f3-b268495778e2",
+            "id": "http://data.europa.eu/88u/document/42dd542b-56c6-43d1-977a-43021acf85b7",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -216,7 +216,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2015-01-01",
     "num_tags": null,
-    "views_total": "382",
     "id": "SsWsyoiGe6yQ7qVOMQw",
     "metadata_created": "2015-10-16 11:48:27.099779",
     "modified_date": "2018-10-24",
@@ -234,7 +233,6 @@
     "description": "The indicator measures i) the total built-up area in a country (in km2) and ii) the total built-up area as a share of the total surface area of land in the country. Built-up areas are areas covered with buildings and greenhouses whereas non built-up areas include streets and sealed surfaces. Land is a finite resource and land taken by urban development and infrastructure presents a high risk of being irreversible. It consumes mostly agricultural land and increases fragmentation of habitats, thus causing risk to these natural resources. The data refers to the land use/cover area frame survey (LUCAS). Data are available for years 2009, 2012 and 2015. For 2009, the EU aggregate provided regards only 23 countries (BG, CY, MT, RO are missing). It is envisaged to conduct a LUCAS survey every three years. Comparability over time should be treated with caution due to the changes in the total coverage, the amendments introduced in the classification for the 2012 survey and the time that has elapsed since the first phase sample was stratified. More information can be found here.",
     "title": "Built-up areas",
     "temporal_coverage_from": "2009-01-01",
-    "tracking_summary": "382",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"

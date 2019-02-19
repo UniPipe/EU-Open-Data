@@ -9,20 +9,8 @@
             "name": "public"
         },
         {
-            "display_name": "internet",
-            "name": "internet"
-        },
-        {
             "display_name": "opinion",
             "name": "opinion"
-        },
-        {
-            "display_name": "large",
-            "name": "large"
-        },
-        {
-            "display_name": "flash",
-            "name": "flash"
         },
         {
             "display_name": "polls",
@@ -31,6 +19,18 @@
         {
             "display_name": "surveys",
             "name": "surveys"
+        },
+        {
+            "display_name": "internet",
+            "name": "internet"
+        },
+        {
+            "display_name": "flash",
+            "name": "flash"
+        },
+        {
+            "display_name": "large",
+            "name": "large"
         }
     ],
     "metadata_modified": "2019-02-06T15:48:20",
@@ -88,21 +88,21 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
-        "http://publications.europa.eu/resource/authority/country/NLD",
         "http://publications.europa.eu/resource/authority/country/LUX",
-        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/ITA",
         "http://publications.europa.eu/resource/authority/country/PRT",
-        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/SWE",
         "http://publications.europa.eu/resource/authority/country/BEL",
         "http://publications.europa.eu/resource/authority/country/AUT",
         "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/DEU",
-        "http://publications.europa.eu/resource/authority/country/ESP",
-        "http://publications.europa.eu/resource/authority/country/GRC",
-        "http://publications.europa.eu/resource/authority/country/FRA",
         "http://publications.europa.eu/resource/authority/country/FIN",
-        "http://publications.europa.eu/resource/authority/country/ITA",
-        "http://publications.europa.eu/resource/authority/country/IRL"
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/GRC"
     ],
     "revision_id": null,
     "identifier": "S11_97",
@@ -112,7 +112,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "660",
     "id": "S11_97",
     "metadata_created": "2015-02-03 06:12:42.146664",
     "modified_date": "",
@@ -128,7 +127,6 @@
     "description": "The survey is associated with a number of facets of this complex issue and is essentially concerned with the INDIVIDUALS, the USERS OF THE INTERNET, whether using it for professional reasons or private, and no matter what the means of connection (thus including the use of WAP or mobile phones).\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Flash Eurobarometer 97: Internet and the Public at Large",
     "temporal_coverage_from": "",
-    "tracking_summary": "660",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

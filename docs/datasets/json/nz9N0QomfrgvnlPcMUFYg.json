@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:44:40",
+    "metadata_modified": "2019-02-15T08:56:07",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/2908"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/48d6faa9-8d4f-490d-bb98-29e8af80a793",
+            "id": "http://data.europa.eu/88u/distribution/378283eb-9dd4-4853-9a19-005c7eba7955",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/230a72bd-d94e-401f-8ab3-da14e26dc6be",
+            "id": "http://data.europa.eu/88u/distribution/3de4fadc-c2b7-49c7-8766-6d2853cf334c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,9 +71,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7f18e35e-5873-4916-83dd-7d3edb17dda9",
+            "id": "http://data.europa.eu/88u/distribution/92947035-1cab-4c6d-99ca-a31ac00002a9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/cens_11an_r2",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/c0a5f17e-1343-4624-beb6-3572e825f05c",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
         },
         {
             "mimetype": null,
@@ -92,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/68565ee3-d872-4f7e-b66f-15ee9184486e",
+            "id": "http://data.europa.eu/88u/document/6bb00e1c-b457-431c-95ec-9e5e86638dbd",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,29 +134,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/886a6ba2-2a2e-4370-bdf8-808dd4bb3426",
+            "id": "http://data.europa.eu/88u/document/1b035466-04ea-4131-ad59-33fda87d337d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/cens_11an_r2",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d234e34e-2eee-4446-b33d-848e107b28f4",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2011",
+    "temporal_coverage_to": "2011-01-01",
     "num_tags": null,
-    "views_total": "0",
     "id": "nz9N0QomfrgvnlPcMUFYg",
     "metadata_created": "2015-10-16 10:35:53.805420",
     "modified_date": "2015-07-23",
@@ -170,17 +169,16 @@
     "num_resources": 3,
     "description": "Population by current activity status, NACE Rev. 2 activity and NUTS 2 region",
     "title": "Population by current activity status, NACE Rev. 2 activity and NUTS 2 region",
-    "temporal_coverage_from": "2011",
-    "tracking_summary": "0",
+    "temporal_coverage_from": "2011-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         }
     ],
     "relationships_as_subject": [],

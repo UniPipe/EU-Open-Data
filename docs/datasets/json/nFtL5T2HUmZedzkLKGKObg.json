@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:11:02",
+    "metadata_modified": "2019-02-15T07:53:07",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/6402"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0d4e5738-05ee-4bd2-8e5f-d1b7cdb36ee7",
+            "id": "http://data.europa.eu/88u/distribution/a9b7f5dd-26ee-4de9-be98-6907e4597109",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c684380a-1d36-4789-a627-7b039fe8207b",
+            "id": "http://data.europa.eu/88u/distribution/86264f79-3942-4a3b-adb1-c9995824db1e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/9b33f704-c3f6-48e2-817f-994e5740a015",
+            "id": "http://data.europa.eu/88u/distribution/f388b7ba-4af8-4274-960e-713a0e995c6a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,28 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/eb9ed140-a71a-428f-a53e-562f9ee33716",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/env_ac_pefa05",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d9ce9077-0119-4f18-b6e8-1736efa956df",
+            "id": "http://data.europa.eu/88u/document/d94c948f-cd34-469a-ab96-44d717e052d2",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,8 +113,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6252f0cf-2260-4e5b-b31d-44d384d67382",
+            "id": "http://data.europa.eu/88u/document/7e10a3f2-8214-490a-a28e-dceb630f69df",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/env_ac_pefa05",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/e4e1f81b-9ff0-4351-8294-82a8d8c2b80c",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2015-01-01",
+    "temporal_coverage_to": "2015",
     "num_tags": null,
-    "views_total": "192",
     "id": "nFtL5T2HUmZedzkLKGKObg",
     "metadata_created": "2016-05-19 05:32:06.054430",
     "modified_date": "2018-04-26",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Physical energy flow accounts totals bridging to energy balances totals",
     "title": "Physical energy flow accounts totals bridging to energy balances totals",
-    "temporal_coverage_from": "2008-01-01",
-    "tracking_summary": "192",
+    "temporal_coverage_from": "2008",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"

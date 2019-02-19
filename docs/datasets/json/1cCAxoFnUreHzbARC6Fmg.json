@@ -7,33 +7,12 @@
     "metadata_modified": "2019-02-15T09:01:37",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/4470",
-        "http://eurovoc.europa.eu/5909"
+        "http://eurovoc.europa.eu/5909",
+        "http://eurovoc.europa.eu/4470"
     ],
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_dem_expur.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/564ebbe5-e75d-4d4e-ab0d-165281c4f6d0",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -78,6 +57,48 @@
         },
         {
             "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_dem_expur.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/564ebbe5-e75d-4d4e-ab0d-165281c4f6d0",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_expur",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/df9070ce-6191-4a04-aa7d-629b8a1b4e58",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
             "mimetype_inner": null,
             "hash": "",
             "description": "",
@@ -117,27 +138,6 @@
             "id": "http://data.europa.eu/88u/document/0594400a-d3eb-4a0d-b0fb-6d6d6384d5d8",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_expur",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/df9070ce-6191-4a04-aa7d-629b8a1b4e58",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
         }
     ],
     "interoperability_level": null,
@@ -152,9 +152,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017",
+    "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "221",
     "id": "1cCAxoFnUreHzbARC6Fmg",
     "metadata_created": "2015-10-16 11:37:11.357177",
     "modified_date": "2019-02-05",
@@ -171,17 +170,16 @@
     "num_resources": 3,
     "description": "Expenditure by purpose",
     "title": "Expenditure by purpose",
-    "temporal_coverage_from": "1990",
-    "tracking_summary": "221",
+    "temporal_coverage_from": "1990-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

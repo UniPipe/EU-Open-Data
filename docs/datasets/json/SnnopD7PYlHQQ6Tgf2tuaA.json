@@ -5,19 +5,19 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "Social situation",
-            "name": "Social situation"
-        },
-        {
             "display_name": "Social framework",
             "name": "Social framework"
         },
         {
             "display_name": "Unemployment",
             "name": "Unemployment"
+        },
+        {
+            "display_name": "Social situation",
+            "name": "Social situation"
         }
     ],
-    "metadata_modified": "2019-02-08T09:04:12",
+    "metadata_modified": "2019-02-15T07:58:11",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -25,6 +25,48 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tps00181",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Table",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/c17fe13a-a38d-44d7-bded-3bda5f536ee2",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tps00181",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Map",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/0fc31fcd-dbe9-432b-89d1-d57caa3b330d",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -42,7 +84,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e2d9aa0c-8976-4ef6-941f-1cb2a2ffdf68",
+            "id": "http://data.europa.eu/88u/distribution/2101175d-08e1-4c8b-9783-2d29a0651e0b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -63,49 +105,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7376541d-ef60-4b24-b210-b0905f116459",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00181.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a8c11337-7e51-417c-9613-88e5a3ed69c3",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tps00181",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Table",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/405d9221-88e0-4a8a-aeef-dc08e124ae6e",
+            "id": "http://data.europa.eu/88u/distribution/a7c1426d-5b44-4b1b-8162-285495efdbc1",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -126,7 +126,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8a9284c0-a44a-40ce-b245-58a286324a1e",
+            "id": "http://data.europa.eu/88u/distribution/d398e5ac-309d-48e9-8e68-222ea6308cfb",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -134,12 +134,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tps00181",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00181.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
-            "name": "Map",
+            "name": "Default_Title",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -147,8 +147,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0499b9b6-4571-4254-8142-be144afe02ab",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "id": "http://data.europa.eu/88u/distribution/52027274-a9fa-43f8-8c8d-1a262cef4aba",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -168,7 +168,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8f248b3c-3dc4-42d7-acad-611fa9216939",
+            "id": "http://data.europa.eu/88u/document/962cd6b2-06e1-4004-a03c-1fe7f623b5ab",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -185,12 +185,11 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "270",
     "id": "SnnopD7PYlHQQ6Tgf2tuaA",
     "metadata_created": "2015-10-16 10:06:27.625810",
-    "modified_date": "2018-10-24",
+    "modified_date": "2019-02-13",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -204,8 +203,7 @@
     "num_resources": 6,
     "description": "The indicator \"Children aged 0-17 years living in jobless households\" is calculated as the share of children aged 0-17 who are living in households where no one is working, in the total population of the same age group. The indicator is based on the EU Labour Force Survey.",
     "title": "Jobless households - children",
-    "temporal_coverage_from": "2006-01-01",
-    "tracking_summary": "270",
+    "temporal_coverage_from": "2006",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

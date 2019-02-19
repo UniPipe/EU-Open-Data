@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:40:59",
+    "metadata_modified": "2019-02-15T09:04:25",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1280"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hsw_mi07.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hsw_mi07.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fb9e41f8-d679-42dc-aee3-bbaf3f4c4f54",
+            "id": "http://data.europa.eu/88u/distribution/4bbea004-2b7b-494b-b5fc-0a80988a2d4c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6c59bc67-2dda-49d6-8253-c58bb7b7af85",
+            "id": "http://data.europa.eu/88u/distribution/1b9605a8-2344-43d7-83f9-aa6c4ea1bb0c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hsw_mi07.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hsw_mi07.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,9 +71,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4f8e19f1-4148-430c-b1fc-04e5a341c197",
+            "id": "http://data.europa.eu/88u/distribution/684b1ea8-c408-4f69-83a0-459d8472932e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/hsw_acc_work_esms.sdmx.zip",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/7fbbb6bd-e690-41b0-9208-0fce737252a5",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
         },
         {
             "mimetype": null,
@@ -92,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/cdb647e9-7a00-4456-a633-d1d3eb51156e",
+            "id": "http://data.europa.eu/88u/document/1faaa455-189b-40ed-8ff0-5e54db05e6d0",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -113,28 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c645dcd7-e382-4357-9e82-2338df824240",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/hsw_acc_work_esms.sdmx.zip",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6a8edf54-fa1a-4e19-9feb-762fb82dc629",
+            "id": "http://data.europa.eu/88u/document/6115517c-85ea-41e7-88a5-2a1c7af19d6c",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2016-01-01",
+    "temporal_coverage_to": "2016",
     "num_tags": null,
-    "views_total": "670",
     "id": "GTDD2RbGzZO15KgEFZGJ6g",
     "metadata_created": "2015-10-16 09:55:57.371635",
     "modified_date": "2019-02-04",
@@ -170,17 +169,16 @@
     "num_resources": 3,
     "description": "Accidents at work by type of injury, severity and NACE Rev. 2 activity (A, C-N)",
     "title": "Accidents at work by type of injury, severity and NACE Rev. 2 activity (A, C-N)",
-    "temporal_coverage_from": "2008-01-01",
-    "tracking_summary": "670",
+    "temporal_coverage_from": "2008",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

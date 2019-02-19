@@ -4,33 +4,12 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:46:25",
+    "metadata_modified": "2019-02-15T08:39:39",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/trng_nfe3.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/10d8863f-bf83-4189-907f-00da2f9a7c9c",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -48,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6b651f58-22e4-4662-ac49-cc48f3744372",
+            "id": "http://data.europa.eu/88u/distribution/5c8bd987-0082-4e45-82e5-7b3695d1d52e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,30 +48,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5a782eaa-cae9-4cdc-9a80-565f39d5dec6",
+            "id": "http://data.europa.eu/88u/distribution/03d9fc52-6c57-4c0f-9bc6-2e998912b489",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
             "mimetype": null,
-            "mimetype_inner": null,
+            "mimetype_inner": "",
             "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/lfso_esms.htm",
-            "created": null,
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/trng_nfe3.sdmx.zip",
+            "created": "",
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
             "url_type": null,
             "position": null,
-            "iframe_code": null,
+            "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/96c2f7c4-3a4e-4e3f-a875-73b7d794afb3",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
+            "id": "http://data.europa.eu/88u/distribution/d05373c5-bbe2-4f4e-b13a-05eb6e81db85",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
         },
         {
             "mimetype": null,
@@ -111,8 +90,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/75e0a27e-2e27-4ba4-9c5a-0c8908248be4",
+            "id": "http://data.europa.eu/88u/document/5ed68dae-ce75-4ada-9af2-f001682d94ea",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/lfso_esms.htm",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/a5adbe36-1f89-4a88-9916-531fa606d35a",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
         {
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/200a6589-e0cf-403b-9985-6952dbe132cf",
+            "id": "http://data.europa.eu/88u/document/0dfe988a-b7f2-4f76-845a-dcb18f6cb2d3",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -149,9 +149,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2003-01-01",
+    "temporal_coverage_to": "2003",
     "num_tags": null,
-    "views_total": "81",
     "id": "z1iPk8qPw9309rlhNkHhMg",
     "metadata_created": "2015-10-16 11:35:44.142719",
     "modified_date": "2009-03-26",
@@ -168,17 +167,16 @@
     "num_resources": 3,
     "description": "Participation in non-formal education and training by educational attainment level and labour status",
     "title": "Participation in non-formal education and training by educational attainment level and labour status",
-    "temporal_coverage_from": "2003-01-01",
-    "tracking_summary": "81",
+    "temporal_coverage_from": "2003",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

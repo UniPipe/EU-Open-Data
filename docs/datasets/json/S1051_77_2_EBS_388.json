@@ -5,24 +5,24 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "competition",
-            "name": "competition"
+            "display_name": "opinion",
+            "name": "opinion"
         },
         {
-            "display_name": "rail",
-            "name": "rail"
+            "display_name": "competition",
+            "name": "competition"
         },
         {
             "display_name": "polls",
             "name": "polls"
         },
         {
-            "display_name": "opinion",
-            "name": "opinion"
-        },
-        {
             "display_name": "surveys",
             "name": "surveys"
+        },
+        {
+            "display_name": "rail",
+            "name": "rail"
         },
         {
             "display_name": "special",
@@ -35,27 +35,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Volume: VolumeAEB772MOVErail20120402",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?E7265120E20E15BF812F11CD446A4D28",
-            "created": "2014-12-08",
-            "tracking_summary": null,
-            "name": "Link to OP_VolumeAEB772MOVErail20120402.zip",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/64248298-2cba-4692-9da4-4241737d9ce9",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -74,6 +53,27 @@
             "iframe_code": "",
             "datastore_active": false,
             "id": "http://data.europa.eu/88u/distribution/7cde0782-f895-4171-8b09-8baf6023fcc7",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Volume: VolumeAEB772MOVErail20120402",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?E7265120E20E15BF812F11CD446A4D28",
+            "created": "2014-12-08",
+            "tracking_summary": null,
+            "name": "Link to OP_VolumeAEB772MOVErail20120402.zip",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/64248298-2cba-4692-9da4-4241737d9ce9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -126,31 +126,31 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
-        "http://publications.europa.eu/resource/authority/country/GBR",
-        "http://publications.europa.eu/resource/authority/country/ROU",
         "http://publications.europa.eu/resource/authority/country/SWE",
-        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/ROU",
         "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
         "http://publications.europa.eu/resource/authority/country/BEL",
         "http://publications.europa.eu/resource/authority/country/AUT",
         "http://publications.europa.eu/resource/authority/country/CZE",
         "http://publications.europa.eu/resource/authority/country/BGR",
         "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/DEU",
-        "http://publications.europa.eu/resource/authority/country/GRC",
         "http://publications.europa.eu/resource/authority/country/EST",
-        "http://publications.europa.eu/resource/authority/country/FIN",
         "http://publications.europa.eu/resource/authority/country/ESP",
-        "http://publications.europa.eu/resource/authority/country/HUN",
         "http://publications.europa.eu/resource/authority/country/FRA",
-        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/GBR",
         "http://publications.europa.eu/resource/authority/country/IRL",
-        "http://publications.europa.eu/resource/authority/country/LUX",
+        "http://publications.europa.eu/resource/authority/country/HUN",
         "http://publications.europa.eu/resource/authority/country/LTU",
-        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/ITA",
         "http://publications.europa.eu/resource/authority/country/LVA",
-        "http://publications.europa.eu/resource/authority/country/PRT",
-        "http://publications.europa.eu/resource/authority/country/POL"
+        "http://publications.europa.eu/resource/authority/country/LUX",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/NLD"
     ],
     "revision_id": null,
     "identifier": "S1051_77_2_EBS_388",
@@ -160,7 +160,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "394",
     "id": "S1051_77_2_EBS_388",
     "metadata_created": "2015-07-29 08:33:59.011067",
     "modified_date": "",
@@ -176,7 +175,6 @@
     "description": "This report focuses on competition in the railway market.Opening up national freight and passenger markets to cross-border competition is a major step towards the creation of an integrated European railway area and of a genuine EU internal market for rail.\nAll European railway operators would then be in a position to offer efficient services that meet passenger and business expectations, along with better connections between EU and neighbouring markets.\nThe outline of the report is as follows.\n- Current use of trains in the EU: frequency, reasons and satisfaction\n- Support for rail market competition in the EU\n- Expected impact of rail market on:\n- rail services\n- individual stakeholders\n- public funding\n- Effects of rail market competition wished for:\n- railway offers\n- ways of buying tickets\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Special Eurobarometer 388: Rail competition",
     "temporal_coverage_from": "",
-    "tracking_summary": "394",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

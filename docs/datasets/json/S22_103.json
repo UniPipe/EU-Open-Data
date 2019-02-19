@@ -5,24 +5,12 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "grand",
-            "name": "grand"
-        },
-        {
-            "display_name": "internet",
-            "name": "internet"
-        },
-        {
-            "display_name": "opinion",
-            "name": "opinion"
-        },
-        {
             "display_name": "public",
             "name": "public"
         },
         {
-            "display_name": "flash",
-            "name": "flash"
+            "display_name": "opinion",
+            "name": "opinion"
         },
         {
             "display_name": "polls",
@@ -31,6 +19,18 @@
         {
             "display_name": "surveys",
             "name": "surveys"
+        },
+        {
+            "display_name": "internet",
+            "name": "internet"
+        },
+        {
+            "display_name": "flash",
+            "name": "flash"
+        },
+        {
+            "display_name": "grand",
+            "name": "grand"
         }
     ],
     "metadata_modified": "2019-02-06T15:48:41",
@@ -88,22 +88,22 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
-        "http://publications.europa.eu/resource/authority/country/NLD",
         "http://publications.europa.eu/resource/authority/country/LUX",
-        "http://publications.europa.eu/resource/authority/country/PRT",
+        "http://publications.europa.eu/resource/authority/country/ITA",
         "http://publications.europa.eu/resource/authority/country/NOR",
-        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/NLD",
         "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/PRT",
         "http://publications.europa.eu/resource/authority/country/BEL",
         "http://publications.europa.eu/resource/authority/country/AUT",
         "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/DEU",
+        "http://publications.europa.eu/resource/authority/country/FIN",
         "http://publications.europa.eu/resource/authority/country/ESP",
         "http://publications.europa.eu/resource/authority/country/GRC",
-        "http://publications.europa.eu/resource/authority/country/IRL",
-        "http://publications.europa.eu/resource/authority/country/FIN",
-        "http://publications.europa.eu/resource/authority/country/ITA",
-        "http://publications.europa.eu/resource/authority/country/ISL"
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/ISL",
+        "http://publications.europa.eu/resource/authority/country/IRL"
     ],
     "revision_id": null,
     "identifier": "S22_103",
@@ -113,7 +113,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "547",
     "id": "S22_103",
     "metadata_created": "2015-02-03 05:58:52.157736",
     "modified_date": "",
@@ -129,7 +128,6 @@
     "description": "La Commission europ\u00e9enne a souhait\u00e9 conna\u00eetre la situation du grand public en ce qui concerne certains aspects importants relatifs \u00e0 l'\u00ab Internet \u00bb et \u00e0 son utilisation actuelle. Le sondage s'est attach\u00e9 \u00e0 quelques facettes de cette probl\u00e9matique complexe.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Flash Eurobarometer 103: Internet et le Grand Public",
     "temporal_coverage_from": "",
-    "tracking_summary": "547",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

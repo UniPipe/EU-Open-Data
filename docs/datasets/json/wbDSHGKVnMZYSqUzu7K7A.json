@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:49:19",
+    "metadata_modified": "2019-02-15T08:01:01",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/56"
@@ -12,27 +12,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nama_10_pp.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a76dd297-d53d-4634-b35b-164ccdb3691d",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -50,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8fcf9414-3689-40ac-a792-1ebcb1146fad",
+            "id": "http://data.europa.eu/88u/distribution/18535fb9-b063-432f-949c-86df573a49cd",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +50,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7c304885-17c4-47e8-a9ea-1139c32b3633",
+            "id": "http://data.europa.eu/88u/distribution/8a442617-70aa-4723-8837-85619960731c",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nama_10_pp.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/6ca8106c-4c80-4535-8815-0095b07896a2",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -81,10 +81,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/nama_10_pp",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/nama10_esms.sdmx.zip",
             "created": null,
             "tracking_summary": null,
-            "name": "More information on Eurostat Website",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b6fa20a5-7a8a-45a3-b60e-32db3d60b55c",
+            "id": "http://data.europa.eu/88u/document/005ae48d-f587-4fb1-a623-2c049ebe243b",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/aae645c1-be20-4ddb-b9fc-e4b3962089bd",
+            "id": "http://data.europa.eu/88u/document/922a89ce-3805-4583-af1a-1c43041350af",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -123,10 +123,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/nama10_esms.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/nama_10_pp",
             "created": null,
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "name": "More information on Eurostat Website",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/496ec88d-e21f-43c6-b7a5-1c045349f88b",
+            "id": "http://data.europa.eu/88u/document/6d913250-fb7a-4986-99d0-45a3a89a6bf5",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "16",
     "id": "wbDSHGKVnMZYSqUzu7K7A",
     "metadata_created": "2018-12-21 07:10:46.949601",
     "modified_date": "2018-12-19",
@@ -170,14 +169,13 @@
     "num_resources": 3,
     "description": "GNI (gross national income) per capita in PPS",
     "title": "GNI (gross national income) per capita in PPS",
-    "temporal_coverage_from": "2014-01-01",
-    "tracking_summary": "16",
+    "temporal_coverage_from": "2014",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
         }
     ],
     "relationships_as_subject": [],

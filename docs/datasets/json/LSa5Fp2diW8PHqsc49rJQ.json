@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:57:04",
+    "metadata_modified": "2019-02-15T07:50:15",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/2632"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b5f020ff-b231-4256-836e-818b2d6d987b",
+            "id": "http://data.europa.eu/88u/distribution/9121e437-b534-4fcb-9864-83131d57bf37",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/36a4f73c-01cf-498c-81c9-7fafba25d29f",
+            "id": "http://data.europa.eu/88u/distribution/18befe0c-970d-473e-929b-55464609c446",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d997cf26-9cbe-49b8-8306-2a043a479248",
+            "id": "http://data.europa.eu/88u/distribution/0836e48c-ea33-4ed5-bab1-9183d79b5e92",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,28 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/a14ba2cc-7a7e-46bd-8f83-83a38cd79cb8",
+            "id": "http://data.europa.eu/88u/document/3d566042-183e-4d86-99bb-7cf75bdf5576",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/prc_hpi_inw",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/e22f5a94-8734-4134-bb19-f2f9011681de",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,29 +134,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/1a673b4b-164a-4132-975e-bc60ed310239",
+            "id": "http://data.europa.eu/88u/document/7ec8930d-a5bf-456f-85df-352feab9d6ba",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/prc_hpi_inw",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8815aae0-96aa-44fc-ae8f-924c826e7702",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2018-01-01",
     "num_tags": null,
-    "views_total": "202",
     "id": "LSa5Fp2diW8PHqsc49rJQ",
     "metadata_created": "2015-10-16 12:03:54.226887",
     "modified_date": "2018-07-10",
@@ -171,7 +170,6 @@
     "description": "House price index - Item weights",
     "title": "House price index - Item weights",
     "temporal_coverage_from": "2005-01-01",
-    "tracking_summary": "202",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"

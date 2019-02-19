@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:03:57",
+    "metadata_modified": "2019-02-15T08:51:14",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -12,27 +12,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lc_nnum1_r2.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8a5edc9c-e3ef-472b-bbd6-a6f4b1fe564d",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -50,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6a9fbec6-d5c2-4936-ac8d-99280ad4b7ea",
+            "id": "http://data.europa.eu/88u/distribution/7be98aa3-a1ed-49cf-ab5d-f68f06a8de62",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +50,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/88ffd2fc-c71d-43c3-9e88-3b3718f55d02",
+            "id": "http://data.europa.eu/88u/distribution/1eda3695-a9a5-43df-affb-3ff70d0fa732",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lc_nnum1_r2.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/659fb011-7a9f-4ddb-9bcc-222d3d4a6d17",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/749423ce-6da1-4832-b8d9-477bdf2c5c24",
+            "id": "http://data.europa.eu/88u/document/d639fc61-434a-4860-87b5-391ec0587a2f",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/21b5a863-ec9c-4473-b181-d5e59df0890b",
+            "id": "http://data.europa.eu/88u/document/fcc58b5c-731f-46ec-9941-b133cadb08f6",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/cae0a3c2-0ad4-4d31-966d-559c982557c0",
+            "id": "http://data.europa.eu/88u/document/18037557-3df6-4354-a38d-d8c391cb240f",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2016-01-01",
+    "temporal_coverage_to": "2016",
     "num_tags": null,
-    "views_total": "351",
     "id": "eydpz3JHHQ3qPKCrf1Tlhg",
     "metadata_created": "2015-10-16 10:50:01.669751",
     "modified_date": "2019-02-06",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Number of employees, hours worked and paid, by working time and NACE Rev. 2 activity - LCS surveys 2008, 2012 and 2016",
     "title": "Number of employees, hours worked and paid, by working time and NACE Rev. 2 activity - LCS surveys 2008, 2012 and 2016",
-    "temporal_coverage_from": "2008-01-01",
-    "tracking_summary": "351",
+    "temporal_coverage_from": "2008",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

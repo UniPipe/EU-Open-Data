@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:19:51",
+    "metadata_modified": "2019-02-15T07:39:20",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4268"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/07c21a01-206a-48fe-b7ab-544c057ab679",
+            "id": "http://data.europa.eu/88u/distribution/306da86c-4686-4fa8-a39b-193eead4195a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4990777f-5e1a-4759-9c46-65f1f7e050ca",
+            "id": "http://data.europa.eu/88u/distribution/6e716914-e6f1-4a5e-b811-1093ef5a9410",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,30 +71,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/49a6ba20-1f27-45e7-bb66-38bba282383c",
+            "id": "http://data.europa.eu/88u/distribution/959c9084-a31a-4242-8517-e042067f5fae",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/urt_pat_eptot",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/eae49887-594a-4597-932f-89d07b480cdb",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
         },
         {
             "mimetype": null,
@@ -113,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ee37d80e-59cd-4e41-a4dc-8198b23ab203",
+            "id": "http://data.europa.eu/88u/document/a9cd2c60-38b8-4bcd-9a08-b2e2c9cd75f0",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,8 +113,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/20a16e13-d1c1-47d4-98c0-61657a0f2da3",
+            "id": "http://data.europa.eu/88u/document/ec6ed276-ee9f-48a4-a095-e2948c8f54cf",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/urt_pat_eptot",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/34f34fe4-fd90-4feb-aff2-47966b38e0b9",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2012-01-01",
+    "temporal_coverage_to": "2012",
     "num_tags": null,
-    "views_total": "124",
     "id": "IVYqypZC1hb9NmZtcmSJzA",
     "metadata_created": "2016-07-28 08:48:07.430052",
     "modified_date": "2018-07-19",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Patent applications to the EPO by priority year and other typologies",
     "title": "Patent applications to the EPO by priority year and other typologies",
-    "temporal_coverage_from": "1977-01-01",
-    "tracking_summary": "124",
+    "temporal_coverage_from": "1977",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

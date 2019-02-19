@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-11T07:22:44",
+    "metadata_modified": "2019-02-15T08:31:06",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
+            "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfsq_egan.tsv.gz",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfsq_egan.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/bc9d95ee-3fc6-432f-9f7b-7286c56dd6c8",
+            "id": "http://data.europa.eu/88u/distribution/87beba4b-7b6e-42db-9029-5e3ce052c9ab",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e7a57512-41d8-44e0-a812-c057bbe59c70",
+            "id": "http://data.europa.eu/88u/distribution/e5958691-bde2-41be-8fd7-8364670c46bc",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
+            "description": "Download dataset in TSV format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfsq_egan.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfsq_egan.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/65cfa129-fb35-409a-b949-2998f4a1f0f4",
+            "id": "http://data.europa.eu/88u/distribution/0d8042ba-40ad-4bc0-b0ba-be3c5a50c543",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -81,10 +81,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/lfsq_egan",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/lfsq_esms.sdmx.zip",
             "created": null,
             "tracking_summary": null,
-            "name": "More information on Eurostat Website",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8a265850-c7f6-41c6-95eb-0892d49d138e",
+            "id": "http://data.europa.eu/88u/document/b6b64329-b957-4c07-bb4e-8819b0ea9c8e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/a7e9f90e-e468-4413-906e-324fd305e90b",
+            "id": "http://data.europa.eu/88u/document/f60c09ea-a476-47e3-a8e4-180bbbdd7a6f",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -123,10 +123,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/lfsq_esms.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/lfsq_egan",
             "created": null,
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "name": "More information on Eurostat Website",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/de3b7c49-0051-45ef-9785-f1a0db511859",
+            "id": "http://data.europa.eu/88u/document/9200db62-8457-4bae-98b4-c7c25da2367e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2018-01-01",
     "num_tags": null,
-    "views_total": "253",
     "id": "X2x13TlToCym2hA7OveUg",
     "metadata_created": "2015-10-16 13:38:57.234998",
     "modified_date": "2019-02-08",
@@ -171,7 +170,6 @@
     "description": "Employment by sex, age and citizenship (1 000)",
     "title": "Employment by sex, age and citizenship (1 000)",
     "temporal_coverage_from": "1998-01-01",
-    "tracking_summary": "253",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

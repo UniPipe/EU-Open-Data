@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:05:03",
+    "metadata_modified": "2019-02-15T08:43:50",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/6402"
@@ -12,6 +12,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/env_ac_mfa.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/e5324cf1-0c50-4087-9546-2625b1623e87",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -29,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5d23c675-5429-4fce-a39c-2a2d8d883957",
+            "id": "http://data.europa.eu/88u/distribution/6e017d76-b817-4cd0-94f1-3330d0a1410f",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,28 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/43bc0294-79e4-4977-9244-13caa06a0f8b",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/env_ac_mfa.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/602d46c7-87e1-474f-9895-924af7049c88",
+            "id": "http://data.europa.eu/88u/distribution/2e2d980a-6f96-48fa-91cf-02e9ea022ca5",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/240c84d8-027b-40d2-b05e-ce48a0e8796c",
+            "id": "http://data.europa.eu/88u/document/90003bd8-96d3-4ca5-aad8-fb5c43c9da40",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c802cc20-bd85-4b9f-8e4a-902c0a9b8342",
+            "id": "http://data.europa.eu/88u/document/04008d60-4ab1-4552-8bd3-a46ba9472c1a",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f24a8856-2200-44d7-9ca3-f1b7281c4800",
+            "id": "http://data.europa.eu/88u/document/c7913311-1190-4b10-b9a0-2f52744fdd2b",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,12 +151,11 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "247",
     "id": "QYqlykPqEzJOa10iKaiFQ",
     "metadata_created": "2015-10-16 12:18:21.872109",
-    "modified_date": "2018-09-12",
+    "modified_date": "2019-02-14",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Material flow accounts",
     "title": "Material flow accounts",
-    "temporal_coverage_from": "1990-01-01",
-    "tracking_summary": "247",
+    "temporal_coverage_from": "1990",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"

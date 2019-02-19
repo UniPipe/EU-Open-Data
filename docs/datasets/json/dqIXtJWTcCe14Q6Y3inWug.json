@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:45:21",
+    "metadata_modified": "2019-02-15T07:55:54",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -14,9 +14,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/spr_exp_pps.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/spr_exp_pps.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f10fbbea-ab75-420d-bdb3-19e9fc439e3a",
+            "id": "http://data.europa.eu/88u/distribution/12801834-1a2f-401c-81a9-13e86a0bf8a9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d580a910-cc8a-4df3-aa65-05d3122319b3",
+            "id": "http://data.europa.eu/88u/distribution/4bf1d917-9c5f-47ea-ae6b-e67fbd5727f3",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -56,9 +56,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/spr_exp_pps.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/spr_exp_pps.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -69,9 +69,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c1bf520e-82ad-4ce5-97c9-1b823f19c5e9",
+            "id": "http://data.europa.eu/88u/distribution/48254fbe-ab98-4d73-9203-8a3e889a7cb0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/spr_exp_pps",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/b1372156-7b4f-41d9-bccc-20d197931d67",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
         },
         {
             "mimetype": null,
@@ -90,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/703e448d-1359-47bd-bb09-40ea08d15ee0",
+            "id": "http://data.europa.eu/88u/document/b3d55186-3cd2-4596-8a72-62fba46f3e9d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,29 +132,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/33fa2339-55c8-4911-bfc2-27499f34e314",
+            "id": "http://data.europa.eu/88u/document/26a1cf76-be0a-4d35-b94b-28871931fea4",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/spr_exp_pps",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9b0bbced-8466-457d-9cda-415c2e74b5a8",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -149,9 +149,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2016",
+    "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "0",
     "id": "dqIXtJWTcCe14Q6Y3inWug",
     "metadata_created": "2015-10-16 13:20:07.399980",
     "modified_date": "2019-01-24",
@@ -168,17 +167,16 @@
     "num_resources": 3,
     "description": "Tables by functions, aggregated benefits and grouped schemes - in MIO of PPS",
     "title": "Tables by functions, aggregated benefits and grouped schemes - in MIO of PPS",
-    "temporal_coverage_from": "1995",
-    "tracking_summary": "0",
+    "temporal_coverage_from": "1995-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         }
     ],
     "relationships_as_subject": [],

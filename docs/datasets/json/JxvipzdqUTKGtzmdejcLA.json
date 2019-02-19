@@ -4,9 +4,11 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:30:56",
+    "metadata_modified": "2019-02-15T08:33:07",
     "temporal_granularity": "",
-    "concepts_eurovoc": [],
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/2870"
+    ],
     "license_id": null,
     "type": "dataset",
     "resources": [
@@ -27,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5a63113f-5cfc-4c5e-b976-3ea0463a8781",
+            "id": "http://data.europa.eu/88u/distribution/9610e06e-07ae-4ae0-bcf7-dab9c8d979e7",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -48,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2323f27e-b15d-4119-a971-6a60aca760aa",
+            "id": "http://data.europa.eu/88u/distribution/60c4eea2-1d96-4c4b-8e8a-cd6ada69b09f",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -69,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/17038a21-9e82-45bd-8d2c-a7d201f8836b",
+            "id": "http://data.europa.eu/88u/distribution/5fcefa4b-0c13-4ace-ac00-59123babb120",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +92,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f28e6ff3-4196-4908-9a94-850850bb20f4",
+            "id": "http://data.europa.eu/88u/distribution/59e95178-143b-4890-893c-7b5b6a26077b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -111,7 +113,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/080b44be-6cd2-44ef-860d-e9b9ec660e80",
+            "id": "http://data.europa.eu/88u/distribution/b2b11dd8-7d60-42d7-97e6-3c8b98964c41",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -132,7 +134,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fbe273b3-89c8-4044-adb1-4ce7c5a55ca6",
+            "id": "http://data.europa.eu/88u/distribution/e3ee0783-55f6-4d3f-9a57-aa205882540e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -153,7 +155,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/2a6e800f-c308-4b7f-a418-9f9f208d4246",
+            "id": "http://data.europa.eu/88u/document/a1673bdf-3465-4807-8a09-7e878d657efe",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -172,7 +174,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2016",
     "num_tags": null,
-    "views_total": "146",
     "id": "JxvipzdqUTKGtzmdejcLA",
     "metadata_created": "2016-05-03 10:09:43.585345",
     "modified_date": "2018-10-24",
@@ -190,7 +191,6 @@
     "description": "Healthy life years (HLY) at 65 is a composite indicator that measures the number of remaining years that a person aged 65 is expected to live in a healthy condition. It is calculated separately for women and men by combining mortality data from Eurostat's demographic database with data on self-perceived activity limitations from the European Statistics of Income and Living Condition survey. A healthy conditions is defined by the absence of longstanding severe or moderate limitations in usual activities because of a health problem. Longstanding refers to a period of more than 6 months.",
     "title": "Healthy life years at 65 - males",
     "temporal_coverage_from": "2005",
-    "tracking_summary": "146",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

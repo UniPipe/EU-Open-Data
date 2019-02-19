@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:37:44",
+    "metadata_modified": "2019-02-15T08:35:10",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4390"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b27f515f-cb1b-46e5-8aa2-967c0f7c4cd5",
+            "id": "http://data.europa.eu/88u/distribution/75f1a556-7023-4463-bdb8-209f03d138bf",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fcaba5d3-7dbc-4109-8157-618bd614b8dd",
+            "id": "http://data.europa.eu/88u/distribution/0d8f5d64-1ae6-44f8-9c98-064b4ac44957",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,30 +71,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/26466b62-0dbb-4f4b-ba5c-587022266db4",
+            "id": "http://data.europa.eu/88u/distribution/e90d7314-cd8e-4f76-aa1a-0183ce862caa",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ert_bil_conv_esms.htm",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/add6d3d8-ca94-42a6-9826-76582685d395",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
         },
         {
             "mimetype": null,
@@ -113,8 +92,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/acf3abce-62f0-46fd-a96a-f34118fb06f6",
+            "id": "http://data.europa.eu/88u/document/e3325177-d324-43a7-954e-1437e16ca29f",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ert_bil_conv_esms.htm",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/5ba184ce-8003-4a72-9eeb-94c1e7cfa783",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
         {
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/775652e6-7dbb-4e56-8bad-266b626b90e6",
+            "id": "http://data.europa.eu/88u/document/3d95392e-d80d-4a6a-94c7-8d13f47a733e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2018-01-01",
+    "temporal_coverage_to": "2018",
     "num_tags": null,
-    "views_total": "253",
     "id": "nDlJYzA9Y01xk59sp4Q",
     "metadata_created": "2015-10-16 10:07:15.631871",
     "modified_date": "2019-01-02",
@@ -170,14 +169,13 @@
     "num_resources": 3,
     "description": "Conversion factors for euro fixed series into euro/ECU - quarterly data",
     "title": "Conversion factors for euro fixed series into euro/ECU - quarterly data",
-    "temporal_coverage_from": "1971-01-01",
-    "tracking_summary": "253",
+    "temporal_coverage_from": "1971",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
         }
     ],
     "relationships_as_subject": [],

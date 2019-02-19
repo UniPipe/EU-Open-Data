@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:57:31",
+    "metadata_modified": "2019-02-15T07:44:20",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/2908"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/cens_01nanac.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/cens_01nanac.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/24e6bae7-28e8-4d57-8809-fe6215096a44",
+            "id": "http://data.europa.eu/88u/distribution/d570987a-e593-42af-bea7-18dc64d68d06",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/16c4c4a6-60a5-4335-a7f6-22b5456cbf80",
+            "id": "http://data.europa.eu/88u/distribution/f0413089-a6c3-4b09-8ffc-b7295c781fd7",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/cens_01nanac.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/cens_01nanac.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b2353bc2-18b5-4658-bb23-7256a4784996",
+            "id": "http://data.europa.eu/88u/distribution/159f8767-c4ea-4a25-b24a-3b0e3201e5a7",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -81,10 +81,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/cens_01nanac",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/cens_01nact_esms.sdmx.zip",
             "created": null,
             "tracking_summary": null,
-            "name": "More information on Eurostat Website",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/e7bdc804-18f7-4592-8924-659d7bb043b4",
+            "id": "http://data.europa.eu/88u/document/bc556dca-e5f7-4101-89f8-2c97ee99a826",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f8a99f61-c687-4332-966c-6fd6f2dbad70",
+            "id": "http://data.europa.eu/88u/document/fc3b14bf-830c-412d-b895-0679979fb7c2",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -123,10 +123,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/cens_01nact_esms.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/cens_01nanac",
             "created": null,
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "name": "More information on Eurostat Website",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/66d825cf-c595-4e3b-a723-ca3915c75de3",
+            "id": "http://data.europa.eu/88u/document/268e3adc-7090-45d3-b6dc-53e22ee58c10",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2001-01-01",
+    "temporal_coverage_to": "2001",
     "num_tags": null,
-    "views_total": "187",
     "id": "DkkyQboeY7otQ8Rs8GwQMQ",
     "metadata_created": "2015-10-16 10:54:44.278144",
     "modified_date": "2009-03-26",
@@ -170,17 +169,16 @@
     "num_resources": 3,
     "description": "Employed persons aged 15 and over by sex, age group, citizenship and economic activity (NACE Rev.1)",
     "title": "Employed persons aged 15 and over by sex, age group, citizenship and economic activity (NACE Rev.1)",
-    "temporal_coverage_from": "2001-01-01",
-    "tracking_summary": "187",
+    "temporal_coverage_from": "2001",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

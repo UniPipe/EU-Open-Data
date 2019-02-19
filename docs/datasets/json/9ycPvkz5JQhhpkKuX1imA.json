@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T09:07:26",
+    "metadata_modified": "2019-02-15T07:47:58",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -14,9 +14,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/trng_lfs_09.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/trng_lfs_09.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/67411df9-4a33-42ec-9506-b2765980ffd2",
+            "id": "http://data.europa.eu/88u/distribution/cf85a535-01f8-4a14-bf59-07bfbfc277d3",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2f66c685-b30e-4357-8d42-3c6494182eb1",
+            "id": "http://data.europa.eu/88u/distribution/57a4d38d-5a55-4857-b377-1213952949ed",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -56,9 +56,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/trng_lfs_09.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/trng_lfs_09.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/89c10f91-620d-4a5d-b555-0c740562e099",
+            "id": "http://data.europa.eu/88u/distribution/862272d5-5ebf-40b4-9bb5-caf5511ae88f",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/87ef0ffd-f41f-4bde-91f9-8ed6298bdd61",
+            "id": "http://data.europa.eu/88u/document/74c064a9-ee62-41cc-9a55-6ce91371e6ac",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c5a21312-c10b-46cb-9611-4f6b228e3af4",
+            "id": "http://data.europa.eu/88u/document/f2a96045-eaf6-4fc3-abb8-c4a1a28a4cb4",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/bf39df85-35e9-42ed-a7e1-a326f2f228a2",
+            "id": "http://data.europa.eu/88u/document/a9a387da-c718-47e6-9145-a942acde774d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "312",
     "id": "9ycPvkz5JQhhpkKuX1imA",
     "metadata_created": "2015-10-16 11:46:07.292787",
     "modified_date": "2019-01-15",
@@ -169,7 +168,6 @@
     "description": "Participation rate in education and training (last 4 weeks) by type, sex and age",
     "title": "Participation rate in education and training (last 4 weeks) by type, sex and age",
     "temporal_coverage_from": "2004-01-01",
-    "tracking_summary": "312",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

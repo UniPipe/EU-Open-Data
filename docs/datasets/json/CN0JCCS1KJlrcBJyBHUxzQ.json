@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:49:45",
+    "metadata_modified": "2019-02-15T08:30:48",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e110103f-f881-49dc-a4af-095dbe324a88",
+            "id": "http://data.europa.eu/88u/distribution/3f99ce06-8bc9-4f1f-91bf-ee6791b068e2",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/08a62923-f978-4d67-8971-268c982fa910",
+            "id": "http://data.europa.eu/88u/distribution/2a918e4b-7674-4a77-9668-7689ed76081a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,9 +69,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b51ab429-8503-41b7-a2fa-eba37e25da5f",
+            "id": "http://data.europa.eu/88u/distribution/891112dd-c095-4b73-ab5a-e83067d8cce9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/demo_fer_esms.sdmx.zip",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/96a630b0-129a-4a3d-94e6-be2aade7bd6f",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
         },
         {
             "mimetype": null,
@@ -90,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ed755d61-e091-4aa2-b3c1-c810f0122a31",
+            "id": "http://data.europa.eu/88u/document/48fcb00e-e6d5-44df-806a-a934993c5c10",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -111,28 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8beb4a2c-d10d-4530-9d2a-85168d56da90",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/demo_fer_esms.sdmx.zip",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/7c9b874f-550c-465e-80b8-48329f587c48",
+            "id": "http://data.europa.eu/88u/document/0e52811c-8f8a-4d5f-b8b6-15e157ec4b23",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -149,9 +149,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2016-01-01",
+    "temporal_coverage_to": "2016",
     "num_tags": null,
-    "views_total": "204",
     "id": "CN0JCCS1KJlrcBJyBHUxzQ",
     "metadata_created": "2015-10-16 12:13:49.855142",
     "modified_date": "2018-03-08",
@@ -168,17 +167,16 @@
     "num_resources": 3,
     "description": "Legally induced abortions by mother's age",
     "title": "Legally induced abortions by mother's age",
-    "temporal_coverage_from": "1960-01-01",
-    "tracking_summary": "204",
+    "temporal_coverage_from": "1960",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

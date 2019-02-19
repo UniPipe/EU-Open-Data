@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:48:49",
+    "metadata_modified": "2019-02-15T08:00:05",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/2908"
@@ -12,27 +12,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/cens_01ndpercons.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/18e0eaba-3515-48ff-8cb9-bf7f9817c498",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -50,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b8be1199-f74a-4b4e-869a-4d198b9ed999",
+            "id": "http://data.europa.eu/88u/distribution/b9350a18-5970-412a-bce3-c67797f7bbf7",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,30 +50,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ddf0c649-8419-43b0-9550-5bf4e16d65a1",
+            "id": "http://data.europa.eu/88u/distribution/4a25a85d-2b7a-4276-b85c-bdb6c4496145",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
             "mimetype": null,
-            "mimetype_inner": null,
+            "mimetype_inner": "",
             "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/cens_01ndws_esms.htm",
-            "created": null,
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/cens_01ndpercons.sdmx.zip",
+            "created": "",
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
             "url_type": null,
             "position": null,
-            "iframe_code": null,
+            "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b0b38aff-c809-46cd-a7f9-d9c1b3a58ed8",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
+            "id": "http://data.europa.eu/88u/distribution/26efb958-5d51-4fc6-976e-79d522309197",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
         },
         {
             "mimetype": null,
@@ -113,8 +92,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f7577f7b-8fe5-4550-8caa-ef45723ef6f5",
+            "id": "http://data.europa.eu/88u/document/4b0777da-397d-413d-ae21-08a62c028e3e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/cens_01ndws_esms.htm",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/85a2f3d9-c141-4c6f-a285-037e44e477bf",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
         {
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/07b06f23-19ae-414e-8f34-38de4f6c4b11",
+            "id": "http://data.europa.eu/88u/document/08fa0e29-0663-486d-983c-b18ec93399ff",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2001-01-01",
+    "temporal_coverage_to": "2001",
     "num_tags": null,
-    "views_total": "229",
     "id": "CnnoRIoTsyB7wEEIFjdag",
     "metadata_created": "2015-10-16 11:36:55.822246",
     "modified_date": "2015-07-09",
@@ -170,17 +169,16 @@
     "num_resources": 3,
     "description": "Owner-occupied dwellings by type and year of construction of the building",
     "title": "Owner-occupied dwellings by type and year of construction of the building",
-    "temporal_coverage_from": "2001-01-01",
-    "tracking_summary": "229",
+    "temporal_coverage_from": "2001",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

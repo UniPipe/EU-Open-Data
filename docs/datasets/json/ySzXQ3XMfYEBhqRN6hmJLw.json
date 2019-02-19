@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:59:17",
+    "metadata_modified": "2019-02-15T07:54:11",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -29,28 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/9ebde2c6-7ba3-481d-aaf2-af16f5fae765",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfso_04vahrhwus.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b9506541-b2a1-46be-8502-306c1943f92b",
+            "id": "http://data.europa.eu/88u/distribution/1ef2423b-ccf3-44f1-86c5-9f2dad06d408",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +50,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/45c76d0a-a523-48b3-8efe-f9969a27be91",
+            "id": "http://data.europa.eu/88u/distribution/07ad5102-26da-46ae-aa77-9a870237a4af",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfso_04vahrhwus.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/b6fdb20f-0717-4a42-a8a4-901f76f3fe13",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/96309a1a-6a73-45c6-a1d8-dafea99dd8e4",
+            "id": "http://data.europa.eu/88u/document/8134a75b-d5e0-4190-8642-79268034611c",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/71b6b68c-6672-48e8-8881-424ea5daf3b8",
+            "id": "http://data.europa.eu/88u/document/cd4a891b-9720-4a7d-bcc4-8f52bf140c25",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/73408613-35ee-439b-ab12-cf5297f3fa59",
+            "id": "http://data.europa.eu/88u/document/44980dcb-36c1-432b-ad8e-4b4ac82a45ce",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2004-01-01",
+    "temporal_coverage_to": "2004",
     "num_tags": null,
-    "views_total": "335",
     "id": "ySzXQ3XMfYEBhqRN6hmJLw",
     "metadata_created": "2015-10-16 12:36:02.976136",
     "modified_date": "2014-03-10",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Average usual working hours of employees, by possibility to work variable hours in the reference week, sex and age",
     "title": "Average usual working hours of employees, by possibility to work variable hours in the reference week, sex and age",
-    "temporal_coverage_from": "2004-01-01",
-    "tracking_summary": "335",
+    "temporal_coverage_from": "2004",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

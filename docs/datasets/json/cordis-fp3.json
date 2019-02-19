@@ -56,7 +56,7 @@
             "name": "FP3 Projects",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "1",
+            "download_total_resource": "2",
             "url_type": null,
             "position": null,
             "iframe_code": "",
@@ -77,7 +77,7 @@
             "name": "FP3 Organisations",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "1",
+            "download_total_resource": "2",
             "url_type": null,
             "position": null,
             "iframe_code": "",
@@ -143,7 +143,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "889",
     "id": "cordis-fp3",
     "metadata_created": "2016-07-14 06:59:30.655495",
     "modified_date": "2016-07-29 14:31:29.483931",
@@ -159,7 +158,6 @@
     "description": "This dataset contains all projects funded by the European Union under the third framework programme for research and technological development (FP3) from 1990 to 1994. \r\n\r\nThe file 'FP3 Projects' contains the public grant information for each project, including the following information: Record Control Number (RCN), project ID (grant agreement number), project acronym, project status, funding programme, topic, project title, project start date, project end date, project objective, project total cost, EC max contribution (commitment), call ID, funding scheme (type of action), coordinator, coordinator country, participants (ordered in a semi-colon separated list), participant countries (ordered in a semi-colon separated list).\r\n\r\nThe participating organisations are listed in the file 'FP3 Organisations' which includes: project Record Control Number (RCN), project ID, project acronym, organisation role, organisation ID, organisation name, organisation short name, organisation type, participation ended (true/false), EC contribution, organisation country.\r\n\r\n**The dataset has been updated to match the structure of more recent datasets - some fields may not be populated.**\r\n\r\nReference data (countries, funding schemes/types of action, subjects (SIC codes)) can be found in this dataset: https://data.europa.eu/euodp/en/data/dataset/cordisref-data",
     "title": "CORDIS - EU funded projects under FP3 (1990\u20131994)",
     "temporal_coverage_from": "",
-    "tracking_summary": "889",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"

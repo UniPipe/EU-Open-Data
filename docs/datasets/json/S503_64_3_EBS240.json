@@ -5,28 +5,28 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "prevention",
-            "name": "prevention"
-        },
-        {
-            "display_name": "aids",
-            "name": "aids"
-        },
-        {
-            "display_name": "polls",
-            "name": "polls"
+            "display_name": "surveys",
+            "name": "surveys"
         },
         {
             "display_name": "opinion",
             "name": "opinion"
         },
         {
-            "display_name": "surveys",
-            "name": "surveys"
-        },
-        {
             "display_name": "special",
             "name": "special"
+        },
+        {
+            "display_name": "polls",
+            "name": "polls"
+        },
+        {
+            "display_name": "prevention",
+            "name": "prevention"
+        },
+        {
+            "display_name": "aids",
+            "name": "aids"
         }
     ],
     "metadata_modified": "2019-02-06T15:18:37",
@@ -35,6 +35,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Volume: VolumesCEB643SANCOaidsxls20051223",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?D2A60630ADCC61A343CDFCCA506A33B1",
+            "created": "2014-12-11",
+            "tracking_summary": null,
+            "name": "Link to OP_VolumesCEB643SANCOaidsxls20051223.zip",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/72591b29-5491-4c72-b72a-450a73ec5734",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -79,27 +100,6 @@
         },
         {
             "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Volume: VolumesCEB643SANCOaidsxls20051223",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?D2A60630ADCC61A343CDFCCA506A33B1",
-            "created": "2014-12-11",
-            "tracking_summary": null,
-            "name": "Link to OP_VolumesCEB643SANCOaidsxls20051223.zip",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/72591b29-5491-4c72-b72a-450a73ec5734",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
             "mimetype_inner": null,
             "hash": "",
             "description": "",
@@ -126,31 +126,31 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
-        "http://publications.europa.eu/resource/authority/country/GBR",
-        "http://publications.europa.eu/resource/authority/country/PRT",
         "http://publications.europa.eu/resource/authority/country/SWE",
-        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/POL",
+        "http://publications.europa.eu/resource/authority/country/PRT",
         "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
         "http://publications.europa.eu/resource/authority/country/BEL",
         "http://publications.europa.eu/resource/authority/country/AUT",
         "http://publications.europa.eu/resource/authority/country/CZE",
         "http://publications.europa.eu/resource/authority/country/CYP",
         "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/DEU",
-        "http://publications.europa.eu/resource/authority/country/GRC",
         "http://publications.europa.eu/resource/authority/country/EST",
-        "http://publications.europa.eu/resource/authority/country/FIN",
         "http://publications.europa.eu/resource/authority/country/ESP",
-        "http://publications.europa.eu/resource/authority/country/HUN",
         "http://publications.europa.eu/resource/authority/country/FRA",
-        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/FIN",
+        "http://publications.europa.eu/resource/authority/country/GRC",
+        "http://publications.europa.eu/resource/authority/country/GBR",
         "http://publications.europa.eu/resource/authority/country/IRL",
-        "http://publications.europa.eu/resource/authority/country/LUX",
+        "http://publications.europa.eu/resource/authority/country/HUN",
         "http://publications.europa.eu/resource/authority/country/LTU",
-        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/ITA",
         "http://publications.europa.eu/resource/authority/country/LVA",
-        "http://publications.europa.eu/resource/authority/country/POL",
-        "http://publications.europa.eu/resource/authority/country/NLD"
+        "http://publications.europa.eu/resource/authority/country/LUX",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/MLT"
     ],
     "revision_id": null,
     "identifier": "S503_64_3_EBS240",
@@ -160,7 +160,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "239",
     "id": "S503_64_3_EBS240",
     "metadata_created": "2015-07-29 08:25:02.176559",
     "modified_date": "",
@@ -176,7 +175,6 @@
     "description": "Compared to the survey which was conducted in 2002, the geographical coverage of this new study has been, by definition, enlarged to the 10 new Member States. In addition the survey has also been expanded to the acceding and candidate countries and the non government controlled areas of Cyprus. The questionnaire used in the 2005 wave was slightly modified.\nThis report is divided into four parts:\n- The first part concerns the perception that citizens have about the ways people can catch HIV\n- The second part analyses whether people have changed their behaviour since the emergence and spread of AIDS\n- The third part deals with the efficiency of actual measures undertaken in the respondent\u2019s countries\n- Finally, the fourth part concentrates on the attitudes of a harmonisation of efforts within the European Union.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Special Eurobarometer 240: AIDS Prevention",
     "temporal_coverage_from": "",
-    "tracking_summary": "239",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

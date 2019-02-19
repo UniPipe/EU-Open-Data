@@ -4,36 +4,15 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:58:32",
+    "metadata_modified": "2019-02-15T07:47:15",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/5909",
-        "http://eurovoc.europa.eu/4470"
+        "http://eurovoc.europa.eu/4470",
+        "http://eurovoc.europa.eu/5909"
     ],
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_dem_sdvexa.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fdef606c-81f8-4927-bb7d-910a4dc125ce",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -51,7 +30,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2ae13afb-3628-40b8-b7d9-c3c51dbc918f",
+            "id": "http://data.europa.eu/88u/distribution/c77645cd-9a10-4c66-ac66-d09490672bc0",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_dem_sdvexa.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/e83f4600-77f8-4f18-84a0-4280eeec5ebc",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -72,7 +72,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d1f88aae-8bbf-4998-b13f-3d4e1bb22be7",
+            "id": "http://data.europa.eu/88u/distribution/952d38ce-f8b2-4da8-b92a-6a01e1a8272c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -93,7 +93,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/0c6fcc87-562b-4ebc-8ecf-97a620e2e38b",
+            "id": "http://data.europa.eu/88u/document/b760ea3d-127a-4e40-bbd9-631967526c6e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -114,7 +114,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/bad13910-df55-4c1e-9180-470d627929b6",
+            "id": "http://data.europa.eu/88u/document/089f849e-b573-4769-811d-89c282d6203d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -135,7 +135,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/755a601c-44d2-4d0b-90eb-f47ed3544823",
+            "id": "http://data.europa.eu/88u/document/2271f106-8e0f-4c38-a1ac-4fae0c922dc2",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -152,9 +152,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "211",
     "id": "8RFcZ4Qqkrnteeheg85pxw",
     "metadata_created": "2015-12-09 07:06:50.023623",
     "modified_date": "2018-12-18",
@@ -171,17 +170,16 @@
     "num_resources": 3,
     "description": "Expenditure on same-day visits - annual data",
     "title": "Expenditure on same-day visits - annual data",
-    "temporal_coverage_from": "2014-01-01",
-    "tracking_summary": "211",
+    "temporal_coverage_from": "2014",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         },
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

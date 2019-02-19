@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:24:04",
+    "metadata_modified": "2019-02-15T08:00:26",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1280"
@@ -12,27 +12,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_co_hosdaym.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/99cb4dc5-8a75-4b86-afc1-bf1255614f7d",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -50,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0c6cf390-f4db-4455-9723-ceae161ca848",
+            "id": "http://data.europa.eu/88u/distribution/2f84d03f-52b1-4a84-8559-2cd3a4a28b67",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +50,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f15d36dc-b1d6-403d-8bd5-c2a4423f6090",
+            "id": "http://data.europa.eu/88u/distribution/0891a736-7d07-466a-ba98-85a7bebe186e",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_co_hosdaym.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/05b2f0ed-7255-4c88-82fe-493ed6065646",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -81,10 +81,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/hlth_act_esms.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/hlth_act_esms.htm",
             "created": null,
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -92,8 +92,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/05ab3ad7-937b-4d37-96fd-bf508add1af1",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "id": "http://data.europa.eu/88u/document/10205c7f-5637-4972-8817-301da54fbf73",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
         {
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/1d81bcfd-3de2-4e5b-93c7-ca6405dc3d19",
+            "id": "http://data.europa.eu/88u/document/15882535-cd5c-461b-ba9d-900f51e7b755",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -123,10 +123,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/hlth_act_esms.htm",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/hlth_act_esms.sdmx.zip",
             "created": null,
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -134,8 +134,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/40777a4a-d2fc-4516-92ee-95a0682cbc0e",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "id": "http://data.europa.eu/88u/document/ca2fc045-7b8a-415d-b3ed-838d1a78d70d",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "191",
     "id": "cPD9MkxngNdahusm6tPMIg",
     "metadata_created": "2015-10-16 10:32:29.134680",
     "modified_date": "2018-10-25",
@@ -171,7 +170,6 @@
     "description": "Hospital days of in-patients by NUTS 2 regions - males",
     "title": "Hospital days of in-patients by NUTS 2 regions - males",
     "temporal_coverage_from": "1999-01-01",
-    "tracking_summary": "191",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

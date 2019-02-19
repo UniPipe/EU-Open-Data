@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:37:10",
+    "metadata_modified": "2019-02-15T08:30:56",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/6402"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4002ac23-e62c-4245-bf95-5283b08a4684",
+            "id": "http://data.europa.eu/88u/distribution/197d35f9-6ad5-41af-a1c5-94e6a7c64009",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a3fcef90-5216-4283-be46-42a27cae5b93",
+            "id": "http://data.europa.eu/88u/distribution/b2f0e463-0f3e-4cb0-b52f-c5bc8acb1fec",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,9 +71,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6822f7d7-30bd-48c8-bdf7-caed8245929d",
+            "id": "http://data.europa.eu/88u/distribution/05ad4ea0-4e79-4232-b8d9-f3d8f83cb110",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/env_nwat_esms.sdmx.zip",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/31f3bec3-dac6-4c10-ac77-266b3fe9328e",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
         },
         {
             "mimetype": null,
@@ -92,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f36bdcc0-a137-4aad-8e2e-96e993471ba9",
+            "id": "http://data.europa.eu/88u/document/e104f13c-9e01-4044-8d31-f2a5fc2d518f",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -113,28 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/209c4439-3682-4fa7-a0ff-3111622012b7",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/env_nwat_esms.sdmx.zip",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d98059c8-0285-431f-a0b3-546d36817b47",
+            "id": "http://data.europa.eu/88u/document/a92d2dca-2fe9-40eb-9b47-1791612358a4",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2015-01-01",
+    "temporal_coverage_to": "2015",
     "num_tags": null,
-    "views_total": "273",
     "id": "X4jYUWLsFzEXu38FRQ2ksw",
     "metadata_created": "2015-10-16 10:58:25.530558",
     "modified_date": "2018-04-09",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Water made available for use",
     "title": "Water made available for use",
-    "temporal_coverage_from": "1980-01-01",
-    "tracking_summary": "273",
+    "temporal_coverage_from": "1980",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"

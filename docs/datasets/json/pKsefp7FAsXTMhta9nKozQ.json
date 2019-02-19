@@ -9,15 +9,15 @@
             "name": "GVA"
         },
         {
-            "display_name": "Gross value added",
-            "name": "Gross value added"
-        },
-        {
             "display_name": "value added",
             "name": "value added"
+        },
+        {
+            "display_name": "Gross value added",
+            "name": "Gross value added"
         }
     ],
-    "metadata_modified": "2019-02-12T07:11:49",
+    "metadata_modified": "2019-02-15T09:04:08",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/56"
@@ -31,10 +31,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=teina424_r2",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=teina424_r2",
             "created": "",
             "tracking_summary": null,
-            "name": "Table",
+            "name": "Graph",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -42,8 +42,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fa834234-5b3b-41fc-90bf-3c3d2cbc4b38",
+            "id": "http://data.europa.eu/88u/distribution/19934cdd-3bb6-4169-9aa3-8d910d789b29",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina424_r2.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/1b0acc10-e4a5-41ce-9327-7aafe27f05cb",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -63,49 +84,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c42716ab-1b27-4738-a76e-2d9940f6c9b5",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina424_r2.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/22fbf467-b78c-4362-bf0f-c61f255bd315",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=teina424_r2",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Graph",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/37f9aeb8-4db6-4b8e-870b-0686937cdc76",
+            "id": "http://data.europa.eu/88u/distribution/6b2a11a8-e76d-4a17-bdbd-5b3dbc2dc75f",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -126,7 +105,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/40895538-eed1-4cc3-a917-bf478f2b55c3",
+            "id": "http://data.europa.eu/88u/distribution/af9f5966-1dd3-41c5-8ac4-28be88382eff",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -134,9 +113,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina424_r2.tsv.gz&unzip=true",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina424_r2.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -147,8 +126,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/19b5f3e1-d085-44b2-a787-544e1f5b809a",
+            "id": "http://data.europa.eu/88u/distribution/7ac30c80-62b8-4183-8c83-83d5990bd19a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=teina424_r2",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Table",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/2f9c34e2-2443-474e-bda5-e5ab694a9b89",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -168,7 +168,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8a63e2ba-7ae3-4a31-8812-f3f18948c094",
+            "id": "http://data.europa.eu/88u/document/78dc6fcf-b307-42a1-a194-fec7054cade3",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -189,7 +189,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c3cf3d76-b762-492d-8fec-c007880743d1",
+            "id": "http://data.europa.eu/88u/document/9e87c419-08bf-41d9-b382-30008d517607",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -210,7 +210,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/288d6ed8-aa7c-4cb0-b3ae-9e8a0293fc4f",
+            "id": "http://data.europa.eu/88u/document/91062af4-1cdb-4b09-a05e-e2bc114201f7",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -227,12 +227,11 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2018",
+    "temporal_coverage_to": "2018-01-01",
     "num_tags": null,
-    "views_total": "431",
     "id": "pKsefp7FAsXTMhta9nKozQ",
     "metadata_created": "2015-10-16 11:46:15.157052",
-    "modified_date": "2019-02-11",
+    "modified_date": "2019-02-14",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -246,14 +245,13 @@
     "num_resources": 6,
     "description": "Gross Value Added (GVA) (ESA 2010, 9.31) is defined as output value at basic prices less intermediate consumption valued at purchasers' prices. GVA is calculated before consumption of fixed capital. GVA is available in a breakdown by 10 main economic activities according to NACE Rev. 2 (Statistical classification of economic activities in the European Community). NACE J = Information and communication. The ESA 2010 (European System of Accounts) regulation may be referred to for more specific explanations on methodology.",
     "title": "Gross value added - NACE Rev. 2: J - current prices",
-    "temporal_coverage_from": "2016",
-    "tracking_summary": "431",
+    "temporal_coverage_from": "2016-01-01",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         }
     ],
     "relationships_as_subject": [],

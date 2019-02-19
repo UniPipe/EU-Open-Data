@@ -4,17 +4,38 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:23:15",
+    "metadata_modified": "2019-02-15T08:18:22",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/3659",
+        "http://eurovoc.europa.eu/4050",
         "http://eurovoc.europa.eu/1469",
         "http://eurovoc.europa.eu/83",
-        "http://eurovoc.europa.eu/4050"
+        "http://eurovoc.europa.eu/3659"
     ],
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ilc_pw04.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/da9f066f-36aa-4eb3-aea0-ab905b198075",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -32,7 +53,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/32c355e7-bed1-44a3-890f-b4c6df50df2d",
+            "id": "http://data.europa.eu/88u/distribution/340f14bf-cbd4-43be-85b7-3cb20be6420a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -53,28 +74,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7a8a20f0-2f4a-4a9e-aa8c-98325a7548c7",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ilc_pw04.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/12c31af4-27b8-47ca-8e26-07652523d01e",
+            "id": "http://data.europa.eu/88u/distribution/7d41c818-2119-4bb3-b4ff-289a9be546b0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -95,7 +95,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/bbadc94f-4cbc-4814-b63f-3f09341065bd",
+            "id": "http://data.europa.eu/88u/document/3a5a7b7b-feb4-47de-8098-86bcdd2e74c0",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -116,7 +116,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/bd10c4dd-6f1c-4a34-980e-765d4232aa11",
+            "id": "http://data.europa.eu/88u/document/bfde410a-5d8e-4bc4-860e-72eb4dd9d170",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -137,7 +137,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/4d3d038a-b42b-41de-b565-c1e303b3bf8e",
+            "id": "http://data.europa.eu/88u/document/cfeeb786-0f7f-46f0-a347-7c130e60dd09",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -154,9 +154,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2013-01-01",
+    "temporal_coverage_to": "2013",
     "num_tags": null,
-    "views_total": "342",
     "id": "Y0xe1wComygKWiqd5syz9Q",
     "metadata_created": "2015-10-16 12:56:25.134161",
     "modified_date": "2018-02-15",
@@ -173,17 +172,16 @@
     "num_resources": 3,
     "description": "Average rating of trust by domain, income quintile, household type and degree of urbanisation",
     "title": "Average rating of trust by domain, income quintile, household type and degree of urbanisation",
-    "temporal_coverage_from": "2013-01-01",
-    "tracking_summary": "342",
+    "temporal_coverage_from": "2013",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

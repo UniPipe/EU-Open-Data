@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:03:08",
+    "metadata_modified": "2019-02-15T08:44:24",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1018"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a8b21aa5-8ecb-4add-be47-76a47d5ca4f1",
+            "id": "http://data.europa.eu/88u/distribution/9159f751-6126-470d-8323-b7ce2d74335e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c0d8f869-71ee-4393-b0d1-afe0c30df054",
+            "id": "http://data.europa.eu/88u/distribution/99809223-2aeb-4c51-b385-20298f68a826",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,30 +71,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1703e259-37e9-444d-ac94-742e5b3d8a3b",
+            "id": "http://data.europa.eu/88u/distribution/92e73d9e-8610-4d94-ad13-0eb81a115bda",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/gov_10dd_ssfd",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/27e68435-d7c2-4507-8b52-31387c145cc6",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
         },
         {
             "mimetype": null,
@@ -113,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/3ff2f9f3-4341-490d-9538-2fd6c58fb740",
+            "id": "http://data.europa.eu/88u/document/96d4707c-be2b-49ca-bf07-58459727a2af",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,8 +113,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/951ddbc5-7129-4376-a156-b912ca66bef3",
+            "id": "http://data.europa.eu/88u/document/b6a01206-2608-4eac-881e-b63956747193",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/gov_10dd_ssfd",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/76ea8731-9210-4cc8-8df1-b732b00cdebc",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "163",
     "id": "goSi9fiHPQzHMoswQFAOg",
     "metadata_created": "2015-10-16 11:23:01.515774",
     "modified_date": "2018-06-22",
@@ -170,14 +169,13 @@
     "num_resources": 3,
     "description": "Social security funds debt",
     "title": "Social security funds debt",
-    "temporal_coverage_from": "2014-01-01",
-    "tracking_summary": "163",
+    "temporal_coverage_from": "2014",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
         }
     ],
     "relationships_as_subject": [],

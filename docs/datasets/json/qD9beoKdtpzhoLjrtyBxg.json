@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T11:11:30",
+    "metadata_modified": "2019-02-15T07:50:49",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4618"
@@ -12,6 +12,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/urb_cfermor.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/4a688ed2-2b40-4f06-ba61-54595eae8589",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -29,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5881bfee-ddf9-4443-82cc-9de1630d9176",
+            "id": "http://data.europa.eu/88u/distribution/89533461-ecb5-47a3-89bd-a3bd0ccd2fd6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,28 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/96ee36e9-7441-49e1-b533-25461dc8e936",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/urb_cfermor.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/03d3a072-16d9-4017-934e-25e2f5edbcd2",
+            "id": "http://data.europa.eu/88u/distribution/628bd5dc-6454-47c2-8a3c-15340085310c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -81,10 +81,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/urb_esms.htm",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/urb_cfermor",
             "created": null,
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "name": "More information on Eurostat Website",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -92,8 +92,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b1557f2a-2409-4b5d-8e12-30850665b729",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "id": "http://data.europa.eu/88u/document/92cd6ae0-e6b1-40b5-9819-29a6a3fb553e",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
         {
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ea7701fc-717a-49eb-9f6d-52ffc8b3e86d",
+            "id": "http://data.europa.eu/88u/document/fad1ad96-2ec5-4c14-a24d-e09e6f3ea705",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -123,10 +123,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/urb_cfermor",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/urb_esms.htm",
             "created": null,
             "tracking_summary": null,
-            "name": "More information on Eurostat Website",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -134,8 +134,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/7aa390f3-ecd4-426c-807b-cd6384988616",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "id": "http://data.europa.eu/88u/document/29698c3c-ac0b-4ece-9368-35278e4f4ac3",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
     ],
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2018-01-01",
     "num_tags": null,
-    "views_total": "495",
     "id": "qD9beoKdtpzhoLjrtyBxg",
     "metadata_created": "2015-10-16 10:00:40.086437",
     "modified_date": "2019-02-07",
@@ -171,7 +170,6 @@
     "description": "Fertility and mortality - cities and greater cities",
     "title": "Fertility and mortality - cities and greater cities",
     "temporal_coverage_from": "1990-01-01",
-    "tracking_summary": "495",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

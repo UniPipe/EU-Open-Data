@@ -17,7 +17,7 @@
             "name": "energie"
         }
     ],
-    "metadata_modified": "2019-02-08T08:36:09",
+    "metadata_modified": "2019-02-15T07:58:39",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/2632"
@@ -42,7 +42,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a2a9ce26-74f6-43c7-ba11-fd3901d040aa",
+            "id": "http://data.europa.eu/88u/distribution/3b0d3178-6997-4bfe-8a0d-0077fbd35229",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -63,7 +63,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/889adac3-b3a8-4106-91eb-ec3aef322b9a",
+            "id": "http://data.europa.eu/88u/distribution/905c2a25-6769-4f7d-9910-699844bb1502",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teicp290.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ec4db7ac-a7bf-47c0-a468-b4203295fa6f",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -84,7 +105,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ad3966a0-7d09-4efc-a75b-c9c0c1fea360",
+            "id": "http://data.europa.eu/88u/distribution/60242828-b902-4830-b37c-a694f52f4f5c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -105,7 +126,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e0724b47-3733-4960-a7a7-a6204abe9186",
+            "id": "http://data.europa.eu/88u/distribution/8ad09850-dd74-4d09-a758-bfc3f6ae9b29",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -126,30 +147,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/227165f3-2f5f-4221-8b70-417bc454fc23",
+            "id": "http://data.europa.eu/88u/distribution/9cc3cd8a-aeab-4504-a3e6-e924899e5648",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
             "mimetype": null,
-            "mimetype_inner": "",
+            "mimetype_inner": null,
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teicp290.sdmx.zip",
-            "created": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/ei_cp_esms.sdmx.zip",
+            "created": null,
             "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
             "url_type": null,
             "position": null,
-            "iframe_code": "",
+            "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c4d5afc7-b911-417d-9b8b-3d38473443be",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
+            "id": "http://data.europa.eu/88u/document/83c148e7-0a5f-4841-a33e-6e88674a29e3",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
         },
         {
             "mimetype": null,
@@ -168,7 +189,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/0851dd66-6321-47ba-9d4a-4e9bb5dfd49f",
+            "id": "http://data.europa.eu/88u/document/f8e520a3-979f-464e-932f-45a816e55ce3",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -189,28 +210,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9721db37-c399-486e-a695-e4b865e13b2a",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/ei_cp_esms.sdmx.zip",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/aaa2421f-e384-478f-81ae-7fc2c36b959a",
+            "id": "http://data.europa.eu/88u/document/88849e24-135e-4d1e-844a-8b6defe64ec6",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -229,7 +229,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2019-01-01",
     "num_tags": null,
-    "views_total": "576",
     "id": "yzcjkf5gCFnWt2uQqpNWg",
     "metadata_created": "2015-10-16 11:30:38.738470",
     "modified_date": "2019-02-01",
@@ -247,7 +246,6 @@
     "description": "Harmonised Indices of Consumer Prices (HICP) are designed for international comparisons of consumer price inflation. HICPs are used for the assessment of the inflation convergence criterion as required under Article 121 of the Treaty of Amsterdam and by the ECB for assessing price stability for monetary policy purposes. The ECB defines price stability on the basis of the annual rate of change of the euro area HICP. HICPs are compiled on the basis of harmonised standards, binding for all Member States. Conceptually, the HICP are Laspeyres-type price indices and are computed as annual chain-indices allowing for weights changing each year. The common classification for Harmonized Indices of Consumer Prices is the COICOP (Classification Of Individual COnsumption by Purpose). A version of this classification (COICOP/HICP) has been specially adapted for the HICP. Sub-indices published by Eurostat are based on this classification. HICP are produced and published using a common index reference period (2015 = 100). Growth rates are calculated from published index levels. Indexes, as well as both growth rates with respect to the previous month (M/M-1) and with respect to the corresponding month of the previous year (M/M-12) are neither calendar nor seasonally adjusted.",
     "title": "HICP - non-energy industrial goods",
     "temporal_coverage_from": "2018-02-01",
-    "tracking_summary": "576",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"

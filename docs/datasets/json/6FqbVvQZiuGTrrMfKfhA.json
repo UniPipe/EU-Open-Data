@@ -7,10 +7,10 @@
     "metadata_modified": "2019-02-15T08:22:48",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/4050",
+        "http://eurovoc.europa.eu/3659",
         "http://eurovoc.europa.eu/1469",
         "http://eurovoc.europa.eu/83",
-        "http://eurovoc.europa.eu/3659"
+        "http://eurovoc.europa.eu/4050"
     ],
     "license_id": null,
     "type": "dataset",
@@ -40,27 +40,6 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tus_00alone.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4f6ecf41-a318-4265-9f70-1312e4720cbf",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
             "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
             "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tus_00alone.sdmx.zip",
@@ -80,14 +59,35 @@
         },
         {
             "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tus_00alone.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/4f6ecf41-a318-4265-9f70-1312e4720cbf",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
             "mimetype_inner": null,
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/tus_esms.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tus_00alone",
             "created": null,
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "name": "More information on Eurostat Website",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -95,7 +95,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/699c2bb1-cd36-4011-bcf1-6809e8c04978",
+            "id": "http://data.europa.eu/88u/document/72940c36-1400-4d00-b53b-7f49d30ad8fb",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -126,10 +126,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tus_00alone",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/tus_esms.sdmx.zip",
             "created": null,
             "tracking_summary": null,
-            "name": "More information on Eurostat Website",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -137,7 +137,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/72940c36-1400-4d00-b53b-7f49d30ad8fb",
+            "id": "http://data.europa.eu/88u/document/699c2bb1-cd36-4011-bcf1-6809e8c04978",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -154,9 +154,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2010",
+    "temporal_coverage_to": "2010-01-01",
     "num_tags": null,
-    "views_total": "151",
     "id": "6FqbVvQZiuGTrrMfKfhA",
     "metadata_created": "2016-05-03 10:06:52.459852",
     "modified_date": "2018-03-20",
@@ -173,17 +172,16 @@
     "num_resources": 3,
     "description": "Time spent alone",
     "title": "Time spent alone",
-    "temporal_coverage_from": "2000",
-    "tracking_summary": "151",
+    "temporal_coverage_from": "2000-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         }
     ],
     "relationships_as_subject": [],

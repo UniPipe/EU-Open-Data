@@ -101,7 +101,7 @@
             "name": "1. Sparql Endpoint access",
             "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
             "last_modified": "",
-            "download_total_resource": "229",
+            "download_total_resource": "235",
             "url_type": null,
             "position": null,
             "iframe_code": "",
@@ -122,7 +122,7 @@
             "name": "2. Linked data query wizard",
             "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
             "last_modified": "",
-            "download_total_resource": "144",
+            "download_total_resource": "146",
             "url_type": null,
             "position": null,
             "iframe_code": "",
@@ -259,7 +259,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "1244",
     "id": "sparql-cellar-of-the-publications-office",
     "metadata_created": "2016-11-21 16:36:51.186060",
     "modified_date": "2018-08-17 09:54:17.072920",
@@ -277,7 +276,6 @@
     "description": "Key collections of EU information \u2013 legal content and general publications \u2013 can be fetched directly from the Publications Office\u2019s  common repository of metadata and content, the CELLAR, using the machine-readable SPARQL endpoint facility or the HTTP RESTful web services. CELLAR is powered by semantic technology and enables direct access to information stored as Linked Data. \r\n\r\nThe CELLAR provides also an RSS feed in order to allow reusers to receive information about new documents that have been loaded into the repository or updates of existing data. \r\n\r\nThe EU Law and Publications portal (https://publications.europa.eu) allows end users to access these collections either through the easy to use Linked Data wizard or via the Flint SPARQL editor (https://publications.europa.eu/en/advanced-sparql-query-editor).\r\n",
     "title": "Sparql and RESTful API access to European Union law and publications (CELLAR)",
     "temporal_coverage_from": "",
-    "tracking_summary": "1244",
     "groups": [
         {
             "name": "sparql-endpoints"

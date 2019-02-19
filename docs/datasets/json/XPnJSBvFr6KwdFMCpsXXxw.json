@@ -4,33 +4,12 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:40:48",
+    "metadata_modified": "2019-02-15T08:16:01",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_fini06.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2a9d8380-2dcc-44f3-b061-719500ad96e4",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -48,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/af2a06fa-1442-40d2-b15e-8b54521ec882",
+            "id": "http://data.europa.eu/88u/distribution/93e78dac-416c-4b84-bf89-4cd46bfbe342",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,7 +48,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/af25664d-23e2-4260-a76a-aab7c80b877c",
+            "id": "http://data.europa.eu/88u/distribution/44350900-9ec8-4226-9cbd-292ffd027616",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_fini06.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/fd23f1b7-dee8-41dc-a39b-dd0914f97828",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/4902f4c2-dd62-4d16-ab58-b4f92485db58",
+            "id": "http://data.europa.eu/88u/document/5995e3d0-81c7-47ba-b22a-2e3d409a7dc1",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/5cc02469-87eb-446b-a716-34949889716b",
+            "id": "http://data.europa.eu/88u/document/7845047e-28f0-4b12-8d4d-10cb8cd799c6",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/92c7519a-815c-40ce-b74a-6244ac0f6b42",
+            "id": "http://data.europa.eu/88u/document/90ba9f53-d82b-44d8-887e-3e8029e4bb34",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -149,9 +149,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2015-01-01",
+    "temporal_coverage_to": "2015",
     "num_tags": null,
-    "views_total": "412",
     "id": "XPnJSBvFr6KwdFMCpsXXxw",
     "metadata_created": "2016-05-04 05:58:15.680743",
     "modified_date": "2018-09-18",
@@ -168,17 +167,16 @@
     "num_resources": 3,
     "description": "Ratio of annual expenditure per student at the tertiary level and primary level of education, in public educational institutions",
     "title": "Ratio of annual expenditure per student at the tertiary level and primary level of education, in public educational institutions",
-    "temporal_coverage_from": "2012-01-01",
-    "tracking_summary": "412",
+    "temporal_coverage_from": "2012",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:59:15",
+    "metadata_modified": "2019-02-15T07:43:59",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -14,9 +14,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/edat_lfse_27.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/edat_lfse_27.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ce9edf90-9602-4fa1-bffa-c8188b76e210",
+            "id": "http://data.europa.eu/88u/distribution/82323b6a-e016-469e-b66a-75d17c2b0dad",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4b10c479-a179-42d8-9759-54942af55a40",
+            "id": "http://data.europa.eu/88u/distribution/af870796-b5dd-4f48-9cc5-9de3c4059a7b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -56,9 +56,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/edat_lfse_27.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/edat_lfse_27.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/aca2157e-11b0-46ce-9e86-2070296a3e49",
+            "id": "http://data.europa.eu/88u/distribution/bb1992a1-79e5-4578-8697-cd81923d680e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/877b3a1b-9090-49ed-a70e-9bb1774f9298",
+            "id": "http://data.europa.eu/88u/document/c142f6d8-109d-4f45-a434-3955cdeb2044",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/711ea842-74ab-4183-95b9-4a76538e5d0d",
+            "id": "http://data.europa.eu/88u/document/e709575f-baf2-4a3b-8855-d887464c319b",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8b9bfc06-8d46-4043-af70-c92a0befe36c",
+            "id": "http://data.europa.eu/88u/document/acc8f474-ae57-4664-be94-92af247cf521",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -149,9 +149,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "209",
     "id": "ggcdYNMPgzJQg8r0OPFWeQ",
     "metadata_created": "2015-10-16 12:36:21.768114",
     "modified_date": "2019-01-14",
@@ -168,17 +167,16 @@
     "num_resources": 3,
     "description": "Inactivity rates of young people not in education and training by sex, educational attainment level and years since completion of highest level of education",
     "title": "Inactivity rates of young people not in education and training by sex, educational attainment level and years since completion of highest level of education",
-    "temporal_coverage_from": "2000-01-01",
-    "tracking_summary": "209",
+    "temporal_coverage_from": "2000",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

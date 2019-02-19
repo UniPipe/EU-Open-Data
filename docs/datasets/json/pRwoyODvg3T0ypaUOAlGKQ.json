@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:41:05",
+    "metadata_modified": "2019-02-15T08:49:11",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1280"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_dm060.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_dm060.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/803a7092-b291-4414-a374-ecb8a49bf237",
+            "id": "http://data.europa.eu/88u/distribution/589dbd8e-3f8b-4790-bda8-bbee1994602e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/56b189ef-ff41-4b29-b9a8-b4793a86a27f",
+            "id": "http://data.europa.eu/88u/distribution/3763c69e-cdd4-47e2-83d6-8707ae568e81",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_dm060.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_dm060.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2cb2e6c2-f068-413e-bc1d-9aab2aaf2163",
+            "id": "http://data.europa.eu/88u/distribution/f0976791-cd28-4f71-babe-42689233ef5a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6a4cc247-d740-4494-855c-ff7dbc9278c4",
+            "id": "http://data.europa.eu/88u/document/72758933-612a-459b-bbc9-f2fa37a2fd81",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/e3ffca82-0cda-4a43-a6e2-ea862a45e57e",
+            "id": "http://data.europa.eu/88u/document/59e2813e-b6bf-44fb-97a4-0eb79b7c25ae",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/49c331d8-375d-4359-8fde-c3b4605a6042",
+            "id": "http://data.europa.eu/88u/document/5d6eb4ee-f153-4619-aae4-c0806d07c41d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "929",
     "id": "pRwoyODvg3T0ypaUOAlGKQ",
     "metadata_created": "2015-10-16 12:51:21.367974",
     "modified_date": "2018-06-15",
@@ -171,7 +170,6 @@
     "description": "Ability to make ends meet by level of activity limitation, sex and age",
     "title": "Ability to make ends meet by level of activity limitation, sex and age",
     "temporal_coverage_from": "2005-01-01",
-    "tracking_summary": "929",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

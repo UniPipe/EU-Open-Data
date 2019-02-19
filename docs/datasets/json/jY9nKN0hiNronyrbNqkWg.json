@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:53:54",
+    "metadata_modified": "2019-02-15T09:02:14",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4260"
@@ -12,27 +12,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/fish_ld_pt.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b2aab875-a5bb-4315-bdfe-bcf71532fbbe",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -50,7 +29,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f06d110f-c27c-4de3-976c-59c0bdd4d60e",
+            "id": "http://data.europa.eu/88u/distribution/e539fdba-7c4e-4e0f-a0d2-95f6a5362b17",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/fish_ld_pt.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/e6497e78-0ce0-4f27-8bba-07ce4d9c8f15",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/df1b0238-e75d-4ca1-b750-d06b33ad0221",
+            "id": "http://data.europa.eu/88u/distribution/6053cff9-477c-4ebd-a835-e30a6a928035",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9cafc32e-195f-4b27-8f37-a690b3fb1159",
+            "id": "http://data.europa.eu/88u/document/42f15873-20fb-4516-9172-e73d8d509cd7",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -111,7 +111,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "279",
     "id": "jY9nKN0hiNronyrbNqkWg",
     "metadata_created": "2015-10-16 12:14:46.132578",
     "modified_date": "2018-07-25",
@@ -129,7 +128,6 @@
     "description": "Landings of fishery products in Portugal",
     "title": "Landings of fishery products in Portugal",
     "temporal_coverage_from": "1992-01-01",
-    "tracking_summary": "279",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"

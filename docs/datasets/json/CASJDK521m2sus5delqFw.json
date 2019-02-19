@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:15:52",
+    "metadata_modified": "2019-02-15T08:48:12",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1018"
@@ -12,27 +12,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/gov_10dd_rmd.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/cf980399-b9f4-4d91-ac20-7888f6320c19",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -50,7 +29,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5500c83a-9a60-4151-a3a2-a62629b9f649",
+            "id": "http://data.europa.eu/88u/distribution/048114be-ea93-40c1-bb65-bb9e89291094",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/gov_10dd_rmd.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/670f577b-bccb-4e75-8cdb-753a23ad2af3",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6dca231a-9658-48d1-89bc-b8f4474ec336",
+            "id": "http://data.europa.eu/88u/distribution/ee3581ab-406e-468b-87e6-e7c99a69a035",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -81,10 +81,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/gov_10dd_sgd_esms.htm",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/gov_10dd_sgd_esms.sdmx.zip",
             "created": null,
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -92,8 +92,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b5f70440-574f-4a3a-ae20-f00d3cfbd0c0",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "id": "http://data.europa.eu/88u/document/dffcf132-57d9-4c84-9fd8-7294cf881633",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
         {
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/1fd13d1a-f4ca-4bc5-893f-7bb45904aa1e",
+            "id": "http://data.europa.eu/88u/document/0d1408c4-6c64-4c0c-a327-7846611cb665",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -123,10 +123,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/gov_10dd_sgd_esms.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/gov_10dd_sgd_esms.htm",
             "created": null,
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -134,8 +134,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/1d1436ad-aed7-4658-a1b2-02724e8ad1ee",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "id": "http://data.europa.eu/88u/document/92762df1-ad62-4cae-b654-a4b5674e3432",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
     ],
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "205",
     "id": "CASJDK521m2sus5delqFw",
     "metadata_created": "2016-06-21 09:47:01.060487",
     "modified_date": "2018-06-22",
@@ -171,7 +170,6 @@
     "description": "Average remaining maturity of general government gross debt",
     "title": "Average remaining maturity of general government gross debt",
     "temporal_coverage_from": "2014-01-01",
-    "tracking_summary": "205",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"

@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:00:15",
+    "metadata_modified": "2019-02-15T07:48:45",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1280"
@@ -12,27 +12,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_rs_bdsns.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ffbcdc49-ef37-4d92-ad4d-6ab400db0a64",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -45,12 +24,33 @@
             "name": "Default_Title",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "0",
+            "download_total_resource": "1",
             "url_type": null,
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/36ed3ef0-b2de-4625-9ac2-c5b87f4bd4da",
+            "id": "http://data.europa.eu/88u/distribution/87b28098-4437-49d4-aa8a-d7e35f36d8ba",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_rs_bdsns.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "1",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/fea9732f-ea67-402b-9f7a-df60166b0491",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/bf02f0e1-398b-4287-a149-0b00ac54a36b",
+            "id": "http://data.europa.eu/88u/distribution/1f76a27a-c744-42bb-95fc-1f298e003bfe",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/22dfaa86-297e-48e7-a09a-4b32efc96ab3",
+            "id": "http://data.europa.eu/88u/document/742ca530-e0b1-4462-bcd0-5ba52fd0af9a",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d0905f0e-5007-4b51-9736-e9549e484d45",
+            "id": "http://data.europa.eu/88u/document/58c9c7c0-b65f-4941-9f2e-7e21e5d3b166",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/aebf026a-d716-4443-9209-30f79cb3839d",
+            "id": "http://data.europa.eu/88u/document/39faab3d-26d7-42fa-8e92-9b3c51002e36",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "440",
     "id": "RRZI7eY3psPwbZfUtQEHQ",
     "metadata_created": "2015-10-16 10:25:56.427715",
     "modified_date": "2018-11-26",
@@ -171,7 +170,6 @@
     "description": "Long-term care beds in nursing and residential care facilities by NUTS 2 regions",
     "title": "Long-term care beds in nursing and residential care facilities by NUTS 2 regions",
     "temporal_coverage_from": "1993-01-01",
-    "tracking_summary": "440",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

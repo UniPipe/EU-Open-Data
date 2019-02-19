@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:23:02",
+    "metadata_modified": "2019-02-15T08:00:15",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/56"
@@ -29,28 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e37c4036-679c-4f38-bdaf-1a7f97a2a5cf",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nama_10r_3popgdp.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c12f41a5-7b5f-4008-9f85-7f718f3448d2",
+            "id": "http://data.europa.eu/88u/distribution/6fce05bd-a1f3-41e1-9444-93d1cc511e04",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,30 +50,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/23ce2a5a-f9ad-45ca-9f95-b3684c8682be",
+            "id": "http://data.europa.eu/88u/distribution/032214f4-ed86-4fd8-93ea-d49fb4c04f36",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
             "mimetype": null,
-            "mimetype_inner": null,
+            "mimetype_inner": "",
             "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/reg_eco10_esms.htm",
-            "created": null,
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nama_10r_3popgdp.sdmx.zip",
+            "created": "",
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
             "url_type": null,
             "position": null,
-            "iframe_code": null,
+            "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/18252f6e-6d9a-4134-98c6-f3a5240c38db",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
+            "id": "http://data.europa.eu/88u/distribution/1d6f8f5a-6aee-4b94-bd33-45166fb83ec4",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
         },
         {
             "mimetype": null,
@@ -113,8 +92,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9dc5cc0a-7a1f-4aa6-9cd2-3b40cd4bb0e9",
+            "id": "http://data.europa.eu/88u/document/8248976c-d349-497a-bac5-ab937e021247",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/reg_eco10_esms.htm",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/01bb2a11-2603-4b31-9fe1-26a236b06fdc",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
         {
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/53d30a38-1bf4-4b0d-bd58-4b954c7298bc",
+            "id": "http://data.europa.eu/88u/document/ebc2b8ef-597d-4dd6-8092-59b0798e5a28",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2016-01-01",
+    "temporal_coverage_to": "2016",
     "num_tags": null,
-    "views_total": "503",
     "id": "sMKWuZv7GswYQIwrEPLVQQ",
     "metadata_created": "2015-10-16 12:45:55.500663",
     "modified_date": "2018-10-01",
@@ -170,14 +169,13 @@
     "num_resources": 3,
     "description": "Average annual population to calculate regional GDP data (thousand persons) by NUTS 3 regions",
     "title": "Average annual population to calculate regional GDP data (thousand persons) by NUTS 3 regions",
-    "temporal_coverage_from": "2000-01-01",
-    "tracking_summary": "503",
+    "temporal_coverage_from": "2000",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
         }
     ],
     "relationships_as_subject": [],

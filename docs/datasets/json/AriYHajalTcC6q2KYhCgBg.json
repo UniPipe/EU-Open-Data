@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:35:22",
+    "metadata_modified": "2019-02-15T07:57:26",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4268"
@@ -29,28 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f878f334-6f18-43c9-89f1-9fad735bdf0b",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/met_ipr_da.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/683e722b-774c-4698-98a1-b48fca666d7c",
+            "id": "http://data.europa.eu/88u/distribution/50d0db6b-b9a8-4e29-a0f0-5ec1030c615d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +50,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/bfc096e1-a9e0-4c3f-907a-e29923a179a1",
+            "id": "http://data.europa.eu/88u/distribution/345b6def-8974-46a9-b88d-2506dbe8e5a6",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/met_ipr_da.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/23eb4a30-f467-4b7f-bfd1-1a977244abf6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6f036387-4fca-491a-9283-359786047832",
+            "id": "http://data.europa.eu/88u/document/6e4bf72a-cda4-4d1d-9539-d8c20922c0e5",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/126932d9-fd1f-44f5-8cf0-0a22f34286f7",
+            "id": "http://data.europa.eu/88u/document/9fd18bb0-0d60-4b2f-8c96-67169b87f5cb",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ca6e6e16-44eb-4780-9a1a-1e5f262380fd",
+            "id": "http://data.europa.eu/88u/document/dc4b57a0-999a-423b-aa17-881d514613bb",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2016",
+    "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "0",
     "id": "AriYHajalTcC6q2KYhCgBg",
     "metadata_created": "2017-11-17 09:50:16.502341",
     "modified_date": "2018-07-19",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Community design (CD) applications by metropolitan regions",
     "title": "Community design (CD) applications by metropolitan regions",
-    "temporal_coverage_from": "2003",
-    "tracking_summary": "0",
+    "temporal_coverage_from": "2003-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

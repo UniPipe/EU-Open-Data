@@ -5,16 +5,16 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "union",
-            "name": "union"
-        },
-        {
             "display_name": "european",
             "name": "european"
         },
         {
             "display_name": "opinion",
             "name": "opinion"
+        },
+        {
+            "display_name": "surveys",
+            "name": "surveys"
         },
         {
             "display_name": "citizenship",
@@ -29,8 +29,8 @@
             "name": "polls"
         },
         {
-            "display_name": "surveys",
-            "name": "surveys"
+            "display_name": "union",
+            "name": "union"
         }
     ],
     "metadata_modified": "2019-02-06T15:49:36",
@@ -64,27 +64,6 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Volume: Fl213_Volume_AA_Tables",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?316E5E72F7971ACF8FCF1CEA1E384504",
-            "created": "2015-01-16",
-            "tracking_summary": null,
-            "name": "Link to Fl213_Volume_AA_Tables.zip",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0eaebbc5-c12e-4476-907e-95830686243f",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
             "description": "Volume: Fl213_Volume_C_Tables",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
             "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?E0C8F3BDBE3CDBB01FAE6A9D99BAEE80",
@@ -99,6 +78,27 @@
             "iframe_code": "",
             "datastore_active": false,
             "id": "http://data.europa.eu/88u/distribution/8131abf4-522b-494a-aa0c-a7c15e5726d2",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Volume: Fl213_Volume_AA_Tables",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?316E5E72F7971ACF8FCF1CEA1E384504",
+            "created": "2015-01-16",
+            "tracking_summary": null,
+            "name": "Link to Fl213_Volume_AA_Tables.zip",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/0eaebbc5-c12e-4476-907e-95830686243f",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -130,33 +130,33 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
-        "http://publications.europa.eu/resource/authority/country/SVN",
         "http://publications.europa.eu/resource/authority/country/SVK",
-        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/NLD",
         "http://publications.europa.eu/resource/authority/country/POL",
         "http://publications.europa.eu/resource/authority/country/PRT",
         "http://publications.europa.eu/resource/authority/country/ROU",
-        "http://publications.europa.eu/resource/authority/country/SWE",
         "http://publications.europa.eu/resource/authority/country/BEL",
         "http://publications.europa.eu/resource/authority/country/AUT",
         "http://publications.europa.eu/resource/authority/country/CYP",
         "http://publications.europa.eu/resource/authority/country/BGR",
         "http://publications.europa.eu/resource/authority/country/DEU",
         "http://publications.europa.eu/resource/authority/country/CZE",
-        "http://publications.europa.eu/resource/authority/country/EST",
-        "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/ESP",
-        "http://publications.europa.eu/resource/authority/country/GRC",
-        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/FIN",
-        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
         "http://publications.europa.eu/resource/authority/country/HUN",
-        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/GRC",
         "http://publications.europa.eu/resource/authority/country/ITA",
-        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/IRL",
         "http://publications.europa.eu/resource/authority/country/LUX",
-        "http://publications.europa.eu/resource/authority/country/NLD",
-        "http://publications.europa.eu/resource/authority/country/MLT"
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/LVA"
     ],
     "revision_id": null,
     "identifier": "S543_213",
@@ -166,7 +166,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "286",
     "id": "S543_213",
     "metadata_created": "2015-02-03 06:02:29.879938",
     "modified_date": "",
@@ -182,7 +181,6 @@
     "description": "Eurobarometer survey on the citizenship of the Union and related rights to examine the awareness of the Europeans on this subject\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Flash Eurobarometer 213: European Union Citizenship",
     "temporal_coverage_from": "",
-    "tracking_summary": "286",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

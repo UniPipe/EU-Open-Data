@@ -4,33 +4,12 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:50:19",
+    "metadata_modified": "2019-02-15T07:42:40",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ipr_ta_cl.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0122b4dd-a3b7-45d7-b8ac-c6c74820f4be",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -48,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/672ac441-f378-441f-b857-4de225eecc46",
+            "id": "http://data.europa.eu/88u/distribution/dce794a8-2703-4685-9774-f5c2eb6b69a1",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,7 +48,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7f200382-93db-4870-abd0-d0b2f5678834",
+            "id": "http://data.europa.eu/88u/distribution/43e40593-d0d3-47cb-804f-076c9b75d2e4",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ipr_ta_cl.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/d2907d5b-4dbe-4cdf-a8eb-e621449f24ed",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/a05dd04d-1997-476a-85ba-a333c6d3eb5d",
+            "id": "http://data.europa.eu/88u/document/71b6229b-a7ba-41de-b824-6b2d2851dda7",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/01836e49-5260-4ebe-97b3-b4514b32ff35",
+            "id": "http://data.europa.eu/88u/document/33633474-e5ae-42cf-9afe-e790b15c2db2",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/524b6bb2-beea-48d6-abfd-663d997a04fb",
+            "id": "http://data.europa.eu/88u/document/a542d1eb-c7cb-43d2-b04a-aec1bebfa67c",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "318",
     "id": "KcVkL2rJAtGaI7o4R1Q",
     "metadata_created": "2015-10-16 11:53:02.611875",
     "modified_date": "2016-11-29",
@@ -169,7 +168,6 @@
     "description": "European Union trade mark (EUTM) applications by class (Nice classification)",
     "title": "European Union trade mark (EUTM) applications by class (Nice classification)",
     "temporal_coverage_from": "1996-01-01",
-    "tracking_summary": "318",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"

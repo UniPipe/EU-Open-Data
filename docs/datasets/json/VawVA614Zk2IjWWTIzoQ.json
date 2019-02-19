@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:38:45",
+    "metadata_modified": "2019-02-15T08:08:00",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/56"
@@ -18,10 +18,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tipspd16",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tipspd16",
             "created": "",
             "tracking_summary": null,
-            "name": "Graph",
+            "name": "Table",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a7fc9938-09b9-45f6-83b1-557f51ab3ad6",
+            "id": "http://data.europa.eu/88u/distribution/f01613f4-9de7-4973-9c2c-9436c97ec4c4",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/25bb9f19-971b-4799-afda-16b8aebeb2ff",
+            "id": "http://data.europa.eu/88u/distribution/51f38963-f230-420e-84e3-790dcc34e63c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -71,8 +71,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1e2acafa-72ba-4596-8d31-3d21e86bff94",
+            "id": "http://data.europa.eu/88u/distribution/2bebebb4-6611-4d81-849f-a100aedba989",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tipspd16",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Graph",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/8acb5947-ac7c-4014-899d-3a5ff800ea88",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -92,29 +113,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/54dc6ebe-185f-4028-8b5e-4383b8473b2a",
+            "id": "http://data.europa.eu/88u/distribution/eba44ccd-2857-488a-92c3-2fdc06640f33",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tipspd16",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Table",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ad3425fa-b133-4901-8830-4dc3ae24f20c",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -134,9 +134,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e3929de6-f3fc-4898-82be-b8b535bcb82f",
+            "id": "http://data.europa.eu/88u/distribution/e764e0b7-aab7-4232-ab7f-1db53554e8eb",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/tipspd_esms.sdmx.zip",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/d0d6e66c-876f-4afa-9ac2-572913b27193",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
         },
         {
             "mimetype": null,
@@ -155,7 +176,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/2418b955-37b3-4652-bd43-4c7f3835c690",
+            "id": "http://data.europa.eu/88u/document/bb5cbf78-9067-445c-9486-06da6db76409",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -176,28 +197,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/2eca0ffd-9ea6-414e-986e-3b2c1c9bacc6",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/tipspd_esms.sdmx.zip",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9b4ce868-7cab-428c-95e8-fc4c2794c0df",
+            "id": "http://data.europa.eu/88u/document/2dcec8b4-4a47-4764-8e22-191d1017f9c2",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -214,9 +214,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "319",
     "id": "VawVA614Zk2IjWWTIzoQ",
     "metadata_created": "2015-10-16 13:33:39.016228",
     "modified_date": "2019-02-05",
@@ -233,14 +232,13 @@
     "num_resources": 6,
     "description": "The table presents the stock of liabilities of loans (F.4) for the sectors Non-Financial corporations (S.11) and Households and Non-Profit institutions serving households (S.14_S.15). The debt securities are negotiable financial instruments serving as evidence of debt. Data are presented in non-consolidated terms, i.e. data take into account transactions within the same sector and expressed in million units of national currency. Definitions regarding sectors and instruments are based on the ESA 2010.",
     "title": "Private sector debt: loans by sectors, non-consolidated - million units of national currency",
-    "temporal_coverage_from": "1995-01-01",
-    "tracking_summary": "319",
+    "temporal_coverage_from": "1995",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
         }
     ],
     "relationships_as_subject": [],

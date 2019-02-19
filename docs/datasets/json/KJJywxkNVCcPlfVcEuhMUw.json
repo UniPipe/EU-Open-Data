@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:08:27",
+    "metadata_modified": "2019-02-15T08:04:25",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0030bc1d-9b8f-4734-89f2-51b4224627ac",
+            "id": "http://data.europa.eu/88u/distribution/a642478b-f5ad-42ee-a73c-714f95b26a94",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d87ce89d-7a2f-40d9-8be7-f2c13e070c56",
+            "id": "http://data.europa.eu/88u/distribution/b1288b7c-b8b9-4727-866b-dd3f823c5414",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d2d2ae83-2422-457a-90e8-581d068dd0f3",
+            "id": "http://data.europa.eu/88u/distribution/ac814db4-fe56-4cb1-8508-30c9eafebea8",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,28 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9c71edd0-4357-4e3c-83a5-c1a6280ae863",
+            "id": "http://data.europa.eu/88u/document/27c65e73-a48e-4cf7-bd63-7a270fd22d68",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/educ_uoe_fini03",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/8e62f4ae-664b-4513-8a57-5e36b8ce9aad",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,29 +132,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/7dae88db-b4a0-456d-b42c-f37ac8731267",
+            "id": "http://data.europa.eu/88u/document/6218d991-59c2-4453-9863-cdb3c82cda3c",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/educ_uoe_fini03",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9be3fc29-ee84-42a0-ae0b-f03aead12915",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -149,9 +149,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2015",
+    "temporal_coverage_to": "2015-01-01",
     "num_tags": null,
-    "views_total": "650",
     "id": "KJJywxkNVCcPlfVcEuhMUw",
     "metadata_created": "2016-05-04 05:57:13.750845",
     "modified_date": "2018-09-24",
@@ -168,17 +167,16 @@
     "num_resources": 3,
     "description": "Expenditure on educational institutions by education level and programme orientation",
     "title": "Expenditure on educational institutions by education level and programme orientation",
-    "temporal_coverage_from": "2012",
-    "tracking_summary": "650",
+    "temporal_coverage_from": "2012-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         }
     ],
     "relationships_as_subject": [],

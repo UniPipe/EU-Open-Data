@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:30:31",
+    "metadata_modified": "2019-02-15T08:22:08",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/5909",
@@ -30,7 +30,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7d08b287-cdea-4fc3-8928-8506af84c5a9",
+            "id": "http://data.europa.eu/88u/distribution/b930b241-e7ce-4dd8-9529-1834b7f5b996",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -51,7 +51,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/500d8b2c-8983-4a30-a27b-54148a3bc49c",
+            "id": "http://data.europa.eu/88u/distribution/34f1c161-0693-45b9-9f2d-11506c93280a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -72,30 +72,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/9487150c-d1ea-487d-b36e-bc7a76c0f312",
+            "id": "http://data.europa.eu/88u/distribution/09e06dfb-318f-4832-af01-efed6076ca9c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/a14dda76-2248-4c6a-a083-303af283765e",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
         },
         {
             "mimetype": null,
@@ -114,7 +93,28 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6aa47a56-e6e9-4b7e-8d76-49165ddc1a1c",
+            "id": "http://data.europa.eu/88u/document/c6f13723-e9ff-4322-8d81-87758da8134e",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/11c0c06b-7984-40c2-8d35-25aeec92c488",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -135,7 +135,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/61d3914a-2728-4ec1-bf4b-2240407305d4",
+            "id": "http://data.europa.eu/88u/document/c637b59a-d3c7-4afd-944e-5aa7ff04dc63",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
@@ -154,7 +154,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "381",
     "id": "xOPnUr40tj1jC2ETiZM4Ow",
     "metadata_created": "2015-10-16 09:58:35.603485",
     "modified_date": "2019-02-05",
@@ -172,7 +171,6 @@
     "description": "Number of trips by mode of transport",
     "title": "Number of trips by mode of transport",
     "temporal_coverage_from": "1994-01-01",
-    "tracking_summary": "381",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"

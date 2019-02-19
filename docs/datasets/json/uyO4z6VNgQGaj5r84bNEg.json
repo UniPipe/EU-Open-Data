@@ -4,17 +4,38 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:10:29",
+    "metadata_modified": "2019-02-18T08:35:24",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/3659",
+        "http://eurovoc.europa.eu/4050",
         "http://eurovoc.europa.eu/1469",
         "http://eurovoc.europa.eu/83",
-        "http://eurovoc.europa.eu/4050"
+        "http://eurovoc.europa.eu/3659"
     ],
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tessi163",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Table",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/dac32beb-24e2-4e6d-a486-68803db46198",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -32,7 +53,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0d685ccf-9917-4b87-bc9b-9e7a7b4b8e97",
+            "id": "http://data.europa.eu/88u/distribution/bec62df4-439d-4929-9a47-38c0e927ac17",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -53,28 +74,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/58aa919d-838d-4ca4-af69-b797d2ebbfba",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tessi163.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e26e2e93-a2a2-42f4-a139-71715774c43e",
+            "id": "http://data.europa.eu/88u/distribution/c37b751b-a45b-403c-b614-a83479b78aaf",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -95,8 +95,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f6537006-fd6a-40b7-9d06-6143e0ddb107",
+            "id": "http://data.europa.eu/88u/distribution/45b7fa5a-b2ee-422f-b192-779a71abf758",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tessi163.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/350088e4-7514-46af-8f0d-562f69b06dc4",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -116,29 +137,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/cfc566d8-e3e3-45cf-8b84-e9d1bff5874a",
+            "id": "http://data.europa.eu/88u/distribution/ba54b104-2179-4206-95cd-3ea36f77f1bd",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tessi163",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Table",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/183e3c95-bcbb-48f5-afeb-fdc4e8bf97f9",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -158,7 +158,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/4e5d1893-fb8c-4bcf-a27e-1961152236cd",
+            "id": "http://data.europa.eu/88u/document/fad3746c-9b93-43c7-97aa-547996725c9f",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -175,12 +175,11 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2018-01-01",
+    "temporal_coverage_to": "2018",
     "num_tags": null,
-    "views_total": "248",
     "id": "uyO4z6VNgQGaj5r84bNEg",
     "metadata_created": "2015-10-16 10:53:35.472831",
-    "modified_date": "2019-01-31",
+    "modified_date": "2019-02-15",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -194,17 +193,16 @@
     "num_resources": 6,
     "description": "This indicator is defined as the percentage of the population living in a household where the total housing costs (net of housing allowances) represent more than 40% of the total disposable household income (net of housing allowances) presented by poverty status.",
     "title": "Housing cost overburden rate by poverty status - EU-SILC survey",
-    "temporal_coverage_from": "2007-01-01",
-    "tracking_summary": "248",
+    "temporal_coverage_from": "2007",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

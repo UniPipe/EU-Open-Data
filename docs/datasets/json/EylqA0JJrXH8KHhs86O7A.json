@@ -5,10 +5,6 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "governement consumption",
-            "name": "governement consumption"
-        },
-        {
             "display_name": "Government final consumption expenditure",
             "name": "Government final consumption expenditure"
         },
@@ -19,9 +15,13 @@
         {
             "display_name": "governement expenditure",
             "name": "governement expenditure"
+        },
+        {
+            "display_name": "governement consumption",
+            "name": "governement consumption"
         }
     ],
-    "metadata_modified": "2019-02-12T07:12:07",
+    "metadata_modified": "2019-02-15T08:28:28",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/56"
@@ -29,27 +29,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=teina031",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Table",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b0e099f9-7af2-44dc-8e00-1efc367f85b1",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -67,49 +46,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1e979bd0-c6d3-416a-a60f-7ea8b5db4874",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina031.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6fe125dc-853a-4094-b19c-39d76e9e8753",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=teina031",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Graph",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4ce89b82-b657-422b-afad-4086707aae33",
+            "id": "http://data.europa.eu/88u/distribution/40e33360-60d6-45f2-bcc3-8332475f9ea5",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -130,7 +67,49 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2138a811-95f4-40d1-af3c-bf742b2a8304",
+            "id": "http://data.europa.eu/88u/distribution/c51a134d-0e68-4c91-af09-32c57c3d6f77",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=teina031",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Graph",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/235942da-24b2-480e-b89d-5564b0ce0f44",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina031.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/2cd13ff6-996e-4efa-9092-88859ed34160",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -151,8 +130,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1c619887-2bca-45ab-bf6b-fbd073eb79ed",
+            "id": "http://data.europa.eu/88u/distribution/5cdf9326-5efd-4722-b414-b126d26df9bd",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=teina031",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Table",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ab5cba39-9ad5-4eef-845b-bfa5ac147c44",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -172,7 +172,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f2bd5c71-6eab-4fad-af7e-bad03d9852ba",
+            "id": "http://data.europa.eu/88u/document/14296a80-2dc6-4d98-a198-e3d963ee0824",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -193,7 +193,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/2ac12546-1ac6-4ee1-8923-e277e7f515ef",
+            "id": "http://data.europa.eu/88u/document/ad78678d-8e71-441e-889f-de46c66c216e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -214,7 +214,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/0106c8a9-2214-418e-be91-daa53bf3e77e",
+            "id": "http://data.europa.eu/88u/document/0da7590b-1178-4de6-993d-886d2757355a",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -231,12 +231,11 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2018",
+    "temporal_coverage_to": "2018-01-01",
     "num_tags": null,
-    "views_total": "497",
     "id": "EylqA0JJrXH8KHhs86O7A",
     "metadata_created": "2015-10-16 10:20:28.370873",
-    "modified_date": "2019-02-11",
+    "modified_date": "2019-02-14",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -250,14 +249,13 @@
     "num_resources": 6,
     "description": "Government final consumption expenditure (ESA 2010, 3.98) includes two categories of expenditures: the value of goods and services produced by general government itself other than own-account capital formation, and purchases by general government of goods and services produced by market producers that are supplied to households - without any transformation - as social transfers in kind. Data are calculated as chain-linked volumes (i.e. data at previous year's prices, linked over the years via appropriate growth rates). Growth rates with respect to the previous quarter (Q/Q-1) are calculated from calendar and seasonally adjusted figures while growth rates with respect to the same quarter of the previous year (Q/Q-4) are calculated from raw data.",
     "title": "Government final consumption expenditure, volumes",
-    "temporal_coverage_from": "2016",
-    "tracking_summary": "497",
+    "temporal_coverage_from": "2016-01-01",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         }
     ],
     "relationships_as_subject": [],

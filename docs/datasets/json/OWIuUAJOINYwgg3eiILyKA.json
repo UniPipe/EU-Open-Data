@@ -21,7 +21,7 @@
             "name": "tax on income"
         }
     ],
-    "metadata_modified": "2019-02-08T08:19:37",
+    "metadata_modified": "2019-02-15T08:11:07",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1018"
@@ -35,10 +35,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tec00018",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tec00018",
             "created": "",
             "tracking_summary": null,
-            "name": "Graph",
+            "name": "Table",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -46,7 +46,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3bddde3a-f584-4641-8254-09d1b06acc33",
+            "id": "http://data.europa.eu/88u/distribution/596b4491-a1b3-4805-a0da-e9d48ffd2160",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -62,12 +62,12 @@
             "name": "Default_Title",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "1",
+            "download_total_resource": "0",
             "url_type": null,
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d746168e-71b5-4994-b0c7-e62081896052",
+            "id": "http://data.europa.eu/88u/distribution/8c504fc5-23d6-457a-b0a9-bc66dc349450",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -88,7 +88,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/9f9dd743-46a8-4479-9cf4-2409e6503883",
+            "id": "http://data.europa.eu/88u/distribution/89736b06-cdf7-496f-ab45-a8663461893d",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00018.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/c5e42a42-4314-4c4d-9ebe-6f3b78f3a6f4",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -98,10 +119,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tec00018",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tec00018",
             "created": "",
             "tracking_summary": null,
-            "name": "Table",
+            "name": "Graph",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -109,7 +130,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/dcb6c5cb-e723-4ae2-b3e3-57e77f906b09",
+            "id": "http://data.europa.eu/88u/distribution/2a8e7cbb-0eba-4c74-9f98-5e3905a5c60a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -130,29 +151,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/132ffae0-4e42-4963-8c6d-712f0fe8b171",
+            "id": "http://data.europa.eu/88u/distribution/cbc3ca2f-001b-440a-b904-b85dd92c6762",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00018.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f3084d44-c033-407c-b9d0-3c0b67d95f7a",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -172,7 +172,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/964e5027-3e56-4a66-bf74-d0618fcef68d",
+            "id": "http://data.europa.eu/88u/document/2a49c9e0-fddf-40c4-b20c-24c1c81c5731",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -191,7 +191,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "954",
     "id": "OWIuUAJOINYwgg3eiILyKA",
     "metadata_created": "2015-10-16 12:05:35.890210",
     "modified_date": "2019-01-21",
@@ -209,7 +208,6 @@
     "description": "Current taxes on income, wealth, etc. (ESA 2010 code D.5) cover all compulsory, unrequited payments, in cash or in kind, levied periodically by general government and by the rest of the world on the income and wealth of institutional units, and some periodic taxes which are assessed neither on that income nor that wealth. In ESA 2010, current taxes on income, wealth, etc. are divided into taxes on income and other current taxes.",
     "title": "Current taxes on income, wealth, etc.",
     "temporal_coverage_from": "2006-01-01",
-    "tracking_summary": "954",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"

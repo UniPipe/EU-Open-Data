@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:03:49",
+    "metadata_modified": "2019-02-15T08:32:32",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/89438743-3629-43d2-883c-f75bd9af87a7",
+            "id": "http://data.europa.eu/88u/distribution/2724675d-6c5b-430f-89d7-a2278910a4d2",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e18e5c70-f04c-4300-9ed1-094bcf11ca62",
+            "id": "http://data.europa.eu/88u/distribution/f1208ab7-d74d-47b8-a842-f21f7141c221",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/aaa3a01d-f032-4fe6-8585-a4585d150057",
+            "id": "http://data.europa.eu/88u/distribution/023c29eb-05a9-4f73-a7ea-f24d5edafa1e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -79,10 +79,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/trng_hour04n",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/trng_cvt_esms.sdmx.zip",
             "created": null,
             "tracking_summary": null,
-            "name": "More information on Eurostat Website",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/abae7674-47e7-4a8d-afc8-82e55552a5f2",
+            "id": "http://data.europa.eu/88u/document/5ca1c328-255e-4c22-b415-19904b978bdb",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/4207243b-8b17-42f3-b6d0-b3fd0a5c7006",
+            "id": "http://data.europa.eu/88u/document/6483d5c1-d488-489c-9cca-04093f20845a",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -121,10 +121,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/trng_cvt_esms.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/trng_hour04n",
             "created": null,
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "name": "More information on Eurostat Website",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9d915f4b-177a-4d6b-b2f1-0b8065392e27",
+            "id": "http://data.europa.eu/88u/document/667f4fb8-77a5-4db4-a402-3768a9237012",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -149,9 +149,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "1999-01-01",
+    "temporal_coverage_to": "1999",
     "num_tags": null,
-    "views_total": "184",
     "id": "MoWDT8W9axaeXhaR6X09w",
     "metadata_created": "2015-10-16 12:14:35.203357",
     "modified_date": "2009-03-26",
@@ -168,17 +167,16 @@
     "num_resources": 3,
     "description": "Percentage of the total hours in CVT courses, by field of training and NACE Rev. 1.1",
     "title": "Percentage of the total hours in CVT courses, by field of training and NACE Rev. 1.1",
-    "temporal_coverage_from": "1999-01-01",
-    "tracking_summary": "184",
+    "temporal_coverage_from": "1999",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

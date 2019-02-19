@@ -7,8 +7,8 @@
     "metadata_modified": "2019-02-15T09:00:03",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/4470",
-        "http://eurovoc.europa.eu/5909"
+        "http://eurovoc.europa.eu/5909",
+        "http://eurovoc.europa.eu/4470"
     ],
     "license_id": null,
     "type": "dataset",
@@ -38,27 +38,6 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_cap_nuts2.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f7d67f0b-3006-4e88-b79f-6e3cf3ea6282",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
             "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
             "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_cap_nuts2.sdmx.zip",
@@ -73,6 +52,27 @@
             "iframe_code": "",
             "datastore_active": false,
             "id": "http://data.europa.eu/88u/distribution/4d991447-bffa-4bb3-b784-6413058d5987",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_cap_nuts2.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/f7d67f0b-3006-4e88-b79f-6e3cf3ea6282",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -110,9 +110,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017",
+    "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "473",
     "id": "4lhuv8TdFDLhdynrZYzzg",
     "metadata_created": "2015-10-16 11:43:51.450942",
     "modified_date": "2019-01-21",
@@ -129,17 +128,16 @@
     "num_resources": 3,
     "description": "Number of establishments, bedrooms and bed-places by NUTS 2 regions",
     "title": "Number of establishments, bedrooms and bed-places by NUTS 2 regions",
-    "temporal_coverage_from": "1990",
-    "tracking_summary": "473",
+    "temporal_coverage_from": "1990-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

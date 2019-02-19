@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:47:51",
+    "metadata_modified": "2019-02-15T08:09:13",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -12,6 +12,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=teqges01",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Table",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/06b8f85a-ffc0-4b44-9580-e6f66dfa60d3",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -29,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6a99a312-7d2a-4dbf-acf4-a9998dd16b25",
+            "id": "http://data.europa.eu/88u/distribution/ad1759f4-9173-4c1c-9416-37c507941415",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -37,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
+            "description": "Download dataset in TSV format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teqges01.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teqges01.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -50,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c4f8cff4-741b-4a52-aa1b-e4c5818cd18c",
+            "id": "http://data.europa.eu/88u/distribution/a8ba1d83-7bd9-409f-be3e-6af7ac498ada",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +92,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/223677e8-3a98-489e-a02a-ddbc4b51d5e7",
+            "id": "http://data.europa.eu/88u/distribution/ebc7dce9-bf1d-4f1d-90b3-d3966c7d91ec",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -79,9 +100,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
+            "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teqges01.tsv.gz",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teqges01.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -92,29 +113,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a8f85ebd-2c8d-4284-87b8-b89861fc581a",
+            "id": "http://data.europa.eu/88u/distribution/1c183fbc-b946-4f3d-a9aa-bdf9a7f648f6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=teqges01",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Table",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0bc12eb6-c4f3-45ae-bbe3-f2dd06505f55",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7aa988d4-2529-4698-9caf-f38a3d9e1a82",
+            "id": "http://data.europa.eu/88u/distribution/de5113f9-c6cd-487d-a2c8-9d5cbb12c282",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -155,7 +155,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b85ddf03-4926-4e67-93f3-aded1af12aaf",
+            "id": "http://data.europa.eu/88u/document/47d4a01d-6c64-4a2f-a80b-f866534d6560",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -174,7 +174,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2014-01-01",
     "num_tags": null,
-    "views_total": "542",
     "id": "U1KdkwojXCrkSKYaccJuw",
     "metadata_created": "2015-10-29 11:29:54.970748",
     "modified_date": "2019-02-01",
@@ -192,7 +191,6 @@
     "description": "The gender overall earnings gap is a synthetic indicator. It measures the impact of the three combined factors, namely: (1) the average hourly earnings, (2) the monthly average of the number of hours paid (before any adjustment for part-time work) and (3) the employment rate, on the average earnings of all women of working age - whether employed or not employed - compared to men.",
     "title": "Gender overall earnings gap",
     "temporal_coverage_from": "2002-01-01",
-    "tracking_summary": "542",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

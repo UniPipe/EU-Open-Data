@@ -5,23 +5,23 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "water",
-            "name": "water"
+            "display_name": "public sector",
+            "name": "public sector"
         },
         {
             "display_name": "environmental statistics",
             "name": "environmental statistics"
         },
         {
-            "display_name": "public sector",
-            "name": "public sector"
-        },
-        {
             "display_name": "water supply",
             "name": "water supply"
+        },
+        {
+            "display_name": "water",
+            "name": "water"
         }
     ],
-    "metadata_modified": "2019-02-08T09:08:35",
+    "metadata_modified": "2019-02-15T08:10:11",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/6402"
@@ -46,28 +46,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c1a3af06-dcdc-4688-b6fe-7ac2cb455ba4",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=ten00013",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Map",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7f1f8cef-f36d-4c0e-8bde-defb2d88dabe",
+            "id": "http://data.europa.eu/88u/distribution/2f44d5db-15df-4246-a89d-d53a30efc2eb",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -88,7 +67,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/09723694-01a4-479a-beed-f976c669dcdf",
+            "id": "http://data.europa.eu/88u/distribution/b92f9636-49c8-4962-a5c8-8bd87efb1d27",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00013.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/1ace2eaf-0223-49c3-8758-f74459394c45",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -109,7 +109,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2520972a-c403-46a6-bef1-afcd5c4d178d",
+            "id": "http://data.europa.eu/88u/distribution/1229dbf6-832b-45ed-bd75-725156d12156",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -117,12 +117,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00013.sdmx.zip",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=ten00013",
             "created": "",
             "tracking_summary": null,
-            "name": "Default_Title",
+            "name": "Map",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -130,8 +130,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5cd35171-41e5-4173-88ec-532b3ea56384",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "id": "http://data.europa.eu/88u/distribution/87cacd94-ddf6-437e-8d38-6e745f8ec8e7",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -151,7 +151,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/631c100d-d597-4402-9c3c-fa96e7d0e58d",
+            "id": "http://data.europa.eu/88u/distribution/77a551e6-db26-48e7-8d63-acb5e8b893b9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -172,7 +172,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/4f66e138-02ff-4ee1-82f2-c7aecf5316b5",
+            "id": "http://data.europa.eu/88u/document/7fde1a58-242a-4d66-a1f5-19516269bf1c",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -189,9 +189,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2016",
+    "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "312",
     "id": "qd5guoXZGvl7LcZ205M2g",
     "metadata_created": "2015-10-16 11:41:18.917974",
     "modified_date": "2018-11-19",
@@ -208,8 +207,7 @@
     "num_resources": 6,
     "description": "Water supplied by economic units engaged in collection, purification and distribution of water (including desalting of sea water to produce water as the principal product of interest, and excluding system operation for agricultural purposes and treatment of waste water solely in order to prevent pollution). Deliveries of water from one public supply undertaking to another are excluded. The difference between the total water abstraction for the public water supply (cf. table ten00006) and the figures in this table represents the losses in the system, i.e. during purification, storage and distribution.",
     "title": "Water use from public water supply, by NACE Rev. 2 activity",
-    "temporal_coverage_from": "2005",
-    "tracking_summary": "312",
+    "temporal_coverage_from": "2005-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"

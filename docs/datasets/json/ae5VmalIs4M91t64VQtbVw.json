@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:35:57",
+    "metadata_modified": "2019-02-15T07:42:07",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4390"
@@ -12,27 +12,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ert_bil_eur_m.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4e597853-4ae6-4bbd-acd1-9d6302925fd2",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -50,7 +29,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1fbd869a-180f-4280-be91-e81bb322a33d",
+            "id": "http://data.europa.eu/88u/distribution/7ec427c1-1cf6-4fdb-9176-fc8bd02b592d",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ert_bil_eur_m.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/85a1f09d-ce26-4d36-8ad9-4ad61557073b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/dd6ae6a4-781e-4fb2-9808-002196f57e2f",
+            "id": "http://data.europa.eu/88u/distribution/e1690834-a4e6-487b-bf11-c26fe2050001",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/aec04f57-4264-4a70-b70c-00d507ffacd7",
+            "id": "http://data.europa.eu/88u/document/8b4e194c-c997-47a3-ae29-a0b1beb5c5f0",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/4366ec76-525f-4e16-bd15-2d62a99faf8e",
+            "id": "http://data.europa.eu/88u/document/8c44a011-38d1-4ebc-9d05-30abba4669d0",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/cc23d779-7ade-4a4e-a540-ed5b76cde5b2",
+            "id": "http://data.europa.eu/88u/document/a6cf3545-a94a-4d4c-8b64-72ec1c3f21ba",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2019-01-01",
     "num_tags": null,
-    "views_total": "657",
     "id": "ae5VmalIs4M91t64VQtbVw",
     "metadata_created": "2015-10-16 12:23:52.635844",
     "modified_date": "2019-02-01",
@@ -171,7 +170,6 @@
     "description": "Euro/ECU exchange rates - monthly data",
     "title": "Euro/ECU exchange rates - monthly data",
     "temporal_coverage_from": "1971-01-01",
-    "tracking_summary": "657",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"

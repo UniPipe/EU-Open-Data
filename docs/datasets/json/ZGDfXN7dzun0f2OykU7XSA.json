@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:44:40",
+    "metadata_modified": "2019-02-15T08:24:23",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4260",
@@ -32,7 +32,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/975d78ef-1c7e-4a65-9344-68bef6c65097",
+            "id": "http://data.europa.eu/88u/distribution/156d8bba-6711-4824-a4bc-43af00058c28",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -53,7 +53,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f1586c00-73d5-41f1-870f-2559c3889ddd",
+            "id": "http://data.europa.eu/88u/distribution/443d37d0-2ce6-4481-b252-236d75daa2e0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -74,30 +74,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/89a83bfe-503a-48f0-bcdd-b2b865366df9",
+            "id": "http://data.europa.eu/88u/distribution/b7d50855-4c67-4c1a-b467-e1536d75d002",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/aei_fm_usefert",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/bbc41780-aba2-479b-86e7-4bbd53de0d80",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
         },
         {
             "mimetype": null,
@@ -116,8 +95,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/727cf891-254d-4581-8ba9-1ffd7413dc2c",
+            "id": "http://data.europa.eu/88u/document/088e63e6-61f9-4801-8218-9ed19594d353",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/aei_fm_usefert",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/4bf47b34-356c-478c-a53b-3bffeafd985f",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
         {
@@ -137,7 +137,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/0795ed73-b871-4449-a178-a6e70d17d288",
+            "id": "http://data.europa.eu/88u/document/082ac558-869a-4a65-8c0d-92acf15821d5",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -156,10 +156,9 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "356",
     "id": "ZGDfXN7dzun0f2OykU7XSA",
     "metadata_created": "2015-10-16 10:23:20.637091",
-    "modified_date": "2019-01-28",
+    "modified_date": "2019-02-12",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -174,7 +173,6 @@
     "description": "Consumption of inorganic fertilizers",
     "title": "Consumption of inorganic fertilizers",
     "temporal_coverage_from": "2000-01-01",
-    "tracking_summary": "356",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"

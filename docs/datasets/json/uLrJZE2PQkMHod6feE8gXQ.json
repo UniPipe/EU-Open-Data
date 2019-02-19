@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:37:25",
+    "metadata_modified": "2019-02-15T07:44:32",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -14,9 +14,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
+            "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/aact_eaa01.tsv.gz",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/aact_eaa01.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c03aa365-635d-4da4-8f99-e3ee172826e3",
+            "id": "http://data.europa.eu/88u/distribution/90e93c42-4826-4937-ab46-4e086de23ec0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c5e4701a-fe8d-4331-a97f-e415b0d5d8a0",
+            "id": "http://data.europa.eu/88u/distribution/4efb8076-1a50-44c0-b662-0bf1ead87816",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -56,9 +56,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
+            "description": "Download dataset in TSV format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/aact_eaa01.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/aact_eaa01.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d220201d-2e33-4293-992f-a4c3a852950c",
+            "id": "http://data.europa.eu/88u/distribution/35c9b492-d19f-41c0-b713-996206f309ff",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/735ff054-09d7-4a83-8053-74d2f2440359",
+            "id": "http://data.europa.eu/88u/document/5069fe1c-b3d1-437f-bed4-9661d04ad967",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/db938444-bebd-4e82-9d44-2628e9b021c1",
+            "id": "http://data.europa.eu/88u/document/a1fe3e92-5149-46f2-9850-df045185a5ee",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/249e6b4f-eacf-4b58-9bc6-8f8cd7f0375a",
+            "id": "http://data.europa.eu/88u/document/ab2c8a83-7355-48d6-af56-ac147e5cb352",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2018-01-01",
     "num_tags": null,
-    "views_total": "457",
     "id": "uLrJZE2PQkMHod6feE8gXQ",
     "metadata_created": "2015-10-16 10:02:22.436893",
     "modified_date": "2018-12-14",
@@ -169,7 +168,6 @@
     "description": "Economic accounts for agriculture - values at current prices",
     "title": "Economic accounts for agriculture - values at current prices",
     "temporal_coverage_from": "1973-01-01",
-    "tracking_summary": "457",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"

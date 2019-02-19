@@ -4,9 +4,12 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:48:54",
+    "metadata_modified": "2019-02-15T08:20:09",
     "temporal_granularity": "",
-    "concepts_eurovoc": [],
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/4268",
+        "http://eurovoc.europa.eu/4259"
+    ],
     "license_id": null,
     "type": "dataset",
     "resources": [
@@ -27,7 +30,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2c87887a-9a0c-48e5-9bfb-3fa1555df21e",
+            "id": "http://data.europa.eu/88u/distribution/b7a7ea86-9070-431e-a58e-89a01708fe02",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +51,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a0e17311-e805-4d6f-aa12-9dfe25b63ebd",
+            "id": "http://data.europa.eu/88u/distribution/8e15fc81-ca7d-4f79-8372-432c09c7581d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,10 +61,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tgs00096",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tgs00096",
             "created": "",
             "tracking_summary": null,
-            "name": "Graph",
+            "name": "Table",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -69,7 +72,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/18481adc-5027-441c-8629-c6e6274ce8c4",
+            "id": "http://data.europa.eu/88u/distribution/234abaca-f164-4721-8568-a77ff8d10601",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -90,7 +93,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a790103e-c7d7-49cd-8be8-54af150555da",
+            "id": "http://data.europa.eu/88u/distribution/68913afa-c89e-4812-a457-bd5ea18b7794",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -100,10 +103,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tgs00096",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tgs00096",
             "created": "",
             "tracking_summary": null,
-            "name": "Table",
+            "name": "Graph",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -111,7 +114,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/676e9275-8205-4ee7-a1b6-bb0a945da533",
+            "id": "http://data.europa.eu/88u/distribution/0b3bcb84-4d4f-49b2-afde-3b96308e5859",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -132,7 +135,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/71cff682-f0f4-4b59-a128-a958d175f94d",
+            "id": "http://data.europa.eu/88u/distribution/2e75c47e-a299-460b-9e37-a05328f15580",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -153,7 +156,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/077a55ff-864b-4b9d-b9ad-5b6f21d88c8e",
+            "id": "http://data.europa.eu/88u/document/6a8772d8-77e7-4b8b-a417-e6dec0b52dc7",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -174,7 +177,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/a48c759d-63b0-4736-af1a-f43894ead87c",
+            "id": "http://data.europa.eu/88u/document/799af5a8-17d0-46d1-a437-ad5b0fe09c52",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -195,7 +198,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/0cd64780-050f-4cd8-99f5-d27f12fdf113",
+            "id": "http://data.europa.eu/88u/document/759167b2-4e13-46c2-9bdd-e0b22c9bbbc7",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
@@ -214,7 +217,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "277",
     "id": "caXROD4EYvyjUQBMQ8vqA",
     "metadata_created": "2015-10-16 11:12:46.146512",
     "modified_date": "2018-12-17",
@@ -232,7 +234,6 @@
     "description": "The number of persons having their usual residence in a given area (NUTS 2 region) on 1 January. When usually resident population is not available, countries may report legal or registered residents.",
     "title": "Population on 1 January by NUTS 2 region",
     "temporal_coverage_from": "2006-01-01",
-    "tracking_summary": "277",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

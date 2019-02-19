@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T11:11:19",
+    "metadata_modified": "2019-02-15T08:35:16",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4618"
@@ -24,12 +24,12 @@
             "name": "Default_Title",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "1",
+            "download_total_resource": "0",
             "url_type": null,
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6009d8d5-53e4-421b-afac-7a8525a44444",
+            "id": "http://data.europa.eu/88u/distribution/dc03dd27-317f-45e8-b587-41a041f7fb16",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/14f3b901-b19a-4232-8239-6c92cdabb886",
+            "id": "http://data.europa.eu/88u/distribution/c18e79c6-3b49-486a-a78b-d159c09059ef",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,30 +71,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f9e061d5-2b5b-4345-b02b-fa53830ac97e",
+            "id": "http://data.europa.eu/88u/distribution/a1fc78f5-4cce-4672-b74d-92232e406da6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/urb_ctran",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/13f56fed-aa6f-4622-88d5-213e0fd219e2",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
         },
         {
             "mimetype": null,
@@ -113,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f3280a69-c3d4-4d68-968d-c32c480d3b60",
+            "id": "http://data.europa.eu/88u/document/0276edf5-3729-45df-84ac-7a79f1a5474f",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,8 +113,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/efe7bd4f-9d92-49a2-829a-8158b0cc0a8b",
+            "id": "http://data.europa.eu/88u/document/57d3552c-34e0-43e1-a0b7-a79405837b3e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/urb_ctran",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/74a935b7-1ca6-4fbc-9335-c37b1d85b0e3",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2018-01-01",
     "num_tags": null,
-    "views_total": "607",
     "id": "ZQss57DLVaIyu1NSpxmM2g",
     "metadata_created": "2015-10-16 12:33:05.829435",
     "modified_date": "2019-02-07",
@@ -171,7 +170,6 @@
     "description": "Transport - cities and greater cities",
     "title": "Transport - cities and greater cities",
     "temporal_coverage_from": "1990-01-01",
-    "tracking_summary": "607",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

@@ -5,27 +5,27 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "defence budget",
-            "name": "defence budget"
-        },
-        {
             "display_name": "budget appropriation",
             "name": "budget appropriation"
         },
         {
-            "display_name": "military research",
-            "name": "military research"
+            "display_name": "research and development",
+            "name": "research and development"
+        },
+        {
+            "display_name": "defence budget",
+            "name": "defence budget"
         },
         {
             "display_name": "government",
             "name": "government"
         },
         {
-            "display_name": "research and development",
-            "name": "research and development"
+            "display_name": "military research",
+            "name": "military research"
         }
     ],
-    "metadata_modified": "2019-02-08T07:43:34",
+    "metadata_modified": "2019-02-15T07:37:31",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/2914"
@@ -39,10 +39,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tsc00008",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tsc00008",
             "created": "",
             "tracking_summary": null,
-            "name": "Graph",
+            "name": "Table",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -50,29 +50,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e969a609-ab53-4237-bb50-b172dbbf416a",
+            "id": "http://data.europa.eu/88u/distribution/6d062bc5-4da1-48e1-8934-4df6058c2fe0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00008.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6b23f23a-ef0e-4890-8f86-35b521170b17",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -92,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f3940cb6-d914-4b08-86a4-682242d1a818",
+            "id": "http://data.europa.eu/88u/distribution/17220c5f-039c-4d64-a691-161098d87b94",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -113,7 +92,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/310385df-f0be-49ec-b879-b040497a4c41",
+            "id": "http://data.europa.eu/88u/distribution/5a645a1b-bfc7-44b2-a3ec-410a2fa68817",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -123,10 +102,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tsc00008",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tsc00008",
             "created": "",
             "tracking_summary": null,
-            "name": "Table",
+            "name": "Graph",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -134,8 +113,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/68981d2e-9b5f-4271-be35-7fe9da963a83",
+            "id": "http://data.europa.eu/88u/distribution/22ed21f4-3f81-4962-b178-1f69ddc981e9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00008.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/71293dc6-7029-4696-b00a-1432d256062b",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -155,7 +155,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0a04699e-69ae-458e-9f9f-494253129620",
+            "id": "http://data.europa.eu/88u/distribution/d0b1abb8-4b31-4c41-bd24-5e6adc433a37",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -176,7 +176,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9bfc8688-298f-4e5d-aa1c-78b8828328bd",
+            "id": "http://data.europa.eu/88u/document/685d0ca9-58e8-4f88-8148-76801d4ab305",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -197,7 +197,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d3b33c1b-8ec2-4848-a17d-c99b8fdd41e4",
+            "id": "http://data.europa.eu/88u/document/f991a8ca-b804-480e-9cd2-e7644dc25b6a",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -218,7 +218,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ca31daa9-5060-4ece-805d-2ff822a2a040",
+            "id": "http://data.europa.eu/88u/document/48ae49fc-7fe5-4fbd-9628-21f5e07da2a9",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -235,9 +235,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2018-01-01",
+    "temporal_coverage_to": "2018",
     "num_tags": null,
-    "views_total": "562",
     "id": "BYN0X1PKGFtvzKmzJn0EA",
     "metadata_created": "2015-10-16 12:51:34.710713",
     "modified_date": "2019-01-29",
@@ -254,8 +253,7 @@
     "num_resources": 6,
     "description": "Data on Government Budget Appropriations or Outlays on Research and Development (GBAORD) refer to budget provisions, not to actual expenditure, i.e. GBAORD measures government support for R&D using data collected from budgets. This table shows the shares of GBAORD allocated to the socio-economic objectives defence and total civil R&D.",
     "title": "Share of GBAORD allocated to defence and total civil socio-economic objectives",
-    "temporal_coverage_from": "2007-01-01",
-    "tracking_summary": "562",
+    "temporal_coverage_from": "2007",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"

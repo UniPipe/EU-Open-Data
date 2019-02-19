@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:37:20",
+    "metadata_modified": "2019-02-15T08:33:40",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -12,27 +12,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lc_n04cost.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/286ad773-2282-480e-99c5-ddd18d5325eb",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -50,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/50513381-a848-4e87-8a33-924cc351fd9c",
+            "id": "http://data.europa.eu/88u/distribution/fb824b8c-4577-4bad-a34e-8dd85f5eec18",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +50,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/688cd185-7310-4616-9e67-f5f1f7ec40b5",
+            "id": "http://data.europa.eu/88u/distribution/5011172f-b306-4916-ab34-6c80a6d663aa",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lc_n04cost.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ac807b38-6647-41c1-b839-405d98b7dae3",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f3f33068-7bdc-4873-83de-91d64bb3b0e3",
+            "id": "http://data.europa.eu/88u/document/b07211e3-b28e-4ad2-9dd2-f058c4d3f7c0",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -109,9 +109,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2004",
+    "temporal_coverage_to": "2004-01-01",
     "num_tags": null,
-    "views_total": "128",
     "id": "W7bkAERmLn5Q1uUZIiM4hQ",
     "metadata_created": "2015-10-16 10:30:51.094289",
     "modified_date": "2015-03-05",
@@ -128,8 +127,7 @@
     "num_resources": 3,
     "description": "Labour cost, wages and salaries, direct remuneration by NACE Rev. 1.1 activity - LCS survey 2004",
     "title": "Labour cost, wages and salaries, direct remuneration by NACE Rev. 1.1 activity - LCS survey 2004",
-    "temporal_coverage_from": "2004",
-    "tracking_summary": "128",
+    "temporal_coverage_from": "2004-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

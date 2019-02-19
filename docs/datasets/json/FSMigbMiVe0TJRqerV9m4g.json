@@ -9,7 +9,7 @@
             "name": "food supply"
         }
     ],
-    "metadata_modified": "2019-02-12T07:09:50",
+    "metadata_modified": "2019-02-18T08:45:24",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/2632"
@@ -17,6 +17,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/prc_fsc_idx.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/15088675-99ae-4591-8883-3a5ac1e58f76",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -34,7 +55,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/984901df-2a78-44a8-a8e9-c1c20bc448ca",
+            "id": "http://data.europa.eu/88u/distribution/ff0dbabb-098a-46b5-89ca-6cb6b68b9709",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -55,30 +76,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/874e1cea-8970-4085-a80a-2cab85d5a3e4",
+            "id": "http://data.europa.eu/88u/distribution/c791412b-9558-4228-8e6c-bfc5474f3e63",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
             "mimetype": null,
-            "mimetype_inner": "",
+            "mimetype_inner": null,
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/prc_fsc_idx.sdmx.zip",
-            "created": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/prc_fsc_idx",
+            "created": null,
             "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
             "url_type": null,
             "position": null,
-            "iframe_code": "",
+            "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/97db20da-9f29-430d-ae5a-c62ddccbf465",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
+            "id": "http://data.europa.eu/88u/document/4361116d-483e-4ddd-9aac-5e164b3b703c",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
         },
         {
             "mimetype": null,
@@ -97,7 +118,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9513a553-705b-4479-81e6-10a7642bf46e",
+            "id": "http://data.europa.eu/88u/document/8e23f31e-ecd1-456a-bb42-e910c2d72af3",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -118,29 +139,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/5ded6074-8280-4cd7-9e04-cd62ddae2d3a",
+            "id": "http://data.europa.eu/88u/document/f9e7d812-f46d-49cb-9f95-89798932e61d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/prc_fsc_idx",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/de700c02-b16e-42b9-af8f-5b0032566c8f",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -156,12 +156,11 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2019-01",
+    "temporal_coverage_to": "2019-01-01",
     "num_tags": null,
-    "views_total": "1278",
     "id": "FSMigbMiVe0TJRqerV9m4g",
     "metadata_created": "2015-10-16 12:08:50.335816",
-    "modified_date": "2019-02-11",
+    "modified_date": "2019-02-15",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -175,14 +174,13 @@
     "num_resources": 3,
     "description": "Food price monitoring tool",
     "title": "Food price monitoring tool",
-    "temporal_coverage_from": "2005-01",
-    "tracking_summary": "1278",
+    "temporal_coverage_from": "2005-01-01",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         }
     ],
     "relationships_as_subject": [],

@@ -5,24 +5,24 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "conference",
-            "name": "conference"
+            "display_name": "opinion",
+            "name": "opinion"
         },
         {
-            "display_name": "intergovernmental",
-            "name": "intergovernmental"
+            "display_name": "conference",
+            "name": "conference"
         },
         {
             "display_name": "polls",
             "name": "polls"
         },
         {
-            "display_name": "opinion",
-            "name": "opinion"
-        },
-        {
             "display_name": "surveys",
             "name": "surveys"
+        },
+        {
+            "display_name": "intergovernmental",
+            "name": "intergovernmental"
         },
         {
             "display_name": "flash",
@@ -35,6 +35,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Volume: VolB152",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?6E5643349F99555037B2DB14195B28E3",
+            "created": "2015-01-16",
+            "tracking_summary": null,
+            "name": "Link to VolB152.zip",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/e01c49d0-d9c4-49e3-86cd-9087d0c29037",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -100,27 +121,6 @@
         },
         {
             "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Volume: VolB152",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?6E5643349F99555037B2DB14195B28E3",
-            "created": "2015-01-16",
-            "tracking_summary": null,
-            "name": "Link to VolB152.zip",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e01c49d0-d9c4-49e3-86cd-9087d0c29037",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
             "mimetype_inner": null,
             "hash": "",
             "description": "",
@@ -147,21 +147,21 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
-        "http://publications.europa.eu/resource/authority/country/NLD",
         "http://publications.europa.eu/resource/authority/country/LUX",
-        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/ITA",
         "http://publications.europa.eu/resource/authority/country/PRT",
-        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/SWE",
         "http://publications.europa.eu/resource/authority/country/BEL",
         "http://publications.europa.eu/resource/authority/country/AUT",
         "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/DEU",
-        "http://publications.europa.eu/resource/authority/country/ESP",
-        "http://publications.europa.eu/resource/authority/country/GRC",
-        "http://publications.europa.eu/resource/authority/country/FRA",
         "http://publications.europa.eu/resource/authority/country/FIN",
-        "http://publications.europa.eu/resource/authority/country/ITA",
-        "http://publications.europa.eu/resource/authority/country/IRL"
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/GRC"
     ],
     "revision_id": null,
     "identifier": "S382_152",
@@ -171,7 +171,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "191",
     "id": "S382_152",
     "metadata_created": "2015-02-03 05:59:58.361387",
     "modified_date": "",
@@ -187,7 +186,6 @@
     "description": "Survey citizens of the European Union on topics connected with the review of Institutions and with the adoption of a new European Constitution, including the issue of the number of European Commissioners and the decision-making processes within the European Union;\nAssess the opinion of respondents on a likely referendum to adopt a new European Constitution.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Flash Eurobarometer 152: Intergovernmental conference",
     "temporal_coverage_from": "",
-    "tracking_summary": "191",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

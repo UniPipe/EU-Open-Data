@@ -5,22 +5,6 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "quality",
-            "name": "quality"
-        },
-        {
-            "display_name": "price",
-            "name": "price"
-        },
-        {
-            "display_name": "general",
-            "name": "general"
-        },
-        {
-            "display_name": "services",
-            "name": "services"
-        },
-        {
             "display_name": "opinion",
             "name": "opinion"
         },
@@ -29,8 +13,12 @@
             "name": "interest"
         },
         {
-            "display_name": "special",
-            "name": "special"
+            "display_name": "services",
+            "name": "services"
+        },
+        {
+            "display_name": "general",
+            "name": "general"
         },
         {
             "display_name": "polls",
@@ -39,6 +27,18 @@
         {
             "display_name": "surveys",
             "name": "surveys"
+        },
+        {
+            "display_name": "quality",
+            "name": "quality"
+        },
+        {
+            "display_name": "special",
+            "name": "special"
+        },
+        {
+            "display_name": "price",
+            "name": "price"
         }
     ],
     "metadata_modified": "2019-02-06T15:20:00",
@@ -51,27 +51,6 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Volume: VolumeCEB631PRESScomplet",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?86CBCAD629FE4B9D85B671A59CCA7281",
-            "created": "2015-01-27",
-            "tracking_summary": null,
-            "name": "Link to VolumeCEB631PRESScomplet.zip",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0815ab0b-f2ef-4030-b2e0-25d241bada45",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
             "description": "Volume: VolumeBEB631MARKTsgi20050125",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
             "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?514A6327512FEE84C4FC9AD16AA18240",
@@ -80,7 +59,7 @@
             "name": "Link to OP_VolumeBEB631MARKTsgi20050125.zip",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "0",
+            "download_total_resource": "1",
             "url_type": null,
             "position": null,
             "iframe_code": "",
@@ -101,12 +80,33 @@
             "name": "Link to OP_VolumeAEB631MARKTsgi20050124.zip",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "0",
+            "download_total_resource": "1",
             "url_type": null,
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
             "id": "http://data.europa.eu/88u/distribution/f1e775c9-62ee-43ed-9fec-b29f2933d44d",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Volume: VolumeCEB631PRESScomplet",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?86CBCAD629FE4B9D85B671A59CCA7281",
+            "created": "2015-01-27",
+            "tracking_summary": null,
+            "name": "Link to VolumeCEB631PRESScomplet.zip",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/0815ab0b-f2ef-4030-b2e0-25d241bada45",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -146,8 +146,8 @@
         "http://publications.europa.eu/resource/authority/country/LTU",
         "http://publications.europa.eu/resource/authority/country/POL",
         "http://publications.europa.eu/resource/authority/country/MLT",
-        "http://publications.europa.eu/resource/authority/country/SVK",
-        "http://publications.europa.eu/resource/authority/country/SVN"
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SVK"
     ],
     "revision_id": null,
     "identifier": "S500_63_1_EBS226",
@@ -157,7 +157,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "0",
     "id": "S500_63_1_EBS226",
     "metadata_created": "2015-07-29 08:24:48.022496",
     "modified_date": "",
@@ -173,7 +172,6 @@
     "description": "DG MARKT has commissioned a Special Survey on this subject in the 10 New European Union Member States.\nThe interviews were carried out between 3 January and 15 February 2005 as part of the Eurobarometer 63.1.\nThis report will focus on 8 services of general interest:\n- Electricity\n- Natural gas\n- Fixed telephony\n- Mobile telephony\n- Postal services for regular mail such as letters, postcards or packages\n- Local transport (Trams, Buses, Metro...)\n- Rail transport\n- Air transport\n\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Special Eurobarometer 226: Price and quality of services of general interest",
     "temporal_coverage_from": "",
-    "tracking_summary": "0",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

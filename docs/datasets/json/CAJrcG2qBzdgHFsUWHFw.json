@@ -4,10 +4,10 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:57:51",
+    "metadata_modified": "2019-02-15T08:28:38",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/4268"
+        "http://eurovoc.europa.eu/1280"
     ],
     "license_id": null,
     "type": "dataset",
@@ -29,28 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d463ea94-37cd-49dc-b918-d900356c4a7d",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00202.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/170f4194-7e36-46f5-8b4e-36e6b8587b3f",
+            "id": "http://data.europa.eu/88u/distribution/21bf1481-1919-409c-b573-1d73f3258c4b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/95838573-cd70-44c6-8dc0-6f89a4507803",
+            "id": "http://data.europa.eu/88u/distribution/cae069c2-cd9c-4bbf-aeac-1124ee4b70cc",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -92,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c5b1fa2e-1068-4976-93e0-32d9fbb3e612",
+            "id": "http://data.europa.eu/88u/distribution/eec90ff7-4927-476e-8827-444740a4eafb",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -113,7 +92,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3f3c4a42-ad03-4132-a7ce-2ea4a653fa14",
+            "id": "http://data.europa.eu/88u/distribution/f33c9547-bc9d-40b5-a424-c38d2304f894",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00202.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/35136846-e8de-484f-b78a-0d98d642400e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/15a666cf-94b4-467d-ad0c-1afdc8f74abd",
+            "id": "http://data.europa.eu/88u/distribution/6dc34b20-549f-493c-8991-53d2be454529",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -155,7 +155,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/31d9f4f9-3bee-49a9-9b2a-6c5f0f954666",
+            "id": "http://data.europa.eu/88u/document/c392ac1b-a277-4c61-b9a1-36c77a405da7",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -174,7 +174,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2015-01-01",
     "num_tags": null,
-    "views_total": "29",
     "id": "CAJrcG2qBzdgHFsUWHFw",
     "metadata_created": "2017-11-29 06:45:37.710600",
     "modified_date": "2018-11-23",
@@ -192,19 +191,15 @@
     "description": "This indicator is defined as the crude death rate from suicide and intentional self-harm per 100 000 people, by age group. Figures should be interpreted with care as suicide registration methods vary between countries and over time. Moreover, the figures do not include deaths from events of undetermined intent (part of which should be considered as suicides) and attempted suicides which did not result in death.",
     "title": "Suicide death rate by age group",
     "temporal_coverage_from": "2011-01-01",
-    "tracking_summary": "29",
     "groups": [
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+        },
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
-        },
-        {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
-        },
-        {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         }
     ],
     "relationships_as_subject": [],

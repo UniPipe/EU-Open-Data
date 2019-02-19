@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:53:27",
+    "metadata_modified": "2019-02-15T08:35:45",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/6402"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/93ef2f6b-c95d-4af8-a0b1-65da0ec47de4",
+            "id": "http://data.europa.eu/88u/distribution/bf746a6e-b484-4eb3-ad08-31740b5b7b40",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d19319dc-6c82-43e4-a120-c43297cc88d0",
+            "id": "http://data.europa.eu/88u/distribution/1f029b4d-ff12-4246-a71f-4cf6c680b04a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/172ce4ea-7818-442c-b523-c41aa5e80315",
+            "id": "http://data.europa.eu/88u/distribution/014d7a5a-e286-4596-b284-824595e5d375",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,28 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/46ea159e-af2b-482a-bd14-e7dd21224d55",
+            "id": "http://data.europa.eu/88u/document/25deee98-4dfe-4c7b-9810-a06c13b37869",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/env_wastrt",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/599c3fbf-b935-430b-a654-ce434a197db2",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,29 +134,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/de4c4460-4dbf-4ccd-a112-b63e05406c82",
+            "id": "http://data.europa.eu/88u/document/a9e24b88-9417-4023-ada9-cef50ff5959e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/env_wastrt",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/93cc3311-201f-423a-9b8f-c1325d161995",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "374",
     "id": "8bxb7vuNmKpY3c2MnoElw",
     "metadata_created": "2015-10-16 13:08:26.096498",
     "modified_date": "2019-01-25",
@@ -171,7 +170,6 @@
     "description": "Treatment of waste by waste category, hazardousness and waste management operations",
     "title": "Treatment of waste by waste category, hazardousness and waste management operations",
     "temporal_coverage_from": "2004-01-01",
-    "tracking_summary": "374",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"

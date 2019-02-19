@@ -4,57 +4,15 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T09:09:19",
+    "metadata_modified": "2019-02-15T07:44:49",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/4470",
-        "http://eurovoc.europa.eu/5909"
+        "http://eurovoc.europa.eu/5909",
+        "http://eurovoc.europa.eu/4470"
     ],
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tin00181",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Table",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2860b1ba-8c80-4e1c-8b17-2623eeb6b5c8",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tin00181",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Map",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3052daaf-86ed-46b3-bb74-27522cb801f1",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -67,12 +25,12 @@
             "name": "Default_Title",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "0",
+            "download_total_resource": "1",
             "url_type": null,
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/540ac53d-7d40-4a77-bc8a-01e21697148d",
+            "id": "http://data.europa.eu/88u/distribution/62639abc-42ff-4677-91f4-5c0f32953374",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -93,7 +51,49 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d6c4ed50-0df9-45c7-bb65-d3ed4bdf65c0",
+            "id": "http://data.europa.eu/88u/distribution/b85f2819-d132-445a-b474-ad888024ec9b",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tin00181",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Map",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ecb2d6dd-07f9-4862-899a-acf89c433950",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tin00181",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Table",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/e4a92ffa-1dd1-484f-8113-62e15002883b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -114,7 +114,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2f69f9c1-9882-487a-8e8b-a5e0357c5fcd",
+            "id": "http://data.europa.eu/88u/distribution/4526c333-1959-41d3-adec-f80a5cf35d31",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -135,7 +135,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f915ccd7-3534-4b26-b722-ac0278461657",
+            "id": "http://data.europa.eu/88u/distribution/604fce0e-6f95-484f-a5cf-0519ea23b531",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -156,7 +156,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/520acf8c-a9c7-4ad6-bb89-76355993c16e",
+            "id": "http://data.europa.eu/88u/document/e3014079-4246-4c58-9cf9-6951e320a05b",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -173,9 +173,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017",
+    "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "379",
     "id": "96czw63dlmnEyi5fAP6T6g",
     "metadata_created": "2015-10-16 13:14:49.174429",
     "modified_date": "2019-01-21",
@@ -192,17 +191,16 @@
     "num_resources": 6,
     "description": "A tourist accommodation establishment is defined as any facility that regularly or occasionally provides short-term accommodation for tourists as a paid service (although the price might be partially or fully subsidised). Data is reported at the level of a local kind-of-activity unit. The number of bed places in a tourist accommodation establishment is determined by the number of persons who can stay overnight in the beds set up in the establishment, ignoring any extra beds that may be set up upon customer request. The term bed place applies to a single bed; a double bed is counted as two bed places.",
     "title": "Number of establishments and bed-places",
-    "temporal_coverage_from": "2006",
-    "tracking_summary": "379",
+    "temporal_coverage_from": "2006-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

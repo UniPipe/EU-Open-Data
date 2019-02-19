@@ -5,12 +5,20 @@
     "revision_timestamp": null,
     "keywords": [
         {
+            "display_name": "trade",
+            "name": "trade"
+        },
+        {
+            "display_name": "consumer",
+            "name": "consumer"
+        },
+        {
             "display_name": "attitudes",
             "name": "attitudes"
         },
         {
-            "display_name": "retailers",
-            "name": "retailers"
+            "display_name": "protection",
+            "name": "protection"
         },
         {
             "display_name": "border",
@@ -21,16 +29,8 @@
             "name": "cross"
         },
         {
-            "display_name": "consumer",
-            "name": "consumer"
-        },
-        {
-            "display_name": "trade",
-            "name": "trade"
-        },
-        {
-            "display_name": "protection",
-            "name": "protection"
+            "display_name": "retailers",
+            "name": "retailers"
         }
     ],
     "metadata_modified": "2019-02-06T15:49:47",
@@ -85,27 +85,6 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Volume: VolumeAPFlash331DGSANCO",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?9797B20576F2880CEF05FFB77EB1F7BF",
-            "created": "2015-01-13",
-            "tracking_summary": null,
-            "name": "Link to VolumeAPFlash331DGSANCO.zip",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e1dc8116-eaa9-42a3-ad16-031ac393817d",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
             "description": "Volume: VolumeBFlash331DGSANCO",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
             "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?153FAB4FBC155CB6F9156DE9870046EC",
@@ -120,6 +99,27 @@
             "iframe_code": "",
             "datastore_active": false,
             "id": "http://data.europa.eu/88u/distribution/0e4bf5cb-7d49-44c8-9397-36c9ef283120",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Volume: VolumeAPFlash331DGSANCO",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?9797B20576F2880CEF05FFB77EB1F7BF",
+            "created": "2015-01-13",
+            "tracking_summary": null,
+            "name": "Link to VolumeAPFlash331DGSANCO.zip",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/e1dc8116-eaa9-42a3-ad16-031ac393817d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -172,33 +172,33 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
-        "http://publications.europa.eu/resource/authority/country/SVN",
         "http://publications.europa.eu/resource/authority/country/SVK",
-        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/NLD",
         "http://publications.europa.eu/resource/authority/country/POL",
         "http://publications.europa.eu/resource/authority/country/PRT",
         "http://publications.europa.eu/resource/authority/country/ROU",
-        "http://publications.europa.eu/resource/authority/country/SWE",
         "http://publications.europa.eu/resource/authority/country/BEL",
         "http://publications.europa.eu/resource/authority/country/AUT",
         "http://publications.europa.eu/resource/authority/country/CYP",
         "http://publications.europa.eu/resource/authority/country/BGR",
         "http://publications.europa.eu/resource/authority/country/DEU",
         "http://publications.europa.eu/resource/authority/country/CZE",
-        "http://publications.europa.eu/resource/authority/country/EST",
-        "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/ESP",
-        "http://publications.europa.eu/resource/authority/country/GRC",
-        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/FIN",
-        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
         "http://publications.europa.eu/resource/authority/country/HUN",
-        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/GRC",
         "http://publications.europa.eu/resource/authority/country/ITA",
-        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/IRL",
         "http://publications.europa.eu/resource/authority/country/LUX",
-        "http://publications.europa.eu/resource/authority/country/NLD",
-        "http://publications.europa.eu/resource/authority/country/MLT"
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/LVA"
     ],
     "revision_id": null,
     "identifier": "S983_331",
@@ -208,7 +208,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "395",
     "id": "S983_331",
     "metadata_created": "2015-02-03 06:06:28.687454",
     "modified_date": "",
@@ -224,7 +223,6 @@
     "description": "The survey provides a picture of the retailers' awareness of and compliance with their legal obligations towards consumers. In addition, it gives information on cross-border sales, complaints handling and safety issues. \n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Flash Eurobarometer 331: Retailers\u2019 attitudes towards cross-border trade and consumer protection",
     "temporal_coverage_from": "",
-    "tracking_summary": "395",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

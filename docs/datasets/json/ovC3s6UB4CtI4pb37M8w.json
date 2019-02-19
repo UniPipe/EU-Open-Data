@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T11:11:44",
+    "metadata_modified": "2019-02-15T07:50:05",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/6140"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/isoc_ic_biper2.tsv.gz&unzip=true",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/isoc_ic_biper2.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/015bd767-aec7-41bf-91a4-a76c49ea75ef",
+            "id": "http://data.europa.eu/88u/distribution/28334b27-d5cd-45fc-a5a6-aac2279e2073",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/14719cfe-e878-49e7-b1fb-b8fe5f64086d",
+            "id": "http://data.europa.eu/88u/distribution/50d490a7-b715-45ca-b004-6c371a895ef5",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/isoc_ic_biper2.tsv.gz",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/isoc_ic_biper2.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/febe9114-e222-45be-81bb-9e9f10068f3e",
+            "id": "http://data.europa.eu/88u/distribution/5c37cc99-7efa-4f83-9284-ac55dacc0c47",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/5f92a90f-7036-4264-91d0-bce519db3d5b",
+            "id": "http://data.europa.eu/88u/document/94be0ac8-a973-4469-ad13-ea4ed09d1bf7",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/de7c2f71-a14c-4c3f-ab16-09bbd2d7a1c2",
+            "id": "http://data.europa.eu/88u/document/c57394e8-6b6d-4ed6-9c40-34ff8b11f445",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/cd3decea-3983-415e-b7f6-0f0da820d43a",
+            "id": "http://data.europa.eu/88u/document/2b7a34f6-be4c-45b2-b84a-d9d03566afe7",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "104",
     "id": "ovC3s6UB4CtI4pb37M8w",
     "metadata_created": "2016-09-21 22:09:27.616834",
     "modified_date": "2019-02-07",
@@ -171,7 +170,6 @@
     "description": "R&D personnel in ICT sector as % of total R&D personnel by NACE Rev. 2 activity",
     "title": "R&D personnel in ICT sector as % of total R&D personnel by NACE Rev. 2 activity",
     "temporal_coverage_from": "2005-01-01",
-    "tracking_summary": "104",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"

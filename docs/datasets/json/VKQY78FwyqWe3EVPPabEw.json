@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:58:37",
+    "metadata_modified": "2019-02-15T08:50:55",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -14,9 +14,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/inn_cis9_exp.tsv.gz",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/inn_cis9_exp.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a0234bee-d481-4b4e-9e30-1a2161d23982",
+            "id": "http://data.europa.eu/88u/distribution/c689ca71-dc97-4882-a37f-3e3f6fbcbaf0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6169c8bd-3cd5-4b4a-9c10-e567dc1bba87",
+            "id": "http://data.europa.eu/88u/distribution/49b7e91e-2a7d-4f87-9d47-fc51754a6194",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -56,9 +56,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/inn_cis9_exp.tsv.gz&unzip=true",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/inn_cis9_exp.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2ad7d014-77db-4a22-a6d4-39284d4e0eca",
+            "id": "http://data.europa.eu/88u/distribution/8b73e323-4d58-431e-b7e9-35672f4d37c5",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/bf3ca335-4f36-4568-b7a2-40363e8f974a",
+            "id": "http://data.europa.eu/88u/document/ab1dbd4f-b445-4e73-a037-58767d72c28d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/de814249-8dd7-4231-88b1-7e04cb69817d",
+            "id": "http://data.europa.eu/88u/document/3ba680fe-e654-4dcb-bfad-921cc3dc10cd",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6a30fd07-b5de-44a4-8c48-214db98937aa",
+            "id": "http://data.europa.eu/88u/document/b85820ed-9918-4f2b-ba1d-068cc5973118",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2014-01-01",
     "num_tags": null,
-    "views_total": "68",
     "id": "VKQY78FwyqWe3EVPPabEw",
     "metadata_created": "2017-01-21 23:49:40.646530",
     "modified_date": "2017-12-11",
@@ -169,7 +168,6 @@
     "description": "Innovation activities and expenditures in the enterprises by NACE Rev. 2 activity and size class",
     "title": "Innovation activities and expenditures in the enterprises by NACE Rev. 2 activity and size class",
     "temporal_coverage_from": "2014-01-01",
-    "tracking_summary": "68",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"

@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T11:11:32",
+    "metadata_modified": "2019-02-15T08:37:13",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/6140"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/820a09fb-8685-4d75-91a6-6c3ac5d2b7c0",
+            "id": "http://data.europa.eu/88u/distribution/ae6de2dc-5059-4305-8985-c71907f19b6a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0fff631e-c263-4648-a0b0-c6fb2c092aa9",
+            "id": "http://data.europa.eu/88u/distribution/915c0326-a064-4865-83ac-792da2d89c3d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8922f5a3-5a7d-4baa-a78a-32f54a7917ec",
+            "id": "http://data.europa.eu/88u/distribution/985d588f-90c2-4239-933f-e31812cdfdec",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,28 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/2921fbc6-dbec-4136-9a03-8356c5fa90a9",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/isoc_bde15ar2",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ec7b4ebd-d751-4f2a-8209-b50536bd19d6",
+            "id": "http://data.europa.eu/88u/document/8f6f4e2f-2c4d-459c-8952-3ca985bdd38b",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,8 +113,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/523ca305-6e9b-45fc-a05b-de5885a0e426",
+            "id": "http://data.europa.eu/88u/document/37800827-4809-4a2d-b540-f1a6f044cbe9",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/isoc_bde15ar2",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/9e175cf6-ca34-4334-a57c-f7db16800489",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "269",
     "id": "hladOIm3tpFmLoPFg0QRg",
     "metadata_created": "2016-04-15 05:26:49.941406",
     "modified_date": "2019-02-07",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Business expenditure on R&D (BERD) in ICT sector as % of total R&D expenditure by NACE Rev. 2 activity",
     "title": "Business expenditure on R&D (BERD) in ICT sector as % of total R&D expenditure by NACE Rev. 2 activity",
-    "temporal_coverage_from": "2005-01-01",
-    "tracking_summary": "269",
+    "temporal_coverage_from": "2005",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"

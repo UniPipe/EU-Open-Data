@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:47:53",
+    "metadata_modified": "2019-02-15T08:10:39",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1280"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6b8795bc-2e65-46e1-ac54-aea5e2fee79b",
+            "id": "http://data.europa.eu/88u/distribution/e6a0625a-c1fc-4053-8db4-11db2a27c843",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fff05aee-50ff-4974-b806-15edc7e03847",
+            "id": "http://data.europa.eu/88u/distribution/fe3a0be2-eae1-40cc-9f6e-9351a8e533ca",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,30 +71,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f31824c4-0a3e-457e-bea2-a6d473fe2853",
+            "id": "http://data.europa.eu/88u/distribution/4a913580-7f6d-4477-8eea-4e342bc81651",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/hlth_cdeath_esms.htm",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ed16bbde-97e7-4ec4-b990-93f566048877",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
         },
         {
             "mimetype": null,
@@ -113,8 +92,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b5a3001b-6c92-44be-9e7f-a38388c51b9f",
+            "id": "http://data.europa.eu/88u/document/09ee5b80-5413-4cb6-a658-ed1c7dc8aa2e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/hlth_cdeath_esms.htm",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/bf0498ba-70f0-435a-b796-dbd310bc96e4",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
         {
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/861eeadb-62d0-4c83-9aae-83a2b9e75b75",
+            "id": "http://data.europa.eu/88u/document/f6928268-8b9e-405d-9646-85bd68169acd",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2010-01-01",
+    "temporal_coverage_to": "2010",
     "num_tags": null,
-    "views_total": "235",
     "id": "Q3t2gwXSgeccaXed1bfqg",
     "metadata_created": "2015-10-16 10:03:15.416801",
     "modified_date": "2014-01-07",
@@ -170,17 +169,16 @@
     "num_resources": 3,
     "description": "Causes of death by NUTS 2 regions - absolute number, 3 years average - total",
     "title": "Causes of death by NUTS 2 regions - absolute number, 3 years average - total",
-    "temporal_coverage_from": "1994-01-01",
-    "tracking_summary": "235",
+    "temporal_coverage_from": "1994",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

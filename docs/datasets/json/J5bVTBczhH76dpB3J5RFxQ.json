@@ -5,15 +5,15 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "fishing statistics",
-            "name": "fishing statistics"
-        },
-        {
             "display_name": "catch of fish",
             "name": "catch of fish"
+        },
+        {
+            "display_name": "fishing statistics",
+            "name": "fishing statistics"
         }
     ],
-    "metadata_modified": "2019-02-08T08:27:10",
+    "metadata_modified": "2019-02-15T07:52:43",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4260"
@@ -21,48 +21,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tag00078",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Map",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7478f492-4923-4769-994c-cd2e8fd95f1f",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00078.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/65c295cc-dad2-4920-a536-73baa20270f6",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -80,7 +38,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6c8d2e14-2444-4eac-ae1b-a1490eab2905",
+            "id": "http://data.europa.eu/88u/distribution/085c34b0-2c31-4b90-8710-f6d90055d7ff",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -90,10 +48,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tag00078",
+            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tag00078",
             "created": "",
             "tracking_summary": null,
-            "name": "Graph",
+            "name": "Map",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -101,7 +59,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fb1b47b6-9b80-4694-a45d-e36b1ede7762",
+            "id": "http://data.europa.eu/88u/distribution/dafda09e-47a8-4869-a170-96dda5ac91ab",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -122,7 +80,49 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d3291191-edc2-4f48-8c40-21914c79ab54",
+            "id": "http://data.europa.eu/88u/distribution/e31ba8d0-f909-494f-9158-e4111b369eba",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tag00078",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Graph",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/b36aafe1-ca84-4aed-bb97-9f391483c899",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00078.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/524ef5bf-26a9-40cb-b74a-ed15ad59e6f3",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -143,7 +143,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4c923797-916b-4358-aeb9-550960e5ed51",
+            "id": "http://data.europa.eu/88u/distribution/4b2171e6-11af-434e-b0fe-1d33ec098b8a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -164,7 +164,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/3312d6ef-cdd8-499d-97f7-568c20674f18",
+            "id": "http://data.europa.eu/88u/document/4e6f4cfd-56bd-425a-8474-0d41985885e0",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -181,9 +181,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "378",
     "id": "J5bVTBczhH76dpB3J5RFxQ",
     "metadata_created": "2015-10-16 11:36:51.840515",
     "modified_date": "2018-11-20",
@@ -200,8 +199,7 @@
     "num_resources": 6,
     "description": "The total annual catches by EU Member States, Iceland, Norway and other major fishing nations in the North-east Atlantic. This region of the Atlantic Ocean, is roughly the area to the east of 42\u00b0W longitude and north of 36\u00b0N latitude. It includes the waters of the Baltic Sea. The data are expressed in the live weight equivalent of the landings. This is the weight as the product is taken from the water (that is, before processing) but excludes any products which, for a variety of reasons, are not landed.",
     "title": "Catches in the north-east Atlantic",
-    "temporal_coverage_from": "2006-01-01",
-    "tracking_summary": "378",
+    "temporal_coverage_from": "2006",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"

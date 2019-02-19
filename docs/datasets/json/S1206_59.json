@@ -5,28 +5,28 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "europe",
-            "name": "europe"
-        },
-        {
-            "display_name": "citoyens",
-            "name": "citoyens"
-        },
-        {
-            "display_name": "polls",
-            "name": "polls"
+            "display_name": "surveys",
+            "name": "surveys"
         },
         {
             "display_name": "opinion",
             "name": "opinion"
         },
         {
-            "display_name": "surveys",
-            "name": "surveys"
+            "display_name": "polls",
+            "name": "polls"
+        },
+        {
+            "display_name": "europe",
+            "name": "europe"
         },
         {
             "display_name": "flash",
             "name": "flash"
+        },
+        {
+            "display_name": "citoyens",
+            "name": "citoyens"
         }
     ],
     "metadata_modified": "2019-02-06T15:19:10",
@@ -84,21 +84,21 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
-        "http://publications.europa.eu/resource/authority/country/NLD",
         "http://publications.europa.eu/resource/authority/country/LUX",
-        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/ITA",
         "http://publications.europa.eu/resource/authority/country/PRT",
-        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/SWE",
         "http://publications.europa.eu/resource/authority/country/BEL",
         "http://publications.europa.eu/resource/authority/country/AUT",
         "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/DEU",
-        "http://publications.europa.eu/resource/authority/country/ESP",
-        "http://publications.europa.eu/resource/authority/country/GRC",
-        "http://publications.europa.eu/resource/authority/country/FRA",
         "http://publications.europa.eu/resource/authority/country/FIN",
-        "http://publications.europa.eu/resource/authority/country/ITA",
-        "http://publications.europa.eu/resource/authority/country/IRL"
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/GRC"
     ],
     "revision_id": null,
     "identifier": "S1206_59",
@@ -108,7 +108,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "231",
     "id": "S1206_59",
     "metadata_created": "2015-02-03 06:04:42.925575",
     "modified_date": "",
@@ -124,7 +123,6 @@
     "description": "Les questions portent principalement sur la connaissance de certains droits et de garanties sp\u00e9cifiques, devant s'uniformises dans l'ensemble des pays membres de l'Union Europ\u00e9enne.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Flash Eurobarometer 59: Citoyens d'Europe",
     "temporal_coverage_from": "",
-    "tracking_summary": "231",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

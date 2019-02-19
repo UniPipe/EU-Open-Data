@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:32:55",
+    "metadata_modified": "2019-02-19T07:26:43",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/56d3537f-2483-40de-98e5-60f5493f1641",
+            "id": "http://data.europa.eu/88u/distribution/d7be57bc-67c9-408f-a7f5-b228aed2cf44",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7edd1977-c7d5-4e02-bc1f-27cf95f2684f",
+            "id": "http://data.europa.eu/88u/distribution/72c2c369-9c0c-4f7a-b7cc-60581adf301d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/94dc42f7-7a63-4f5b-bf1b-f45c77c9bf0f",
+            "id": "http://data.europa.eu/88u/distribution/484fc8ee-08e6-4616-b633-4af878d429af",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/7bbeec42-65aa-417f-a1e1-540c0c3971d3",
+            "id": "http://data.europa.eu/88u/document/37e8e405-98ce-4337-ad0b-e7fedd590c08",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/bee6c70c-3cd0-48ad-a2b2-13c94eee722c",
+            "id": "http://data.europa.eu/88u/document/73c9fe82-810e-44e4-a7d3-f4370488ad40",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/5ec74900-8819-4548-bf59-1607c4f41068",
+            "id": "http://data.europa.eu/88u/document/688d5ba4-208e-4598-a5b2-12672c23996b",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,10 +151,9 @@
     "tag_string": null,
     "temporal_coverage_to": "2016",
     "num_tags": null,
-    "views_total": "0",
     "id": "NbrGflOaEMWcxAq2N1MRXw",
     "metadata_created": "2015-10-16 13:30:44.771914",
-    "modified_date": "2018-09-27",
+    "modified_date": "2019-02-18",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -169,10 +168,15 @@
     "description": "Reasons for not participating in education and training by sex",
     "title": "Reasons for not participating in education and training by sex",
     "temporal_coverage_from": "2007",
-    "tracking_summary": "0",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

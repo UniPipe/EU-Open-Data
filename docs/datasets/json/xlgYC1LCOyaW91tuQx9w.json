@@ -4,33 +4,12 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:41:32",
+    "metadata_modified": "2019-02-15T07:50:31",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rail_if_line_na.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/04abf708-ce57-4b0b-96de-75734e34e363",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -48,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0c53c33f-cc48-4323-8f08-2603e90b4719",
+            "id": "http://data.europa.eu/88u/distribution/9053abf9-ec3e-4ae1-a14e-4ba88ab12cfc",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,7 +48,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1a4f197e-41c8-466a-a34e-eeea54aabaf8",
+            "id": "http://data.europa.eu/88u/distribution/d129d3e8-21ee-4545-93e0-751f86d6fd04",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rail_if_line_na.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/3eaeb2e8-09b7-45b4-a6c8-7352a13d859a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/0c726802-b5e7-49ce-94f2-42289eb34f43",
+            "id": "http://data.europa.eu/88u/document/d39ed610-bae7-4a89-8f66-433d2a7542ed",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/2a7f8050-7e1f-4091-8dec-afb34106a064",
+            "id": "http://data.europa.eu/88u/document/0e32c2ae-8d68-4746-a1b5-59f3efcddda8",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/44d36324-2a3e-435c-add5-7660a34c7a07",
+            "id": "http://data.europa.eu/88u/document/72d7ec89-760e-4bef-810c-d0be9bfcf39f",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "248",
     "id": "xlgYC1LCOyaW91tuQx9w",
     "metadata_created": "2015-10-16 12:08:14.809392",
     "modified_date": "2018-02-21",
@@ -169,7 +168,6 @@
     "description": "Railway transport - length of lines, by nature of transport",
     "title": "Railway transport - length of lines, by nature of transport",
     "temporal_coverage_from": "1970-01-01",
-    "tracking_summary": "248",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TRAN"

@@ -9,7 +9,7 @@
             "name": "health statistics"
         }
     ],
-    "metadata_modified": "2019-02-08T08:30:01",
+    "metadata_modified": "2019-02-15T09:02:22",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1280"
@@ -21,9 +21,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00149.tsv.gz&unzip=true",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00149.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -34,8 +34,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b3d44401-1569-4876-8805-78a78acb6da1",
+            "id": "http://data.europa.eu/88u/distribution/d9921f72-4b52-44dd-98cb-e59897d0e0e6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tps00149",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Table",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ce4f01b7-bb11-48bd-8d01-4da64a5a0197",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -55,7 +76,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/982c6ff6-dc74-4179-992c-48f0f872ca4a",
+            "id": "http://data.europa.eu/88u/distribution/fe4b0d5b-b997-4027-a036-f0e547981092",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -76,7 +97,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/071059da-d09c-4217-a649-e67ade7a7e55",
+            "id": "http://data.europa.eu/88u/distribution/56fd59fe-c2fd-4a18-b5f0-b52511411eb0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -97,7 +118,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2cf8daed-d2dd-47d3-bf93-91c9add47f7c",
+            "id": "http://data.europa.eu/88u/distribution/91bd884f-05ff-40df-9e33-38ff618d7c1d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -105,30 +126,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tps00149",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Table",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5641b5ed-e73f-4859-9925-8c2884a5f0ea",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00149.tsv.gz",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00149.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -139,7 +139,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/cb7bfd61-4b7d-4b82-bb95-3cc9d4e37117",
+            "id": "http://data.europa.eu/88u/distribution/914a139c-54c0-45c3-a8e1-90c76dac37e0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -160,7 +160,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8c0ab89c-4f6a-4016-a664-eeecceed6598",
+            "id": "http://data.europa.eu/88u/document/07450dea-173d-4303-a9de-cf55a1e287dc",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -179,7 +179,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2015-01-01",
     "num_tags": null,
-    "views_total": "513",
     "id": "GaL8NLDj9kY6aKeek81EA",
     "metadata_created": "2015-10-16 11:16:23.371149",
     "modified_date": "2018-11-23",
@@ -197,7 +196,6 @@
     "description": "Death rate of a population adjusted to a standard age distribution. As most causes of death vary significantly with people's age and sex, the use of standardised death rates improves comparability over time and between countries, as they aim at measuring death rates independently of different age structures of populations. The standardised death rates used here are calculated on the basis of a standard European population (defined by the World Health Organization). Detailed data for 65 causes of death are available in the database (under the heading 'Data').",
     "title": "Death due to drugs dependence, by sex",
     "temporal_coverage_from": "2011-01-01",
-    "tracking_summary": "513",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

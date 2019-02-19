@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:00:36",
+    "metadata_modified": "2019-02-15T07:53:04",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
+            "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfso_04pepoisco.tsv.gz",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfso_04pepoisco.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4f018664-3f88-4e5f-937d-64c68ae97512",
+            "id": "http://data.europa.eu/88u/distribution/9a64eb5c-8dbd-43a8-9525-6929546e6d3d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fa6e2ad8-bde9-495f-b5bc-573a0add0fc9",
+            "id": "http://data.europa.eu/88u/distribution/9b0bba4b-caa6-458c-88fe-b88dc08b3d59",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
+            "description": "Download dataset in TSV format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfso_04pepoisco.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfso_04pepoisco.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/eaeef80e-a130-4c32-b33f-c0e523711c78",
+            "id": "http://data.europa.eu/88u/distribution/24e13742-b0a3-4308-a772-d3df5dd8db33",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c1219040-98e9-4e12-b04a-f3963cce48bf",
+            "id": "http://data.europa.eu/88u/document/d329a95d-4f9d-494a-9f25-b02d17a014c8",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/318fa7ad-2684-445a-a5e6-c5cf3ce65762",
+            "id": "http://data.europa.eu/88u/document/4cdb0e1e-6ebe-4783-adce-a8cc5e89f220",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6a3ca9a5-0d27-4817-a2fe-88c47babe5be",
+            "id": "http://data.europa.eu/88u/document/597c3775-625d-43f4-acf7-285abd76033a",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2004-01-01",
     "num_tags": null,
-    "views_total": "212",
     "id": "l33n9a2fdM7su6D8d3uUJQ",
     "metadata_created": "2015-10-16 13:48:26.582458",
     "modified_date": "2014-03-10",
@@ -171,7 +170,6 @@
     "description": "Percentage of employees working paid overtime, by sex, age and occupation",
     "title": "Percentage of employees working paid overtime, by sex, age and occupation",
     "temporal_coverage_from": "2004-01-01",
-    "tracking_summary": "212",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

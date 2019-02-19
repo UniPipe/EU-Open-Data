@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:18:53",
+    "metadata_modified": "2019-02-15T08:19:26",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1018"
@@ -12,48 +12,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tipsgo10",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Table",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5b8d9530-160e-4ec0-bc30-1702b0eee1e8",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tipsgo10",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Map",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f6d2a7b4-05a5-488c-841a-d6ab3bac17a0",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -71,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/198dfc13-66ac-4917-b4d6-4eaa1a3b87d5",
+            "id": "http://data.europa.eu/88u/distribution/515fc44b-943e-498b-94f2-b526ddd3e4c4",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -81,10 +39,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tipsgo10",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tipsgo10",
             "created": "",
             "tracking_summary": null,
-            "name": "Graph",
+            "name": "Table",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -92,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7573e0ab-e05d-4f77-945b-0c136c1ac959",
+            "id": "http://data.europa.eu/88u/distribution/31042c2b-507f-4a1b-981e-0811b5c96785",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -113,8 +71,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/54696a62-64a8-4236-8b1a-183d517bfe86",
+            "id": "http://data.europa.eu/88u/distribution/7bab946a-3272-444e-b06d-831a90c31f60",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tipsgo10",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Map",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/03110cac-dcf3-4a35-8e3c-789190219595",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -134,8 +113,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/04cabfc9-8ddf-472e-a578-c699f5aed77d",
+            "id": "http://data.europa.eu/88u/distribution/6c048c83-ebf7-4fc3-b9e7-6a76a6b65401",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tipsgo10",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Graph",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/4fb3b9f4-87f0-44fd-b127-37990ddfcd1a",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -155,7 +155,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/da36b791-b121-4dd6-a21b-d76b2e7e45e4",
+            "id": "http://data.europa.eu/88u/document/6a9307cd-5c47-4d07-8861-919283a25331",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -176,7 +176,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f06e7859-2d47-4993-a4da-6956acd00cc3",
+            "id": "http://data.europa.eu/88u/document/6473f052-f7c7-45de-9ff7-8242344fd120",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -197,7 +197,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/7b3fb813-b6a0-4f0d-9d25-f3b928697e9f",
+            "id": "http://data.europa.eu/88u/document/4b483510-dee6-468b-ba96-e404c298f470",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -214,9 +214,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017",
+    "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "474",
     "id": "dxhIj18bL61Dkx4xdsKoLw",
     "metadata_created": "2015-10-16 12:12:44.799696",
     "modified_date": "2018-10-24",
@@ -233,14 +232,13 @@
     "num_resources": 6,
     "description": "For the purpose of the Excessive Deficit Procedure (EDP) in the Economic and monetary union (EMU), as well as for the Growth and Stability Pact, the current Protocol 12, annexed to the 2012 consolidated version of the Treaty on the Functioning of the European Union, provides a complete definition of government debt: debt means total gross debt at nominal value outstanding at the end of the year and consolidated between and within the sectors of general government. This definition is supplemented by Council Regulation (EC) No 479/2009, as amended by the Commission Regulation (EU) No 220/2014 (which has only updated references to ESA 2010 instruments) specifying the components of government debt with reference to the definitions of financial liabilities in ESA 2010. In this context, the stock of government debt in the Excessive Deficit Procedure (EDP debt) is equal to the sum of liabilities, at the end of year, of all units classified within the general government sector (S.13) in the following categories: AF.2 (currency and deposits) + AF.3 (debt securities) + AF.4 (loans). Basic data are expressed in national currency, converted into euro using end-year exchange rates for the euro provided by the European Central Bank (ECB). The MIP headline indicator is calculated as: [GGDt/GDPt]*100. The indicative threshold is 60% of GDP. The data are expressed in millions of units of national currency and in % of GDP.",
     "title": "General government gross debt (EDP concept), consolidated - annual data",
-    "temporal_coverage_from": "1995",
-    "tracking_summary": "474",
+    "temporal_coverage_from": "1995-01-01",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         }
     ],
     "relationships_as_subject": [],

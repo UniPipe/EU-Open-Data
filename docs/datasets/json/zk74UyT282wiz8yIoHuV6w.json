@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:38:07",
+    "metadata_modified": "2019-02-15T07:42:12",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1280"
@@ -12,6 +12,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_ehis_pa2e.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/dd220029-39ff-4ad1-b78e-4ba4cf8f5c86",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -29,28 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/cf930e08-c19c-4aac-aa71-515db0adfd59",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_ehis_pa2e.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "1",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1aed69f0-00f3-4e0e-9e3e-99f5a3fb81f6",
+            "id": "http://data.europa.eu/88u/distribution/06b416cb-14a1-4331-9cd5-121b70a9881e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/eba68919-7e4e-4039-ab31-4ec4821ceaeb",
+            "id": "http://data.europa.eu/88u/distribution/0a4cbe92-9954-4d0a-a314-d4d10cc70685",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c4c25d8b-3d10-4985-8a39-a7b4bf42d419",
+            "id": "http://data.europa.eu/88u/document/ebd57517-a23c-4ae8-b278-8a45af4824c8",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -111,7 +111,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2014-01-01",
     "num_tags": null,
-    "views_total": "109",
     "id": "zk74UyT282wiz8yIoHuV6w",
     "metadata_created": "2017-01-22 00:18:01.094928",
     "modified_date": "2017-03-20",
@@ -129,7 +128,6 @@
     "description": "Self-reported screening of cardiovascular diseases and diabetes risks by sex, age and educational attainment level",
     "title": "Self-reported screening of cardiovascular diseases and diabetes risks by sex, age and educational attainment level",
     "temporal_coverage_from": "2014-01-01",
-    "tracking_summary": "109",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:40:12",
+    "metadata_modified": "2019-02-15T08:01:40",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1018"
@@ -12,6 +12,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/gov_10dd_dcur.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/227f1489-1aea-42d5-95ab-28ca27f9b36e",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -29,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3e796e2e-55ce-4216-944b-fd1c2eea06cf",
+            "id": "http://data.europa.eu/88u/distribution/9d0fdab7-5b9e-4db0-9b5f-72388892a4dd",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,28 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/bf44acc6-cd5d-4bcf-8ac0-26957821c996",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/gov_10dd_dcur.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/65819e32-8dd0-4b71-a9b5-421053f0321c",
+            "id": "http://data.europa.eu/88u/distribution/8dba9774-7396-4037-a28c-7bc1b8cc1152",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8ed2a8c6-d055-4b83-866d-1a15c933a3d4",
+            "id": "http://data.europa.eu/88u/document/3324f2c8-e64f-4920-b17b-a875478340fd",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/96fd864e-3f7d-4c57-bf99-1dfa0ef5d6d5",
+            "id": "http://data.europa.eu/88u/document/105fd0d6-403b-43b8-ae84-189b3c65f3d2",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/db3fac87-8901-456c-84ce-b65b80b6ad6a",
+            "id": "http://data.europa.eu/88u/document/52ea7b77-357b-4921-b12d-0b58bf011d06",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "199",
     "id": "cPCLWRWoelOcfsIRj2x8Og",
     "metadata_created": "2015-10-16 11:37:23.184842",
     "modified_date": "2018-06-22",
@@ -171,7 +170,6 @@
     "description": "Debt by currency of issue",
     "title": "Debt by currency of issue",
     "temporal_coverage_from": "2014-01-01",
-    "tracking_summary": "199",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"

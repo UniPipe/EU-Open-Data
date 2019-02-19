@@ -5,19 +5,19 @@
     "revision_timestamp": null,
     "keywords": [
         {
+            "display_name": "domestic product",
+            "name": "domestic product"
+        },
+        {
             "display_name": "GDP",
             "name": "GDP"
         },
         {
             "display_name": "gross domestic product",
             "name": "gross domestic product"
-        },
-        {
-            "display_name": "domestic product",
-            "name": "domestic product"
         }
     ],
-    "metadata_modified": "2019-02-12T07:08:25",
+    "metadata_modified": "2019-02-15T08:19:53",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/56"
@@ -42,7 +42,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c5ce6913-c3b0-40b2-beaa-5e3b65ced70e",
+            "id": "http://data.europa.eu/88u/distribution/a93542d4-1c78-421e-ba7c-96c988bd8ff3",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -63,7 +63,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/20bb0e59-978e-4a46-97bc-d0f879ad73b8",
+            "id": "http://data.europa.eu/88u/distribution/1023f7f3-2764-41d4-909b-9b5a5b512842",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -84,7 +84,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f702f299-8474-4027-b2ad-38d54473cb44",
+            "id": "http://data.europa.eu/88u/distribution/2c80c787-7e68-45ea-a73b-d3cd9a307fcb",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -105,7 +105,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/63622b76-e46d-4afb-b8a9-0893037c2ba0",
+            "id": "http://data.europa.eu/88u/distribution/8652bd49-1016-4d87-bda9-5e534ebe0a29",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -126,7 +126,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6d559741-3bd5-4920-b2a8-9eb94d65c0e5",
+            "id": "http://data.europa.eu/88u/distribution/b68d0262-0e2d-42b5-8a89-ee8bd33852d8",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -147,7 +147,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4f6d59f2-dc3c-45ad-b7df-2b712f4cd151",
+            "id": "http://data.europa.eu/88u/distribution/c0587882-bd98-4563-a4ea-b19bfb085989",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -168,7 +168,28 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/0b0f7914-7e98-47cf-a626-25df849b0c30",
+            "id": "http://data.europa.eu/88u/document/ac48f611-c94b-470a-bdaa-6554fed97b6d",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina011",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/8e596acc-582c-41b3-a067-3f1fe6ff66f1",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -189,29 +210,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/3bb4d85d-9ff5-4765-a879-62f9bbcac804",
+            "id": "http://data.europa.eu/88u/document/0b877592-44f6-40aa-bd98-694ed9456628",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina011",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/239b07a7-b326-4cfc-a1ad-9245194f37fb",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -227,12 +227,11 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2018",
+    "temporal_coverage_to": "2018-01-01",
     "num_tags": null,
-    "views_total": "682",
     "id": "ns6cZvXTqkGMfa0elh6rw",
     "metadata_created": "2015-10-16 11:38:56.811749",
-    "modified_date": "2019-02-11",
+    "modified_date": "2019-02-14",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -246,14 +245,13 @@
     "num_resources": 6,
     "description": "Gross domestic product (GDP) at market prices is the final result of the production activity of resident producer units (ESA 2010, 8.89). It can be defined in three ways: a production approach, an income approach and an expenditure approach. Data are calculated as chain-linked volumes (i.e. data at previous year's prices, linked over the years via appropriate growth rates). Growth rates with respect to the previous quarter (Q/Q-1) are calculated from calendar and seasonally adjusted figures while growth rates with respect to the same quarter of the previous year (Q/Q-4) are calculated from raw data.",
     "title": "Gross domestic product, volumes",
-    "temporal_coverage_from": "2016",
-    "tracking_summary": "682",
+    "temporal_coverage_from": "2016-01-01",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         }
     ],
     "relationships_as_subject": [],

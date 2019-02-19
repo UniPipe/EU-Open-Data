@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-11T07:23:55",
+    "metadata_modified": "2019-02-15T08:32:31",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfsq_argan.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfsq_argan.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/00fe2fd3-102d-4beb-8f04-c7cf791991cf",
+            "id": "http://data.europa.eu/88u/distribution/cdb291f0-1fab-45fe-958e-ece3d2bbd4cf",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c1d8d2c5-9407-431a-a8bc-96d15b79cc87",
+            "id": "http://data.europa.eu/88u/distribution/4df5aab6-f7ed-41ed-a9fe-ca19c3c57980",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfsq_argan.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfsq_argan.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5414ab33-b9f3-4ddd-babe-4a001d4c0f72",
+            "id": "http://data.europa.eu/88u/distribution/a9c787cf-692b-420e-ae60-13a2a21682d9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9194a8bf-94ee-4567-8032-bd34960ec559",
+            "id": "http://data.europa.eu/88u/document/fe98f1b4-e9a1-4776-9929-c78edd4d8550",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/4ab1a79d-1fee-4cc0-a9fb-ed2e4ba60f1a",
+            "id": "http://data.europa.eu/88u/document/59c4a4fb-eed7-4362-94f1-b56751090672",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c660572a-e9cb-4b65-affe-b52f74ef65df",
+            "id": "http://data.europa.eu/88u/document/7df211c5-bae9-4b61-bad5-2fbf4cd028e5",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2018",
+    "temporal_coverage_to": "2018-01-01",
     "num_tags": null,
-    "views_total": "766",
     "id": "Xq2LVHYlu6tW9ckAU7KA",
     "metadata_created": "2015-10-16 12:57:56.777448",
     "modified_date": "2019-02-08",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Activity rates by sex, age and citizenship (%)",
     "title": "Activity rates by sex, age and citizenship (%)",
-    "temporal_coverage_from": "1998",
-    "tracking_summary": "766",
+    "temporal_coverage_from": "1998-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

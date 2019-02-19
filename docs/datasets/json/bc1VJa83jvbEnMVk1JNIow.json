@@ -4,14 +4,9 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:03:47",
+    "metadata_modified": "2019-02-18T08:48:31",
     "temporal_granularity": "",
-    "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/4050",
-        "http://eurovoc.europa.eu/1469",
-        "http://eurovoc.europa.eu/83",
-        "http://eurovoc.europa.eu/3659"
-    ],
+    "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
@@ -32,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a3575039-0308-4d2b-b7da-d1e87cbda35a",
+            "id": "http://data.europa.eu/88u/distribution/8ec565ea-fea1-40e9-9b47-e0a7d92d1a6c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -53,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/dd846faa-7f31-490a-b905-a083bc2d18dc",
+            "id": "http://data.europa.eu/88u/distribution/51c84961-0e76-482e-8ba0-2fe64b6b8a27",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -74,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6ba09cab-a06c-4b2b-9bf1-9546e305eb10",
+            "id": "http://data.europa.eu/88u/distribution/2924fddf-3488-42f4-9c00-facf9980e416",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -95,7 +90,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/eeabd40c-6f24-4b34-9b58-e64a38271a01",
+            "id": "http://data.europa.eu/88u/distribution/b8e80da3-0744-47cb-8f3b-3fc65eea241b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -116,7 +111,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/71446a21-7057-4e9f-9b77-3e684677d18b",
+            "id": "http://data.europa.eu/88u/distribution/c6e80bd4-10c0-43cb-8ad2-be2ee04b0480",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -137,7 +132,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d80adaf2-1b11-4401-8d69-c2f631722c95",
+            "id": "http://data.europa.eu/88u/distribution/166cedb3-e1e8-4476-9357-d7e8e87933bc",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -158,7 +153,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6d3010dd-0032-4948-b908-51f487196848",
+            "id": "http://data.europa.eu/88u/document/b61316a1-bdc3-4d3a-834f-dca42df71386",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -177,10 +172,9 @@
     "tag_string": null,
     "temporal_coverage_to": "2018",
     "num_tags": null,
-    "views_total": "0",
     "id": "bc1VJa83jvbEnMVk1JNIow",
     "metadata_created": "2015-10-16 10:50:25.039372",
-    "modified_date": "2019-01-31",
+    "modified_date": "2019-02-15",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -195,16 +189,9 @@
     "description": "The indicator is defined as the percentage of population with an enforced lack of at least three out of nine material deprivation items in the 'economic strain and durables' dimension.",
     "title": "Material Deprivation rate by age group - EU-SILC survey",
     "temporal_coverage_from": "2007",
-    "tracking_summary": "0",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
-        },
-        {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
-        },
-        {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
         }
     ],
     "relationships_as_subject": [],

@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:00:35",
+    "metadata_modified": "2019-02-15T08:26:21",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lc_n04num1.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lc_n04num1.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1cfb132b-8aa4-4c3b-8986-bf2e9adb1650",
+            "id": "http://data.europa.eu/88u/distribution/4873a597-1bd7-47c4-859a-a694f0df4463",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d1acd2bd-85f7-4960-bd98-0b8bb6a4d2e4",
+            "id": "http://data.europa.eu/88u/distribution/c57a4f4a-3478-44cc-82c3-b50bcb8842e0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lc_n04num1.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lc_n04num1.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/94853cd7-b20e-49e3-9e37-39a3c36a4e27",
+            "id": "http://data.europa.eu/88u/distribution/18922097-8c0f-421f-96de-6e6d095e753a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8d6356ae-0022-432c-8936-73f1a35e7593",
+            "id": "http://data.europa.eu/88u/document/dc57a976-fb21-43ac-8d28-2301391a0ed9",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -109,9 +109,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2004-01-01",
+    "temporal_coverage_to": "2004",
     "num_tags": null,
-    "views_total": "155",
     "id": "epbRzygnlLDODzvnIn2M4Q",
     "metadata_created": "2015-10-16 13:24:38.351670",
     "modified_date": "2015-03-05",
@@ -128,8 +127,7 @@
     "num_resources": 3,
     "description": "Number of employees, hours worked and paid, by working time and NACE Rev. 1.1 activity - LCS survey 2004",
     "title": "Number of employees, hours worked and paid, by working time and NACE Rev. 1.1 activity - LCS survey 2004",
-    "temporal_coverage_from": "2004-01-01",
-    "tracking_summary": "155",
+    "temporal_coverage_from": "2004",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

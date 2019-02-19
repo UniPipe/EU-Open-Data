@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:54:37",
+    "metadata_modified": "2019-02-15T08:48:22",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/7932"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/62ede49e-07cc-431a-aee9-2a69d1352752",
+            "id": "http://data.europa.eu/88u/distribution/060c12aa-714a-4d42-94f3-f904116f0b2e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0f417b8d-cfcc-4fc2-811e-8cc470ff0bf6",
+            "id": "http://data.europa.eu/88u/distribution/9ce76f16-9e63-4a5d-8d9a-1c6951d0b583",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1b297f9f-b7d7-4de0-a7a7-0225b03f2bb8",
+            "id": "http://data.europa.eu/88u/distribution/6c89f618-381a-466f-b70e-fd065a33dc96",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,28 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/df92290a-aa3d-4f4f-a424-8db6e819e694",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/med_ag51",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8a4e6ce8-ae02-4c2f-bc0d-42e359014ab0",
+            "id": "http://data.europa.eu/88u/document/83f4165f-d1b7-4456-8379-b29fb80eccfc",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,8 +113,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/75ed6f78-f924-426b-9a48-802a4a84f8d0",
+            "id": "http://data.europa.eu/88u/document/14f7ca15-3284-4450-8a5a-8cd2ce2cfe87",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/med_ag51",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/49216c9e-1d75-4012-8ad8-882c7d1bdcd8",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2013-01-01",
+    "temporal_coverage_to": "2013",
     "num_tags": null,
-    "views_total": "242",
     "id": "yb0Z5V11G7ngru347wWgVw",
     "metadata_created": "2015-10-16 12:12:35.794556",
     "modified_date": "2015-12-10",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Price indices of agricultural input/output at nominal value (2000 = 100)",
     "title": "Price indices of agricultural input/output at nominal value (2000 = 100)",
-    "temporal_coverage_from": "2000-01-01",
-    "tracking_summary": "242",
+    "temporal_coverage_from": "2000",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

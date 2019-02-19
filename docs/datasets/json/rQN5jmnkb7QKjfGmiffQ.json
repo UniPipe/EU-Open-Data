@@ -4,10 +4,11 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:20:45",
+    "metadata_modified": "2019-02-15T07:41:05",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/4268"
+        "http://eurovoc.europa.eu/4470",
+        "http://eurovoc.europa.eu/5909"
     ],
     "license_id": null,
     "type": "dataset",
@@ -29,7 +30,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/44487eed-ecf3-45c1-b264-eab03ae884f9",
+            "id": "http://data.europa.eu/88u/distribution/7e6dd7ed-b95e-4e13-ae36-5c42f4309229",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -50,7 +51,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fa7584ba-b809-4f50-af54-367c335da53e",
+            "id": "http://data.europa.eu/88u/distribution/b48b834b-003d-43ec-9bcb-08bce7a3166b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -71,7 +72,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/286e4817-349d-4af9-9f8a-5c46cf734de5",
+            "id": "http://data.europa.eu/88u/distribution/85d4d1fc-ed07-4b9a-993e-061e7a0e8ef3",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +93,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/11c21e7c-796e-48d4-9dbb-e3cc7e04de06",
+            "id": "http://data.europa.eu/88u/distribution/0114824e-b118-4ba2-865d-e578765894a8",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -113,7 +114,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b5cf1b41-49f4-42c3-b80b-2186d09a5988",
+            "id": "http://data.europa.eu/88u/distribution/42ca73c6-672a-4ae6-8a9c-1b65a1f6c5df",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -134,7 +135,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a8557a22-1f3f-49a6-9779-b9b848e0f324",
+            "id": "http://data.europa.eu/88u/distribution/a043be85-5863-4cbd-9dcb-cd183b3fb2af",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -155,7 +156,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/a4c9afbf-1643-40a0-bb0d-e68cb4e6b208",
+            "id": "http://data.europa.eu/88u/document/310c0c21-f722-438d-abbc-c635ed270b7d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -174,7 +175,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "0",
     "id": "rQN5jmnkb7QKjfGmiffQ",
     "metadata_created": "2015-10-16 12:11:20.073895",
     "modified_date": "2019-01-21",
@@ -192,10 +192,18 @@
     "description": "A tourist accommodation establishment is defined as any facility that regularly or occasionally provides short-term accommodation for tourists as a paid service (although the price might be partially or fully subsidised). Data is reported at the level of a local kind-of-activity unit. The number of bed places in a tourist accommodation establishment is determined by the number of persons who can stay overnight in the beds set up in the establishment, ignoring any extra beds that may be set up upon customer request. The term bed place applies to a single bed; a double bed is counted as two bed places. Coastal areas include municipalities (LAU-2) bordering the sea or having half of their territory within 10km from the coastline.",
     "title": "Number of bed-places by coastal and non coastal area (from 2012 onwards)",
     "temporal_coverage_from": "2012",
-    "tracking_summary": "0",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         }
     ],
     "relationships_as_subject": [],

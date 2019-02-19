@@ -13,7 +13,7 @@
             "name": "forestry statistics"
         }
     ],
-    "metadata_modified": "2019-02-08T08:38:26",
+    "metadata_modified": "2019-02-15T07:56:52",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/6331"
@@ -21,6 +21,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tag00058",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Table",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/8d7cb621-2e9b-4743-a7fe-ae8bfa5361ad",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -38,7 +59,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d32b8805-8670-4e93-b434-4c072b48ae0b",
+            "id": "http://data.europa.eu/88u/distribution/58eabc21-edf7-4e89-9a0b-aaea558df157",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -59,28 +80,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/54167413-354d-44b3-9d9b-2bc70cc8e811",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00058.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c73c729d-2773-4d98-a689-17fc969667c4",
+            "id": "http://data.europa.eu/88u/distribution/6808ade6-ec32-4802-bd6c-fafb4cec1f06",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -101,7 +101,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d1c966cf-b5fb-41b5-a998-9aea1127aa33",
+            "id": "http://data.europa.eu/88u/distribution/b3d7906d-80ad-4fcc-9fad-88a61512cf90",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -109,12 +109,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tag00058",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00058.sdmx.zip",
             "created": "",
             "tracking_summary": null,
-            "name": "Table",
+            "name": "Default_Title",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -122,8 +122,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0ea4d9a1-d584-45ba-91dc-9508a493e0d6",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "id": "http://data.europa.eu/88u/distribution/19fc0df5-1499-4c00-8efc-f8a8241f3b64",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -143,7 +143,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/eec77b67-a62e-4a8f-974f-fadad630f02f",
+            "id": "http://data.europa.eu/88u/distribution/e54df3b0-8f51-48c8-a4f6-785fffdc5930",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -164,7 +164,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/cb01ebe3-c4ec-48c5-805b-f147eeec8527",
+            "id": "http://data.europa.eu/88u/document/f91731f7-de1e-49e5-ad7f-7d9c212ed0a0",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -181,9 +181,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "269",
     "id": "WmwTGWdwfhwPyEUUQNiCg",
     "metadata_created": "2015-10-16 10:38:41.201126",
     "modified_date": "2019-01-15",
@@ -200,8 +199,7 @@
     "num_resources": 6,
     "description": "The economic accounts for forestry and logging are based on national accounts, but are collected with greater detail. Current prices means prices of that particular year. Annual inflation must yet be taken into account if one wishes to compare the values of different years. Basic prices means the price received by the producer after deduction of all taxes on products, but including all subsidies on products. Gross value added is the value of the output less the value of intermediate consumption. Fixed capital relates to longer-lived assets (e.g. equipment or buildings) that are either acquired (this is gross fixed capital formation) or consumed (this is fixed capital consumption, the annual reduction in the value of fixed assets). The definition of the activity of forestry and logging is based on Division 02 of NACE Rev. 2.",
     "title": "Gross value added of the forestry industry, at basic prices",
-    "temporal_coverage_from": "2006-01-01",
-    "tracking_summary": "269",
+    "temporal_coverage_from": "2006",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"

@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:16:18",
+    "metadata_modified": "2019-02-15T07:41:27",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4735"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6547a6be-7a2b-4c48-b129-d9c7ba26b010",
+            "id": "http://data.europa.eu/88u/distribution/1d14f9fd-7d69-44a0-b99d-3e58b699b6ad",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/bf1e6d44-3523-4083-8b8d-7e441c0d3a49",
+            "id": "http://data.europa.eu/88u/distribution/4ee03336-8048-4e5d-99fd-d338717137fd",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1458df46-1239-4f09-9a94-50a946a87cfc",
+            "id": "http://data.europa.eu/88u/distribution/79f82353-6907-4a7c-afd1-3c84da55ba48",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,28 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/2418f1a9-b4bc-4529-9f74-8eec5c9472c6",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/iww_esms.sdmx.zip",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c5cbeec3-331f-4b64-9e46-84be270b9b19",
+            "id": "http://data.europa.eu/88u/document/69ec87c2-4d60-4218-825b-8b630a9d5992",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,8 +113,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/24c295f7-65b5-462d-8b9c-8c8d61814f1c",
+            "id": "http://data.europa.eu/88u/document/2bad4437-063a-45a2-9759-3388e45947e4",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/iww_esms.sdmx.zip",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/a48a0662-c222-429a-ab22-3b903079339a",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -153,10 +153,9 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "278",
     "id": "zpoNVZOiEXWUazfJTZvzg",
     "metadata_created": "2015-10-16 12:35:58.300825",
-    "modified_date": "2018-12-21",
+    "modified_date": "2019-02-14",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -171,7 +170,6 @@
     "description": "Transport by type of good (from 2007 onwards with NST2007)",
     "title": "Transport by type of good (from 2007 onwards with NST2007)",
     "temporal_coverage_from": "2007-01-01",
-    "tracking_summary": "278",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TRAN"

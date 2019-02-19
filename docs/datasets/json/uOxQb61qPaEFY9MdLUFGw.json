@@ -4,13 +4,13 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:43:43",
+    "metadata_modified": "2019-02-18T08:45:54",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/3659",
+        "http://eurovoc.europa.eu/4050",
         "http://eurovoc.europa.eu/1469",
         "http://eurovoc.europa.eu/83",
-        "http://eurovoc.europa.eu/4050"
+        "http://eurovoc.europa.eu/3659"
     ],
     "license_id": null,
     "type": "dataset",
@@ -32,7 +32,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4bc963fa-4319-4faa-a323-8bb610d49465",
+            "id": "http://data.europa.eu/88u/distribution/fc994569-7b72-434d-9597-e00e81a929d6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -53,7 +53,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/39841fa7-431b-41bb-8faa-29460cdbac3e",
+            "id": "http://data.europa.eu/88u/distribution/e79969dc-b3db-4d7e-b24c-ed41a7ea8e51",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -74,7 +74,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8242ebcb-c762-477f-9979-02e91cb10846",
+            "id": "http://data.europa.eu/88u/distribution/803025c1-6c0a-4a8d-b33f-8af5005f296c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -95,7 +95,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/7e17d761-ad61-47d9-b3a7-231e86cf3a7b",
+            "id": "http://data.europa.eu/88u/document/6f5abc08-6568-4e6e-9aaf-8f47bf7e769d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -116,7 +116,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6600037c-0004-4389-acfe-d4132effcbea",
+            "id": "http://data.europa.eu/88u/document/18a350e2-d38e-40e1-8df4-c6049e7ead90",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -137,7 +137,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/005e09fc-73d5-4784-b561-b2a2668651ae",
+            "id": "http://data.europa.eu/88u/document/f5e71768-0266-4cb2-bfc8-1ce3322bd575",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -154,12 +154,11 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2018",
     "num_tags": null,
-    "views_total": "386",
     "id": "uOxQb61qPaEFY9MdLUFGw",
     "metadata_created": "2015-10-16 11:23:09.161146",
-    "modified_date": "2019-01-19",
+    "modified_date": "2019-02-15",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -173,17 +172,16 @@
     "num_resources": 3,
     "description": "Financial burden of the repayment of debts from hire purchases or loans - EU-SILC survey",
     "title": "Financial burden of the repayment of debts from hire purchases or loans - EU-SILC survey",
-    "temporal_coverage_from": "2003-01-01",
-    "tracking_summary": "386",
+    "temporal_coverage_from": "2003",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

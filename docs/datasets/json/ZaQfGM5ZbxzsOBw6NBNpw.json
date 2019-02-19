@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:59:52",
+    "metadata_modified": "2019-02-15T08:41:34",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -14,9 +14,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
+            "description": "Download dataset in TSV format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/cdh_m_eu.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/cdh_m_eu.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1a73ffc8-7f8b-4f44-8597-5cfdfa1b92f3",
+            "id": "http://data.europa.eu/88u/distribution/357a6954-fd6d-4a0e-929a-7c8969f750c9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a3de58d4-aae9-46d9-823d-a7435cd694c8",
+            "id": "http://data.europa.eu/88u/distribution/bc92ade7-008a-4168-9bfb-b98b251a6bce",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -56,9 +56,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
+            "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/cdh_m_eu.tsv.gz",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/cdh_m_eu.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a1f7e999-8770-49f5-acf7-3f1aeb6d0e08",
+            "id": "http://data.europa.eu/88u/distribution/ff4a25f3-7bf8-4b4a-ac63-42d62e720515",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/2a8da22a-d452-41d9-96ea-012ba87e34ec",
+            "id": "http://data.europa.eu/88u/document/a0617f99-2545-425b-a547-e56f961c881d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/397d951e-dd41-4138-87c5-37829bb14742",
+            "id": "http://data.europa.eu/88u/document/2aa0e34c-d4da-481d-83fb-eb1d1efa9afb",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/72a1ec26-51fe-4f75-8276-00e0a8b75c7c",
+            "id": "http://data.europa.eu/88u/document/dddac416-d0b2-4114-b67f-04b992b59ca6",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2009-01-01",
     "num_tags": null,
-    "views_total": "236",
     "id": "ZaQfGM5ZbxzsOBw6NBNpw",
     "metadata_created": "2015-10-16 12:08:53.724878",
     "modified_date": "2012-01-27",
@@ -169,7 +168,6 @@
     "description": "Doctorate holders who have studied, worked or carried out research in another EU country (%)",
     "title": "Doctorate holders who have studied, worked or carried out research in another EU country (%)",
     "temporal_coverage_from": "2006-01-01",
-    "tracking_summary": "236",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"

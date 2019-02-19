@@ -4,12 +4,33 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:29:05",
+    "metadata_modified": "2019-02-15T08:27:35",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rail_go_natureg.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/25688d20-2d63-4226-b32a-4707892eaff3",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -27,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0668f4ab-6092-4284-887d-dea0d156d402",
+            "id": "http://data.europa.eu/88u/distribution/95b5458f-7b8d-43f8-8910-12c3564b345a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,28 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/399417eb-b4a0-4bd1-9853-ca9f00fe59a5",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rail_go_natureg.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4cce680a-6120-4aec-bb8b-c971844c2118",
+            "id": "http://data.europa.eu/88u/distribution/09c5b675-8a12-422a-b415-7c6619ee0331",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6fb5870a-f1b0-4e36-a7a2-f5733b37cf87",
+            "id": "http://data.europa.eu/88u/document/14579b03-139c-4eb2-bac9-8062f5287803",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b5957d08-7d43-43f9-9788-90b0d659f7f9",
+            "id": "http://data.europa.eu/88u/document/724c1b41-a3a5-4b42-8f9b-6b8cf52ca83d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/52e2c6a3-efa5-44c5-861c-bfadded52193",
+            "id": "http://data.europa.eu/88u/document/a9ce44e7-8f00-41aa-a95c-3f6f25c6ec84",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2002-01-01",
     "num_tags": null,
-    "views_total": "166",
     "id": "W42qQYIUU0poL4tMfh2T1w",
     "metadata_created": "2015-10-16 13:48:40.984127",
     "modified_date": "2009-03-27",
@@ -169,7 +168,6 @@
     "description": "National transport of goods by unloading region and by group of goods (1982-2002)",
     "title": "National transport of goods by unloading region and by group of goods (1982-2002)",
     "temporal_coverage_from": "1982-01-01",
-    "tracking_summary": "166",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TRAN"

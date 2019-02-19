@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:57:09",
+    "metadata_modified": "2019-02-15T07:35:05",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d5988b79-0c6d-4fa9-9e41-82d15b9f080c",
+            "id": "http://data.europa.eu/88u/distribution/5805a5c7-b5d9-468e-80e1-9ed6af59b239",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0d7ee17b-6a60-4844-aaf4-62602d9deba9",
+            "id": "http://data.europa.eu/88u/distribution/e3a4233a-f1c5-4851-9063-ab1322b3c095",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,30 +69,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6e52d196-62f0-44cc-9467-2ed77e589b96",
+            "id": "http://data.europa.eu/88u/distribution/488a2f2a-c926-4dcd-bc1f-008fab777059",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/mar_esms.sdmx.zip",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/879d1400-f37d-4fd8-a964-ea5ff77fbb33",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
         },
         {
             "mimetype": null,
@@ -111,8 +90,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6a97d093-4242-4f68-8b5b-f3419a1f21ac",
+            "id": "http://data.europa.eu/88u/document/1848793d-afd7-499a-9f31-95d0d57ebade",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/mar_esms.sdmx.zip",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/0e4526da-9f20-4bc0-9460-977a83165e12",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
         {
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b7b74108-a5b7-44bb-b75c-fc27912f50a3",
+            "id": "http://data.europa.eu/88u/document/e688afab-95ad-491f-aa1c-9b09e5f2bd5e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "218",
     "id": "loUEB4EqqjPCWGE7klq6Q",
     "metadata_created": "2015-10-16 11:47:51.808275",
     "modified_date": "2019-01-25",
@@ -169,7 +168,6 @@
     "description": "Country level - gross weight of goods handled in main ports, by type of cargo",
     "title": "Country level - gross weight of goods handled in main ports, by type of cargo",
     "temporal_coverage_from": "1997-01-01",
-    "tracking_summary": "218",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TRAN"

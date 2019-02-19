@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:53:57",
+    "metadata_modified": "2019-02-15T08:24:09",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/6140"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7f070219-8688-4c60-afe8-ffc46aa272a8",
+            "id": "http://data.europa.eu/88u/distribution/e2fea639-be3f-4363-8fd3-55032924c17c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/cae0eb75-d878-469b-9cd9-ee1174d1c7d3",
+            "id": "http://data.europa.eu/88u/distribution/7f44655c-f870-46a2-96d9-f3e34a2f04a8",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,30 +71,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8be00501-475f-4a31-ba23-3af9db49bb6b",
+            "id": "http://data.europa.eu/88u/distribution/e8b08c05-7993-44c8-9291-845187386406",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/isoc_e_esms.sdmx.zip",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/279139a9-5101-4f58-8f84-60a571df23d7",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
         },
         {
             "mimetype": null,
@@ -113,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/a3bf957a-8917-4ba2-a89b-3a7db0ca805c",
+            "id": "http://data.europa.eu/88u/document/964440f5-0e6b-4967-873b-1dc7281a8d19",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +113,28 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/1f69ea01-7ab9-4354-aadd-d0d6c6212dbc",
+            "id": "http://data.europa.eu/88u/document/ca62466c-a378-4e59-b635-f90e0f42a068",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/isoc_e_esms.sdmx.zip",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/8feef087-c0ca-4e5d-9876-60c48a869e00",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2009",
+    "temporal_coverage_to": "2009-01-01",
     "num_tags": null,
-    "views_total": "170",
     "id": "SmMS7M2ybkToCQCmjF8atw",
     "metadata_created": "2015-10-16 11:19:56.700245",
     "modified_date": "2014-06-16",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Integration of internal business processes (NACE Rev. 1.1 activity)",
     "title": "Integration of internal business processes (NACE Rev. 1.1 activity)",
-    "temporal_coverage_from": "2003",
-    "tracking_summary": "170",
+    "temporal_coverage_from": "2003-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"

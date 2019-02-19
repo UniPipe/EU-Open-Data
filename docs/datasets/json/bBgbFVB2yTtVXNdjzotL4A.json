@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:24:12",
+    "metadata_modified": "2019-02-19T07:25:55",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -12,6 +12,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hsw_pb6b.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/9ff3c5c3-378c-4afe-9502-cd5054d663b0",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -29,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c4c8b89d-f501-491f-8caa-243c19cc4423",
+            "id": "http://data.europa.eu/88u/distribution/cb5a9221-eecf-48e2-88fb-06a98a1d354a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,28 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a085c479-d287-45e8-936f-11fe3960d645",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hsw_pb6b.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/69d28364-071c-402a-ab5a-068f2d7a6904",
+            "id": "http://data.europa.eu/88u/distribution/64195945-9f51-4b9a-abcb-9f8be913d358",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/cda99cd2-469a-4692-a9a5-6a42e00dc210",
+            "id": "http://data.europa.eu/88u/document/95c6c872-2c01-4a65-bb43-749bfd159c24",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/91dedc3c-2579-4436-aaa2-2d12a8aed3d0",
+            "id": "http://data.europa.eu/88u/document/a65c383d-34a7-456b-82f4-21410bb76343",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9534e62d-a8aa-4125-bb60-dea58f2e47bd",
+            "id": "http://data.europa.eu/88u/document/a257906c-165f-46e0-8004-55afa9cffba4",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,12 +151,11 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2013-01-01",
+    "temporal_coverage_to": "2013",
     "num_tags": null,
-    "views_total": "162",
     "id": "bBgbFVB2yTtVXNdjzotL4A",
     "metadata_created": "2015-10-16 10:26:20.278960",
-    "modified_date": "2015-11-17",
+    "modified_date": "2019-02-18",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Persons reporting a work-related health problem by sex, age and NACE Rev. 2 activity",
     "title": "Persons reporting a work-related health problem by sex, age and NACE Rev. 2 activity",
-    "temporal_coverage_from": "2013-01-01",
-    "tracking_summary": "162",
+    "temporal_coverage_from": "2013",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

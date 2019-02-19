@@ -5,24 +5,12 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "surveys",
-            "name": "surveys"
-        },
-        {
-            "display_name": "attitudes",
-            "name": "attitudes"
-        },
-        {
             "display_name": "retailers",
             "name": "retailers"
         },
         {
-            "display_name": "border",
-            "name": "border"
-        },
-        {
-            "display_name": "cross",
-            "name": "cross"
+            "display_name": "opinion",
+            "name": "opinion"
         },
         {
             "display_name": "consumer",
@@ -33,20 +21,32 @@
             "name": "trade"
         },
         {
-            "display_name": "opinion",
-            "name": "opinion"
+            "display_name": "surveys",
+            "name": "surveys"
         },
         {
             "display_name": "protection",
             "name": "protection"
         },
         {
-            "display_name": "flash",
-            "name": "flash"
-        },
-        {
             "display_name": "polls",
             "name": "polls"
+        },
+        {
+            "display_name": "cross",
+            "name": "cross"
+        },
+        {
+            "display_name": "attitudes",
+            "name": "attitudes"
+        },
+        {
+            "display_name": "border",
+            "name": "border"
+        },
+        {
+            "display_name": "flash",
+            "name": "flash"
         }
     ],
     "metadata_modified": "2019-02-06T15:49:01",
@@ -55,27 +55,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Volume: FL300_TableA",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?128C2A541C21072E1AD839130FA56D29",
-            "created": "2015-01-14",
-            "tracking_summary": null,
-            "name": "Link to FL300_TableA.zip",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2849af55-21b5-4de1-a9de-3f8ce771fa36",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -101,12 +80,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Volume: FL300_TableC",
+            "description": "Volume: FL300_TableA",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?C25B518A5A7EF618092B13FC29FBCDEF",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?128C2A541C21072E1AD839130FA56D29",
             "created": "2015-01-14",
             "tracking_summary": null,
-            "name": "Link to FL300_TableC.zip",
+            "name": "Link to FL300_TableA.zip",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -114,7 +93,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/454d6202-a7a9-47e8-8df1-7eab29292ffa",
+            "id": "http://data.europa.eu/88u/distribution/2849af55-21b5-4de1-a9de-3f8ce771fa36",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -136,6 +115,27 @@
             "iframe_code": "",
             "datastore_active": false,
             "id": "http://data.europa.eu/88u/distribution/a64c0c4c-6c8c-4c4f-9c84-6e66bed0fbe1",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Volume: FL300_TableC",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?C25B518A5A7EF618092B13FC29FBCDEF",
+            "created": "2015-01-14",
+            "tracking_summary": null,
+            "name": "Link to FL300_TableC.zip",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/454d6202-a7a9-47e8-8df1-7eab29292ffa",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -167,35 +167,35 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/PRT",
         "http://publications.europa.eu/resource/authority/country/ROU",
-        "http://publications.europa.eu/resource/authority/country/SWE",
-        "http://publications.europa.eu/resource/authority/country/SVN",
         "http://publications.europa.eu/resource/authority/country/SVK",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/MLT",
         "http://publications.europa.eu/resource/authority/country/NLD",
         "http://publications.europa.eu/resource/authority/country/NOR",
         "http://publications.europa.eu/resource/authority/country/POL",
-        "http://publications.europa.eu/resource/authority/country/PRT",
-        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/SWE",
         "http://publications.europa.eu/resource/authority/country/BEL",
         "http://publications.europa.eu/resource/authority/country/AUT",
         "http://publications.europa.eu/resource/authority/country/CYP",
         "http://publications.europa.eu/resource/authority/country/BGR",
         "http://publications.europa.eu/resource/authority/country/DEU",
         "http://publications.europa.eu/resource/authority/country/CZE",
-        "http://publications.europa.eu/resource/authority/country/EST",
-        "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/ESP",
-        "http://publications.europa.eu/resource/authority/country/GRC",
-        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/FIN",
-        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
         "http://publications.europa.eu/resource/authority/country/HUN",
-        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/GRC",
         "http://publications.europa.eu/resource/authority/country/ISL",
-        "http://publications.europa.eu/resource/authority/country/LUX",
+        "http://publications.europa.eu/resource/authority/country/IRL",
         "http://publications.europa.eu/resource/authority/country/LTU",
-        "http://publications.europa.eu/resource/authority/country/MLT",
-        "http://publications.europa.eu/resource/authority/country/LVA"
+        "http://publications.europa.eu/resource/authority/country/ITA",
+        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/LUX"
     ],
     "revision_id": null,
     "identifier": "S861_300",
@@ -205,7 +205,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "322",
     "id": "S861_300",
     "metadata_created": "2015-02-03 05:56:35.242616",
     "modified_date": "",
@@ -221,7 +220,6 @@
     "description": "The survey provides a picture of the retailers' awareness of and compliance with their legal obligations towards consumers. In addition, it gives information on cross-border sales, complaints handling and safety issues.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Flash Eurobarometer 300: Retailers\u2019 attitudes towards cross-border trade and consumer protection",
     "temporal_coverage_from": "",
-    "tracking_summary": "322",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

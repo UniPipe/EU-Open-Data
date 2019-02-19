@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:36:08",
+    "metadata_modified": "2019-02-15T08:12:19",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -24,12 +24,12 @@
             "name": "Default_Title",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "1",
+            "download_total_resource": "0",
             "url_type": null,
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7205ec86-6dd0-4052-b8fb-d005d65202b4",
+            "id": "http://data.europa.eu/88u/distribution/aa074962-d827-407e-9e1f-883a25df97fa",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f2a50298-33da-4226-abe4-48047ba709d6",
+            "id": "http://data.europa.eu/88u/distribution/bb7d0d16-0139-4ed0-a893-e724d6687031",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,9 +71,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/50c8260f-7765-4ff2-9931-ea28fff09684",
+            "id": "http://data.europa.eu/88u/distribution/f1ebc3fc-c5b9-4850-ad1f-6c555cfbfce1",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/earn_ses_monthly",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/1fa73bcb-9f5f-445e-b75e-1413cf20f7ab",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
         },
         {
             "mimetype": null,
@@ -92,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b291f068-8840-4363-b79f-997cad1f20ec",
+            "id": "http://data.europa.eu/88u/document/2ff0aaa9-af34-4fb5-948a-00400e7dd617",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,29 +134,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/580717b0-f78d-4f56-9696-736000a57b0b",
+            "id": "http://data.europa.eu/88u/document/b97b1848-716d-4952-a67d-81863b8b6c0c",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/earn_ses_monthly",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ba023123-d567-4374-9ab3-36dbae0ab2cf",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2014-01-01",
     "num_tags": null,
-    "views_total": "260",
     "id": "NE9Jfq0hBb2kF8DpUgdkRQ",
     "metadata_created": "2015-10-16 10:09:52.884847",
     "modified_date": "2017-08-07",
@@ -171,7 +170,6 @@
     "description": "Structure of earnings survey: monthly earnings",
     "title": "Structure of earnings survey: monthly earnings",
     "temporal_coverage_from": "2002-01-01",
-    "tracking_summary": "260",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

@@ -9,11 +9,10 @@
             "name": "employment statistics"
         }
     ],
-    "metadata_modified": "2019-02-08T08:07:51",
+    "metadata_modified": "2019-02-15T08:28:42",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/5909",
-        "http://eurovoc.europa.eu/4470"
+        "http://eurovoc.europa.eu/6140"
     ],
     "license_id": null,
     "type": "dataset",
@@ -22,9 +21,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00152.tsv.gz&unzip=true",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00152.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -35,7 +34,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/081dc71f-edcf-4b54-a5c9-e93ad75bb615",
+            "id": "http://data.europa.eu/88u/distribution/88d567d2-9e19-40fb-937d-ca13264c23d6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -56,28 +55,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b5abf59d-5d69-4d46-934e-310a82c161e6",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tin00152",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Graph",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/aad5f601-82c8-4d8d-be49-0e2e8fe43838",
+            "id": "http://data.europa.eu/88u/distribution/ce917775-0a8c-4474-a42e-e5631c57909d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -98,29 +76,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/42375203-7fc1-4e0f-9cd3-1c97b5e12ef1",
+            "id": "http://data.europa.eu/88u/distribution/33293b94-02d6-42e2-9970-968b5d9b3740",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00152.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8fa32708-f52c-4e16-afab-fc0102845acc",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -140,8 +97,50 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/05f0b2c0-2b02-4ac9-85f1-5c0252da2ef1",
+            "id": "http://data.europa.eu/88u/distribution/0ea3db03-6986-4940-b6f9-a38a17f245c6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00152.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/3990c7d9-6dde-4ee6-bf01-9a8219fe8e19",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tin00152",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Graph",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/c86372fc-7028-4dbb-aecd-66e4460a4382",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -161,7 +160,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/aedcbabe-7944-437f-af1e-13ede963addd",
+            "id": "http://data.europa.eu/88u/document/6c94055e-90d2-40a9-b3d8-504abae678bf",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -182,7 +181,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/48612acb-c696-4411-a173-5bdd3bffb4ed",
+            "id": "http://data.europa.eu/88u/document/5ea4b0d7-5ddc-4321-b22c-de470272d256",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -203,7 +202,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/df9b40eb-2845-464d-9cad-b5f63ba4b6d9",
+            "id": "http://data.europa.eu/88u/document/d0beecc1-dc1c-49ee-97a0-7fc939c5e093",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -222,7 +221,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "471",
     "id": "OSKVAqsn4IZAUZtTQqfDkg",
     "metadata_created": "2015-10-16 13:04:13.443966",
     "modified_date": "2018-12-21",
@@ -240,19 +238,12 @@
     "description": "Apparent labour productivity is defined as value added at factor costs divided by the number of persons employed. This ratio is generally presented in thousands of euros per person employed.",
     "title": "Apparent labour productivity by NACE Rev. 2",
     "temporal_coverage_from": "2005-01-01",
-    "tracking_summary": "471",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
-        },
-        {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
-        },
-        {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         }
     ],
     "relationships_as_subject": [],

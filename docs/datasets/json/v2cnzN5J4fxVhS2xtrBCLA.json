@@ -4,12 +4,33 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T09:00:50",
+    "metadata_modified": "2019-02-18T08:44:35",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tespm040",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Table",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/44e83bd1-acdf-4cff-aaac-9f7be5eda233",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -27,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/537d5e6a-435d-49dc-9d27-0be2c1e4f2d5",
+            "id": "http://data.europa.eu/88u/distribution/a67882bf-3354-40c4-abbb-aeec7341a0f8",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -48,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/844cc6ca-a277-4e7f-b196-38b8874b7863",
+            "id": "http://data.europa.eu/88u/distribution/1822481e-1c78-4688-948a-d9b321cb3623",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,7 +90,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/61cd805e-a28c-4e3b-aa94-6d27caf669ab",
+            "id": "http://data.europa.eu/88u/distribution/f42815fd-8bc6-4c78-8a33-00f6f330bebc",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -90,29 +111,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/71c071e2-614f-47b0-99c1-7bb21f24d862",
+            "id": "http://data.europa.eu/88u/distribution/e73ac5f0-8b4d-4c19-bd30-f17e0b5ef417",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tespm040",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Table",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/53b4b0f5-e51a-4ad6-a276-0ea00471828f",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/bee6e81e-0542-45ac-93f3-def487e367fa",
+            "id": "http://data.europa.eu/88u/distribution/33457a87-1b5b-4026-9403-73378e6cfda4",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -153,7 +153,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/838dbd27-4943-4105-83a6-537f31636dc7",
+            "id": "http://data.europa.eu/88u/document/5a54644c-710e-45e4-85fd-c2296650e97f",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -170,12 +170,11 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2018-01-01",
+    "temporal_coverage_to": "2018",
     "num_tags": null,
-    "views_total": "142",
     "id": "v2cnzN5J4fxVhS2xtrBCLA",
     "metadata_created": "2016-05-03 10:10:17.016614",
-    "modified_date": "2019-01-31",
+    "modified_date": "2019-02-15",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -189,11 +188,16 @@
     "num_resources": 6,
     "description": "The sum of children (0-17) who are: at-risk-of-poverty or severely materially deprived or living in (quasi-)jobless households (i.e. households with very low work intensity (below 20%) as a share of the total population in the same age group.",
     "title": "Children at risk of poverty or social exclusion",
-    "temporal_coverage_from": "2007-01-01",
-    "tracking_summary": "142",
+    "temporal_coverage_from": "2007",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

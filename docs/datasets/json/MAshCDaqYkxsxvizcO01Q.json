@@ -5,24 +5,45 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "cereals",
-            "name": "cereals"
+            "display_name": "agricultural structure",
+            "name": "agricultural structure"
         },
         {
             "display_name": "agriculture",
             "name": "agriculture"
         },
         {
-            "display_name": "agricultural structure",
-            "name": "agricultural structure"
+            "display_name": "cereals",
+            "name": "cereals"
         }
     ],
-    "metadata_modified": "2019-02-08T08:45:06",
+    "metadata_modified": "2019-02-15T08:15:58",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00007.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/c89f8243-4216-4706-9703-3ef552cb57e8",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -40,28 +61,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/32208871-07c8-4d62-80cb-15ae5648859b",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tag00007",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Map",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0ea6163f-3a94-41d4-91c7-a0283a484e8b",
+            "id": "http://data.europa.eu/88u/distribution/d4c68936-7d08-48ab-849e-883110045be5",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -82,7 +82,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2944cdc6-ba8b-4f9f-8ddf-5711228454de",
+            "id": "http://data.europa.eu/88u/distribution/eed61a59-09b3-41d7-bc50-1dffb2b2778b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,10 +92,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tag00007",
+            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tag00007",
             "created": "",
             "tracking_summary": null,
-            "name": "Graph",
+            "name": "Map",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -103,7 +103,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8ecb2cb3-f992-4a31-9672-18b75c6e8029",
+            "id": "http://data.europa.eu/88u/distribution/4e6c8c86-a106-43fc-9061-ab1fd7b0ccc0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -124,7 +124,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4dbaddb5-a863-4c6f-8b87-8a3a34c56b5a",
+            "id": "http://data.europa.eu/88u/distribution/60461cdd-d725-4720-9aa7-4d468021f115",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -132,12 +132,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00007.tsv.gz&unzip=true",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tag00007",
             "created": "",
             "tracking_summary": null,
-            "name": "Default_Title",
+            "name": "Graph",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -145,8 +145,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b8475617-e6d6-4a28-b510-3fb422400258",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "id": "http://data.europa.eu/88u/distribution/824f54dc-e44c-44b5-96a8-cb339618e909",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -166,7 +166,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b234db84-3c2d-49b8-a173-5b599aa8b2a6",
+            "id": "http://data.europa.eu/88u/document/ce39523f-b3f3-4597-b515-944d73081058",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -183,9 +183,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2013",
+    "temporal_coverage_to": "2013-01-01",
     "num_tags": null,
-    "views_total": "404",
     "id": "MAshCDaqYkxsxvizcO01Q",
     "metadata_created": "2015-10-16 13:39:12.200305",
     "modified_date": "2018-10-24",
@@ -202,8 +201,7 @@
     "num_resources": 6,
     "description": "The total area of the holding consists of the agricultural area utilized by the holding (arable land, kitchen gardens, permanent grassland and permanent crops) and other land (unutilised agricultural land, wooded land and other land).",
     "title": "Agricultural holdings by crops",
-    "temporal_coverage_from": "2005",
-    "tracking_summary": "404",
+    "temporal_coverage_from": "2005-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"

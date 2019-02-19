@@ -17,7 +17,7 @@
             "name": "revenue"
         }
     ],
-    "metadata_modified": "2019-02-08T08:21:04",
+    "metadata_modified": "2019-02-15T09:01:17",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1018"
@@ -29,9 +29,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
+            "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00021.tsv.gz",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00021.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -42,7 +42,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/26caec9b-2820-46b4-b7cb-f295270b5487",
+            "id": "http://data.europa.eu/88u/distribution/47e460d7-c1b2-4209-af3b-2f8cbbc9cdf5",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -63,7 +63,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/395dceea-b90f-48b7-a28f-adfabca344f7",
+            "id": "http://data.europa.eu/88u/distribution/d9c3e82b-1b4e-4675-92a1-0c3528f277a6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -84,7 +84,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/678d725b-df37-4865-9960-f4c594ad0586",
+            "id": "http://data.europa.eu/88u/distribution/16562882-5091-4580-b6dc-32d1c89ab69a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -105,7 +105,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/16ef227c-1b37-47e0-b688-a58defb5f1ad",
+            "id": "http://data.europa.eu/88u/distribution/ec394201-35fb-4db2-a263-6b3518065d65",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -126,7 +126,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a76c1a8b-2fbe-45e2-9a27-88f2d6048458",
+            "id": "http://data.europa.eu/88u/distribution/de09c6ca-aa2e-4dc1-a977-923209de8623",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -134,9 +134,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
+            "description": "Download dataset in TSV format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00021.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00021.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -147,30 +147,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f09793b7-c953-4c18-a4e2-7a7d53bb045f",
+            "id": "http://data.europa.eu/88u/distribution/378f4ffe-6d55-4c24-ba0d-6afbaf0ed127",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/gov_10a_main_esms.sdmx.zip",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f807bdcc-a633-47f1-9c7a-aad291e6bd8a",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
         },
         {
             "mimetype": null,
@@ -189,8 +168,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/84122d57-7f1d-4fb3-b80a-c2c1d5fc1179",
+            "id": "http://data.europa.eu/88u/document/52920a39-a3c2-44a7-9699-0dc5a26218c9",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/gov_10a_main_esms.sdmx.zip",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/10b5f63e-72a7-41c5-9cff-e567dff2cd5f",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
         {
@@ -210,7 +210,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/7b2a60b2-de83-4a7a-83fd-95d43614e25a",
+            "id": "http://data.europa.eu/88u/document/ee61ae3c-2adb-4c40-91d4-ee6ccc390889",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -229,7 +229,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "509",
     "id": "qbTzyBhYWwukdIt1gksHg",
     "metadata_created": "2015-10-16 12:16:04.430017",
     "modified_date": "2019-01-21",
@@ -247,7 +246,6 @@
     "description": "Total general government revenue is defined in ESA 2010 8.100 and chapter 20 by reference to a list of categories: market output, output for own final use, payments for non-market output, taxes on production and imports, other subsidies on production, receivable property income, current taxes on income, wealth, etc., net social contributions, other current transfers and capital transfers.",
     "title": "Total general government revenue",
     "temporal_coverage_from": "2006-01-01",
-    "tracking_summary": "509",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"

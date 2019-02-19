@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:49:10",
+    "metadata_modified": "2019-02-15T08:30:28",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/2765"
@@ -29,9 +29,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/9c5d3fab-2307-4999-9f5f-348c4115415c",
+            "id": "http://data.europa.eu/88u/distribution/4ffc2044-a99d-45c9-abb1-f1dddd67095e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/prom_esms.htm",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/fcd470ed-d2b3-4811-98ac-64e675a4989d",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
         },
         {
             "mimetype": null,
@@ -50,7 +71,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/423a32ec-8583-48bd-a4d2-5df347744c68",
+            "id": "http://data.europa.eu/88u/document/cc19b70c-fa86-43cb-9856-16f3c3f3202b",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -71,29 +92,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/a6c9b04d-649c-4ccc-b605-1715d2073d0f",
+            "id": "http://data.europa.eu/88u/document/7a7c24f2-d54b-4ee4-97be-dcba1ab7f4d2",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/prom_esms.htm",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/188d9a38-5386-4ecc-9067-1867ddd4e5a0",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
     ],
@@ -111,7 +111,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "738",
     "id": "AjlhYDn9S1P8LwPbqlRkA",
     "metadata_created": "2016-08-11 07:34:41.433560",
     "modified_date": "",
@@ -129,7 +128,6 @@
     "description": "Sold production, exports and imports by PRODCOM list (NACE Rev. 2) - annual data",
     "title": "Sold production, exports and imports by PRODCOM list (NACE Rev. 2) - annual data",
     "temporal_coverage_from": "",
-    "tracking_summary": "738",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"

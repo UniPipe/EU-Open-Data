@@ -13,7 +13,7 @@
             "name": "patent"
         }
     ],
-    "metadata_modified": "2019-02-08T08:27:05",
+    "metadata_modified": "2019-02-15T07:47:23",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -36,29 +36,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/39dc947b-884c-4935-b8a3-4ca5013c0876",
+            "id": "http://data.europa.eu/88u/distribution/2e6a615b-685b-4c90-a658-660914a48658",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00009.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/24225731-c737-4aae-a508-f52dbabf46b0",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -78,7 +57,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ed20d036-4233-450a-aac1-a66b1728caa2",
+            "id": "http://data.europa.eu/88u/distribution/a1364b7c-9ba3-4370-9705-9fa5bdba1ae6",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00009.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/3e7c3d17-c789-4080-b64c-0aa5088b8766",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -99,7 +99,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a855a31c-9934-4b1c-8ab6-0fae4f1c5bf0",
+            "id": "http://data.europa.eu/88u/distribution/3697b171-57b9-444d-af1e-5c09e4726d94",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -107,9 +107,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
+            "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00009.tsv.gz",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00009.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -120,7 +120,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/04c00f2e-039b-4368-a2c6-36958c069ea4",
+            "id": "http://data.europa.eu/88u/distribution/69da82bc-6cca-40cb-ade0-9f50e8a17411",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -141,7 +141,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e403b7a9-716e-4177-8ee6-fdc32b2870a3",
+            "id": "http://data.europa.eu/88u/distribution/85b57f46-f02b-4848-8215-479d2de23ecf",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -162,7 +162,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/40e7a412-e86a-4d58-b6e1-c3878f73043d",
+            "id": "http://data.europa.eu/88u/document/0daef135-4b54-4bf8-a92c-1f2b05ea02d7",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -181,7 +181,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "522",
     "id": "mPbwH057pGT6w3j9yMtFIg",
     "metadata_created": "2015-10-16 12:11:12.632423",
     "modified_date": "2018-10-24",
@@ -199,7 +198,6 @@
     "description": "The total European patent applications refer to requests for protection of an invention directed either directly to the European Patent Office (EPO) or filed under the Patent Cooperation Treaty and designating the EPO (Euro-PCT), regardless of whether they are granted or not. The data shows the total number of applications per country. If one application has more than one inventor, the application is divided equally among all of them and subsequently among their countries of residence, thus avoiding double counting.",
     "title": "Patent applications to the European patent office (EPO) by priority year",
     "temporal_coverage_from": "2006-01-01",
-    "tracking_summary": "522",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"

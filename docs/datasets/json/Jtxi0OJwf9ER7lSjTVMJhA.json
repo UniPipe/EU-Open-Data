@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:13:01",
+    "metadata_modified": "2019-02-15T08:35:44",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/03f66249-b4b2-4134-959d-05f5a9ec058f",
+            "id": "http://data.europa.eu/88u/distribution/c54784c0-51cc-4bcd-a9db-7f9170388954",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/9c9df357-860b-4384-8957-1062be06570a",
+            "id": "http://data.europa.eu/88u/distribution/03f792f1-2cb1-4459-9b2e-2a8adeeabf43",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/18aa8fa1-af68-4a6f-a1ff-8104f5fbc211",
+            "id": "http://data.europa.eu/88u/distribution/c3aa2f9a-0e5d-440c-ad5d-98988de4c1da",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6c15fae1-a9ab-471a-845c-298e1c3b93ef",
+            "id": "http://data.europa.eu/88u/distribution/df648a67-2218-44a9-b25b-51493368e2d5",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/969978a9-5b58-4000-99d4-b464a8349001",
+            "id": "http://data.europa.eu/88u/distribution/11fe3cba-6cd1-4c84-bcbd-5030c4e1debb",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/597418d2-6be8-4b5e-a3d7-714c383885c9",
+            "id": "http://data.europa.eu/88u/distribution/17d2068e-36f6-4547-b25c-7c4a81109b61",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -153,7 +153,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/22494d85-803e-431a-bbb2-c097717569f4",
+            "id": "http://data.europa.eu/88u/document/14137f1f-37b3-45c2-a7db-2c0c6bbd4d23",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -174,7 +174,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/de22eba0-2bd0-46d1-bd9e-c2add30860be",
+            "id": "http://data.europa.eu/88u/document/ef2ad917-07b2-4ef1-ae14-65ec1645b8ce",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -195,7 +195,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/2a93fce7-9435-4ae2-ae58-ba0df8d067cc",
+            "id": "http://data.europa.eu/88u/document/dcf1b86d-67d0-4f1b-9f97-f61d6baa7689",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -214,7 +214,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "17",
     "id": "Jtxi0OJwf9ER7lSjTVMJhA",
     "metadata_created": "2017-11-10 08:29:57.801457",
     "modified_date": "2019-01-14",
@@ -232,10 +231,15 @@
     "description": "The indicator measures the employment rates of persons aged 20 to 34 fulfilling the following conditions: first, being employed according to the ILO definition, second, having attained at least upper secondary education (ISCED 3) as the highest level of education, third, not having received any education or training in the four weeks preceding the survey and four, having successfully completed their highest educational attainment 1, 2 or 3 years before the survey. The indicator is calculated based on data from the EU Labour Force Survey (EU-LFS).",
     "title": "Employment rates of recent graduates by sex",
     "temporal_coverage_from": "2006",
-    "tracking_summary": "17",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

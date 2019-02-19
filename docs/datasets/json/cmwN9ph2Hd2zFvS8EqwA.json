@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:49:14",
+    "metadata_modified": "2019-02-15T07:46:23",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -12,27 +12,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfso_06finiyrsp.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/26651374-2106-42b8-bf21-4f856937826b",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -50,7 +29,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/45fdbca5-7a95-4fdb-8786-d1e307f3a7c5",
+            "id": "http://data.europa.eu/88u/distribution/ff386910-d9db-4b16-a6cd-2aec6e00dc2d",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lfso_06finiyrsp.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/88424442-5f08-4db7-ae89-2106b66b89a0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e90c6478-679e-4e69-935e-77cfe3f5ac7b",
+            "id": "http://data.europa.eu/88u/distribution/c23da681-7743-4e3b-a68c-92edf5d653a6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/0352c618-46f3-458e-83bf-3ac7188eafdf",
+            "id": "http://data.europa.eu/88u/document/89940720-ee42-4526-8f9a-d4f94a31285a",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/675f5952-f315-4d5c-a9fe-299f86e9169b",
+            "id": "http://data.europa.eu/88u/document/e7755037-ff2c-461b-8b1d-cbe1270fd2e2",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/7ebc25f9-fdc2-45a0-9430-8141733200e2",
+            "id": "http://data.europa.eu/88u/document/11685c37-178e-40c6-bbf0-05110b1267ed",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2006-01-01",
+    "temporal_coverage_to": "2006",
     "num_tags": null,
-    "views_total": "432",
     "id": "cmwN9ph2Hd2zFvS8EqwA",
     "metadata_created": "2015-10-16 12:54:09.921136",
     "modified_date": "2014-03-14",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Average number of years spent working - by sex and main financial incentive to stay at work",
     "title": "Average number of years spent working - by sex and main financial incentive to stay at work",
-    "temporal_coverage_from": "2006-01-01",
-    "tracking_summary": "432",
+    "temporal_coverage_from": "2006",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

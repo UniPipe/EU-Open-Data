@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:58:55",
+    "metadata_modified": "2019-02-15T08:22:25",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1280"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8ee5e8f9-5676-49e5-9b4f-105a5e1c59fb",
+            "id": "http://data.europa.eu/88u/distribution/f60cfef8-af30-4f1b-b420-5ff650c76005",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ed9efaaf-5143-4308-b916-dea72781181c",
+            "id": "http://data.europa.eu/88u/distribution/6366cd54-ae14-4d28-bc29-13a0a6836e93",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6718fb02-d413-4003-8356-142ec7ab6fb7",
+            "id": "http://data.europa.eu/88u/distribution/309518fe-4cee-4336-b154-fc8374a6f086",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9146dcf6-fc7c-4f73-81a2-e134b530fa9a",
+            "id": "http://data.europa.eu/88u/document/b7b90a59-291b-4a4a-8a0d-8e45ae2c818f",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/330e1958-0c0f-40e3-aa92-a9a216b54133",
+            "id": "http://data.europa.eu/88u/document/536eabd0-2ea0-47b5-aae2-6660a05c43b8",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9fe3dddc-08cd-4c11-9052-07a611bc1ccb",
+            "id": "http://data.europa.eu/88u/document/49eb54e4-0a75-465a-8db8-68da078731db",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2012-01-01",
+    "temporal_coverage_to": "2012",
     "num_tags": null,
-    "views_total": "150",
     "id": "GJUKFFNrgEBJEDAhyq9TA",
     "metadata_created": "2015-10-16 10:08:28.708871",
     "modified_date": "2015-05-18",
@@ -170,17 +169,16 @@
     "num_resources": 3,
     "description": "Population by sex, age, disability status and household type",
     "title": "Population by sex, age, disability status and household type",
-    "temporal_coverage_from": "2012-01-01",
-    "tracking_summary": "150",
+    "temporal_coverage_from": "2012",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

@@ -56,7 +56,7 @@
             "name": "Regulated markets",
             "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
             "last_modified": "",
-            "download_total_resource": "1123",
+            "download_total_resource": "1224",
             "url_type": null,
             "position": null,
             "iframe_code": "",
@@ -80,7 +80,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "6121",
     "id": "MiFID_RM",
     "metadata_created": "2015-07-27 15:33:47.754136",
     "modified_date": "2018-10-31 18:16:44.489392",
@@ -96,7 +95,6 @@
     "description": "The database lists identification codes for Regulated Markets. The list is published for the purpose of identification of the counterparty to the transaction as regards to transaction reporting. The publication of the identifiers ensure the compliance of the national competent authorities with the Article 13 (2) of the MiFID Level 2 regulation.\r\n\r\nSome entities are still waiting for allocation of codes from the SWIFT Company (in charge of the allocation of BIC and MIC codes) and/or a final decision from the national competent authority. The lists will be updated on a regular basis as and when ESMA is given further information on gaps.\r\n\r\nThe national competent authorities are responsible for the content of the list. Any queries regarding the content should be addressed directly to the competent authority for that regulated market, MTF or central counterparty.\r\n\r\nMost of regulated markets use the ISIN code to identify instruments. However, some derivative market might use an Alternative Instrument Identifier (shortly \u2018AII\u2019) for instrument identification. The field named Instrument Identifier defines whether the market uses ISIN or AII to identify traded instruments. If this field is empty, only non-securities derivatives (including commodity derivatives) are admitted to trading on the regulated market. Therefore transaction reporting is undertaken through the regulated market which acts as an alternative reporting channel for its local exchange members. \r\n\r\nThe list of regulated markets and MTFs can also be used to identify trading venues among Member States. To identify trading venues outside this area, you should refer to the ISO Web Site of the Market Identifier Code (MIC): http://www.iso15022.org/MIC/homepageMIC.htm .\r\n\r\nESMA has collected this information among its members and will update the list on a regular basis. This database is a compilation of the information from all the national competent authorities. Some national authorities will, in addition, publish their own information separately on their websites.",
     "title": "Regulated markets",
     "temporal_coverage_from": "",
-    "tracking_summary": "6121",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"

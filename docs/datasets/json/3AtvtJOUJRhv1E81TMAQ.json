@@ -16,6 +16,27 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_dhc040.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/87ea9778-5372-4ddf-ac2c-f1e8cbbf2323",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
             "description": "Download dataset in TSV format (unzipped)",
             "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
             "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_dhc040.tsv.gz&unzip=true",
@@ -56,24 +77,24 @@
         },
         {
             "mimetype": null,
-            "mimetype_inner": "",
+            "mimetype_inner": null,
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_dhc040.sdmx.zip",
-            "created": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/hlth_dhc040",
+            "created": null,
             "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
             "url_type": null,
             "position": null,
-            "iframe_code": "",
+            "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/87ea9778-5372-4ddf-ac2c-f1e8cbbf2323",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
+            "id": "http://data.europa.eu/88u/document/596720d8-5818-40ab-87ca-dc333b7d63ab",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
         },
         {
             "mimetype": null,
@@ -116,27 +137,6 @@
             "id": "http://data.europa.eu/88u/document/7b5459b6-8a5a-4942-984b-634c6345898d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/hlth_dhc040",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/596720d8-5818-40ab-87ca-dc333b7d63ab",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
         }
     ],
     "interoperability_level": null,
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2016",
+    "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "136",
     "id": "3AtvtJOUJRhv1E81TMAQ",
     "metadata_created": "2015-10-16 10:42:39.021982",
     "modified_date": "2018-06-15",
@@ -170,17 +169,16 @@
     "num_resources": 3,
     "description": "Overcrowding rate by level of activity limitation, sex and age",
     "title": "Overcrowding rate by level of activity limitation, sex and age",
-    "temporal_coverage_from": "2005",
-    "tracking_summary": "136",
+    "temporal_coverage_from": "2005-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         }
     ],
     "relationships_as_subject": [],

@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T09:08:43",
+    "metadata_modified": "2019-02-15T08:09:53",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1280"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
+            "description": "Download dataset in TSV format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_silc_17.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_silc_17.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4e922d89-cac7-4a2c-a930-b85758621586",
+            "id": "http://data.europa.eu/88u/distribution/eae5541e-cc2e-408d-a440-c4327a7f2453",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f852b11c-ffcf-4b39-a4ff-8f4f76750239",
+            "id": "http://data.europa.eu/88u/distribution/831d3633-a2ee-44e5-b199-1405f3b9de3b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
+            "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_silc_17.tsv.gz",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_silc_17.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7787d0f9-0746-4c90-9dec-804dbb8a6785",
+            "id": "http://data.europa.eu/88u/distribution/643cc86e-f502-4a46-9898-06bca086a715",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/0f249b19-ed48-4f10-ad5b-b8f2b88bf5ab",
+            "id": "http://data.europa.eu/88u/document/e935f1c8-cfdb-4c1a-b200-02f5d5e96859",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f3646272-af4c-4645-b3ce-12412a53b32b",
+            "id": "http://data.europa.eu/88u/document/bb7a183f-dbed-4eff-81d7-8945afe6cb2c",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d3c73898-b63b-4735-81d1-2164d5cb0607",
+            "id": "http://data.europa.eu/88u/document/efe5fefa-c737-4ebd-ad6c-bc44ab289d4d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "266",
     "id": "FiejFVWFMsksqiw85hiYA",
     "metadata_created": "2015-10-16 10:11:17.689707",
     "modified_date": "2018-04-24",
@@ -171,7 +170,6 @@
     "description": "Healthy life expectancy based on self-perceived health",
     "title": "Healthy life expectancy based on self-perceived health",
     "temporal_coverage_from": "2004-01-01",
-    "tracking_summary": "266",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

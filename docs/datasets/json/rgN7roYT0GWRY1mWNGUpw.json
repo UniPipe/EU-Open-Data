@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:11:58",
+    "metadata_modified": "2019-02-15T09:01:26",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/180a9a3d-680e-4e8b-9f48-a650448af7f8",
+            "id": "http://data.europa.eu/88u/distribution/8ba9fd62-e313-4a82-8a68-bb67745c2e79",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a3297ce9-ffde-4326-91bb-3bb7d46e79bd",
+            "id": "http://data.europa.eu/88u/distribution/c478cc70-bd93-48dd-9199-58d6df152e29",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,30 +69,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/84c918d3-ffb7-46e5-abaf-39fa08872c2d",
+            "id": "http://data.europa.eu/88u/distribution/c519bd56-dbc1-4fdc-8ed9-f149bdac9152",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/road_go_ca_c",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/bb3e9cf5-6327-4dee-9cb4-f2aa7f458a42",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
         },
         {
             "mimetype": null,
@@ -111,7 +90,28 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/4fe4c146-f88d-4de7-828d-eec7d57f5f8d",
+            "id": "http://data.europa.eu/88u/document/0d28afde-1038-427f-a94a-fbad4716cd30",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/road_go_ca_c",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/b0730331-a79b-4ba7-bb67-1960260cfc08",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/7dc13e62-a77e-48ee-9d13-2aa5da0c2adb",
+            "id": "http://data.europa.eu/88u/document/4bf19a4d-f8ec-498e-920f-cf3fbed4aeaf",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "260",
     "id": "rgN7roYT0GWRY1mWNGUpw",
     "metadata_created": "2015-10-16 13:45:49.584014",
     "modified_date": "2019-02-05",
@@ -169,7 +168,6 @@
     "description": "Road cabotage transport by country in which cabotage takes place (1000 t ; 1000 tkm) - as from 1999 (Regulation (EC) 1172/98)",
     "title": "Road cabotage transport by country in which cabotage takes place (1000 t ; 1000 tkm) - as from 1999 (Regulation (EC) 1172/98)",
     "temporal_coverage_from": "1999-01-01",
-    "tracking_summary": "260",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TRAN"

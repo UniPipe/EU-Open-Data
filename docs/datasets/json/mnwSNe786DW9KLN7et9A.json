@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:51:07",
+    "metadata_modified": "2019-02-15T08:24:00",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -14,9 +14,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
+            "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/bs_bs8ace_r2.tsv.gz",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/bs_bs8ace_r2.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/33011525-46c9-4ec0-9db3-083c19730fbf",
+            "id": "http://data.europa.eu/88u/distribution/3180067a-2820-434d-9ed2-cbefdd02aa2d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2c8d44f3-6449-4e6b-92a8-51274c84a1b9",
+            "id": "http://data.europa.eu/88u/distribution/da2bd4c7-2c16-4309-897b-8f0f4479f68d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -56,9 +56,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
+            "description": "Download dataset in TSV format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/bs_bs8ace_r2.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/bs_bs8ace_r2.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8af3bac3-3919-44bf-b715-43a790f52c9c",
+            "id": "http://data.europa.eu/88u/distribution/eb020f70-0762-4d65-bde3-296fe2d3edfe",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f7544865-1c86-4ed9-94c6-15a3564f17cc",
+            "id": "http://data.europa.eu/88u/document/600ddb02-c5d1-44de-83ea-7385775d2be4",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c30a579e-aa5a-4355-9288-76e29f7ff7ef",
+            "id": "http://data.europa.eu/88u/document/a9967442-f616-4523-9655-b0c23acbfe93",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/a1070d76-db47-4168-9440-df9c9fdba196",
+            "id": "http://data.europa.eu/88u/document/cfaf1ba4-9eef-41f7-a2a7-1c0d920a92ae",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2015-01-01",
     "num_tags": null,
-    "views_total": "335",
     "id": "mnwSNe786DW9KLN7et9A",
     "metadata_created": "2015-10-16 10:41:16.848135",
     "modified_date": "2018-08-30",
@@ -169,7 +168,6 @@
     "description": "Turnover by product and economic activity (NACE Rev. 2)",
     "title": "Turnover by product and economic activity (NACE Rev. 2)",
     "temporal_coverage_from": "2008-01-01",
-    "tracking_summary": "335",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"

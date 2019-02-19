@@ -17,7 +17,7 @@
             "name": "value of trade"
         }
     ],
-    "metadata_modified": "2019-02-15T11:38:52",
+    "metadata_modified": "2019-02-18T08:44:31",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/12"
@@ -29,12 +29,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tet00006",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tet00006.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
-            "name": "Table",
+            "name": "Default_Title",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -42,29 +42,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ec6d431b-9327-4991-8ab2-9c9b5a066ec0",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tet00006",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Map",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5f2a2477-a6b3-46b0-9dfd-750929e348ea",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "id": "http://data.europa.eu/88u/distribution/953b9bec-0e46-4e7c-92fe-6a4961cac489",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -84,7 +63,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/dde71ef8-d08a-4d5c-a947-c6d47e6e3c3d",
+            "id": "http://data.europa.eu/88u/distribution/4bdf540b-68a1-4e6c-b5d4-652a112ee9e7",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -94,10 +73,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tet00006",
+            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tet00006",
             "created": "",
             "tracking_summary": null,
-            "name": "Graph",
+            "name": "Map",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -105,7 +84,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0629a6fc-41ca-4d38-8096-a3d2a46c7406",
+            "id": "http://data.europa.eu/88u/distribution/19521b83-acaa-432f-b6e2-555b0d5b0c13",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -126,7 +105,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f29f2010-1c2a-4c92-9179-cee95a36176f",
+            "id": "http://data.europa.eu/88u/distribution/fc1e3c23-1877-469e-a610-ee36a9f3879e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -134,12 +113,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tet00006.tsv.gz&unzip=true",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tet00006",
             "created": "",
             "tracking_summary": null,
-            "name": "Default_Title",
+            "name": "Graph",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -147,8 +126,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/27278ef9-7247-4def-bee0-45febc6bafd4",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "id": "http://data.europa.eu/88u/distribution/add12445-af09-48ea-9081-e4e3783f97aa",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tet00006",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Table",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/5d6314df-375d-4474-abce-26eda706620a",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -168,7 +168,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/99015746-4fe6-4ade-a2dd-06ffdd0c051e",
+            "id": "http://data.europa.eu/88u/document/930cb0c8-05ec-40d4-92a0-d2519172c7a2",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -185,9 +185,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2018",
+    "temporal_coverage_to": "2018-01-01",
     "num_tags": null,
-    "views_total": "470",
     "id": "1OEJUOBj20AeH2oP5GFObw",
     "metadata_created": "2015-10-16 12:30:27.470462",
     "modified_date": "2019-02-15",
@@ -204,14 +203,13 @@
     "num_resources": 6,
     "description": "Imports are expressed in value terms and measured cif (cost, insurance, freight). Exports are expressed in value terms and measured fob (free on board). Balance = export - import",
     "title": "International trade of raw materials (SITC 2+4), by reporting country",
-    "temporal_coverage_from": "2007",
-    "tracking_summary": "470",
+    "temporal_coverage_from": "2007-01-01",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         }
     ],
     "relationships_as_subject": [],

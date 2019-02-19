@@ -4,11 +4,9 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:39:04",
+    "metadata_modified": "2019-02-15T08:46:17",
     "temporal_granularity": "",
-    "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/1280"
-    ],
+    "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
@@ -29,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1c312110-624b-4ea0-ba7c-d4d69b49fb89",
+            "id": "http://data.europa.eu/88u/distribution/b291a967-aef7-4c94-9172-f9a9ae3e1968",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -50,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8f3cc121-b8df-49ec-beca-07415723ac6b",
+            "id": "http://data.europa.eu/88u/distribution/2bcef726-2a64-412b-b320-62bf5c0c46dd",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -71,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e5ed9da2-3943-422c-9576-922d32a51341",
+            "id": "http://data.europa.eu/88u/distribution/441eb488-f64d-46fb-bd3d-2746f006dcbf",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +90,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1c72fc18-b55d-4343-a553-526b1fe76a34",
+            "id": "http://data.europa.eu/88u/distribution/ed96d3bb-a560-4cc0-ac89-91242078955f",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -113,7 +111,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/235366de-a2d3-4f5f-abb1-2d8fa5c25b35",
+            "id": "http://data.europa.eu/88u/distribution/94f925e8-f7bc-477f-a7ba-37e6fc2e8430",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -134,7 +132,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a3c17ea7-cf8a-4887-abee-bebd0a8e1acc",
+            "id": "http://data.europa.eu/88u/distribution/71040a44-670a-4046-8131-0917ab05796c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -155,7 +153,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/db044e4c-3d2b-43ae-9cd2-670370f8511c",
+            "id": "http://data.europa.eu/88u/document/e431e28e-f182-4a0a-ba99-3ea092835c9f",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -176,7 +174,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9f9d4141-325c-48ff-88a2-b5fe0fefdfe1",
+            "id": "http://data.europa.eu/88u/document/5730a042-ac9e-4bc1-9baa-46efda51cdbb",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -197,7 +195,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/58a38bf2-6a56-406d-8744-711abb866430",
+            "id": "http://data.europa.eu/88u/document/df7d1aef-0151-4142-a7e8-ef910b18d46b",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -216,7 +214,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2016",
     "num_tags": null,
-    "views_total": "6",
     "id": "Ue3ztJJADrf5CePvXoGTaA",
     "metadata_created": "2017-11-10 09:39:29.931606",
     "modified_date": "2019-02-06",
@@ -234,16 +231,9 @@
     "description": "The indicator measures the number of fatal accidents that occur during the course of work and lead to the death of the victim within one year of the accident. The incidence rate refers to the number of fatal accidents per 100 000 persons in employment. An accident at work is 'a discrete occurrence in the course of work which leads to physical or mental harm'. This includes all accidents in the course of work, whether they happen inside or outside the premises of the employer, accidents in public places or different means of transport during a journey in the course of the work (commuting accidents are excluded) and at home (such as during teleworking). It also includes cases of acute poisoning and wilful acts of other persons, if these happened during the course of the work.",
     "title": "People killed in accidents at work",
     "temporal_coverage_from": "2008",
-    "tracking_summary": "6",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
-        },
-        {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
-        },
-        {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
         }
     ],
     "relationships_as_subject": [],

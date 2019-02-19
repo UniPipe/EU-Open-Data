@@ -75,7 +75,7 @@
             "name": "4. JSON and UNICODE Web Services \u2013 data scope and query size ",
             "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
             "last_modified": "",
-            "download_total_resource": "36",
+            "download_total_resource": "37",
             "url_type": null,
             "position": null,
             "iframe_code": "",
@@ -117,7 +117,7 @@
             "name": "3. Json and Unicode Web Services",
             "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
             "last_modified": "",
-            "download_total_resource": "60",
+            "download_total_resource": "61",
             "url_type": null,
             "position": null,
             "iframe_code": "",
@@ -183,7 +183,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "691",
     "id": "estat-web-services",
     "metadata_created": "2017-02-27 13:10:16.593945",
     "modified_date": "2017-04-06 12:49:53.648609",
@@ -199,7 +198,6 @@
     "description": "Eurostat data contains many indicators (short-term, structural, theme-specific and others) on the EU-28 and the Eurozone, the Member States and their partners.\r\nThe database of Eurostat contains always the latest version of the datasets meaning that there is no versioning on the data.\r\nDatasets are updated twice a day, at 11:00 and at 23:00, in case new data is available or because of structural change.\r\n\r\nIt is possible to access the datasets through SDMX Web Services, as well as through Json and Unicode Web Services.\r\n\r\nSDMX Web Services are a programmatic access to Eurostat data, with the possibility to:\r\n\r\n- get a complete list of publicly available datasets;\r\n- detail the complete structure definition of a given dataset;\r\n- download a subset of a given dataset or a full dataset.\r\n\r\nSDMX Web Services:\r\n\r\n- provide access to datasets listed under database by themes, and predefined tables listed under tables by themes;\r\n- provide data in SDMX 2.0 and 2.1 formats;\r\n- support both Representation State Transfer (REST) and Simple Object Access Protocol (SOAP) protocols;\r\n- return responses in English language only;\r\n- are free of charge.\r\n\r\nThe JSON & UNICODE Web Services are a programmatic access to Eurostat data, with the possibility to download a subset of a given dataset. This operation allows customizing requests for data. You can filter on dimensions to retrieve specific data subsets.\r\n\r\nThe JSON & UNICODE Web Services: \r\n\r\n- provide data in JSON-stat and UNICODE formats;\r\n- support only Representation State Transfer (REST) protocol;\r\n- deliver responses in English, French and German language;\r\n- are free of charge.\r\n",
     "title": "Eurostat web services and dissemination APIs",
     "temporal_coverage_from": "",
-    "tracking_summary": "691",
     "groups": [
         {
             "name": "web-services"

@@ -13,20 +13,20 @@
             "name": "communications"
         },
         {
-            "display_name": "polls",
-            "name": "polls"
+            "display_name": "surveys",
+            "name": "surveys"
         },
         {
             "display_name": "opinion",
             "name": "opinion"
         },
         {
-            "display_name": "surveys",
-            "name": "surveys"
-        },
-        {
             "display_name": "special",
             "name": "special"
+        },
+        {
+            "display_name": "polls",
+            "name": "polls"
         }
     ],
     "metadata_modified": "2019-02-06T15:07:14",
@@ -35,27 +35,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Volume: VolumeBEB682INFSOecommunications20080122",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?AA107F2763BDB785BD7C598329ABCE29",
-            "created": "2014-12-10",
-            "tracking_summary": null,
-            "name": "Link to OP_VolumeBEB682INFSOecommunications20080122.zip",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/af700425-f29e-4c4a-ba48-7706b6eb6253",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -102,6 +81,27 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
+            "description": "Volume: VolumeAAEB682INFSOecommunications20080121",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?15BD93F9D6B49AF24FE025F007A713A9",
+            "created": "2014-12-10",
+            "tracking_summary": null,
+            "name": "Link to OP_VolumeAAEB682INFSOecommunications20080121.zip",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/e5d994cc-b4d6-409b-8d83-7af768d7a866",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
             "description": "Volume: VolumeAEB682INFSOecommunications20080121",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
             "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?58F95C58F876B7388A31816C76F4905B",
@@ -123,12 +123,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Volume: VolumeAAEB682INFSOecommunications20080121",
+            "description": "Volume: VolumeBEB682INFSOecommunications20080122",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?15BD93F9D6B49AF24FE025F007A713A9",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?AA107F2763BDB785BD7C598329ABCE29",
             "created": "2014-12-10",
             "tracking_summary": null,
-            "name": "Link to OP_VolumeAAEB682INFSOecommunications20080121.zip",
+            "name": "Link to OP_VolumeBEB682INFSOecommunications20080122.zip",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -136,7 +136,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e5d994cc-b4d6-409b-8d83-7af768d7a866",
+            "id": "http://data.europa.eu/88u/distribution/af700425-f29e-4c4a-ba48-7706b6eb6253",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -168,33 +168,33 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
-        "http://publications.europa.eu/resource/authority/country/SVN",
         "http://publications.europa.eu/resource/authority/country/SVK",
-        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/NLD",
         "http://publications.europa.eu/resource/authority/country/POL",
         "http://publications.europa.eu/resource/authority/country/PRT",
         "http://publications.europa.eu/resource/authority/country/ROU",
-        "http://publications.europa.eu/resource/authority/country/SWE",
         "http://publications.europa.eu/resource/authority/country/BEL",
         "http://publications.europa.eu/resource/authority/country/AUT",
         "http://publications.europa.eu/resource/authority/country/CYP",
         "http://publications.europa.eu/resource/authority/country/BGR",
         "http://publications.europa.eu/resource/authority/country/DEU",
         "http://publications.europa.eu/resource/authority/country/CZE",
-        "http://publications.europa.eu/resource/authority/country/EST",
-        "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/ESP",
-        "http://publications.europa.eu/resource/authority/country/GRC",
-        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/FIN",
-        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
         "http://publications.europa.eu/resource/authority/country/HUN",
-        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/GRC",
         "http://publications.europa.eu/resource/authority/country/ITA",
-        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/IRL",
         "http://publications.europa.eu/resource/authority/country/LUX",
-        "http://publications.europa.eu/resource/authority/country/NLD",
-        "http://publications.europa.eu/resource/authority/country/MLT"
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/LVA"
     ],
     "revision_id": null,
     "identifier": "S637_68_2_EBS293",
@@ -204,7 +204,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "0",
     "id": "S637_68_2_EBS293",
     "metadata_created": "2015-07-29 08:25:53.705216",
     "modified_date": "",
@@ -220,7 +219,6 @@
     "description": "This survey was carried out between 9 November and 14 December 2007. It is a follow-up to surveys that were conducted between December 2005 and January 2006 and between November and December 2006.\nIt addresses the following topics:\n\u2022 General overview of penetration rates\n\u2022 Fixed and mobile telephony\n\u2022 Directories and enquiry services\n\u2022 Computers and Internet\n\u2022 Television\n\u2022 Bundled offers\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Special Eurobarometer 293: E-Communications Household Survey",
     "temporal_coverage_from": "",
-    "tracking_summary": "0",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

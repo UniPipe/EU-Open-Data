@@ -4,33 +4,12 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T09:04:48",
+    "metadata_modified": "2019-02-15T08:11:53",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/pat_ep_nfgn.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/02f96336-94c2-4e2b-96f2-af5abb061764",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -48,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3c4782fd-465b-4713-b6f4-1b8385fd4826",
+            "id": "http://data.europa.eu/88u/distribution/67ab7086-5b71-4ff8-bfe2-e9fed2ca712a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,7 +48,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/089e7a20-49e8-4737-ac82-1570245cb4bc",
+            "id": "http://data.europa.eu/88u/distribution/dc17af0e-35b9-4ea8-9e86-3babbc84a926",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/pat_ep_nfgn.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/5892bedf-4634-4a02-b9e0-bbe9c04dff70",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/fd99a290-b23b-4550-8fdb-249b1f1b2d55",
+            "id": "http://data.europa.eu/88u/document/98de7bb2-f3f6-4765-9d69-0df410ce1edc",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/87e36029-ae92-4be6-8636-8b96fac4bbd9",
+            "id": "http://data.europa.eu/88u/document/a3491736-9dfd-4588-b9c0-a0e473c57c74",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/307fb13a-6b2b-4063-9053-311ef9a8c4e5",
+            "id": "http://data.europa.eu/88u/document/dacf90c4-13d0-495b-bbca-849f6fbc8b2c",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2013-01-01",
     "num_tags": null,
-    "views_total": "340",
     "id": "ESXz512XGI7twpyYSCoQSg",
     "metadata_created": "2015-10-16 12:29:51.160921",
     "modified_date": "2017-01-09",
@@ -169,7 +168,6 @@
     "description": "Foreign ownership of domestic inventions in patent applications to the EPO by priority year",
     "title": "Foreign ownership of domestic inventions in patent applications to the EPO by priority year",
     "temporal_coverage_from": "1977-01-01",
-    "tracking_summary": "340",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"

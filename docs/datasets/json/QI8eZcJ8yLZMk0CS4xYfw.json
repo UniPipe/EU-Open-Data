@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:36:27",
+    "metadata_modified": "2019-02-15T08:34:27",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/66bd29c4-62fb-48f4-a106-aa04e05e7b6b",
+            "id": "http://data.europa.eu/88u/distribution/49155d28-f8fb-4e1b-b43f-45c5f0a5b8cb",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/76e3ffb3-27c0-45fd-8728-5ec7c7f31d44",
+            "id": "http://data.europa.eu/88u/distribution/cf381cdb-66f7-4477-903c-41ac79c17141",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,30 +71,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6b6f1393-22a4-4e34-9bfc-f40a0b358525",
+            "id": "http://data.europa.eu/88u/distribution/7b322cd1-039f-41a7-b6c0-6a3ba1ba1ea9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/lfso_05nowree",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/62b2bb6d-6395-493c-994d-b7405c0a2378",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
         },
         {
             "mimetype": null,
@@ -113,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/41ca26bd-e26d-4b68-ae56-f09e616e285e",
+            "id": "http://data.europa.eu/88u/document/1a1951fa-4287-48ad-8979-a973f27120da",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,8 +113,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c8d1102d-2fc5-4197-b2d4-33912c6b1e40",
+            "id": "http://data.europa.eu/88u/document/289d9f0d-9dcf-4b7e-a7d3-464085827594",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/lfso_05nowree",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/9630a8b8-4361-4510-9f64-60acc0f852f4",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2005-01-01",
+    "temporal_coverage_to": "2005",
     "num_tags": null,
-    "views_total": "287",
     "id": "QI8eZcJ8yLZMk0CS4xYfw",
     "metadata_created": "2015-10-16 11:48:12.380971",
     "modified_date": "2014-03-12",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Main childcare-related reasons given by employed persons between 15 and 64 years old for not working or not working more",
     "title": "Main childcare-related reasons given by employed persons between 15 and 64 years old for not working or not working more",
-    "temporal_coverage_from": "2005-01-01",
-    "tracking_summary": "287",
+    "temporal_coverage_from": "2005",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

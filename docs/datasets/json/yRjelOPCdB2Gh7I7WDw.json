@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T09:09:52",
+    "metadata_modified": "2019-02-15T08:25:29",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/2632"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/prc_colc_ext.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/prc_colc_ext.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2b03f96b-9e06-4431-a672-8e05ad498f17",
+            "id": "http://data.europa.eu/88u/distribution/e85a20a4-3880-4073-834b-4a5baf12ce8e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fdd8efba-a3eb-4e0a-9d2b-eba51aaeb2ed",
+            "id": "http://data.europa.eu/88u/distribution/d28f20fb-2aa5-47ac-93d8-27e886f186b2",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/prc_colc_ext.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/prc_colc_ext.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/af77136c-4e31-42c9-a7bc-24d77f15aeda",
+            "id": "http://data.europa.eu/88u/distribution/e3f415e0-82f0-465e-a05e-a150247c07ab",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f26cd205-296d-4662-911b-2829b739140f",
+            "id": "http://data.europa.eu/88u/document/6811086b-85c4-4eae-968a-3f724d9bc0a3",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/e0ee451b-420b-46e4-b72c-9db360f14edc",
+            "id": "http://data.europa.eu/88u/document/13673157-0326-4310-a1b7-a3fe8d81e6f8",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/14880cb5-e384-4351-9214-395a96ada9a0",
+            "id": "http://data.europa.eu/88u/document/17d107e1-1e97-40f6-9ad4-5bbfa6839335",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2019",
+    "temporal_coverage_to": "2019-01-01",
     "num_tags": null,
-    "views_total": "357",
     "id": "yRjelOPCdB2Gh7I7WDw",
     "metadata_created": "2015-10-16 11:18:27.887366",
     "modified_date": "2018-12-10",
@@ -170,14 +169,13 @@
     "num_resources": 3,
     "description": "Correction coefficients outside the European Union (Duty stations) - index (Brussels = 100)",
     "title": "Correction coefficients outside the European Union (Duty stations) - index (Brussels = 100)",
-    "temporal_coverage_from": "2000",
-    "tracking_summary": "357",
+    "temporal_coverage_from": "2000-01-01",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         }
     ],
     "relationships_as_subject": [],

@@ -5,40 +5,40 @@
     "revision_timestamp": null,
     "keywords": [
         {
+            "display_name": "opinion",
+            "name": "opinion"
+        },
+        {
             "display_name": "euro",
             "name": "euro"
         },
         {
-            "display_name": "introduction",
-            "name": "introduction"
-        },
-        {
-            "display_name": "states",
-            "name": "states"
+            "display_name": "surveys",
+            "name": "surveys"
         },
         {
             "display_name": "member",
             "name": "member"
         },
         {
-            "display_name": "opinion",
-            "name": "opinion"
-        },
-        {
             "display_name": "finance",
             "name": "finance"
-        },
-        {
-            "display_name": "flash",
-            "name": "flash"
         },
         {
             "display_name": "polls",
             "name": "polls"
         },
         {
-            "display_name": "surveys",
-            "name": "surveys"
+            "display_name": "states",
+            "name": "states"
+        },
+        {
+            "display_name": "flash",
+            "name": "flash"
+        },
+        {
+            "display_name": "introduction",
+            "name": "introduction"
         }
     ],
     "metadata_modified": "2019-02-06T15:48:49",
@@ -47,27 +47,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Volume: FL329_TableC",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?E3820F3C3B518EF3215DC4ECB5F558E8",
-            "created": "2015-01-13",
-            "tracking_summary": null,
-            "name": "Link to FL329_TableC.zip",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/365b2185-3a84-445c-a015-845c923e6a02",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -107,6 +86,27 @@
             "iframe_code": "",
             "datastore_active": false,
             "id": "http://data.europa.eu/88u/distribution/42c6fdb9-9592-4655-adcd-cf613d5411df",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Volume: FL329_TableC",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?E3820F3C3B518EF3215DC4ECB5F558E8",
+            "created": "2015-01-13",
+            "tracking_summary": null,
+            "name": "Link to FL329_TableC.zip",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/365b2185-3a84-445c-a015-845c923e6a02",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -154,7 +154,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "0",
     "id": "S978_329",
     "metadata_created": "2015-02-03 06:02:02.065440",
     "modified_date": "",
@@ -170,7 +169,6 @@
     "description": "The key findings of this survey are: The figures showed a continued weakening support among NMS-7 citizens \u2013 since May 2009 \u2013 for the introduction of the euro in their countries. Overall, slightly fewer respondents are happy that the euro could replace their currency than those who would be unhappy. The share of respondents expecting positive personal consequences from the introduction of the euro also decreased somewhat. More than half of respondents still want their countries to join the euro rather sooner than later. An overwhelming majority agreed that joining the common currency would be more convenient for those who travel in other countries that use the euro and that the euro would make it easier to shop in other countries using the common currency .\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Flash Eurobarometer 329: Introduction of the euro in the new Member States",
     "temporal_coverage_from": "",
-    "tracking_summary": "0",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

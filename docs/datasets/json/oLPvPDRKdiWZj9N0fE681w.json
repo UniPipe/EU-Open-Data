@@ -4,12 +4,33 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T09:09:50",
+    "metadata_modified": "2019-02-15T08:28:10",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/vit_bs4_cz.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/7404283a-1467-4bb9-a3af-a393644e82c1",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -27,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5cf89f62-cc81-4b00-9f0a-11481d90b2f9",
+            "id": "http://data.europa.eu/88u/distribution/f65f8555-ce1f-4a2f-ab53-cc8aee4ec014",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,28 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e008d6b7-cd51-4d42-97b2-8ac1fbecca55",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/vit_bs4_cz.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7f103271-b389-438c-a6db-25e0b157d232",
+            "id": "http://data.europa.eu/88u/distribution/1e91bbd6-95d5-4caa-82ab-e992bc8833b3",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ba918397-693b-47d4-a827-82f8464a4ec1",
+            "id": "http://data.europa.eu/88u/document/c8db5c14-b237-4330-9d37-ad19624ecce2",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d3feb93e-eaa4-427e-8c15-d2f83021be0f",
+            "id": "http://data.europa.eu/88u/document/8e7cb5a9-6716-4d5d-9d4a-575c93a4f493",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8ea03bb3-26ea-4d08-9062-93c0f2287557",
+            "id": "http://data.europa.eu/88u/document/94ff0757-efb9-4462-b83f-9dcd35cd6154",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2009-01-01",
     "num_tags": null,
-    "views_total": "164",
     "id": "oLPvPDRKdiWZj9N0fE681w",
     "metadata_created": "2015-10-16 10:14:14.687650",
     "modified_date": "2012-03-28",
@@ -169,7 +168,6 @@
     "description": "Area under wine-grape vine varieties broken down by vine variety and by age of the vines - Czech Republic",
     "title": "Area under wine-grape vine varieties broken down by vine variety and by age of the vines - Czech Republic",
     "temporal_coverage_from": "2009-01-01",
-    "tracking_summary": "164",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"

@@ -97,7 +97,7 @@
             "name": "SPARQL endpoint",
             "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
             "last_modified": "",
-            "download_total_resource": "113",
+            "download_total_resource": "115",
             "url_type": null,
             "position": null,
             "iframe_code": "",
@@ -118,7 +118,7 @@
             "name": "EU Open Data Portal SPARQL endpoint",
             "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
             "last_modified": "",
-            "download_total_resource": "154",
+            "download_total_resource": "157",
             "url_type": null,
             "position": null,
             "iframe_code": "",
@@ -192,7 +192,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "765",
     "id": "eu-open-data-portal-sparql-endpoint",
     "metadata_created": "2016-10-26 14:08:15.049075",
     "modified_date": "2017-04-06 13:17:01.524317",
@@ -210,7 +209,6 @@
     "description": "The EU Open Data Portal also can be accessed by the machine readable SPARQL endpoint. SPARQL is a  RDF query language, a semantic query language for databases. SPARQL endpoint is a conformant SPARQL protocol service. SPARQL endpoint enables users (human or other) to query a knowledge base via the SPARQL language. Results are typically returned in one or more machine-processable formats.\r\n\r\nIt is used for manipulation of data, which is able to be stored in Resource Description Framework (RDF) format. SPARQL queries RDF graphs. An RDF graph is a set of triples.  For example: \r\n\r\nYou can find specifications of SPARQL on the W3C web site: http://www.w3.org/TR/rdf-sparql-query/. The models used to describe datasets catalogued on the EU Open Data Portal are described on the \u2018Linked data\u2019 page under \u2018Metadata vocabulary\u2019.",
     "title": "EU Open Data Portal SPARQL endpoint",
     "temporal_coverage_from": "",
-    "tracking_summary": "765",
     "groups": [
         {
             "name": "sparql-endpoints"

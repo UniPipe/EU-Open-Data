@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:37:20",
+    "metadata_modified": "2019-02-15T08:57:38",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5403de83-62b5-4cca-9fb3-1c5546f374a3",
+            "id": "http://data.europa.eu/88u/distribution/f4f9ee49-5385-43d5-9c79-3ae1af923356",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3cda22cf-af07-409e-abc2-4f4775b49588",
+            "id": "http://data.europa.eu/88u/distribution/b15bd0a7-a2a4-4edf-8a9d-134184a03803",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,30 +71,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/110ba20d-9f94-4b8f-bf80-d657b0f9b320",
+            "id": "http://data.europa.eu/88u/distribution/310e73a2-7545-4368-b8ca-5090e258a9a3",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/earn_ses2014_esms.htm",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/5f8bc559-d3f4-4c23-934c-c6f3acb69778",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
         },
         {
             "mimetype": null,
@@ -113,8 +92,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8cdebfdd-d654-4fa6-9ad8-511da35a5f6b",
+            "id": "http://data.europa.eu/88u/document/cf0c2610-4156-418f-a5ca-a730b4a3217d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/earn_ses2014_esms.htm",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/0d6ebb91-d7a7-47d3-90f5-1dc641add40a",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
         {
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/36ee4f59-f44f-4791-8b6f-aa5290fd4d61",
+            "id": "http://data.europa.eu/88u/document/9f431d3f-432d-4791-8cc2-4fa95a50e823",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2014-01-01",
+    "temporal_coverage_to": "2014",
     "num_tags": null,
-    "views_total": "147",
     "id": "sNUcbeV0T7zny5DTU6RCJg",
     "metadata_created": "2016-07-08 06:12:30.015146",
     "modified_date": "2017-08-07",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Mean annual earnings by sex, economic activity and educational attainment",
     "title": "Mean annual earnings by sex, economic activity and educational attainment",
-    "temporal_coverage_from": "2014-01-01",
-    "tracking_summary": "147",
+    "temporal_coverage_from": "2014",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

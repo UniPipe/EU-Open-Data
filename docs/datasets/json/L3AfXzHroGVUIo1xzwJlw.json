@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:31:47",
+    "metadata_modified": "2019-02-15T08:22:26",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4260",
@@ -32,7 +32,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6d459183-2634-4378-80b3-a394a48634ef",
+            "id": "http://data.europa.eu/88u/distribution/3be7c28d-bae1-4eb7-b67a-b3585634b4fa",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -53,7 +53,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fd267238-f6be-48e4-884d-25fad4cf1cc9",
+            "id": "http://data.europa.eu/88u/distribution/71696a71-5d2d-43b7-92ab-580a608f8657",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,12 +69,12 @@
             "name": "Default_Title",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "1",
+            "download_total_resource": "0",
             "url_type": null,
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d0a7abce-665f-45db-9cc0-6dde898b53f0",
+            "id": "http://data.europa.eu/88u/distribution/0e8dd2fd-6020-42e9-9c67-8a82ecf3c225",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -84,10 +84,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/aei_pr_soiler_esms.htm",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/aei_pr_soiler",
             "created": null,
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "name": "More information on Eurostat Website",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -95,8 +95,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/1444b183-303a-4b1b-aa73-568e92c429e9",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "id": "http://data.europa.eu/88u/document/ca033536-c215-47dc-8e51-d3efeb5b9f60",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
         {
@@ -116,7 +116,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ad076583-0045-449a-8fd9-5bc1c65c7e2c",
+            "id": "http://data.europa.eu/88u/document/29ad284c-3ca5-4464-9fb5-c1a91edaafc5",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -126,10 +126,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/aei_pr_soiler",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/aei_pr_soiler_esms.htm",
             "created": null,
             "tracking_summary": null,
-            "name": "More information on Eurostat Website",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -137,8 +137,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/1c118f94-28cb-4583-9d38-b7699c35dafe",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "id": "http://data.europa.eu/88u/document/9778c98d-d612-4cad-96c3-fafac8a8cadb",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
     ],
@@ -156,10 +156,9 @@
     "tag_string": null,
     "temporal_coverage_to": "2012-01-01",
     "num_tags": null,
-    "views_total": "395",
     "id": "L3AfXzHroGVUIo1xzwJlw",
     "metadata_created": "2015-10-16 13:21:10.159882",
-    "modified_date": "2017-04-25",
+    "modified_date": "2019-02-13",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -174,7 +173,6 @@
     "description": "Estimated soil erosion by water, by NUTS 3 regions (source: JRC)",
     "title": "Estimated soil erosion by water, by NUTS 3 regions (source: JRC)",
     "temporal_coverage_from": "2000-01-01",
-    "tracking_summary": "395",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"

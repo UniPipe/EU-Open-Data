@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:57:33",
+    "metadata_modified": "2019-02-15T08:59:10",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1280"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
+            "description": "Download dataset in TSV format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_co_dischls.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_co_dischls.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3cf91346-f2ad-4983-8531-2aaab151b14b",
+            "id": "http://data.europa.eu/88u/distribution/9c6b60a3-9cab-40cc-8634-a4a9c12cdef4",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/bddd33fb-e433-4039-a6c1-9494cab5dc6e",
+            "id": "http://data.europa.eu/88u/distribution/929fc87b-ebc9-43ca-853d-8688b9a6cc82",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,20 +58,20 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
+            "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_co_dischls.tsv.gz",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_co_dischls.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "0",
+            "download_total_resource": "2",
             "url_type": null,
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d38cf923-cf14-4284-82a0-d54c9954237f",
+            "id": "http://data.europa.eu/88u/distribution/44dac324-ad91-43c4-b6e0-a7a1c7ee72e6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/957ce2eb-658d-4209-971e-fcd402c1dc69",
+            "id": "http://data.europa.eu/88u/document/1f9daa0f-9ecb-4b49-9042-71e7274c699e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/e35968e9-1bcc-4d9e-8a0b-f9af100f3cb5",
+            "id": "http://data.europa.eu/88u/document/a54d5489-7714-4046-b3d3-7f081f966fd4",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/3a229e18-5075-4344-aebe-2a4eb6e0bcb4",
+            "id": "http://data.europa.eu/88u/document/647b372f-314d-4607-ab14-ead0f28aaafe",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "420",
     "id": "TZ0qXIjEpVyCUIWVlbH1QA",
     "metadata_created": "2015-10-16 12:55:19.139604",
     "modified_date": "2018-08-21",
@@ -171,7 +170,6 @@
     "description": "Hospital discharges and length of stay for inpatient and curative care",
     "title": "Hospital discharges and length of stay for inpatient and curative care",
     "temporal_coverage_from": "1960-01-01",
-    "tracking_summary": "420",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

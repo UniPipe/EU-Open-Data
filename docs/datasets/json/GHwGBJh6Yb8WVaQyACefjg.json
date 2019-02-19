@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:57:00",
+    "metadata_modified": "2019-02-15T08:08:13",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/6140"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/isoc_tc_cal.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/isoc_tc_cal.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/edc8991e-0a29-4f66-ae9e-0dd76dfce895",
+            "id": "http://data.europa.eu/88u/distribution/4bbb1e27-6d41-40c1-a8f8-822536788203",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/07bbbbc6-8db0-48a5-86b5-18c048c345e8",
+            "id": "http://data.europa.eu/88u/distribution/d860091d-69ca-4543-b60f-a2dca0d2aadf",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/isoc_tc_cal.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/isoc_tc_cal.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/27d7a822-ff16-4f36-8c0e-e14a2d548443",
+            "id": "http://data.europa.eu/88u/distribution/24171f27-0b85-45d9-a13a-0a8034db532b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b2d98058-f345-4aee-ad2f-68e78cab20ac",
+            "id": "http://data.europa.eu/88u/document/fa555bb4-85db-4135-8542-4e2bc1e95597",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b84be436-21af-45d1-88a5-b002ca2d0a2f",
+            "id": "http://data.europa.eu/88u/document/b15447df-38ee-4fc5-a37a-1e2c3a2e724b",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d7bbb031-cd34-4cc9-936f-4a183e490032",
+            "id": "http://data.europa.eu/88u/document/883473b8-6ce9-4027-8468-22c29ddb840e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2009",
+    "temporal_coverage_to": "2009-01-01",
     "num_tags": null,
-    "views_total": "169",
     "id": "GHwGBJh6Yb8WVaQyACefjg",
     "metadata_created": "2015-10-16 10:25:50.150174",
     "modified_date": "2010-11-23",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Telecommunication services: international calls",
     "title": "Telecommunication services: international calls",
-    "temporal_coverage_from": "1995",
-    "tracking_summary": "169",
+    "temporal_coverage_from": "1995-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"

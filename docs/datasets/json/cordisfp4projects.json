@@ -35,7 +35,7 @@
             "name": "FP4 Projects",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "7",
+            "download_total_resource": "10",
             "url_type": null,
             "position": null,
             "iframe_code": "",
@@ -77,7 +77,7 @@
             "name": "FP4 Organisations",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "5",
+            "download_total_resource": "6",
             "url_type": null,
             "position": null,
             "iframe_code": "",
@@ -143,7 +143,6 @@
     "tag_string": null,
     "temporal_coverage_to": "1998-01-01T00:00:00",
     "num_tags": null,
-    "views_total": "2536",
     "id": "cordisfp4projects",
     "metadata_created": "2015-07-27 14:53:07.119546",
     "modified_date": "2018-02-12 09:55:48.820701",
@@ -159,7 +158,6 @@
     "description": "This dataset contains all projects funded by the European Union under the fourth framework programme for research and technological development (FP4) from 1994 to 1998. \r\n\r\nThe file 'FP4 Projects' contains the public grant information for each project, including the following information: Record Control Number (RCN), project ID (grant agreement number), project acronym, project status, funding programme, topic, project title, project start date, project end date, project objective, project total cost, EC max contribution (commitment), call ID, funding scheme (type of action), coordinator, coordinator country, participants (ordered in a semi-colon separated list), participant countries (ordered in a semi-colon separated list).\r\n\r\nThe participating organisations are listed in the file 'FP4 Organisations' which includes: project Record Control Number (RCN), project ID, project acronym, organisation role, organisation ID, organisation name, organisation short name, organisation type, participation ended (true/false), EC contribution, organisation country.\r\n\r\n**The dataset has been updated to match the structure of more recent datasets - some fields may not be populated.**\r\n\r\nReference data (countries, funding schemes/types of action, subjects (SIC codes)) can be found in this dataset: https://data.europa.eu/euodp/en/data/dataset/cordisref-data",
     "title": "CORDIS - EU research projects under FP4 (1994-1998)",
     "temporal_coverage_from": "1994-01-01T00:00:00",
-    "tracking_summary": "2536",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"

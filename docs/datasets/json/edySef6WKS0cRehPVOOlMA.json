@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:09:36",
+    "metadata_modified": "2019-02-15T08:03:54",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/2914"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rd_p_persqual11.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rd_p_persqual11.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8f7c19ff-6534-4999-8f3a-26f2b84e464e",
+            "id": "http://data.europa.eu/88u/distribution/c7de8c00-a928-4b48-908d-a133bccf02c7",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/49ff41d3-0552-466e-99ea-d58abb8f51a4",
+            "id": "http://data.europa.eu/88u/distribution/d0e06fc2-3699-4359-a5d6-8e0844320553",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rd_p_persqual11.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rd_p_persqual11.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4b3ce113-47cb-4a7c-9afa-b72c2b9a5d79",
+            "id": "http://data.europa.eu/88u/distribution/70836da8-94d7-4cc2-b434-b8567ae77fe7",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d9b3e474-13c9-4d58-a90f-714864f08a4d",
+            "id": "http://data.europa.eu/88u/document/cd539f98-3a7a-4fd9-ab86-448151a0a957",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/5801cc14-93c2-4daf-934e-006322d75db3",
+            "id": "http://data.europa.eu/88u/document/0a160c54-8ce5-4bfc-b715-cd25ec0fb72e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f117eb83-539e-40dc-8ecb-bc2d8222905e",
+            "id": "http://data.europa.eu/88u/document/fd1d0280-d878-4903-8212-7bc6a5c7b4ab",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017",
+    "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "25",
     "id": "edySef6WKS0cRehPVOOlMA",
     "metadata_created": "2017-11-16 06:38:57.815618",
     "modified_date": "2018-12-17",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Total R&D personnel and researchers by sectors of performance, educational attainment level (ISCED2011) and sex",
     "title": "Total R&D personnel and researchers by sectors of performance, educational attainment level (ISCED2011) and sex",
-    "temporal_coverage_from": "2013",
-    "tracking_summary": "25",
+    "temporal_coverage_from": "2013-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"

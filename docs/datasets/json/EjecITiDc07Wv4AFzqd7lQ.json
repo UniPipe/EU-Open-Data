@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:29:46",
+    "metadata_modified": "2019-02-15T07:47:03",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/56"
@@ -18,10 +18,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tec00101",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tec00101",
             "created": "",
             "tracking_summary": null,
-            "name": "Graph",
+            "name": "Table",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -29,29 +29,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/bee05163-807f-453f-b08a-36a7b70478d3",
+            "id": "http://data.europa.eu/88u/distribution/02f3cb78-5620-4060-926c-b9b4d17502a9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00101.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/42408267-daac-4a0a-b4da-d737465bddea",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -71,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/acbeee97-c04d-4ca2-af45-e6fcf94af6d6",
+            "id": "http://data.europa.eu/88u/distribution/e603bc6f-57cd-4bea-b120-6383d9e5a24b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1dd92cbb-b215-4100-abf0-457e9b476def",
+            "id": "http://data.europa.eu/88u/distribution/b134cf83-0030-45b0-beff-9f2bed3e4e68",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -113,7 +92,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/9cdea2d2-cb60-45f1-b800-b7b40efbe519",
+            "id": "http://data.europa.eu/88u/distribution/d28138dd-1be5-4c90-914d-4099eaa6ece7",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -123,10 +102,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tec00101",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tec00101",
             "created": "",
             "tracking_summary": null,
-            "name": "Table",
+            "name": "Graph",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -134,8 +113,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/20b4fe8b-5ef8-4a8a-8e05-471533d01c81",
+            "id": "http://data.europa.eu/88u/distribution/43679e2d-ee1e-4881-ba95-3a2c3f982244",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00101.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/2da7cd18-67ea-4fd1-8507-e6343ad083bd",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -155,7 +155,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/74eb497a-2cae-44a8-9ee9-70680afd6ff1",
+            "id": "http://data.europa.eu/88u/document/16f7de5e-fa84-4713-a553-e4cdc9537944",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -174,7 +174,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "543",
     "id": "EjecITiDc07Wv4AFzqd7lQ",
     "metadata_created": "2015-10-16 12:46:21.472767",
     "modified_date": "2019-02-06",
@@ -192,7 +191,6 @@
     "description": "Gross return on capital employed, before taxes, of non-financial corporations is defined as gross operating surplus (ESA 2010 code: B2G_B3G) divided by main financial liabilities. Latter include currency and deposits (AF2), debt securities (AF3) loans (AF4) and equity and investment fund shares/units (AF5). Detailed data and methodology on site http://ec.europa.eu/eurostat/sectoraccounts .",
     "title": "Gross return on capital employed, before taxes, of non-financial corporations",
     "temporal_coverage_from": "2006-01-01",
-    "tracking_summary": "543",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"

@@ -5,40 +5,40 @@
     "revision_timestamp": null,
     "keywords": [
         {
+            "display_name": "surveys",
+            "name": "surveys"
+        },
+        {
             "display_name": "consumer",
             "name": "consumer"
-        },
-        {
-            "display_name": "slovenia",
-            "name": "slovenia"
-        },
-        {
-            "display_name": "organizations",
-            "name": "organizations"
         },
         {
             "display_name": "rights",
             "name": "rights"
         },
         {
-            "display_name": "czech republicopinion",
-            "name": "czech republicopinion"
+            "display_name": "polls",
+            "name": "polls"
+        },
+        {
+            "display_name": "slovenia",
+            "name": "slovenia"
         },
         {
             "display_name": "slovakia",
             "name": "slovakia"
         },
         {
+            "display_name": "czech republicopinion",
+            "name": "czech republicopinion"
+        },
+        {
             "display_name": "special",
             "name": "special"
         },
         {
-            "display_name": "polls",
-            "name": "polls"
-        },
-        {
-            "display_name": "surveys",
-            "name": "surveys"
+            "display_name": "organizations",
+            "name": "organizations"
         }
     ],
     "metadata_modified": "2019-02-06T15:11:45",
@@ -65,6 +65,27 @@
             "iframe_code": "",
             "datastore_active": false,
             "id": "http://data.europa.eu/88u/distribution/fdff89ed-7844-4872-a7b1-c688f2fc3a9c",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Volume: VolumeCSKEB658SANCOconsumerrights20060731",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?284974DB8074F0AA64043459316E917E",
+            "created": "2014-12-11",
+            "tracking_summary": null,
+            "name": "Link to OP_VolumeCSKEB658SANCOconsumerrights20060731.zip",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/f81b2935-12ef-4430-8dd1-a2fd3a8af0e8",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -112,27 +133,6 @@
         },
         {
             "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Volume: VolumeCSKEB658SANCOconsumerrights20060731",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?284974DB8074F0AA64043459316E917E",
-            "created": "2014-12-11",
-            "tracking_summary": null,
-            "name": "Link to OP_VolumeCSKEB658SANCOconsumerrights20060731.zip",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f81b2935-12ef-4430-8dd1-a2fd3a8af0e8",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
             "mimetype_inner": null,
             "hash": "",
             "description": "",
@@ -159,9 +159,9 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
-        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SVK",
         "http://publications.europa.eu/resource/authority/country/CZE",
-        "http://publications.europa.eu/resource/authority/country/SVK"
+        "http://publications.europa.eu/resource/authority/country/SVN"
     ],
     "revision_id": null,
     "identifier": "S930_65_8_EBS256_WAVE_2",
@@ -171,7 +171,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "407",
     "id": "S930_65_8_EBS256_WAVE_2",
     "metadata_created": "2015-07-29 08:24:07.174325",
     "modified_date": "",
@@ -187,7 +186,6 @@
     "description": "In the period from 13 to 29 June 2006 the second wave of the research , in survey on consumer rights issues was conducted in Slovakia, in Slovenia, in Czech Republic.\nThis survey was carried out using a representative sample of 1143\ncitizens of the Slovak Republic, aged 15 years or older, who answered\nquestions on the following themes:\n- Survey on awareness and evaluation of the consumers\u2019 rights\ncampaign\n- Consumer rights in the media\n- Awareness and use of services provided by consumer protection\norganisations\n- Awareness of consumer rights\nThe objective of the present study was to measure the initial impact of a European Union consumer rights information campaign, which began in Slovakia in May 2006 and will run until the end of the year.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Special Eurobarometer 256: Consumer rights and consumer organisations (Wave 2) in Slovakia, in Slovenia, in Czech Republic",
     "temporal_coverage_from": "",
-    "tracking_summary": "407",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

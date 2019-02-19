@@ -102,27 +102,6 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/cens_11r_esmscs.htm",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/977b443f-93b8-40e7-840c-52d8dcecb210",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
             "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/cens_11htts_r2",
             "created": null,
             "tracking_summary": null,
@@ -136,6 +115,27 @@
             "datastore_active": false,
             "id": "http://data.europa.eu/88u/document/421640db-94e7-494a-b9b7-9465fce027dd",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/cens_11r_esmscs.htm",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/977b443f-93b8-40e7-840c-52d8dcecb210",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
     ],
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2011",
+    "temporal_coverage_to": "2011-01-01",
     "num_tags": null,
-    "views_total": "273",
     "id": "6VZGRQFhvjtj3RZGlPUcg",
     "metadata_created": "2015-10-16 13:10:55.517383",
     "modified_date": "2015-04-23",
@@ -170,17 +169,16 @@
     "num_resources": 3,
     "description": "Private households by type, tenure status and NUTS 2 region",
     "title": "Private households by type, tenure status and NUTS 2 region",
-    "temporal_coverage_from": "2011",
-    "tracking_summary": "273",
+    "temporal_coverage_from": "2011-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         }
     ],
     "relationships_as_subject": [],

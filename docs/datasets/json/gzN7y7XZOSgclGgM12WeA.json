@@ -9,7 +9,7 @@
             "name": "income"
         }
     ],
-    "metadata_modified": "2019-02-08T08:22:36",
+    "metadata_modified": "2019-02-15T07:33:41",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/56"
@@ -23,10 +23,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tec00015",
+            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tec00015",
             "created": "",
             "tracking_summary": null,
-            "name": "Table",
+            "name": "Map",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -34,7 +34,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2701d655-13ed-4d90-baaf-14f60c3f1c5d",
+            "id": "http://data.europa.eu/88u/distribution/d3256be1-ba5c-4767-b5e7-15655276f01c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -42,12 +42,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tec00015",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00015.tsv.gz",
             "created": "",
             "tracking_summary": null,
-            "name": "Graph",
+            "name": "Default_Title",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -55,8 +55,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/11f5d333-c47c-4808-8c5e-8b135f741751",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "id": "http://data.europa.eu/88u/distribution/b4da182e-8cd2-420a-925e-0a309e36b9b1",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -76,7 +76,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/36c09031-286d-4b09-91a1-1f3523965a2d",
+            "id": "http://data.europa.eu/88u/distribution/db786781-e385-409d-b7bb-c5a21728b31f",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -86,10 +86,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tec00015",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tec00015",
             "created": "",
             "tracking_summary": null,
-            "name": "Map",
+            "name": "Graph",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -97,7 +97,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6689e2a5-fb4a-4135-a2cf-595f3996985a",
+            "id": "http://data.europa.eu/88u/distribution/a1fc99ac-d2be-4e1c-a091-cb4a350594fd",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -118,7 +118,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a3cf883e-cece-4b57-a687-e4881f93f204",
+            "id": "http://data.europa.eu/88u/distribution/f6593f35-e2ac-4885-bacf-05804e997ba8",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -126,12 +126,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00015.tsv.gz",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tec00015",
             "created": "",
             "tracking_summary": null,
-            "name": "Default_Title",
+            "name": "Table",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -139,8 +139,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a4cbe1a9-457a-465d-b2e0-6c7d2f35fd30",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "id": "http://data.europa.eu/88u/distribution/945bd415-abe3-48f6-b3c4-3c04b5f721d0",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -160,7 +160,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/73b92a26-bfe2-4708-8da6-cb4a68d14019",
+            "id": "http://data.europa.eu/88u/document/347f95ad-3336-44ff-97db-fc216b03d52d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -179,7 +179,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "919",
     "id": "gzN7y7XZOSgclGgM12WeA",
     "metadata_created": "2015-10-16 12:01:45.920607",
     "modified_date": "2019-02-06",
@@ -197,7 +196,6 @@
     "description": "Operating surplus is the surplus (or deficit) on production activities before account has been taken of the interest, rents or charges paid or received for the use of assets. Mixed income is the remuneration for the work carried out by the owner (or by members of his family) of an unincorporated enterprise. This is referred to as 'mixed income' since it cannot be distinguished from the entrepreneurial profit of the owner.",
     "title": "Gross operating surplus and mixed income",
     "temporal_coverage_from": "2006-01-01",
-    "tracking_summary": "919",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"

@@ -4,9 +4,11 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-11T07:21:59",
+    "metadata_modified": "2019-02-15T08:30:06",
     "temporal_granularity": "",
-    "concepts_eurovoc": [],
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/1802"
+    ],
     "license_id": null,
     "type": "dataset",
     "resources": [
@@ -27,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3b573b8f-f8ae-4fc1-ae05-54a282c153ac",
+            "id": "http://data.europa.eu/88u/distribution/58d559d3-10bd-4e09-a2f0-3f8a4c03aca0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -48,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e4e66fdb-4a83-43a9-b656-517ecedaa8ac",
+            "id": "http://data.europa.eu/88u/distribution/56c20b46-f66f-4746-a19c-6dd12ce04e73",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -69,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/88bc302d-4a52-47ce-a5f6-2c15bea2d45d",
+            "id": "http://data.europa.eu/88u/distribution/d61de993-4027-41ab-ac00-0f892fb4119c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +92,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/94ce54f8-d267-4d81-8f4d-f4c17fdd7915",
+            "id": "http://data.europa.eu/88u/distribution/c99ae7ef-be09-48ac-994d-f4d216ebf4c1",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -111,7 +113,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6cced95a-03f3-4b01-840f-9d434fb7249a",
+            "id": "http://data.europa.eu/88u/distribution/7ff95f73-87c3-4d17-8dcf-3417b89a2df6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -132,7 +134,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0f7f3498-ab87-4212-8c4a-83bfc49f8739",
+            "id": "http://data.europa.eu/88u/distribution/f4409780-f3f0-4cf1-88b9-f2f2e2a3a8e2",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -153,7 +155,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/49fd7e02-12da-42a6-be4f-4452beba59e3",
+            "id": "http://data.europa.eu/88u/document/ba3023c8-fc92-4a23-a37b-325d7169e336",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -172,7 +174,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "234",
     "id": "vDzJqB97upbRUpm6i5TQ",
     "metadata_created": "2015-10-16 12:07:56.867096",
     "modified_date": "2019-02-08",
@@ -190,10 +191,9 @@
     "description": "This indicator measures the share of people in current job for 12 months or less, in total employment. The indicator is based on the EU Labour Force Survey.",
     "title": "Newly employed",
     "temporal_coverage_from": "2005",
-    "tracking_summary": "234",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         }
     ],
     "relationships_as_subject": [],

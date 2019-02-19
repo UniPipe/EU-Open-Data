@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:40:48",
+    "metadata_modified": "2019-02-15T08:15:37",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3de435ae-e6e9-4595-8d48-5c825fe518fa",
+            "id": "http://data.europa.eu/88u/distribution/77d4ddc7-8f11-4514-8c3b-10a31fbd6aa0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/80d38c46-1d30-4ea1-8d79-119076b7fee2",
+            "id": "http://data.europa.eu/88u/distribution/5d616902-5ff6-49ad-b306-737c2064669f",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2c3f04c2-3881-4665-adb2-8af9ae1dd147",
+            "id": "http://data.europa.eu/88u/distribution/c481e8ef-8378-4c66-a1a2-bae682e528e9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -81,10 +81,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/lfso_05changh",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/lfso_05_esms.sdmx.zip",
             "created": null,
             "tracking_summary": null,
-            "name": "More information on Eurostat Website",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/35f4f2ef-bba4-4d0b-80cb-875bb6c5defd",
+            "id": "http://data.europa.eu/88u/document/bb342c2b-7e0b-4eda-959f-44f3f2abc524",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8065ff5d-d662-415f-b469-af4c59270f97",
+            "id": "http://data.europa.eu/88u/document/18b8b1ef-19a3-4f16-8cf1-d050a4897c97",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -123,10 +123,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/lfso_05_esms.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/lfso_05changh",
             "created": null,
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "name": "More information on Eurostat Website",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6d5bcd07-e3d9-4d96-af09-57482c26c8b4",
+            "id": "http://data.europa.eu/88u/document/1f3ff3b4-6883-487e-a719-21522e33d911",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2005-01-01",
+    "temporal_coverage_to": "2005",
     "num_tags": null,
-    "views_total": "132",
     "id": "Au09MB9S6XD6O1B4a4J1PQ",
     "metadata_created": "2015-10-16 11:41:59.767351",
     "modified_date": "2014-03-12",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Average usual working hours of employed persons between 15 and 64 years old by wish to change the organisation of their working life and care responsibilities",
     "title": "Average usual working hours of employed persons between 15 and 64 years old by wish to change the organisation of their working life and care responsibilities",
-    "temporal_coverage_from": "2005-01-01",
-    "tracking_summary": "132",
+    "temporal_coverage_from": "2005",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

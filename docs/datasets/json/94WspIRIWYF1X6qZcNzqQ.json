@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:39:04",
+    "metadata_modified": "2019-02-15T09:04:35",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b41c7d23-c7c1-47aa-834c-302d0b41f5c9",
+            "id": "http://data.europa.eu/88u/distribution/3fe13419-c1a7-4d0b-a74e-90a76469a365",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f9c55ddd-0d60-443d-85a0-a63127405082",
+            "id": "http://data.europa.eu/88u/distribution/a40a823a-37df-493b-b574-82e67b53ef29",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2c6bfd24-30ae-4637-b270-2eddefeeece1",
+            "id": "http://data.europa.eu/88u/distribution/8ca5f530-9356-4843-b8b9-212bc854f5a3",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,28 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ea1265bf-ee09-4271-a7bb-9f61e83d0f48",
+            "id": "http://data.europa.eu/88u/document/d43abb3a-2574-488e-9dd2-34cb09670d05",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/earn_ses06_01",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/97c227b6-60da-417f-9698-840eca1fe329",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,29 +134,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/cf0ca851-c61c-451b-9310-580baeedd5ff",
+            "id": "http://data.europa.eu/88u/document/2de91d6d-7607-4527-b76c-3047477cfd9e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/earn_ses06_01",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ae2579b2-3ef3-47e6-959a-8a952e9c2632",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2006",
+    "temporal_coverage_to": "2006-01-01",
     "num_tags": null,
-    "views_total": "233",
     "id": "94WspIRIWYF1X6qZcNzqQ",
     "metadata_created": "2015-10-16 11:58:22.239771",
     "modified_date": "2015-06-10",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "2006 - Number of employees by economic activity, collective pay agreement, sex",
     "title": "2006 - Number of employees by economic activity, collective pay agreement, sex",
-    "temporal_coverage_from": "2006",
-    "tracking_summary": "233",
+    "temporal_coverage_from": "2006-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

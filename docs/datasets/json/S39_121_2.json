@@ -5,14 +5,6 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "attitudes",
-            "name": "attitudes"
-        },
-        {
-            "display_name": "finance",
-            "name": "finance"
-        },
-        {
             "display_name": "opinion",
             "name": "opinion"
         },
@@ -21,16 +13,24 @@
             "name": "euro"
         },
         {
-            "display_name": "flash",
-            "name": "flash"
-        },
-        {
             "display_name": "polls",
             "name": "polls"
         },
         {
             "display_name": "surveys",
             "name": "surveys"
+        },
+        {
+            "display_name": "finance",
+            "name": "finance"
+        },
+        {
+            "display_name": "attitudes",
+            "name": "attitudes"
+        },
+        {
+            "display_name": "flash",
+            "name": "flash"
         }
     ],
     "metadata_modified": "2019-02-06T15:47:47",
@@ -39,27 +39,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "FL 121-2 Vol A OUT_doc",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?83D8DC58CB827BCF1EEE0191D3E5891E",
-            "created": "2015-02-05",
-            "tracking_summary": null,
-            "name": "Link to FL 121-2 Vol A OUT_doc.zip",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e5cce292-d393-482d-b65c-5320ff5af691",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -78,6 +57,27 @@
             "iframe_code": "",
             "datastore_active": false,
             "id": "http://data.europa.eu/88u/distribution/cd9174ba-e6e3-4e0b-9d14-a86c2ad13992",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "FLASH 121-2 Vol B IN 2_doc",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?35E270EF15B4EE066C18D684DA5C515D",
+            "created": "2015-02-05",
+            "tracking_summary": null,
+            "name": "Link to FLASH 121-2 Vol B IN 2_doc.zip",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/7a7df795-60ea-4345-b417-d57bcdf481c1",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -106,12 +106,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "FLASH 121-2 Vol B IN 2_doc",
+            "description": "FL 121-2 Vol A OUT_doc",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?35E270EF15B4EE066C18D684DA5C515D",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?83D8DC58CB827BCF1EEE0191D3E5891E",
             "created": "2015-02-05",
             "tracking_summary": null,
-            "name": "Link to FLASH 121-2 Vol B IN 2_doc.zip",
+            "name": "Link to FL 121-2 Vol A OUT_doc.zip",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -119,7 +119,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7a7df795-60ea-4345-b417-d57bcdf481c1",
+            "id": "http://data.europa.eu/88u/distribution/e5cce292-d393-482d-b65c-5320ff5af691",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -151,21 +151,21 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
-        "http://publications.europa.eu/resource/authority/country/NLD",
         "http://publications.europa.eu/resource/authority/country/LUX",
-        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/ITA",
         "http://publications.europa.eu/resource/authority/country/PRT",
-        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/SWE",
         "http://publications.europa.eu/resource/authority/country/BEL",
         "http://publications.europa.eu/resource/authority/country/AUT",
         "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/DEU",
-        "http://publications.europa.eu/resource/authority/country/ESP",
-        "http://publications.europa.eu/resource/authority/country/GRC",
-        "http://publications.europa.eu/resource/authority/country/FRA",
         "http://publications.europa.eu/resource/authority/country/FIN",
-        "http://publications.europa.eu/resource/authority/country/ITA",
-        "http://publications.europa.eu/resource/authority/country/IRL"
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/GRC"
     ],
     "revision_id": null,
     "identifier": "S39_121_2",
@@ -175,7 +175,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "301",
     "id": "S39_121_2",
     "metadata_created": "2015-02-09 06:39:17.764709",
     "modified_date": "",
@@ -191,7 +190,6 @@
     "description": "Pour mesurer l'\u00e9volution de l'opinion publique en Europe, pendant les mois suivant l'introduction des billets et des pi\u00e8ces d'euros.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Flash Eurobarometer 121.2: Attitudes on the euro",
     "temporal_coverage_from": "",
-    "tracking_summary": "301",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

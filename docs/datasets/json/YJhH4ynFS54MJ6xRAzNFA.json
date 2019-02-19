@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:08:37",
+    "metadata_modified": "2019-02-15T07:43:56",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/2914"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
+            "description": "Download dataset in TSV format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rd_e_gerdtot.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rd_e_gerdtot.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6734bd8f-31d3-413c-9f38-961420c46b01",
+            "id": "http://data.europa.eu/88u/distribution/7fc6ed97-b2fd-4ef7-b577-1224d75c58aa",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4eaaaca4-34cf-4570-aa23-8243624a52cd",
+            "id": "http://data.europa.eu/88u/distribution/7bc2a9dc-939a-43fc-b97d-840ac57a128f",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
+            "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rd_e_gerdtot.tsv.gz",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rd_e_gerdtot.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/675f78bb-ffb4-4bf9-8969-9de97803d4a0",
+            "id": "http://data.europa.eu/88u/distribution/a22651be-d185-4daa-bce0-85a3cd11cd55",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/498e4b63-35ed-4ad4-b001-12dbc918d70b",
+            "id": "http://data.europa.eu/88u/document/786c813e-82f1-442c-9b6a-d871c863ec2b",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b4c29222-b479-4299-b079-8c9814bea7d6",
+            "id": "http://data.europa.eu/88u/document/ce9ce648-8ce6-4da8-a5d4-283973a033ab",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/586affbb-c830-4596-a2e9-b6e85abf4476",
+            "id": "http://data.europa.eu/88u/document/b8ba1fe4-c132-494c-88af-fc54bf6cd78a",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "364",
     "id": "YJhH4ynFS54MJ6xRAzNFA",
     "metadata_created": "2015-10-16 12:19:55.277641",
     "modified_date": "2018-12-17",
@@ -171,7 +170,6 @@
     "description": "Intramural R&D expenditure (GERD) by sectors of performance",
     "title": "Intramural R&D expenditure (GERD) by sectors of performance",
     "temporal_coverage_from": "1981-01-01",
-    "tracking_summary": "364",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"

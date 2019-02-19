@@ -21,7 +21,7 @@
             "name": "paperboard"
         }
     ],
-    "metadata_modified": "2019-02-12T07:11:45",
+    "metadata_modified": "2019-02-15T07:54:56",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/6331"
@@ -46,7 +46,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d09ac372-76f8-4373-8eaa-312d6ebdfada",
+            "id": "http://data.europa.eu/88u/distribution/7febdef9-fcf2-4eac-95f5-4fce43357485",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -67,29 +67,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c0e90a9c-7f2c-42f2-a5cb-f701e973501c",
+            "id": "http://data.europa.eu/88u/distribution/b5d2f927-18fe-460a-9e74-091e4063676a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00074.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4e707121-cb33-4085-b54e-071caf3c390a",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -109,8 +88,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/13091538-6bee-4aeb-b214-418af0553049",
+            "id": "http://data.europa.eu/88u/distribution/ac3fa530-04f4-4936-85a6-a1367eab7722",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00074.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "2",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/ecf455e7-7b1e-42ab-b195-f0902d7a195e",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -130,7 +130,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f048200a-fd81-4648-b2be-1c1a7bc82498",
+            "id": "http://data.europa.eu/88u/distribution/edfe4fc1-e7e7-4e35-9f83-97b50092c2fd",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -151,7 +151,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/742e2606-2963-4c63-abef-975e38153ba1",
+            "id": "http://data.europa.eu/88u/distribution/b6016b3e-eded-4af1-9e5c-3a9e0a5b8686",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -172,7 +172,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b6c12820-14c3-4306-9cca-142033206390",
+            "id": "http://data.europa.eu/88u/document/21a8e331-320d-4c0b-a3e7-ba9cc2c7b97b",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -189,9 +189,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017",
+    "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "430",
     "id": "zEP5CpgfHGSGfhWXSPr6Zg",
     "metadata_created": "2015-10-16 10:29:02.352453",
     "modified_date": "2019-02-11",
@@ -208,8 +207,7 @@
     "num_resources": 6,
     "description": "\"Paper and paper board\" comprises the sum of graphic papers; sanitary and household papers; packaging materials and other paper and paperboard. It excludes manufactured paper products such as boxes, cartons, books and magazines.",
     "title": "Total paper and paperboard production",
-    "temporal_coverage_from": "2006",
-    "tracking_summary": "430",
+    "temporal_coverage_from": "2006-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"

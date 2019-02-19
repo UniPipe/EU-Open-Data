@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-12T11:34:16",
+    "metadata_modified": "2019-02-15T07:43:29",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/bf0350da-8aaf-4682-9fcd-9388203cbe4f",
+            "id": "http://data.europa.eu/88u/distribution/1bb280e0-e415-4a4f-9a59-9b38e3893dec",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b2f1f020-42fc-4b64-bd69-d5fe36c3cd3e",
+            "id": "http://data.europa.eu/88u/distribution/710aba90-eba6-4c48-881c-8f4e9c12b52c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,9 +69,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d1a58e01-40ac-4483-bad7-4c9cea65cd44",
+            "id": "http://data.europa.eu/88u/distribution/f269f3ff-61c8-4a38-b5d5-373bd5578bb3",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ei_mfir_m",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/4ed357e7-39fe-4585-ab63-55c001a07cf5",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
         },
         {
             "mimetype": null,
@@ -90,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/08b8f2c2-5332-4bb9-ac9a-c4c3ac6e8ab4",
+            "id": "http://data.europa.eu/88u/document/34fbc198-4eb4-4f67-8d1c-49a9c2513fb0",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,29 +132,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/530dfd6c-141f-4f86-99dc-1eed7f89f842",
+            "id": "http://data.europa.eu/88u/document/72f6a269-f67f-4cf4-9701-fc884d4b6a2a",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ei_mfir_m",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/0d1f8269-003e-46a7-a86f-e88effabf636",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -149,9 +149,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2019-01",
+    "temporal_coverage_to": "2019-01-01",
     "num_tags": null,
-    "views_total": "463",
     "id": "LOrzJOnZyTrXJERiIbkxLA",
     "metadata_created": "2015-10-16 12:09:46.687390",
     "modified_date": "2019-02-12",
@@ -168,14 +167,13 @@
     "num_resources": 3,
     "description": "Interest rates - monthly data",
     "title": "Interest rates - monthly data",
-    "temporal_coverage_from": "1980-01",
-    "tracking_summary": "463",
+    "temporal_coverage_from": "1980-01-01",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         }
     ],
     "relationships_as_subject": [],

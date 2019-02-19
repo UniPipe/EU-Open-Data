@@ -5,20 +5,12 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "people",
-            "name": "people"
-        },
-        {
-            "display_name": "young",
-            "name": "young"
+            "display_name": "surveys",
+            "name": "surveys"
         },
         {
             "display_name": "opinion",
             "name": "opinion"
-        },
-        {
-            "display_name": "science",
-            "name": "science"
         },
         {
             "display_name": "flash",
@@ -29,8 +21,16 @@
             "name": "polls"
         },
         {
-            "display_name": "surveys",
-            "name": "surveys"
+            "display_name": "people",
+            "name": "people"
+        },
+        {
+            "display_name": "science",
+            "name": "science"
+        },
+        {
+            "display_name": "young",
+            "name": "young"
         }
     ],
     "metadata_modified": "2019-02-06T15:49:16",
@@ -151,33 +151,33 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
-        "http://publications.europa.eu/resource/authority/country/SVN",
         "http://publications.europa.eu/resource/authority/country/SVK",
-        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/NLD",
         "http://publications.europa.eu/resource/authority/country/POL",
         "http://publications.europa.eu/resource/authority/country/PRT",
         "http://publications.europa.eu/resource/authority/country/ROU",
-        "http://publications.europa.eu/resource/authority/country/SWE",
         "http://publications.europa.eu/resource/authority/country/BEL",
         "http://publications.europa.eu/resource/authority/country/AUT",
         "http://publications.europa.eu/resource/authority/country/CYP",
         "http://publications.europa.eu/resource/authority/country/BGR",
         "http://publications.europa.eu/resource/authority/country/DEU",
         "http://publications.europa.eu/resource/authority/country/CZE",
-        "http://publications.europa.eu/resource/authority/country/EST",
-        "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/ESP",
-        "http://publications.europa.eu/resource/authority/country/GRC",
-        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/FIN",
-        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
         "http://publications.europa.eu/resource/authority/country/HUN",
-        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/GRC",
         "http://publications.europa.eu/resource/authority/country/ITA",
-        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/IRL",
         "http://publications.europa.eu/resource/authority/country/LUX",
-        "http://publications.europa.eu/resource/authority/country/NLD",
-        "http://publications.europa.eu/resource/authority/country/MLT"
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/LVA"
     ],
     "revision_id": null,
     "identifier": "S696_239",
@@ -187,7 +187,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "0",
     "id": "S696_239",
     "metadata_created": "2015-02-03 06:09:01.282600",
     "modified_date": "",
@@ -203,7 +202,6 @@
     "description": "The current Flash Eurobarometer on \u201cYoung People and Science\u201d, requested by the Research Directorate-General, was conducted to determine young people\u201fs interest in science and technology, their views on various topics and their plans for future involvement in the scientific domains. \n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Flash Eurobarometer 239: Young people and science",
     "temporal_coverage_from": "",
-    "tracking_summary": "0",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

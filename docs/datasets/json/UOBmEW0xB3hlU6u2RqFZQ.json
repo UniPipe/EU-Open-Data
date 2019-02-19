@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:17:49",
+    "metadata_modified": "2019-02-15T08:24:51",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -14,9 +14,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/icw_pov_03.tsv.gz",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/icw_pov_03.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0f11bf9b-5834-4f05-9974-80e497336b74",
+            "id": "http://data.europa.eu/88u/distribution/fe65b8b3-a068-4dc1-8c84-4b67a62ceae5",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/54835470-75f8-419c-b0ff-8136c3ff01fc",
+            "id": "http://data.europa.eu/88u/distribution/e6857771-f270-48f6-b4b8-2ee92ebffbf6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -56,9 +56,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/icw_pov_03.tsv.gz&unzip=true",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/icw_pov_03.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3c2aa320-b279-4262-ae3a-aabb78b65d32",
+            "id": "http://data.europa.eu/88u/distribution/dece8795-049b-42f1-b206-3b330c5bfcf8",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/bb2a7c7d-c4a2-43d1-b477-bc72dfaec858",
+            "id": "http://data.europa.eu/88u/document/21bc51c3-8888-497e-96ad-5d041f08c352",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -109,7 +109,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2010-01-01",
     "num_tags": null,
-    "views_total": "10",
     "id": "UOBmEW0xB3hlU6u2RqFZQ",
     "metadata_created": "2017-07-04 05:19:37.855302",
     "modified_date": "2017-06-13",
@@ -127,7 +126,6 @@
     "description": "Proportion of dissaving households - experimental statistics",
     "title": "Proportion of dissaving households - experimental statistics",
     "temporal_coverage_from": "2010-01-01",
-    "tracking_summary": "10",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

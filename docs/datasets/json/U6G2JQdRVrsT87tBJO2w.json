@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:56:26",
+    "metadata_modified": "2019-02-15T07:33:43",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/61cfdd5e-ff83-4973-b3e5-3ac13e710c9b",
+            "id": "http://data.europa.eu/88u/distribution/1da150ce-80be-42a9-af14-f5be32493369",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1a822f41-d2c4-497c-8ed0-268e1223b621",
+            "id": "http://data.europa.eu/88u/distribution/9eec4c70-e913-469f-a8fe-2a445e857eb2",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/43c726dc-00de-498c-8448-d5d0f0d3fda8",
+            "id": "http://data.europa.eu/88u/distribution/c9d7a712-f5af-428f-b918-5a4cb414b309",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3de5ec76-4ba6-4ff2-9f74-61457bc8adad",
+            "id": "http://data.europa.eu/88u/distribution/e1a14acf-c40e-488b-9e3c-602bfaadbd87",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/9d085c64-b958-45cc-b920-f8ef13b5a7f7",
+            "id": "http://data.europa.eu/88u/distribution/35c8f109-c3ea-4c3e-a7cc-af63163dc08f",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/946c8edd-ad5f-4c09-9a15-122eadaa776f",
+            "id": "http://data.europa.eu/88u/distribution/4fff0202-bf25-4b0f-beac-c6748e2b7212",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -153,7 +153,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/bdb2e2ac-adb7-4351-9005-83f1b079995b",
+            "id": "http://data.europa.eu/88u/document/5f3206e5-f218-42a2-8df8-25cc46a187c1",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -174,7 +174,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8dfbcf29-5b99-464e-a0a2-37b754978263",
+            "id": "http://data.europa.eu/88u/document/fd89d451-8cd5-48b6-b91b-2f44589a8adc",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -195,7 +195,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f2891807-dee7-4a6b-a731-75e8d28386e7",
+            "id": "http://data.europa.eu/88u/document/87a13ba0-9296-41ab-8a89-dbf278714106",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -214,7 +214,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2013",
     "num_tags": null,
-    "views_total": "260",
     "id": "U6G2JQdRVrsT87tBJO2w",
     "metadata_created": "2015-10-16 10:18:15.966864",
     "modified_date": "2019-01-31",
@@ -232,10 +231,15 @@
     "description": "Internet skills are measured using a self-assessment approach, depending on how many internet related tasks have been carried out, without these skills being assessed, tested or actually observed. 3 or 4 of the following activities have been done: used search engine, sent mail with attachment, posted messages to chatrooms/newsgroups or online discussion forum, made phone calls, done peer-to-peer file sharing or created a web page.",
     "title": "Individuals who have carried out 3 or 4 of the related internet activities",
     "temporal_coverage_from": "2005",
-    "tracking_summary": "260",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

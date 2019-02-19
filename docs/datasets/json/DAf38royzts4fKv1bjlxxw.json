@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:58:09",
+    "metadata_modified": "2019-02-15T08:46:44",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/12"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5a2ff233-defe-49da-9dd5-13431e6b8a28",
+            "id": "http://data.europa.eu/88u/distribution/f2a2d82d-7b89-4d54-accd-14de765a74d0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/39c7fc26-606f-4f6c-8fd1-6829ad0bb9ec",
+            "id": "http://data.europa.eu/88u/distribution/33d129b0-dca5-4f6f-9648-81783d7d727b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,9 +71,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/9ac27002-7c5c-4b1a-bcb3-34d39e012abf",
+            "id": "http://data.europa.eu/88u/distribution/f9b93c7c-6878-46c9-b930-598e93f22414",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/cpc_etflow",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/4897cbea-3a3e-475d-aa5d-c3942290af71",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
         },
         {
             "mimetype": null,
@@ -92,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ea34f0eb-51db-4ac5-ab02-73ef0fdb37b9",
+            "id": "http://data.europa.eu/88u/document/a18a5bae-b9a1-4b04-a079-4e8c69f237fd",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,29 +134,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/854ffb73-2f47-4a21-b885-e614e9f82364",
+            "id": "http://data.europa.eu/88u/document/8b179982-6227-4f3a-95f8-988e2240e3c5",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/cpc_etflow",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8b76ad68-0990-46e9-ae68-823c51ac6dc2",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2015",
+    "temporal_coverage_to": "2015-01-01",
     "num_tags": null,
-    "views_total": "0",
     "id": "DAf38royzts4fKv1bjlxxw",
     "metadata_created": "2015-10-16 12:58:47.549155",
     "modified_date": "2016-10-11",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Candidate countries and potential candidates: trading partners - flows",
     "title": "Candidate countries and potential candidates: trading partners - flows",
-    "temporal_coverage_from": "2002",
-    "tracking_summary": "0",
+    "temporal_coverage_from": "2002-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

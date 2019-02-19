@@ -227,7 +227,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "3",
     "id": "jrc-10109-media-types",
     "metadata_created": "2018-09-04 12:06:12.945309",
     "modified_date": "2018-12-21 10:39:20.598844",
@@ -243,7 +242,6 @@
     "description": "This register contains media types used for spatial data sets in INSPIRE, in particular in INSPIRE download services. Whenever media types exist that are registered with IANA or are in the registration process these are used. For all other formats, no commonly used media type exists and INSPIRE has to - at least temporarily - define their own types. In accordance with the rules for media types in RFC 2046/RFC 4288, these start with \"x-\". At this time, all entries in this register have the status 'valid'. Media types that are no longer recommended for use will be marked as 'deprecated', but will always be kept in this register as download services may still be using deprecated media types.",
     "title": "INSPIRE media-types register",
     "temporal_coverage_from": "",
-    "tracking_summary": "3",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"

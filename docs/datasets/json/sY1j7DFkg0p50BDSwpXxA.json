@@ -4,10 +4,10 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:53:25",
+    "metadata_modified": "2019-02-19T07:24:07",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/1802"
+        "http://eurovoc.europa.eu/1280"
     ],
     "license_id": null,
     "type": "dataset",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/95b40ed0-22df-4d4f-8af6-0f7aa9a3fdda",
+            "id": "http://data.europa.eu/88u/distribution/ba58ceb9-be18-4db7-84b6-8c7d40312cb5",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2fb608ef-a2f3-4204-ae88-e3ac6edfbcc1",
+            "id": "http://data.europa.eu/88u/distribution/f9b12e45-84df-4f00-ae3d-6a09358b1365",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/21dfc3ba-9cf9-4215-a635-51f72d18e333",
+            "id": "http://data.europa.eu/88u/distribution/1d202fda-04ea-4230-b8af-0af075577e74",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/f4bc38bb-63e6-49b5-9207-cfae997c0403",
+            "id": "http://data.europa.eu/88u/document/70603f15-51fb-46a7-be78-ad98e795060e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/30815e98-3e27-4e79-acc4-ee6d82ed5741",
+            "id": "http://data.europa.eu/88u/document/32e15d56-05b7-4438-8db4-d7b5b2c89361",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/09d8be46-c731-483c-8f2f-52e8dbe688be",
+            "id": "http://data.europa.eu/88u/document/ac4c7d3f-70d2-4a0c-8de1-5e474c00df1a",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -153,10 +153,9 @@
     "tag_string": null,
     "temporal_coverage_to": "2013",
     "num_tags": null,
-    "views_total": "0",
     "id": "sY1j7DFkg0p50BDSwpXxA",
     "metadata_created": "2015-10-16 10:35:47.255036",
-    "modified_date": "2015-11-18",
+    "modified_date": "2019-02-18",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -171,10 +170,15 @@
     "description": "Persons reporting an accident at work by sex and full-time/part-time employment",
     "title": "Persons reporting an accident at work by sex and full-time/part-time employment",
     "temporal_coverage_from": "2007",
-    "tracking_summary": "0",
     "groups": [
         {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+        },
+        {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

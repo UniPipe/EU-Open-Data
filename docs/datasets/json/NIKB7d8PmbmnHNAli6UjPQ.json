@@ -9,7 +9,7 @@
             "name": "monetary and financial indicators"
         }
     ],
-    "metadata_modified": "2019-02-08T08:18:47",
+    "metadata_modified": "2019-02-15T08:03:01",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4390"
@@ -17,6 +17,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teimf200.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "2",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/9874e777-d007-4996-bfaa-8a4f18a87e8b",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -34,7 +55,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/72c74b4e-d36f-49a5-9822-3de45cf0ee16",
+            "id": "http://data.europa.eu/88u/distribution/3d546312-b479-4625-bb37-bac148de9ad2",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -55,29 +76,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6bac192d-11de-449c-b4c4-3a4b1871e12a",
+            "id": "http://data.europa.eu/88u/distribution/8f5b71e6-039e-4836-bf5e-98946c618a91",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=teimf200",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Map",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4c4bfd84-a8d4-479a-b561-074a9aaef35c",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -97,7 +97,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7fa66146-729f-44b4-88c9-d122f7479987",
+            "id": "http://data.europa.eu/88u/distribution/4061f140-bde8-4084-984e-2c156d210d79",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -105,12 +105,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teimf200.tsv.gz",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=teimf200",
             "created": "",
             "tracking_summary": null,
-            "name": "Default_Title",
+            "name": "Map",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -118,8 +118,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/62454a44-de37-4a0d-8572-84e4d874f09c",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "id": "http://data.europa.eu/88u/distribution/4f6696fa-3b2a-44ac-a2fc-16841d39ba57",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -139,9 +139,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e31bbaca-5c2f-49b2-bac9-dcb73cd6b392",
+            "id": "http://data.europa.eu/88u/distribution/b40c10f7-9047-4700-b419-36c82d37626d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teimf200",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/51561339-4fad-42c2-b6c3-2962716eb153",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
         },
         {
             "mimetype": null,
@@ -160,7 +181,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/fd061ddd-8615-428e-9c10-9f413ed053ea",
+            "id": "http://data.europa.eu/88u/document/10d9e784-857a-4510-a7e6-8dcf5817c3fe",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -181,29 +202,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d08405e7-1806-4dbb-abfc-fe2c77777846",
+            "id": "http://data.europa.eu/88u/document/f4fc8b7f-29ac-4a25-a3de-f84c980dfb90",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teimf200",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b7ef689a-3a0d-4317-8c08-0177a79c54ff",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -221,7 +221,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2019-01-01",
     "num_tags": null,
-    "views_total": "1135",
     "id": "NIKB7d8PmbmnHNAli6UjPQ",
     "metadata_created": "2015-10-16 10:55:50.202191",
     "modified_date": "2019-02-01",
@@ -239,7 +238,6 @@
     "description": "The Euro-national currency exchange rate represents the equivalent of one euro expressed in national currency. For example, the euro-dollar exchange rate is the equivalent of one euro expressed in United States dollars. Monthly data are the average of the observed business day rates. Data are presented in raw form. Source: European Central Bank (ECB)",
     "title": "Euro/national currency exchange rates",
     "temporal_coverage_from": "2018-02-01",
-    "tracking_summary": "1135",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"

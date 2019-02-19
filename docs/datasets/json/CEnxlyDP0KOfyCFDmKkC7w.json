@@ -13,7 +13,7 @@
             "name": "region"
         }
     ],
-    "metadata_modified": "2019-02-11T07:21:42",
+    "metadata_modified": "2019-02-15T07:44:54",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -38,28 +38,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/0e101702-591c-4219-ab91-5823ce948ad4",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tgs00053",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Map",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fd4262c0-332f-417a-96de-574d75e47530",
+            "id": "http://data.europa.eu/88u/distribution/dd6365ed-4d90-4209-b606-bd4353bf9c8d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -80,7 +59,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d676363e-f582-43a5-a85b-955ebb4e96fb",
+            "id": "http://data.europa.eu/88u/distribution/13c0a73b-4699-454b-98d2-49a071229048",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,10 +69,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tgs00053",
+            "url": "http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&init=1&plugin=1&language=en&pcode=tgs00053",
             "created": "",
             "tracking_summary": null,
-            "name": "Graph",
+            "name": "Map",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -101,7 +80,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/10a668c9-2bb7-4fac-8a92-90245d3353a0",
+            "id": "http://data.europa.eu/88u/distribution/d355cd69-5770-4608-9318-d658847ce6cc",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -122,7 +101,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3d111311-2eaf-43ce-8623-166e7eece245",
+            "id": "http://data.europa.eu/88u/distribution/dffa1263-2d4b-4b6c-80fb-a551ec820c9c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -143,8 +122,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/68ca840e-c5a3-435e-a822-6d7702c3e980",
+            "id": "http://data.europa.eu/88u/distribution/f6014df2-8c9f-473f-8a21-336342ef2d27",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tgs00053",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Graph",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/16a837a7-e3df-44eb-92a1-72c8efb1ff3a",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -164,7 +164,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/e9ad3d8b-df9c-4ad3-9d4d-51d99a4bc217",
+            "id": "http://data.europa.eu/88u/document/f5320bdd-bd18-43d9-a4cc-bb5815c3ebd3",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -181,9 +181,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017",
+    "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "420",
     "id": "CEnxlyDP0KOfyCFDmKkC7w",
     "metadata_created": "2015-10-16 10:12:37.436078",
     "modified_date": "2019-02-08",
@@ -200,8 +199,7 @@
     "num_resources": 6,
     "description": "The share of long-term unemployment is the share of unemployed persons since 12 months or more in the total active population, expressed as a percentage. The total active population (labour force) is the total number of the employed and unemployed population. The duration of unemployment is defined as the duration of a search for a job or as the period of time since the last job was held (if this period is shorter than the duration of the search for a job).",
     "title": "Long-term unemployment rate (12 months and more) by NUTS 2 regions",
-    "temporal_coverage_from": "2006",
-    "tracking_summary": "420",
+    "temporal_coverage_from": "2006-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

@@ -4,10 +4,10 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:48:44",
+    "metadata_modified": "2019-02-15T07:59:14",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/2870"
+        "http://eurovoc.europa.eu/1802"
     ],
     "license_id": null,
     "type": "dataset",
@@ -16,21 +16,21 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00073.sdmx.zip",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tps00073",
             "created": "",
             "tracking_summary": null,
-            "name": "Default_Title",
+            "name": "Table",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "1",
+            "download_total_resource": "0",
             "url_type": null,
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8101167f-a4a6-4649-9221-caecc35aed7d",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "id": "http://data.europa.eu/88u/distribution/fb42f3c0-807d-4970-b793-7b5762108cb5",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e9cfc10d-f3c0-433c-bcaf-f659addaee6f",
+            "id": "http://data.europa.eu/88u/distribution/1bb966a7-520a-44a9-a010-328bbdb45400",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -71,29 +71,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3bc03861-f1c8-4d71-879f-6f99c30ee977",
+            "id": "http://data.europa.eu/88u/distribution/b8d53dab-ba00-4995-830e-c982b37ffcb2",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tps00073",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Table",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/47397718-2630-4bce-b9da-3ed6e6cfcd53",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -113,8 +92,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2292cd8e-1644-4a77-bbf7-7a5d3f8d0c91",
+            "id": "http://data.europa.eu/88u/distribution/683df756-cea3-49ed-b443-3ef71ac4f890",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00073.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/137b3656-dc75-4299-96fc-af3e71761401",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/beaafeb4-282c-4b1b-bd2d-9cc410244c7e",
+            "id": "http://data.europa.eu/88u/distribution/231b5807-cdaf-45fc-bf03-0e111619700e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -155,7 +155,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/2171aa89-7ac8-47f9-ab69-2c0056379438",
+            "id": "http://data.europa.eu/88u/document/695af58f-0fad-4556-b886-416f4f1835c7",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -172,9 +172,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "403",
     "id": "rKXDQCrvVjmOz4CgEbnSbw",
     "metadata_created": "2015-10-16 09:56:59.700942",
     "modified_date": "2019-02-01",
@@ -191,11 +190,10 @@
     "num_resources": 6,
     "description": "A job may be considered temporary if employer and employee agree that its end is determined by objective conditions such as a specific date, the completion of a task or the return of another employee who has been temporarily replaced (usually stated in a work contract of limited duration). Typical cases are: (a) persons with seasonal employment; (b) persons engaged by an agency or employment exchange and hired to a third party to perform a specific task (unless there is a written work contract of unlimited duration); (c) persons with specific training contracts.",
     "title": "Employees with a contract of limited duration (annual average)",
-    "temporal_coverage_from": "2006-01-01",
-    "tracking_summary": "403",
+    "temporal_coverage_from": "2006",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         }
     ],
     "relationships_as_subject": [],

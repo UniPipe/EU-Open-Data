@@ -5,24 +5,8 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "africa",
-            "name": "africa"
-        },
-        {
-            "display_name": "eu",
-            "name": "eu"
-        },
-        {
             "display_name": "partnership",
             "name": "partnership"
-        },
-        {
-            "display_name": "working",
-            "name": "working"
-        },
-        {
-            "display_name": "polls",
-            "name": "polls"
         },
         {
             "display_name": "opinion",
@@ -33,8 +17,24 @@
             "name": "surveys"
         },
         {
+            "display_name": "eu",
+            "name": "eu"
+        },
+        {
             "display_name": "special",
             "name": "special"
+        },
+        {
+            "display_name": "polls",
+            "name": "polls"
+        },
+        {
+            "display_name": "working",
+            "name": "working"
+        },
+        {
+            "display_name": "africa",
+            "name": "africa"
         }
     ],
     "metadata_modified": "2019-02-06T15:10:01",
@@ -55,33 +55,12 @@
             "name": "Link to OP_VolumeBEB735DEVafrica.zip",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "0",
+            "download_total_resource": "1",
             "url_type": null,
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
             "id": "http://data.europa.eu/88u/distribution/a39329f4-198f-4ee8-b991-69bdf13e2b9c",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Volume: VolumeAEB735DEVafrica",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?139F31D6C0140CAB6079530452125078",
-            "created": "2014-12-08",
-            "tracking_summary": null,
-            "name": "Link to OP_VolumeAEB735DEVafrica.zip",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3469c990-272f-47ad-8942-75d7f62ab1da",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -129,6 +108,27 @@
         },
         {
             "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Volume: VolumeAEB735DEVafrica",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?139F31D6C0140CAB6079530452125078",
+            "created": "2014-12-08",
+            "tracking_summary": null,
+            "name": "Link to OP_VolumeAEB735DEVafrica.zip",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/3469c990-272f-47ad-8942-75d7f62ab1da",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
             "mimetype_inner": null,
             "hash": "",
             "description": "",
@@ -155,33 +155,33 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
-        "http://publications.europa.eu/resource/authority/country/SVN",
         "http://publications.europa.eu/resource/authority/country/SVK",
-        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/SVN",
+        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/NLD",
         "http://publications.europa.eu/resource/authority/country/POL",
         "http://publications.europa.eu/resource/authority/country/PRT",
         "http://publications.europa.eu/resource/authority/country/ROU",
-        "http://publications.europa.eu/resource/authority/country/SWE",
         "http://publications.europa.eu/resource/authority/country/BEL",
         "http://publications.europa.eu/resource/authority/country/AUT",
         "http://publications.europa.eu/resource/authority/country/CYP",
         "http://publications.europa.eu/resource/authority/country/BGR",
         "http://publications.europa.eu/resource/authority/country/DEU",
         "http://publications.europa.eu/resource/authority/country/CZE",
-        "http://publications.europa.eu/resource/authority/country/EST",
-        "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/ESP",
-        "http://publications.europa.eu/resource/authority/country/GRC",
-        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/FIN",
-        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/EST",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
         "http://publications.europa.eu/resource/authority/country/HUN",
-        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/GRC",
         "http://publications.europa.eu/resource/authority/country/ITA",
-        "http://publications.europa.eu/resource/authority/country/LVA",
+        "http://publications.europa.eu/resource/authority/country/IRL",
         "http://publications.europa.eu/resource/authority/country/LUX",
-        "http://publications.europa.eu/resource/authority/country/NLD",
-        "http://publications.europa.eu/resource/authority/country/MLT"
+        "http://publications.europa.eu/resource/authority/country/LTU",
+        "http://publications.europa.eu/resource/authority/country/MLT",
+        "http://publications.europa.eu/resource/authority/country/LVA"
     ],
     "revision_id": null,
     "identifier": "S929_73_5_EBS353",
@@ -191,7 +191,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "304",
     "id": "S929_73_5_EBS353",
     "metadata_created": "2015-07-29 08:29:44.142961",
     "modified_date": "",
@@ -207,7 +206,6 @@
     "description": "A special Eurobarometer on EU-Africa relations published ahead of the EU-Africa Summit in Libya on 29/30 November shows that European citizens broadly agree with the focus of cooperation between the two partners. For Europeans, the main challenges for cooperation are to tackle poverty (38%), peace and security (34%), and human rights (33%). This focus is consistent with the primary EU development policy goal of eradicating poverty, as laid out in the Lisbon Treaty and reflected in the Commission's recent Green Paper on \"EU Development Policy in Support of Inclusive Growth and Sustainable Development\". \nIn the context of the Strategy, the first action plan covering the period 2008-2010 and introducing concrete measures was structured around eight strategic partnerships:\n1. Peace and security\n2. Democratic governance and human rights\n3. Trade, regional integration and infrastructure\n4. Millennium development goals (MDGs)\n5. Energy\n6. Climate change\n7. Migration, mobility and employment\n8. Science, information society and space\nThe main finding of the survey could be that views of European citizens on Africa mainly\nreflect traditional images and perceptions. However, seen in a global economic and political\nperspective the African continent is not about immaculate nature and wildlife or people living\nin deprivation. It is a continent that increasingly assumes a key role in defining how the\nworld deals with challenges such as security, climate change, energy or migration flows.\nAfrican states are cooperating in the institutional framework of the African Union and in the\ndifferent continental Regional Economic Communities. The Africa-EU Partnership in this\ncontext constitutes an important geostrategic effort of linking Europe and Africa in dialogue\nand cooperation - an effort that deserves increased recognition from the general European\npublic.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Special Eurobarometer 353: The EU and Africa: Working towards closer partnership",
     "temporal_coverage_from": "",
-    "tracking_summary": "304",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:15:52",
+    "metadata_modified": "2019-02-15T08:53:52",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/5909",
@@ -17,9 +17,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
+            "description": "Download dataset in TSV format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_cap_nuts3.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_cap_nuts3.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -30,7 +30,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c6011de2-cda2-4371-86a1-dc3791d36fa3",
+            "id": "http://data.europa.eu/88u/distribution/bb5d8f1d-ead8-4d26-a647-fdce89bb7e9c",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -51,7 +51,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2c178e44-ba3c-4fd8-bf87-70e884f82af0",
+            "id": "http://data.europa.eu/88u/distribution/7cf1f668-1598-447b-a52a-844499c18f3e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -59,9 +59,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
+            "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_cap_nuts3.tsv.gz",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_cap_nuts3.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -72,7 +72,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/803be4e5-7962-4979-9df1-592f78d8498d",
+            "id": "http://data.europa.eu/88u/distribution/b49a8e78-c5ab-4378-8cb8-932f63541e2f",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -93,7 +93,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d07cf8ff-e8ff-4d35-b2a7-ba4c4a911073",
+            "id": "http://data.europa.eu/88u/document/3222211b-95fd-4d8b-9aba-89811d30559d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -112,7 +112,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2011-01-01",
     "num_tags": null,
-    "views_total": "213",
     "id": "Erb5EzFiRuusWOw7vMFOeg",
     "metadata_created": "2015-10-16 11:31:41.292781",
     "modified_date": "2015-05-07",
@@ -130,7 +129,6 @@
     "description": "Number of establishments, bedrooms and bed-places by NUTS 3 regions (1990-2011)",
     "title": "Number of establishments, bedrooms and bed-places by NUTS 3 regions (1990-2011)",
     "temporal_coverage_from": "1990-01-01",
-    "tracking_summary": "213",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"

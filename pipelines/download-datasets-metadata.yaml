@@ -13,11 +13,10 @@
 # limitations under the License.
 
 libraries:
-    - ~/Projects/openpipe-plugins/ckan      # Only need for local development
     - https://github.com/openpipe-plugins/ckan
 
 # Leveraging YAML anchors for steps configuration deduplication
-ckan_config_data: &ckan_config_data
+_ckan_config_data: &ckan_config_data
     url: http://data.europa.eu/euodp/data/
 
 start:
@@ -45,6 +44,9 @@ start:
     - delete:
         $'[DISCONTINUED]' in title$
     - print: "Tile: $title$"
+    - drop:
+        views_total:
+        tracking_summary:
     - export to file:
         path: docs/datasets/json/$id$.json
         content: $_$

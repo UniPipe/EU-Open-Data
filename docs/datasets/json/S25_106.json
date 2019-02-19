@@ -5,12 +5,24 @@
     "revision_timestamp": null,
     "keywords": [
         {
+            "display_name": "opinion",
+            "name": "opinion"
+        },
+        {
             "display_name": "market",
             "name": "market"
         },
         {
-            "display_name": "single",
-            "name": "single"
+            "display_name": "polls",
+            "name": "polls"
+        },
+        {
+            "display_name": "surveys",
+            "name": "surveys"
+        },
+        {
+            "display_name": "flash",
+            "name": "flash"
         },
         {
             "display_name": "survey",
@@ -21,20 +33,8 @@
             "name": "monitor"
         },
         {
-            "display_name": "polls",
-            "name": "polls"
-        },
-        {
-            "display_name": "opinion",
-            "name": "opinion"
-        },
-        {
-            "display_name": "surveys",
-            "name": "surveys"
-        },
-        {
-            "display_name": "flash",
-            "name": "flash"
+            "display_name": "single",
+            "name": "single"
         }
     ],
     "metadata_modified": "2019-02-06T15:49:42",
@@ -92,21 +92,21 @@
     "accrual_periodicity": "",
     "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a",
     "geographical_coverage": [
-        "http://publications.europa.eu/resource/authority/country/NLD",
         "http://publications.europa.eu/resource/authority/country/LUX",
-        "http://publications.europa.eu/resource/authority/country/SWE",
+        "http://publications.europa.eu/resource/authority/country/ITA",
         "http://publications.europa.eu/resource/authority/country/PRT",
-        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/NLD",
+        "http://publications.europa.eu/resource/authority/country/SWE",
         "http://publications.europa.eu/resource/authority/country/BEL",
         "http://publications.europa.eu/resource/authority/country/AUT",
         "http://publications.europa.eu/resource/authority/country/DNK",
         "http://publications.europa.eu/resource/authority/country/DEU",
-        "http://publications.europa.eu/resource/authority/country/ESP",
-        "http://publications.europa.eu/resource/authority/country/GRC",
-        "http://publications.europa.eu/resource/authority/country/FRA",
         "http://publications.europa.eu/resource/authority/country/FIN",
-        "http://publications.europa.eu/resource/authority/country/ITA",
-        "http://publications.europa.eu/resource/authority/country/IRL"
+        "http://publications.europa.eu/resource/authority/country/ESP",
+        "http://publications.europa.eu/resource/authority/country/GBR",
+        "http://publications.europa.eu/resource/authority/country/FRA",
+        "http://publications.europa.eu/resource/authority/country/IRL",
+        "http://publications.europa.eu/resource/authority/country/GRC"
     ],
     "revision_id": null,
     "identifier": "S25_106",
@@ -116,7 +116,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "570",
     "id": "S25_106",
     "metadata_created": "2015-02-03 06:12:24.486756",
     "modified_date": "",
@@ -132,7 +131,6 @@
     "description": "3 employment sizes of the businesses : the small PME (10-49 jobs), the large PME (50-249 jobs), and the large businesses (250 jobs and more)\n- 4 activity sectors : the Business Services (including Transport and Finances), the Distribution (trade activities), the Manufacturing industry, and the Construction sector(civil engineering, etc...).\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Flash Eurobarometer 106: The Single Market Monitor Survey",
     "temporal_coverage_from": "",
-    "tracking_summary": "570",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

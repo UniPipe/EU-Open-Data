@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:54:07",
+    "metadata_modified": "2019-02-15T07:53:47",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/earn_ses_agt03.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/earn_ses_agt03.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e23889fa-a18d-4153-be16-6e432d85c5de",
+            "id": "http://data.europa.eu/88u/distribution/a6863bb8-4733-410c-a450-01fb129f5de1",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c09d7090-2ee6-4b15-ba6b-baea0ba434f3",
+            "id": "http://data.europa.eu/88u/distribution/6d78efaa-0308-4b0d-b2b1-1aee942a5788",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/earn_ses_agt03.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/earn_ses_agt03.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f096b719-e963-41d7-b420-59fc20e677e4",
+            "id": "http://data.europa.eu/88u/distribution/0e578412-7bd6-416a-b661-cc317f0e124d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9e30c315-a312-4aea-b600-971342ff3933",
+            "id": "http://data.europa.eu/88u/document/86e76b9f-b69c-440a-8fda-d5cb65b42f63",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/eb537754-c29b-4e65-9ffd-8b89ef0052d1",
+            "id": "http://data.europa.eu/88u/document/82985260-e55e-48ad-9b51-9395e8c49574",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/0b0170fb-0f96-4bda-b551-1670c4056237",
+            "id": "http://data.europa.eu/88u/document/59b94b73-181d-497d-aafb-29491de762ce",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2002-01-01",
+    "temporal_coverage_to": "2002",
     "num_tags": null,
-    "views_total": "222",
     "id": "MOqDyjjaNOQui5nWIY0Kg",
     "metadata_created": "2015-10-16 12:41:32.348902",
     "modified_date": "2017-01-31",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Number of employees by size of the enterprise, sex, occupation",
     "title": "Number of employees by size of the enterprise, sex, occupation",
-    "temporal_coverage_from": "2002-01-01",
-    "tracking_summary": "222",
+    "temporal_coverage_from": "2002",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

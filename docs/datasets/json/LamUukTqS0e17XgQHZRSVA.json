@@ -9,18 +9,17 @@
             "name": "labour market"
         },
         {
-            "display_name": "regional statistic",
-            "name": "regional statistic"
-        },
-        {
             "display_name": "employment statistics",
             "name": "employment statistics"
+        },
+        {
+            "display_name": "regional statistic",
+            "name": "regional statistic"
         }
     ],
-    "metadata_modified": "2019-02-11T07:22:41",
+    "metadata_modified": "2019-02-15T08:50:09",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/4268",
         "http://eurovoc.europa.eu/1802"
     ],
     "license_id": null,
@@ -43,8 +42,50 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2291901d-f2de-4c02-8aab-a89079e20706",
+            "id": "http://data.europa.eu/88u/distribution/67314bfe-32e7-4a29-97f6-af713a5a1948",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00007.tsv.gz&unzip=true",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "1",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/b2c463b1-5aad-4819-856b-8741dc80b763",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00007.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/464ae2b3-eb8e-47c3-a3d3-221db89467be",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -64,7 +105,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ca63d70c-98ea-4ee8-a3cb-8aecfd14cc43",
+            "id": "http://data.europa.eu/88u/distribution/599674a5-2731-4453-ab3f-dee54144ac76",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -85,7 +126,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/46daa06a-1c80-4d21-a073-b8e68b4a3f21",
+            "id": "http://data.europa.eu/88u/distribution/159e00f9-55ca-46c8-8ad4-ff89b0a2635b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -106,50 +147,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/737b7555-8e1d-4a8e-a478-24a4a120f488",
+            "id": "http://data.europa.eu/88u/distribution/6356a78f-ba45-4202-8b8b-a5ba9522f9fd",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00007.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a19dad16-d9be-40aa-b4d9-b660d8a0ce39",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00007.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a16dcadb-a8d5-4171-8cbf-e8bb315e6d86",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -169,7 +168,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/e9cf9f43-cfa8-4b11-9a79-8697b1df3698",
+            "id": "http://data.europa.eu/88u/document/8c94cf5e-3d37-4634-9b81-42ed65ea5c30",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -186,9 +185,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017",
+    "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "768",
     "id": "LamUukTqS0e17XgQHZRSVA",
     "metadata_created": "2015-10-16 11:14:07.886723",
     "modified_date": "2019-02-08",
@@ -205,8 +203,7 @@
     "num_resources": 6,
     "description": "Regional (NUTS level 2) employment rate of the age group 15-64 represents employed persons aged 15-64 as a percentage of the population of the same age group. The indicator is based on the EU Labour Force Survey. The survey covers the entire population living in private households and excludes those in collective households such as boarding houses, halls of residence and hospitals. The employed persons are those aged 15-64, who during the reference week did any work for pay, profit or family gain for at least one hour, or were not at work but had a job or business from which they were temporarily absent.",
     "title": "Employment rate of the age group 15-64 by NUTS 2 regions",
-    "temporal_coverage_from": "2006",
-    "tracking_summary": "768",
+    "temporal_coverage_from": "2006-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

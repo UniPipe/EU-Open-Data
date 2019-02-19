@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:18:03",
+    "metadata_modified": "2019-02-15T07:47:00",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/6402"
@@ -16,9 +16,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/env_wwcap_rb.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/env_wwcap_rb.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/84e092bb-ea9a-4a3c-a36a-270f3b141e29",
+            "id": "http://data.europa.eu/88u/distribution/79508d09-f6d4-4200-9b53-06c4474993bd",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2895ac83-0b8e-49e4-a848-73849b48ea92",
+            "id": "http://data.europa.eu/88u/distribution/0c0ac9f0-8767-4e99-9616-301339a9eda6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -58,9 +58,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/env_wwcap_rb.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/env_wwcap_rb.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/dd5462a3-3d6e-4e20-a667-05d8a15e4001",
+            "id": "http://data.europa.eu/88u/distribution/8c254272-3e31-4096-a0bf-2201904518d8",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/768853c5-3f7b-4dc4-9fa2-985d8fa42e71",
+            "id": "http://data.europa.eu/88u/document/c6068932-81d6-4550-a937-3c3c775b267a",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/86971274-90c7-4ae4-955f-600e1fd2cb3c",
+            "id": "http://data.europa.eu/88u/document/0e3273e4-e880-448c-ba43-60f0ea0cd29b",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/fc838df8-57ae-4c1a-8da5-9702f5200c02",
+            "id": "http://data.europa.eu/88u/document/1c8c7aa2-4d5c-4024-8e05-21d18b58d702",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2013-01-01",
+    "temporal_coverage_to": "2013",
     "num_tags": null,
-    "views_total": "217",
     "id": "q8CHqjIa0qtIQDdOGpZzAA",
     "metadata_created": "2015-10-16 11:24:45.708547",
     "modified_date": "2015-11-05",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Treatment capacity of wastewater treatment plants by river basin district (RBD)",
     "title": "Treatment capacity of wastewater treatment plants by river basin district (RBD)",
-    "temporal_coverage_from": "2000-01-01",
-    "tracking_summary": "217",
+    "temporal_coverage_from": "2000",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ENVI"

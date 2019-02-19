@@ -4,33 +4,12 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T09:03:50",
+    "metadata_modified": "2019-02-15T08:16:06",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/pat_ep_nnac2.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3a35fc21-db4d-4c22-aa61-055c8f02c913",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -48,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/3fd1aa34-cbe8-492a-b5c6-bccd85cab01c",
+            "id": "http://data.europa.eu/88u/distribution/2456a662-ff07-4a8b-8422-74b803e3df86",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,7 +48,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/e8da371b-83bd-4325-bf5d-6aad476fa916",
+            "id": "http://data.europa.eu/88u/distribution/ae85eca4-c3ab-49d0-9fc2-6e3fbddec3c9",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/pat_ep_nnac2.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/4ebf2052-de44-4d90-9399-e5325b855175",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/56e73638-adf7-4dbd-bc73-86281afcf6cb",
+            "id": "http://data.europa.eu/88u/document/b13be7fd-3056-42f8-84e7-eb22356c59df",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ff9e5d75-eac3-4bdc-b990-5721aebeeb27",
+            "id": "http://data.europa.eu/88u/document/b7116440-c6af-445b-bd44-dbe346b2b24c",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/1d3debac-bd75-4d50-bb6b-67b862a6ac4f",
+            "id": "http://data.europa.eu/88u/document/6c8a3048-997a-4fd7-a95d-957ebf7bed91",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2013-01-01",
     "num_tags": null,
-    "views_total": "379",
     "id": "QKSlUTJZPwd81bBBrHIAg",
     "metadata_created": "2015-10-16 11:30:56.052074",
     "modified_date": "2017-01-09",
@@ -169,7 +168,6 @@
     "description": "Patent applications to the EPO by priority year by NACE Rev. 2 activity",
     "title": "Patent applications to the EPO by priority year by NACE Rev. 2 activity",
     "temporal_coverage_from": "1977-01-01",
-    "tracking_summary": "379",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"

@@ -4,9 +4,11 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:47:17",
+    "metadata_modified": "2019-02-15T08:13:24",
     "temporal_granularity": "",
-    "concepts_eurovoc": [],
+    "concepts_eurovoc": [
+        "http://eurovoc.europa.eu/4268"
+    ],
     "license_id": null,
     "type": "dataset",
     "resources": [
@@ -27,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/bc6a878a-96b8-4f20-9c2c-d8cf564c9279",
+            "id": "http://data.europa.eu/88u/distribution/a643275c-7a1b-457c-9ed3-4220cd70387d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -48,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1bf73e21-02d7-4456-8881-bd8e28df9bfb",
+            "id": "http://data.europa.eu/88u/distribution/82ee619e-e6f4-4915-95f1-0a65748b038b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -69,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ca329da5-7e7e-4e44-b95e-5197adecdd7f",
+            "id": "http://data.europa.eu/88u/distribution/14cbd208-481f-4e46-8dc7-db0f103917b4",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +92,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2392714e-be0b-4c6c-af73-fb1866f4087e",
+            "id": "http://data.europa.eu/88u/distribution/3279908a-7bc0-4296-949b-dbf0cbc179a3",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -111,7 +113,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/862806a2-8016-4246-8ef3-df664b02e162",
+            "id": "http://data.europa.eu/88u/distribution/21697fae-585d-45ef-b629-2c4decca5d7a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -132,7 +134,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/94bd0791-e3c4-4e8c-af1f-b2dda59e5b35",
+            "id": "http://data.europa.eu/88u/distribution/164b7dbb-b072-45e5-8f8f-32641b1c8b25",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -153,7 +155,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/96ae80ee-53c3-438d-8291-143ccf5e52b6",
+            "id": "http://data.europa.eu/88u/document/c893723e-2880-49f4-a769-cb55385c0bd9",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -174,7 +176,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/547d209e-d69b-40e3-a1a7-76106c04b994",
+            "id": "http://data.europa.eu/88u/document/91d2ac57-e569-4ccc-b666-1d23de9744c1",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -195,7 +197,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/e05c89df-aec4-488a-87d2-9c6c43116d77",
+            "id": "http://data.europa.eu/88u/document/ce8abbad-f42a-46d1-9478-50ec7dba0228",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -214,7 +216,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2016",
     "num_tags": null,
-    "views_total": "229",
     "id": "NUezRbuQcOISYVhekdVkQ",
     "metadata_created": "2015-10-16 12:37:58.199560",
     "modified_date": "2018-10-24",
@@ -232,7 +233,6 @@
     "description": "The maritime transport regional data have been calculated using data collected at the port level in the frame of Council Directive 2009/42/EC (6.5.2009). They are aggregated at regional level (NUTS 1 and NUTS 2) and also at national level (NUTS0), excluding double counting within each region.",
     "title": "Maritime transport of freight by NUTS 2 regions",
     "temporal_coverage_from": "2005",
-    "tracking_summary": "229",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TRAN"

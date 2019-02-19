@@ -13,7 +13,7 @@
             "name": "agriculture"
         }
     ],
-    "metadata_modified": "2019-02-08T07:44:30",
+    "metadata_modified": "2019-02-15T08:21:36",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -36,7 +36,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7e6022e2-83f0-4789-a3dd-f50a5c5c1390",
+            "id": "http://data.europa.eu/88u/distribution/a7ce60aa-7490-48a1-a651-c5ae5ef31bf6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -57,7 +57,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/19a7e337-6331-48f2-8fde-ae32527d0cc9",
+            "id": "http://data.europa.eu/88u/distribution/1cfaa94f-20b5-4d64-9441-094d4af7de86",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -65,9 +65,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00050.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00050.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -78,7 +78,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8aaf4bff-18c3-4daa-978b-de58dfa96ecb",
+            "id": "http://data.europa.eu/88u/distribution/9ae005e0-a4c8-4502-a688-51db9746060b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -99,28 +99,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ff47f96c-da8e-482b-a85d-1bff377db763",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00050.tsv.gz&unzip=true",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a5fa7428-ec0e-4775-b912-b765534016f6",
+            "id": "http://data.europa.eu/88u/distribution/6f8adcd3-2517-4182-a98d-f0e5f150fa8b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -141,8 +120,29 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5a8277e6-6f19-439d-9c90-ff5e5ee3e0cc",
+            "id": "http://data.europa.eu/88u/distribution/65f3b91e-61a8-4af5-9b90-552fc9c09f4b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00050.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/06cee73f-a753-4e45-97a0-ba208d7e95c7",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -162,7 +162,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/309a3291-fda5-49fb-a79a-5f08fa4a816a",
+            "id": "http://data.europa.eu/88u/document/8aad996a-5723-4574-9c00-f87d88e6eafd",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -181,7 +181,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2008-01-01",
     "num_tags": null,
-    "views_total": "377",
     "id": "ziuywMQFAN2Rjl26LNlfg",
     "metadata_created": "2015-10-16 10:47:36.319179",
     "modified_date": "2018-10-24",
@@ -199,7 +198,6 @@
     "description": "The indices in this table give information on the trends in the producer prices of animal production as a whole. The sub-indices were weighted by the values of sales in 2000.",
     "title": "Producer price indices, animals and animal products",
     "temporal_coverage_from": "1997-01-01",
-    "tracking_summary": "377",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"

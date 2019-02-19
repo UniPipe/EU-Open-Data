@@ -13,7 +13,7 @@
             "name": "balance of payments"
         }
     ],
-    "metadata_modified": "2019-02-08T08:40:49",
+    "metadata_modified": "2019-02-15T08:10:40",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4671"
@@ -25,9 +25,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00039.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00039.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -38,7 +38,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/245b5c2d-1a57-4ffc-b2e8-93713a358d07",
+            "id": "http://data.europa.eu/88u/distribution/8231b668-e1a7-4d38-96d2-b67bbc182d14",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -59,7 +59,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/cd86df83-d982-4fb3-8b75-17d795ac6ee2",
+            "id": "http://data.europa.eu/88u/distribution/946e7f88-c82d-4c09-9875-037ef0191472",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -67,9 +67,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00039.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00039.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -80,7 +80,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/904481b6-2d88-46ba-a55a-609d681c5e72",
+            "id": "http://data.europa.eu/88u/distribution/02d4a698-7f14-4841-bc47-bc1caa7f8b1b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -101,28 +101,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/47362979-4b5b-448d-a76c-f840f1fa93a6",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tec00039",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Table",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/40912099-e63d-4799-b17d-93d52ef99fcb",
+            "id": "http://data.europa.eu/88u/distribution/fab6a4dd-f4d2-4d63-9867-123195b52a8e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -143,7 +122,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4bb2d16c-8dd4-418a-85d2-20cc42b11a8b",
+            "id": "http://data.europa.eu/88u/distribution/d17ddeb0-0297-4b09-bb25-1f84784c80af",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tec00039",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Table",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/1430aa0d-9ce5-4ab8-9097-544ee11bdcc3",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -164,7 +164,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/b3c7f12a-4642-40d3-8ba8-1bfc18704e5e",
+            "id": "http://data.europa.eu/88u/document/f663a9b9-f0e0-4433-ad74-ddc542100503",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -183,7 +183,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "552",
     "id": "n72LMI2Q8xU4gYssPTgvPA",
     "metadata_created": "2015-10-16 10:46:31.036508",
     "modified_date": "2019-01-17",
@@ -201,7 +200,6 @@
     "description": "The balance of payments is a record of a country's international transactions with the rest of the world. The balance of payments is composed of two broad sub-balances: the current account and the capital and financial account. The current account is itself subdivided into four basic components: goods, services, income and current transfers. For each of these items, the current account registers the value of exports (credits) and imports (debits). The difference between these two values is the \"balance\".",
     "title": "Current account transactions - goods: credits, debits and balance",
     "temporal_coverage_from": "2006-01-01",
-    "tracking_summary": "552",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"

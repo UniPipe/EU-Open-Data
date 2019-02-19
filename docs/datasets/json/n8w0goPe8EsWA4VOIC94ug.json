@@ -4,13 +4,13 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T09:02:35",
+    "metadata_modified": "2019-02-18T08:51:14",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/3659",
+        "http://eurovoc.europa.eu/4050",
         "http://eurovoc.europa.eu/1469",
         "http://eurovoc.europa.eu/83",
-        "http://eurovoc.europa.eu/4050"
+        "http://eurovoc.europa.eu/3659"
     ],
     "license_id": null,
     "type": "dataset",
@@ -32,7 +32,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d1a2c33e-bd15-4d06-8ffd-d0ef13b8d93a",
+            "id": "http://data.europa.eu/88u/distribution/9c37a471-34ae-4907-959c-09ab5a7ddf1d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -53,7 +53,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/eebb87e0-d186-451c-bbaf-9af3184e6a40",
+            "id": "http://data.europa.eu/88u/distribution/3f902c0e-e604-4560-b0fd-0d3b69486d43",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -74,7 +74,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/94635e03-1e8b-4f21-bb08-fbad2ff5dc22",
+            "id": "http://data.europa.eu/88u/distribution/8e6c75ff-65a9-42d5-8c2e-83d7f1904b38",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -95,7 +95,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/248a1f24-6010-4745-b52a-9c3005805a38",
+            "id": "http://data.europa.eu/88u/document/4a3c2a5f-7ce2-4511-a328-fcca0a3b2dd8",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -116,7 +116,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/3016d559-a4f0-4efa-939b-31d7bf60c45a",
+            "id": "http://data.europa.eu/88u/document/51e265e8-717f-428b-ab2c-d37338136fd7",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -137,7 +137,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/233c6cbb-0376-430a-bec7-53cea2ac1d6d",
+            "id": "http://data.europa.eu/88u/document/c062eddd-c387-482a-957f-bee139c42f19",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -154,12 +154,11 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2018-01-01",
+    "temporal_coverage_to": "2018",
     "num_tags": null,
-    "views_total": "385",
     "id": "n8w0goPe8EsWA4VOIC94ug",
     "metadata_created": "2015-10-16 13:38:53.153415",
-    "modified_date": "2019-01-31",
+    "modified_date": "2019-02-15",
     "capacity": "public",
     "author": null,
     "author_email": null,
@@ -173,17 +172,16 @@
     "num_resources": 3,
     "description": "At-risk-of-poverty rate by poverty threshold and educational attainment level - EU-SILC survey",
     "title": "At-risk-of-poverty rate by poverty threshold and educational attainment level - EU-SILC survey",
-    "temporal_coverage_from": "2003-01-01",
-    "tracking_summary": "385",
+    "temporal_coverage_from": "2003",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

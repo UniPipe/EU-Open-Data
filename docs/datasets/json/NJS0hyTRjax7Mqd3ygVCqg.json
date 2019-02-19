@@ -13,7 +13,7 @@
             "name": "expenditure"
         }
     ],
-    "metadata_modified": "2019-02-08T08:21:48",
+    "metadata_modified": "2019-02-15T08:36:14",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/2914"
@@ -25,9 +25,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00001.tsv.gz&unzip=true",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00001.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -38,7 +38,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/eb91cd15-9dae-4279-93f1-ca90e0c1638b",
+            "id": "http://data.europa.eu/88u/distribution/772f4b22-9935-44b1-9bb6-c65e22b29f8e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -59,29 +59,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/308c2dcb-ec4c-4ba7-be48-e35646c80385",
+            "id": "http://data.europa.eu/88u/distribution/00ef5583-cd13-4c01-a16b-1154267c00f0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00001.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4bdbe7ce-bf76-4613-98e8-36635af81bda",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -101,7 +80,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/982a56fa-477f-4c0b-b158-8475e91af998",
+            "id": "http://data.europa.eu/88u/distribution/cf8eb79b-27fd-400e-8005-b9a7b04b7488",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tsc00001",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Graph",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/fe57cdb5-c098-4492-bd88-cc20b203edca",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -122,7 +122,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b46299c4-f154-4bd6-8fa3-2778d632b024",
+            "id": "http://data.europa.eu/88u/distribution/acb055bb-cdb6-4812-bf82-da05e4789c49",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -130,12 +130,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=tsc00001",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00001.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
-            "name": "Graph",
+            "name": "Default_Title",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -143,8 +143,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/cb0dfb02-8b10-4b27-a8d6-e00a6167474f",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "id": "http://data.europa.eu/88u/distribution/6576c108-5b70-4357-a61a-1ef7bbfaa960",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
         {
@@ -164,7 +164,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c4a49cd0-6bd3-4ec8-b1e9-d6608974cbcf",
+            "id": "http://data.europa.eu/88u/document/700ba0fc-fadf-4ded-a6cd-97b81c6a4d67",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -183,7 +183,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "597",
     "id": "NJS0hyTRjax7Mqd3ygVCqg",
     "metadata_created": "2015-10-16 13:37:19.350126",
     "modified_date": "2018-12-17",
@@ -201,7 +200,6 @@
     "description": "Research and experimental development (R&D) comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society, and the use of this stock of knowledge to devise new applications. R&D expenditures include all expenditures for R&D performed within the business enterprise sector (BERD) on the national territory during a given period, regardless of the source of funds. R&D expenditure in BERD are shown as a percentage of GDP (R&D intensity).",
     "title": "Research and development expenditure, by sectors of performance",
     "temporal_coverage_from": "2006-01-01",
-    "tracking_summary": "597",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TECH"

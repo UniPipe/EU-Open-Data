@@ -17,7 +17,7 @@
             "name": "health statistics"
         }
     ],
-    "metadata_modified": "2019-02-08T07:51:16",
+    "metadata_modified": "2019-02-15T07:36:58",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1280"
@@ -29,9 +29,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00045.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00045.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -42,7 +42,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b9a90c4b-ce23-4d24-9dac-9bd8850993ae",
+            "id": "http://data.europa.eu/88u/distribution/11f5bdc4-9b24-4f8d-b101-69896a3f99fa",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -63,7 +63,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/9684071c-ce94-478f-be39-09ec7bdb5ac6",
+            "id": "http://data.europa.eu/88u/distribution/6369a3b6-43f1-46e8-b61e-c0e7d3cd8e8d",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tps00045",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Table",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/73ccb899-6780-4402-a643-87955efdc549",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -84,29 +105,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b5ff3904-a446-4965-85f8-58fb049d6184",
+            "id": "http://data.europa.eu/88u/distribution/4bcb5f21-f231-4a40-a82f-d32e9fa9ff76",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tps00045",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Table",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/294c8fb3-d2b5-4f12-8238-2c0390500224",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -126,7 +126,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ef000e86-d159-4458-8601-3d58d917b1b8",
+            "id": "http://data.europa.eu/88u/distribution/63fada24-def7-4da9-8531-5c551140a876",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -134,9 +134,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00045.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00045.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -147,7 +147,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/21904957-c1f4-43dd-91f9-21d04cd7f5e8",
+            "id": "http://data.europa.eu/88u/distribution/8c35ffdb-f267-4be0-848e-903ff9c75379",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -168,7 +168,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/cc94b8b4-03ab-403a-a5d7-214604a5a9a2",
+            "id": "http://data.europa.eu/88u/document/3d2d1626-fbaa-458a-be18-1b4b88684c16",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -187,7 +187,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "526",
     "id": "fLzrfVnM7UQjjoxfJXFDA",
     "metadata_created": "2015-10-16 10:41:08.082643",
     "modified_date": "2018-10-26",
@@ -205,7 +204,6 @@
     "description": "Dentists as defined by ISCO 88 (code 2222) apply medical knowledge in the field of dentistry, improve or develop concepts, theories and operational methods and conduct research. Dentistry is the provision of comprehensive care regarding teeth and oral cavity, including prevention, diagnosis and treatment of aberrations and diseases. Dentists may be counted according to different concepts such as \"practising\", \"professionally active\" or \"licensed to practice\". Practising dentists provide services directly to patients.",
     "title": "Practising dentists",
     "temporal_coverage_from": "2005-01-01",
-    "tracking_summary": "526",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

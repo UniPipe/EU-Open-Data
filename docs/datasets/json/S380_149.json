@@ -5,20 +5,20 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "referendum",
-            "name": "referendum"
+            "display_name": "opinion",
+            "name": "opinion"
         },
         {
             "display_name": "post",
             "name": "post"
         },
         {
-            "display_name": "opinion",
-            "name": "opinion"
+            "display_name": "surveys",
+            "name": "surveys"
         },
         {
-            "display_name": "sweden",
-            "name": "sweden"
+            "display_name": "referendum",
+            "name": "referendum"
         },
         {
             "display_name": "flash",
@@ -29,8 +29,8 @@
             "name": "polls"
         },
         {
-            "display_name": "surveys",
-            "name": "surveys"
+            "display_name": "sweden",
+            "name": "sweden"
         }
     ],
     "metadata_modified": "2019-02-06T15:47:46",
@@ -39,6 +39,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Volume: VolCb149 (2)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?4E987FA3454C77FE4AC39DD99F940B41",
+            "created": "2015-01-16",
+            "tracking_summary": null,
+            "name": "Link to VolCb149 (2).zip",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/f11460de-da6b-4968-adad-af12f97a9fd9",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -57,27 +78,6 @@
             "iframe_code": "",
             "datastore_active": false,
             "id": "http://data.europa.eu/88u/distribution/26f7c323-3dbd-4d95-a2eb-0972abe09bcb",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Volume: VolCa149 (2)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?315D7A6F5C1BCC90DE02D95AE16430C5",
-            "created": "2015-01-16",
-            "tracking_summary": null,
-            "name": "Link to VolCa149 (2).zip",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/75e95ba2-7a59-4cad-9870-27c2d7aafbc9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -106,12 +106,12 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Volume: VolCb149 (2)",
+            "description": "Volume: VolCa149 (2)",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?4E987FA3454C77FE4AC39DD99F940B41",
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?315D7A6F5C1BCC90DE02D95AE16430C5",
             "created": "2015-01-16",
             "tracking_summary": null,
-            "name": "Link to VolCb149 (2).zip",
+            "name": "Link to VolCa149 (2).zip",
             "state": "",
             "last_modified": "",
             "download_total_resource": "0",
@@ -119,7 +119,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f11460de-da6b-4968-adad-af12f97a9fd9",
+            "id": "http://data.europa.eu/88u/distribution/75e95ba2-7a59-4cad-9870-27c2d7aafbc9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -161,7 +161,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "0",
     "id": "S380_149",
     "metadata_created": "2015-02-03 06:10:59.282265",
     "modified_date": "",
@@ -177,7 +176,6 @@
     "description": "AdHoc in Sweden\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume B' (BP) : Trends of EU/ socio-demographics \n* Volume C: Country/socio-demographics\n  ----\nResearchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)",
     "title": "Flash Eurobarometer 149: Post-Referendum in Sweden",
     "temporal_coverage_from": "",
-    "tracking_summary": "0",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"

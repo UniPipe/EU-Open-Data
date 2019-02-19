@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:43:46",
+    "metadata_modified": "2019-02-15T08:24:25",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/3659",
@@ -15,6 +15,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ilc_li10.sdmx.zip",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/6189dc44-f48b-42b9-ad9b-c65495af2f86",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -32,7 +53,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/749b452d-2004-49fb-a61c-98f4afb38f88",
+            "id": "http://data.europa.eu/88u/distribution/93273268-fec9-4edb-ac5c-502e523d6ec4",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -53,28 +74,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1396b88a-83af-4c27-9375-def27c70e130",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ilc_li10.sdmx.zip",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/76be1766-4d26-421f-a576-885f1c132a81",
+            "id": "http://data.europa.eu/88u/distribution/e9573538-98c6-4667-ae0b-701a4a6b41e4",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -95,7 +95,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/416745be-4a9e-4d60-820a-5f5f5d27ba37",
+            "id": "http://data.europa.eu/88u/document/e66812c1-62c2-4c03-9249-efef8ccf00aa",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -116,7 +116,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d412ed20-30d1-47c7-abe0-33895969fbb8",
+            "id": "http://data.europa.eu/88u/document/25608699-5fb6-4067-bf79-70310bd102f2",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -137,7 +137,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6047708a-87d6-441d-b647-94e76c1aff24",
+            "id": "http://data.europa.eu/88u/document/e8cf17a6-c38d-4a1d-ba2d-4574a5c23527",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
@@ -156,7 +156,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2018-01-01",
     "num_tags": null,
-    "views_total": "352",
     "id": "pwx2yOlAHds7IO4cAbg",
     "metadata_created": "2015-10-16 11:10:34.309724",
     "modified_date": "2019-01-31",
@@ -174,7 +173,6 @@
     "description": "At-risk-of-poverty rate before social transfers (pensions excluded from social transfers) by poverty threshold, age and sex - EU-SILC survey",
     "title": "At-risk-of-poverty rate before social transfers (pensions excluded from social transfers) by poverty threshold, age and sex - EU-SILC survey",
     "temporal_coverage_from": "1995-01-01",
-    "tracking_summary": "352",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

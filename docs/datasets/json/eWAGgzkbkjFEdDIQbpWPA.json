@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:40:10",
+    "metadata_modified": "2019-02-15T08:01:13",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/6140"
@@ -24,12 +24,12 @@
             "name": "Default_Title",
             "state": "",
             "last_modified": "",
-            "download_total_resource": "1",
+            "download_total_resource": "0",
             "url_type": null,
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/924d2658-ed1d-4565-9433-48caf39ca5ea",
+            "id": "http://data.europa.eu/88u/distribution/3882ee64-996b-487b-acf1-92c7543a8703",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/edeeca00-1d22-4d2f-a3a1-2485edf88d3d",
+            "id": "http://data.europa.eu/88u/distribution/39097a49-730f-44e2-b36d-6d3ea9d17b64",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,30 +71,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1d002f67-99ad-4313-b7eb-9c970deeb245",
+            "id": "http://data.europa.eu/88u/distribution/8e272235-a09f-4573-86e4-b60b9509949a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/isoc_tc_sms",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/18b3087d-ecfb-432f-8bc4-9abd2f82e9e6",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
         },
         {
             "mimetype": null,
@@ -113,8 +92,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/fa28d8d7-fcb9-4f7d-8422-0b400e1bc65c",
+            "id": "http://data.europa.eu/88u/document/461df471-6fb6-4d33-8c46-94c5f43cdec4",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/isoc_tc_sms",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/c1e04f76-c8e2-4733-b194-9675a5c83d1a",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
         {
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/87a7b5e2-30ff-45fd-9f94-17ff54fbe79c",
+            "id": "http://data.europa.eu/88u/document/532cc07a-00e7-4464-bd45-a9f88feb139c",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -153,7 +153,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2009-01-01",
     "num_tags": null,
-    "views_total": "504",
     "id": "eWAGgzkbkjFEdDIQbpWPA",
     "metadata_created": "2015-10-16 10:21:02.788112",
     "modified_date": "2010-11-15",
@@ -171,7 +170,6 @@
     "description": "Telecommunication services: short message service (SMS)",
     "title": "Telecommunication services: short message service (SMS)",
     "temporal_coverage_from": "1998-01-01",
-    "tracking_summary": "504",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"

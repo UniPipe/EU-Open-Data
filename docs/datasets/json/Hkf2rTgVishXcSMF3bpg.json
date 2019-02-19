@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:24:28",
+    "metadata_modified": "2019-02-15T08:56:41",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2de8056b-0e46-4926-9a3b-8e615f127fa6",
+            "id": "http://data.europa.eu/88u/distribution/4b2e28f8-7633-49db-9cac-e76f2e3dd92f",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c5449a22-3de9-40bc-808e-385ba733df3f",
+            "id": "http://data.europa.eu/88u/distribution/fc1778a7-67a5-430f-9ce6-e128a5ada961",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/13227e53-53ae-410d-bf1d-40ae39d9e74e",
+            "id": "http://data.europa.eu/88u/distribution/91ba3f67-797c-404d-b5a2-7c0ef48cd8a0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,28 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d668c34a-d2eb-47b9-9ad2-27de8b86ace3",
+            "id": "http://data.europa.eu/88u/document/96899adc-1f16-43fd-991b-cfad3bb71125",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/lc_rstu_r2",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/d7ea2713-63f4-47e2-891e-81f0cd83fc74",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,29 +134,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/0229efb8-8b42-4dd3-8321-90b5ad9fd90d",
+            "id": "http://data.europa.eu/88u/document/85373ffc-fd09-4138-a1de-8fa2da842a05",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/lc_rstu_r2",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/7315a663-c4ca-45cd-9a63-1f251f9f9ef8",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2016",
+    "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "167",
     "id": "Hkf2rTgVishXcSMF3bpg",
     "metadata_created": "2015-10-16 13:31:53.469389",
     "modified_date": "2019-02-05",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Number of statistical units selected for the survey, by NACE Rev. 2 activity and NUTS 1 regions - LCS surveys 2008, 2012 and 2016",
     "title": "Number of statistical units selected for the survey, by NACE Rev. 2 activity and NUTS 1 regions - LCS surveys 2008, 2012 and 2016",
-    "temporal_coverage_from": "2008",
-    "tracking_summary": "167",
+    "temporal_coverage_from": "2008-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:25:32",
+    "metadata_modified": "2019-02-15T07:57:30",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1802"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2981fe89-bff4-4f6c-baff-9a2dcea4b473",
+            "id": "http://data.europa.eu/88u/distribution/6fab7d75-72d5-48ad-b0fe-6da72a16a3b9",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/24c7dae3-7b0a-49e6-9f8e-c07442bba7c5",
+            "id": "http://data.europa.eu/88u/distribution/41358316-ed49-4f7f-8451-25390ee9fcb6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4f5bd98e-0bd3-44c2-803d-3669003445d4",
+            "id": "http://data.europa.eu/88u/distribution/cf064628-05ef-4aa9-89a5-6ec0aba26954",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,28 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/6e67dc5b-9317-4ffb-b463-909c1dfc7ee1",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/lfsi_pt_q",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/71ce5c53-d5b8-4fc5-b8a4-08648d7f20db",
+            "id": "http://data.europa.eu/88u/document/b1f57037-7f42-41c1-9ff4-2356dca28bba",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,8 +113,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/85926ad4-4623-4a12-9b1c-843d9c32c9f4",
+            "id": "http://data.europa.eu/88u/document/30536826-fc7a-427e-8f50-5d419e05f7e3",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/lfsi_pt_q",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/5580d972-6ad7-4222-8b78-f61d8b010b27",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2018-01-01",
+    "temporal_coverage_to": "2018",
     "num_tags": null,
-    "views_total": "235",
     "id": "o1luIZqvTUdUEz7TFrRDg",
     "metadata_created": "2016-04-26 05:35:02.679763",
     "modified_date": "2019-02-01",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Part-time employment and temporary contracts - quarterly data",
     "title": "Part-time employment and temporary contracts - quarterly data",
-    "temporal_coverage_from": "1992-01-01",
-    "tracking_summary": "235",
+    "temporal_coverage_from": "1992",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"

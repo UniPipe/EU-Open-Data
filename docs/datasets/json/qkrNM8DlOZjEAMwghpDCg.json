@@ -4,13 +4,13 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:32:46",
+    "metadata_modified": "2019-02-15T07:40:18",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/4050",
+        "http://eurovoc.europa.eu/3659",
         "http://eurovoc.europa.eu/1469",
         "http://eurovoc.europa.eu/83",
-        "http://eurovoc.europa.eu/3659"
+        "http://eurovoc.europa.eu/4050"
     ],
     "license_id": null,
     "type": "dataset",
@@ -32,7 +32,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/b1c9d455-7060-47ef-a33c-7ed2052f7082",
+            "id": "http://data.europa.eu/88u/distribution/fda6bf00-6d02-4c2a-afe7-08000156db47",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -53,7 +53,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/67148f43-425a-4c81-925d-9baacdb4f38b",
+            "id": "http://data.europa.eu/88u/distribution/db6c8780-53e6-4982-83bb-d70f680ff171",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -74,7 +74,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/92c57f8a-5182-4043-b2b7-c00ba136602b",
+            "id": "http://data.europa.eu/88u/distribution/7db93310-fdab-4fd9-911c-b9d883cf225a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -95,7 +95,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/2fb7bd6c-269d-45e1-a3e4-2849b1fbf277",
+            "id": "http://data.europa.eu/88u/document/11b93991-5096-4a44-950c-e7da354f5b3a",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -116,7 +116,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/91bd2922-7f78-4204-9d8d-6cff9b1b463b",
+            "id": "http://data.europa.eu/88u/document/397ac178-92ae-4027-a085-b77875f95d6d",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -137,7 +137,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/8dab1e84-0d8f-4868-8cfa-bca84d8212c5",
+            "id": "http://data.europa.eu/88u/document/7f9f14c0-c202-4410-9694-789c3699d6f8",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -154,9 +154,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2015",
+    "temporal_coverage_to": "2015-01-01",
     "num_tags": null,
-    "views_total": "0",
     "id": "qkrNM8DlOZjEAMwghpDCg",
     "metadata_created": "2017-06-28 05:29:23.209503",
     "modified_date": "2017-09-12",
@@ -173,17 +172,16 @@
     "num_resources": 3,
     "description": "Frequency of getting together with family and relatives or friends by sex, age and educational attainment level",
     "title": "Frequency of getting together with family and relatives or friends by sex, age and educational attainment level",
-    "temporal_coverage_from": "2015",
-    "tracking_summary": "0",
+    "temporal_coverage_from": "2015-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         }
     ],
     "relationships_as_subject": [],

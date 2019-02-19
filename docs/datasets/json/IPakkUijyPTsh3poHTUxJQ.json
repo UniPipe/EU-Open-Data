@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:45:03",
+    "metadata_modified": "2019-02-15T09:03:08",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/2765"
@@ -29,9 +29,30 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/c31f5310-eedd-4208-b93b-1e5ee085bdc7",
+            "id": "http://data.europa.eu/88u/distribution/2833d51a-795d-4a75-bf6e-db841997552d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/prom_esms.htm",
+            "created": null,
+            "tracking_summary": null,
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/ce5937b6-428c-4e38-b6b6-475a1fff7eff",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
         },
         {
             "mimetype": null,
@@ -50,7 +71,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/bee385ef-7506-4ce5-916f-d5f69cb489cc",
+            "id": "http://data.europa.eu/88u/document/8eb3da22-d8d4-44fe-a512-f8c66bb6f439",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -71,29 +92,8 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c8cc49a3-dd29-4834-8e33-fe1b851f1bf2",
+            "id": "http://data.europa.eu/88u/document/69892a2a-b876-430d-b1a8-713ab1992fab",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/prom_esms.htm",
-            "created": null,
-            "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d1a01bc0-433d-461d-be33-fcec0fd99f72",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
     ],
@@ -111,7 +111,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "728",
     "id": "IPakkUijyPTsh3poHTUxJQ",
     "metadata_created": "2016-08-11 07:36:04.261920",
     "modified_date": "",
@@ -129,7 +128,6 @@
     "description": "Sold production, exports and imports for steel by PRODCOM list (NACE Rev. 1.1) - monthly data",
     "title": "Sold production, exports and imports for steel by PRODCOM list (NACE Rev. 1.1) - monthly data",
     "temporal_coverage_from": "",
-    "tracking_summary": "728",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"

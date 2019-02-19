@@ -4,33 +4,12 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:03:38",
+    "metadata_modified": "2019-02-15T08:19:18",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ef_kvftaa.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/db516850-e547-4952-a1f3-ada71e50f32d",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -48,7 +27,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a75c39d3-e46e-4cae-9fdf-6c5584fbfee9",
+            "id": "http://data.europa.eu/88u/distribution/1ef41255-08c3-49dc-ac99-bf9f84fe97b5",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ef_kvftaa.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/a56a68ef-a8ac-4d98-8b87-eca849010d98",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8c00a402-80a2-4adc-92a7-7631a8025d27",
+            "id": "http://data.europa.eu/88u/distribution/f6253a58-e50d-4762-b9e5-1f11b233a997",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/dd392e61-7989-4ecc-992e-88ae17c44ea8",
+            "id": "http://data.europa.eu/88u/document/564637a9-2775-4b16-9e3f-639e4439e0ea",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/5839e583-38a7-446c-9222-863cf9b6710f",
+            "id": "http://data.europa.eu/88u/document/7f209bb1-0e60-4ebf-be97-ad90769a4220",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/a42c38a5-b6e3-44b7-b29c-8f72dc21f2ed",
+            "id": "http://data.europa.eu/88u/document/ac4f3dcf-f7e6-44d0-b455-c391971e8b6a",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2013-01-01",
     "num_tags": null,
-    "views_total": "216",
     "id": "gIED4xiRDEFKtA963M7TGg",
     "metadata_created": "2015-10-16 11:13:36.560000",
     "modified_date": "2017-01-16",
@@ -169,7 +168,6 @@
     "description": "Key variables: area, livestock (LSU), labour force and standard output (SO) by type of farming (2-digit) and agricultural size of farm (UAA)",
     "title": "Key variables: area, livestock (LSU), labour force and standard output (SO) by type of farming (2-digit) and agricultural size of farm (UAA)",
     "temporal_coverage_from": "2005-01-01",
-    "tracking_summary": "216",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/AGRI"

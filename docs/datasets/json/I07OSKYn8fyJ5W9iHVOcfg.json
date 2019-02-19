@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:38:43",
+    "metadata_modified": "2019-02-15T08:09:46",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4735"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7c7bc0cc-d272-4ff1-a44d-b49a24f0e0be",
+            "id": "http://data.europa.eu/88u/distribution/901030a8-1d7c-4720-9911-832d1cb2d864",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2f5272bc-fb6c-49c3-9212-2c6062d5b45a",
+            "id": "http://data.europa.eu/88u/distribution/f630e142-6eea-4725-aee8-f7cbc0e39d7e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,30 +71,9 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8a43bf6c-0175-4a6e-8241-0f9f69ebd46a",
+            "id": "http://data.europa.eu/88u/distribution/ae4765ec-af72-45fd-a61d-1539527eb270",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": null,
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/iww_eq_age_loa",
-            "created": null,
-            "tracking_summary": null,
-            "name": "More information on Eurostat Website",
-            "state": null,
-            "last_modified": null,
-            "download_total_resource": null,
-            "url_type": null,
-            "position": null,
-            "iframe_code": null,
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ab5e454e-a2d1-42e5-8a42-c2e5bf7f0bc9",
-            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
-            "size": null
         },
         {
             "mimetype": null,
@@ -113,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c33e31f6-673d-4753-bfe8-0098e0d21bbd",
+            "id": "http://data.europa.eu/88u/document/a5a1cdcb-986b-4592-a1b3-8e8d9c5d68bf",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -134,8 +113,29 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ecb74607-e9ec-4c44-ad3b-12ae648a9144",
+            "id": "http://data.europa.eu/88u/document/0f439fc1-4519-453b-84c5-711386d245de",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+            "size": null
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/iww_eq_age_loa",
+            "created": null,
+            "tracking_summary": null,
+            "name": "More information on Eurostat Website",
+            "state": null,
+            "last_modified": null,
+            "download_total_resource": null,
+            "url_type": null,
+            "position": null,
+            "iframe_code": null,
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/document/5cd5e365-86ee-4506-b699-a70be6dcc604",
+            "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
     ],
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2016-01-01",
+    "temporal_coverage_to": "2016",
     "num_tags": null,
-    "views_total": "282",
     "id": "I07OSKYn8fyJ5W9iHVOcfg",
     "metadata_created": "2015-10-16 11:31:22.087776",
     "modified_date": "2018-03-05",
@@ -170,8 +169,7 @@
     "num_resources": 3,
     "description": "Load capacity of self-propelled vessels, by date of construction",
     "title": "Load capacity of self-propelled vessels, by date of construction",
-    "temporal_coverage_from": "1990-01-01",
-    "tracking_summary": "282",
+    "temporal_coverage_from": "1990",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TRAN"

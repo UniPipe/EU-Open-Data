@@ -63,7 +63,7 @@
             "name": "API",
             "state": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
             "last_modified": "",
-            "download_total_resource": "328",
+            "download_total_resource": "331",
             "url_type": null,
             "position": null,
             "iframe_code": "",
@@ -87,7 +87,6 @@
     "tag_string": null,
     "temporal_coverage_to": "",
     "num_tags": null,
-    "views_total": "1364",
     "id": "eu-open-data-portal-api",
     "metadata_created": "2016-10-24 14:38:50.240931",
     "modified_date": "2017-01-16 11:15:04.997814",
@@ -105,7 +104,6 @@
     "description": "The REST API is one of the ways to access the EU Open Data Portal. Under API are available the portal core functionalities. This encompasses all you can do with the web interface. The information retrieved can thus be used by external code that calls the portal API.\r\n\r\nThe API, for programmatic use, is available at the following URL: http://data.europa.eu/euodp/data/api/\r\n\r\nThe application used by the EU Open Data Portal for the API is CKAN. You can find useful documentation about the API at the CKAN On whose website.\r\n\r\nJSON is the used message format  (specified in RFC 4627) for communication. If you want to use the REST API in your application, you can check the following examples.",
     "title": "EU Open Data Portal - API",
     "temporal_coverage_from": "",
-    "tracking_summary": "1364",
     "groups": [
         {
             "name": "api"

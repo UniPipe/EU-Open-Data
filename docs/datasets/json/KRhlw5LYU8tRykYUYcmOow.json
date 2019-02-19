@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:52:59",
+    "metadata_modified": "2019-02-15T08:34:57",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/5d520729-bfb9-42aa-ae6d-5a9a406e0583",
+            "id": "http://data.europa.eu/88u/distribution/aa683382-c437-448e-b9df-82e416be9fbf",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/80478dd7-4e9c-49ef-affe-591c196f4111",
+            "id": "http://data.europa.eu/88u/distribution/62eaf070-5c29-4bd5-8c9c-a986e8339abf",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/4dee9450-eeda-4f7b-aa0b-c0c482233975",
+            "id": "http://data.europa.eu/88u/distribution/cd38ba9b-3ce0-46f4-a571-23c0745c9f02",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -79,7 +79,7 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/avia_if_esms.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/avia_esms.sdmx.zip",
             "created": null,
             "tracking_summary": null,
             "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/57f8e022-2648-47c0-93f3-744b596c2088",
+            "id": "http://data.europa.eu/88u/document/5d5783de-2049-4e11-98df-fd6179e8a403",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -100,7 +100,7 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/avia_if_esms.htm",
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/avia_esms.htm",
             "created": null,
             "tracking_summary": null,
             "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML",
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/83fe7ec7-41f1-4660-b412-31d98df49686",
+            "id": "http://data.europa.eu/88u/document/310eb640-8a3c-4851-b7b5-5bc4b47e300b",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/5c25a933-2d7e-4e32-ae17-b650e92efb9c",
+            "id": "http://data.europa.eu/88u/document/be3a220c-219f-45eb-9f0d-b550debaf622",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -149,9 +149,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2016",
+    "temporal_coverage_to": "2016-01-01",
     "num_tags": null,
-    "views_total": "205",
     "id": "KRhlw5LYU8tRykYUYcmOow",
     "metadata_created": "2015-10-16 13:01:32.027694",
     "modified_date": "2019-01-29",
@@ -168,8 +167,7 @@
     "num_resources": 3,
     "description": "Commercial aircraft fleet by type of aircraft",
     "title": "Commercial aircraft fleet by type of aircraft",
-    "temporal_coverage_from": "2001",
-    "tracking_summary": "205",
+    "temporal_coverage_from": "2001-01-01",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TRAN"

@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:43:59",
+    "metadata_modified": "2019-02-15T08:52:57",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -14,9 +14,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_fini02.sdmx.zip",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_fini02.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a5f2bc81-996a-4fac-bb8f-e2f0e3b19a8b",
+            "id": "http://data.europa.eu/88u/distribution/4e173a57-9295-4736-96e8-ad87e2c8918a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ea5115ea-cf91-4c7a-ab99-a07dc061a217",
+            "id": "http://data.europa.eu/88u/distribution/c427a33e-7c35-4171-9fda-ce15e8eba043",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -56,9 +56,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_fini02.tsv.gz&unzip=true",
+            "description": "Download dataset in SDMX-ML format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_fini02.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d636f905-e83d-4877-816b-7978793c8727",
+            "id": "http://data.europa.eu/88u/distribution/827371e3-acc9-4d78-834a-09c7fa8ff661",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/69582c7d-d9ff-4c0b-abcb-cea759354010",
+            "id": "http://data.europa.eu/88u/document/f6ad63a8-d391-4249-b885-fa4309e89e7e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/4163ecf4-0e8e-4449-b109-ee35d0dd2747",
+            "id": "http://data.europa.eu/88u/document/72cb4a47-7a44-4af3-b192-5e3f9488a4b8",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/79a8b556-9176-4b00-8081-69b410c4aeae",
+            "id": "http://data.europa.eu/88u/document/62d1fd6b-9112-48c3-82b7-3fd4a242ca05",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2015-01-01",
     "num_tags": null,
-    "views_total": "381",
     "id": "K7XDGe2SWIBmLwlgE6aljQ",
     "metadata_created": "2016-05-04 05:57:16.391174",
     "modified_date": "2018-09-24",
@@ -169,7 +168,6 @@
     "description": "Expenditure of the educational institutions on vocational education by education level, programme orientation, type of institution and expenditure category",
     "title": "Expenditure of the educational institutions on vocational education by education level, programme orientation, type of institution and expenditure category",
     "temporal_coverage_from": "2012-01-01",
-    "tracking_summary": "381",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

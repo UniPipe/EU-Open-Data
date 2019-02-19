@@ -4,11 +4,11 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:56:48",
+    "metadata_modified": "2019-02-15T08:34:28",
     "temporal_granularity": "",
     "concepts_eurovoc": [
-        "http://eurovoc.europa.eu/5909",
-        "http://eurovoc.europa.eu/4470"
+        "http://eurovoc.europa.eu/4470",
+        "http://eurovoc.europa.eu/5909"
     ],
     "license_id": null,
     "type": "dataset",
@@ -30,7 +30,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7a23d742-d0ab-4077-97bf-8bf7a480fbff",
+            "id": "http://data.europa.eu/88u/distribution/0ca234f5-5ef0-422b-a7dc-099b40e1a0c0",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -51,7 +51,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/227a5f2a-6a82-4379-9dd4-f8f237cda0aa",
+            "id": "http://data.europa.eu/88u/distribution/5e0e8a26-364b-4ff2-9ef0-ce2c2b9fb288",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -72,7 +72,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/98a6c7e7-dda4-41ce-97b4-1083e2746236",
+            "id": "http://data.europa.eu/88u/distribution/b34a59ad-066a-4d24-8b00-2aa7bf1bd27b",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -93,7 +93,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/7c85e45a-22fa-4281-a73b-0bcec69a01f3",
+            "id": "http://data.europa.eu/88u/document/ec40eb36-895f-4118-97d3-ebae464d12e3",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -114,7 +114,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/d57f435e-783d-4491-af40-f87e23a459e1",
+            "id": "http://data.europa.eu/88u/document/d2796024-5b53-4a72-8120-66c9db838c34",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -135,7 +135,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/928dfadb-5ffd-48de-999c-0e8e56499d45",
+            "id": "http://data.europa.eu/88u/document/966a0f0b-08c6-4ba9-96da-75a491eb4c1c",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -152,9 +152,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2017-01-01",
+    "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "138",
     "id": "8TyEiDu6f2cNgLHtR6MOpg",
     "metadata_created": "2015-10-16 11:54:08.074340",
     "modified_date": "2019-02-05",
@@ -171,17 +170,16 @@
     "num_resources": 3,
     "description": "Expenditure by activity status (from 2012 onwards)",
     "title": "Expenditure by activity status (from 2012 onwards)",
-    "temporal_coverage_from": "2012-01-01",
-    "tracking_summary": "138",
+    "temporal_coverage_from": "2012",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         },
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-11T07:26:50",
+    "metadata_modified": "2019-02-15T08:47:38",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/14e37fe1-1081-4020-8370-fa61939ad2e2",
+            "id": "http://data.europa.eu/88u/distribution/64578b20-1e37-4c13-8e5e-95e3b23e8dba",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/d9f67bda-8c89-49e7-961d-b4f3d0178cf4",
+            "id": "http://data.europa.eu/88u/distribution/d704c2d6-22c5-4fd1-b810-c36e1786e42d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8a067cda-f714-4655-9526-a93d72534d59",
+            "id": "http://data.europa.eu/88u/distribution/0481b29d-ffba-4384-8f61-f33ef694374e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/2b7c51d6-8e40-4d16-9cf4-fcaca9eccb3d",
+            "id": "http://data.europa.eu/88u/distribution/057ce287-be86-421c-819f-9d3aa2a0b700",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/1df4e423-b49e-4c4d-bba0-f261d66daef0",
+            "id": "http://data.europa.eu/88u/distribution/b10b7efd-9f91-4742-ac26-cdc8f061b2eb",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/9ca204e6-7d51-4c4b-b696-bd44c87c062b",
+            "id": "http://data.europa.eu/88u/distribution/d397e79f-e406-4c5f-be01-73152f54312d",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -153,7 +153,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/347abce2-3f98-4a54-81af-2f9a5f00c986",
+            "id": "http://data.europa.eu/88u/document/8e792c39-0d0c-4b9a-bd7f-87f98506bcda",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -172,7 +172,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017",
     "num_tags": null,
-    "views_total": "313",
     "id": "WUyeKUeJftmgOLVXOb44Q",
     "metadata_created": "2015-10-16 12:56:34.679777",
     "modified_date": "2019-02-08",
@@ -190,10 +189,15 @@
     "description": "The employment rate of young persons is calculated by dividing the number of persons in employment and aged 20 to 29 by the total population of the same age group. The indicator is based on the EU Labour Force Survey.",
     "title": "Youth employment rate, age group 20-29",
     "temporal_coverage_from": "2005",
-    "tracking_summary": "313",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+        },
+        {
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

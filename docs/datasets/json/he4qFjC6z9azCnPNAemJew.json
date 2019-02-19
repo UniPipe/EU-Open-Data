@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:16:56",
+    "metadata_modified": "2019-02-15T08:19:10",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -14,9 +14,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in SDMX-ML format",
+            "description": "Download dataset in TSV format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/edat_lfs_9906.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/edat_lfs_9906.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/8ce1bec2-10a2-4267-b809-7b35daa991fd",
+            "id": "http://data.europa.eu/88u/distribution/456f724c-936a-49d3-af6c-0b43f9969cdc",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6429928e-cac8-4c72-812b-b1dafd9305ee",
+            "id": "http://data.europa.eu/88u/distribution/cf3f70cf-ca26-4324-9ca0-8f11f9d1b346",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -56,9 +56,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
+            "description": "Download dataset in SDMX-ML format",
             "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/edat_lfs_9906.tsv.gz",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/edat_lfs_9906.sdmx.zip",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/9a77dfea-7611-4fba-914e-1ca6c69d82e7",
+            "id": "http://data.europa.eu/88u/distribution/0905b18c-cde0-49a2-bf60-b2cddcb603c5",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/165bd090-a12e-4712-8616-6d2d10a4f2a0",
+            "id": "http://data.europa.eu/88u/document/684f9194-89d1-4245-a6a1-edba208da1be",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/85f6e837-8a13-4fd3-816e-a8e69a137e29",
+            "id": "http://data.europa.eu/88u/document/75210b49-8165-4946-8f92-3d1342806aa9",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/13af70f5-4896-4025-a30a-9eee8fee4d2a",
+            "id": "http://data.europa.eu/88u/document/95f73384-ea22-4a4e-ba2e-8471ddeb9e1b",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2017-01-01",
     "num_tags": null,
-    "views_total": "425",
     "id": "he4qFjC6z9azCnPNAemJew",
     "metadata_created": "2015-10-16 12:30:06.510340",
     "modified_date": "2019-01-15",
@@ -169,7 +168,6 @@
     "description": "Employees by educational attainment level, sex, age and employment contract (%)",
     "title": "Employees by educational attainment level, sex, age and employment contract (%)",
     "temporal_coverage_from": "2004-01-01",
-    "tracking_summary": "425",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"

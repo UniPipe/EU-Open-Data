@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T08:04:01",
+    "metadata_modified": "2019-02-15T08:55:37",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/1280"
@@ -29,7 +29,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/ab8577d9-4b8a-461d-b599-f8319f8816f2",
+            "id": "http://data.europa.eu/88u/distribution/784f3696-4e34-4427-9b5c-3177d576a99e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -50,7 +50,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/49ce54e4-9d32-4e1a-a92f-b583e7d3a3ca",
+            "id": "http://data.europa.eu/88u/distribution/7d2bb7e6-fe3d-413a-9611-6bb120fb9ac1",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -71,7 +71,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/7309d0b1-01a4-458c-bfe9-1dd4b17bf751",
+            "id": "http://data.europa.eu/88u/distribution/875964cc-4bc6-4185-a7ab-8d940c220fd2",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -92,7 +92,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/2e1126e2-4477-4dc6-b70a-d9b6e7664487",
+            "id": "http://data.europa.eu/88u/document/87b2e0d3-11fb-439d-bbb0-1118dc7720d1",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -113,7 +113,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/9bd85be1-1ef9-4c86-8975-6e2c437526d6",
+            "id": "http://data.europa.eu/88u/document/d373cba3-068d-4fb9-b979-80da76a8e7d9",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -134,7 +134,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/bed70a4c-9cdc-450a-a5b9-f5bc951218a0",
+            "id": "http://data.europa.eu/88u/document/f16563bb-acfe-4c8b-ac27-bdf85adc5f24",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,9 +151,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2008-01-01",
+    "temporal_coverage_to": "2008",
     "num_tags": null,
-    "views_total": "299",
     "id": "BHFB8W6wi13gA9cFyhcIA",
     "metadata_created": "2015-10-16 10:29:41.650865",
     "modified_date": "2014-03-20",
@@ -170,17 +169,16 @@
     "num_resources": 3,
     "description": "Daily smokers by number of cigarettes by sex, age and educational attainment level (%)",
     "title": "Daily smokers by number of cigarettes by sex, age and educational attainment level (%)",
-    "temporal_coverage_from": "2008-01-01",
-    "tracking_summary": "299",
+    "temporal_coverage_from": "2008",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
         }
     ],
     "relationships_as_subject": [],

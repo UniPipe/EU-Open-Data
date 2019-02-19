@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:59:41",
+    "metadata_modified": "2019-02-15T08:41:26",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/5909",
@@ -13,27 +13,6 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_occ_arm.tsv.gz",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Default_Title",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/34ca4d0c-4f73-4980-b56a-e7828595fd45",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -51,7 +30,28 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/33d9efd2-a2e8-4c81-9ed9-b74351a58e93",
+            "id": "http://data.europa.eu/88u/distribution/6b0b360c-8dcd-4bc8-a41b-a38a8d3c8ba7",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+            "size": ""
+        },
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_occ_arm.tsv.gz",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Default_Title",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/64d4e646-e56b-4657-bdee-0a87c74d6a38",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -72,7 +72,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/82b07aaa-5e36-458a-8bab-c8f8ab4d092d",
+            "id": "http://data.europa.eu/88u/distribution/baa06e69-92ea-46d7-8ccb-e576fa30ffd2",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -93,7 +93,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/4ce440d7-d278-46be-bf43-78bf8d8dfc76",
+            "id": "http://data.europa.eu/88u/document/6afc7e1b-50e2-41af-bcf9-76654cfcd1d7",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -114,7 +114,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/3c503ed5-6142-418a-bce8-a40045b1cecd",
+            "id": "http://data.europa.eu/88u/document/468bf821-443b-4069-b7ba-670c4e89b34f",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -135,7 +135,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/0a009a2e-44bf-45fc-aa51-a17a2fa50a2b",
+            "id": "http://data.europa.eu/88u/document/edfb88ca-1cf3-4646-a9da-828b9f1f96b9",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -154,7 +154,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2018-12-01",
     "num_tags": null,
-    "views_total": "502",
     "id": "OYXYZ0HqTiHs1XJC1cgsw",
     "metadata_created": "2015-10-16 13:44:47.172044",
     "modified_date": "2019-01-24",
@@ -172,7 +171,6 @@
     "description": "Arrivals at tourist accommodation establishments - monthly data",
     "title": "Arrivals at tourist accommodation establishments - monthly data",
     "temporal_coverage_from": "1990-01-01",
-    "tracking_summary": "502",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/EDUC"

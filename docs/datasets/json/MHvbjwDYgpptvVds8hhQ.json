@@ -4,7 +4,7 @@
     "maintainer_email": null,
     "revision_timestamp": null,
     "keywords": "",
-    "metadata_modified": "2019-02-08T07:36:18",
+    "metadata_modified": "2019-02-15T08:29:51",
     "temporal_granularity": "",
     "concepts_eurovoc": [],
     "license_id": null,
@@ -14,9 +14,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format",
-            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rail_go_intunld.tsv.gz",
+            "description": "Download dataset in TSV format (unzipped)",
+            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rail_go_intunld.tsv.gz&unzip=true",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -27,7 +27,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/6cf1e5a7-84c5-4c0f-b72e-eb2b121a3c50",
+            "id": "http://data.europa.eu/88u/distribution/c90ada32-28df-4ec0-a2e5-c5c7ec6d3c41",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -48,7 +48,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/9fae486a-dab0-4c65-93a1-d15aef6529b4",
+            "id": "http://data.europa.eu/88u/distribution/5c737596-f6f3-4917-bcca-a9c127ac116e",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -56,9 +56,9 @@
             "mimetype": null,
             "mimetype_inner": "",
             "hash": "",
-            "description": "Download dataset in TSV format (unzipped)",
-            "format": "http://publications.europa.eu/resource/authority/file-type/TSV",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rail_go_intunld.tsv.gz&unzip=true",
+            "description": "Download dataset in TSV format",
+            "format": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/rail_go_intunld.tsv.gz",
             "created": "",
             "tracking_summary": null,
             "name": "Default_Title",
@@ -69,7 +69,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/fa3fc3a8-95f6-41ae-9718-ba0571543778",
+            "id": "http://data.europa.eu/88u/distribution/4e7a3e45-ec2c-4500-80c0-ef78cfa40763",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -90,7 +90,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/bdecb691-8ae1-4e64-b847-0dfe624f8a0d",
+            "id": "http://data.europa.eu/88u/document/73348f41-f07d-4a3f-ba4c-762e6ac183be",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -111,7 +111,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/80fcdd4f-ccbd-416d-bd27-3804cabf58e8",
+            "id": "http://data.europa.eu/88u/document/3d1225b9-15d2-4095-9950-b30ed9d8bfc8",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -132,7 +132,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/c6229675-b79d-4fce-ad05-b9614a657b3a",
+            "id": "http://data.europa.eu/88u/document/9c3809ae-1c89-4fea-8b71-55f78049f27e",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -151,7 +151,6 @@
     "tag_string": null,
     "temporal_coverage_to": "2002-10-01",
     "num_tags": null,
-    "views_total": "138",
     "id": "MHvbjwDYgpptvVds8hhQ",
     "metadata_created": "2015-10-16 12:28:08.412309",
     "modified_date": "2016-01-20",
@@ -169,7 +168,6 @@
     "description": "International transport of goods from the reporting country to the unloading country (Monthly data) (1982-2002)",
     "title": "International transport of goods from the reporting country to the unloading country (Monthly data) (1982-2002)",
     "temporal_coverage_from": "1982-01-01",
-    "tracking_summary": "138",
     "groups": [
         {
             "title": "http://publications.europa.eu/resource/authority/data-theme/TRAN"

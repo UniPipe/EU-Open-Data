@@ -5,23 +5,23 @@
     "revision_timestamp": null,
     "keywords": [
         {
-            "display_name": "current account",
-            "name": "current account"
+            "display_name": "goods and services",
+            "name": "goods and services"
         },
         {
             "display_name": "balance of payments",
             "name": "balance of payments"
         },
         {
-            "display_name": "goods and services",
-            "name": "goods and services"
+            "display_name": "current account",
+            "name": "current account"
         },
         {
             "display_name": "trade balance",
             "name": "trade balance"
         }
     ],
-    "metadata_modified": "2019-02-12T07:08:59",
+    "metadata_modified": "2019-02-15T08:16:52",
     "temporal_granularity": "",
     "concepts_eurovoc": [
         "http://eurovoc.europa.eu/4671"
@@ -29,6 +29,27 @@
     "license_id": null,
     "type": "dataset",
     "resources": [
+        {
+            "mimetype": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
+            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=teibp051",
+            "created": "",
+            "tracking_summary": null,
+            "name": "Graph",
+            "state": "",
+            "last_modified": "",
+            "download_total_resource": "0",
+            "url_type": null,
+            "position": null,
+            "iframe_code": "",
+            "datastore_active": false,
+            "id": "http://data.europa.eu/88u/distribution/504a90bb-3809-4b03-9c46-064d5dd3fad4",
+            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+            "size": ""
+        },
         {
             "mimetype": null,
             "mimetype_inner": "",
@@ -46,7 +67,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/f9cd4ce5-16d1-420f-8dec-b7cede5c1a1a",
+            "id": "http://data.europa.eu/88u/distribution/3542d519-93d0-4963-a170-0b691c07ca49",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -67,7 +88,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/37740905-6f9d-4588-9030-e3c94d6c0d61",
+            "id": "http://data.europa.eu/88u/distribution/dc909c22-ba6c-41cc-a26c-60a380afee50",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
@@ -88,29 +109,8 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/a4786de7-2d4e-4598-923c-79e0ca5ac9d9",
+            "id": "http://data.europa.eu/88u/distribution/a23fca39-ef46-4152-959f-5dd873264b07",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
-            "size": ""
-        },
-        {
-            "mimetype": null,
-            "mimetype_inner": "",
-            "hash": "",
-            "description": "",
-            "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&language=en&pcode=teibp051",
-            "created": "",
-            "tracking_summary": null,
-            "name": "Graph",
-            "state": "",
-            "last_modified": "",
-            "download_total_resource": "0",
-            "url_type": null,
-            "position": null,
-            "iframe_code": "",
-            "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/78de7697-eeee-4fcb-b8fc-6dac94999162",
-            "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
             "size": ""
         },
         {
@@ -130,7 +130,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/721f4903-6d1c-4fab-848a-9030a07fec4d",
+            "id": "http://data.europa.eu/88u/distribution/9f771b8d-c913-424d-8ae9-d75b3915834a",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -151,7 +151,7 @@
             "position": null,
             "iframe_code": "",
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/distribution/cecdbc13-b145-424d-bff4-76c298c5d0e1",
+            "id": "http://data.europa.eu/88u/distribution/498a82a7-2efe-4821-b0dd-9bfb199ea4a6",
             "resource_type": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
             "size": ""
         },
@@ -161,10 +161,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/ei_bp_esms.sdmx.zip",
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teibp051",
             "created": null,
             "tracking_summary": null,
-            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
+            "name": "More information on Eurostat Website",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -172,7 +172,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/2e022f14-4def-44db-8de7-80d05e11e170",
+            "id": "http://data.europa.eu/88u/document/d5a0c991-ce29-4fec-a0f2-dfef193bb0c3",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         },
@@ -193,7 +193,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/720a9aba-e884-4872-99de-327494ec3eb1",
+            "id": "http://data.europa.eu/88u/document/4886fb5a-8101-4709-8c5c-d7ce0db1a4e9",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
             "size": null
         },
@@ -203,10 +203,10 @@
             "hash": "",
             "description": "",
             "format": "http://publications.europa.eu/resource/authority/file-type/OP_DATPRO",
-            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teibp051",
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/ei_bp_esms.sdmx.zip",
             "created": null,
             "tracking_summary": null,
-            "name": "More information on Eurostat Website",
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX",
             "state": null,
             "last_modified": null,
             "download_total_resource": null,
@@ -214,7 +214,7 @@
             "position": null,
             "iframe_code": null,
             "datastore_active": false,
-            "id": "http://data.europa.eu/88u/document/ef427696-2963-43f8-8ac1-cb214b7153c7",
+            "id": "http://data.europa.eu/88u/document/e44622ea-6a7d-4d2d-acaf-d6f118f7da17",
             "resource_type": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
             "size": null
         }
@@ -231,9 +231,8 @@
     "extras": [],
     "relationships_as_object": [],
     "tag_string": null,
-    "temporal_coverage_to": "2018",
+    "temporal_coverage_to": "2018-01-01",
     "num_tags": null,
-    "views_total": "667",
     "id": "pcHdOf9A9HyBf0hPfYouQ",
     "metadata_created": "2015-10-16 12:31:00.644332",
     "modified_date": "2019-02-11",
@@ -250,14 +249,13 @@
     "num_resources": 6,
     "description": "The Balance of Payments is the statistical statement that systematically summarises transactions between residents and non-residents. It consists of the goods and services account, the primary income account, the secondary income account, the capital account and the financial account (BPM6 \u2013 2.12) The current account is an important grouping of accounts within the Balance of Payments. The current account balance shows the difference between the sum of exports and income receivable and the sum of imports and income payable (exports and imports refer to both goods and services, while income refers to both primary and secondary income). The value of current account balance equals the saving-investment gap for the economy. The balance of current account is thus related to understanding domestic transactions (BPM6 \u2013 2.15). Data are expressed in million euros. Data are presented in raw form. Source of euro area data: European Central Bank (ECB).",
     "title": "Balance of payments, current account, quarterly data - % of GDP",
-    "temporal_coverage_from": "2015",
-    "tracking_summary": "667",
+    "temporal_coverage_from": "2015-01-01",
     "groups": [
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
         },
         {
-            "title": "http://publications.europa.eu/resource/authority/data-theme/REGI"
+            "title": "http://publications.europa.eu/resource/authority/data-theme/ECON"
         }
     ],
     "relationships_as_subject": [],
