@@ -9,10 +9,10 @@ The data provided on this repository is
 
 Available Datasets
 
-| Title | JSON |
-| --- | --- |
+| Period | Title | JSON |
+| --- | --- | --- |
 {% for item in items %}
-| {{ item.title }} | [JSON](datasets/json/{{item.id}}.json) |
+| {{ item.accrual_periodicity }} | {{ item.title }} | [JSON](datasets/json/{{item.id}}.json) |
 {% endfor %}
 
 This file was automatically generated using [pipelines/update-readme-index.yaml](pipelines/build-datasets-index.yaml) .
