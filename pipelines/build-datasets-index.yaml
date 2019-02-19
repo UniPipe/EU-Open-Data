@@ -27,9 +27,11 @@ start:
             accrual_periodicity: $accrual_periodicity.split('/')[-1].upper()$
     - test:
         on_condition: $accrual_periodicity not in ['', 'OTHER', 'NEVER'] and '+' not in accrual_periodicity$
-        send_to: handle_periodic_data
+        send_to: handle_periodic_dataasets
 
-handle_periodic_data:
+    # To Do: Handle historical datasets
+
+handle_periodic_dataasets:
     - update:
         map:
             accrual_periodicity:
