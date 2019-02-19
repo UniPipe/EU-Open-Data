@@ -50,7 +50,7 @@ handle_periodic_data:
                     BI-ANNUAL: 7,
             }
     - sort:
-        key: $periodic_score$
+        key: $periodic_score$ $title$
     - print: $accrual_periodicity$ $title$
 
     - transform using jinja:
