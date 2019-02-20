@@ -20,37 +20,34 @@ start:
     - collect from glob: docs/datasets/json/*.json
     - insert: $_$       # Expand list items
     - collect from file:
-    #- delete: $ len(_) == 0 $    # Skip empty datasets
     - parse text json:
     - update:
         set:
             accrual_periodicity: $accrual_periodicity.split('/')[-1].upper()$
     - test:
-        on_condition: $accrual_periodicity not in ['', 'OTHER', 'NEVER'] and '+' not in accrual_periodicity$
-        send_to: handle_periodic_dataasets
+        on condition: $accrual_periodicity not in ['', 'OTHER', 'NEVER'] and '+' not in accrual_periodicity$
+        send to: handle_periodic_dataasets
 
     # To Do: Handle historical datasets
 
 handle_periodic_dataasets:
-    - update:
-        map:
+    - map:
+        accrual_periodicity:
             accrual_periodicity:
-                accrual_periodicity:
-                    QUARTELY: QUARTERLY
-                    ANNUAL: ANNUALLY
-                    YEARLY: ANNUALLY
-    - update:
-        map:
-            periodic_score:
-                accrual_periodicity: {
-                    DAILY: 1,
-                    WEEKLY: 2,
-                    MONTHLY: 3,
-                    QUARTERLY: 4,
-                    HALF-YEARLY: 5,
-                    ANNUALLY: 6,
-                    BI-ANNUAL: 7,
-            }
+                QUARTELY: QUARTERLY
+                ANNUAL: ANNUALLY
+                YEARLY: ANNUALLY
+    - map:
+        periodic_score:
+            accrual_periodicity: {
+                DAILY: 1,
+                WEEKLY: 2,
+                MONTHLY: 3,
+                QUARTERLY: 4,
+                HALF-YEARLY: 5,
+                ANNUALLY: 6,
+                BI-ANNUAL: 7,
+        }
     - sort:
         key: $periodic_score$ $title$
     - print: $accrual_periodicity$ $title$
