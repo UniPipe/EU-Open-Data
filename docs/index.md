@@ -9,7 +9,7 @@ The data provided on this repository is
 
 Available Datasets
 
-| Period | Title | JSON |
+| Periodicity | Title | JSON |
 | --- | --- | --- |
 | DAILY | DORIE - European institutional matters - documentation and search | [JSON](datasets/json/sg-dorie.json) |
 | DAILY | EU Preparatory acts | [JSON](datasets/json/eu-preparatory-acts.json) |
